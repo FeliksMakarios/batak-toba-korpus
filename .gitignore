@@ -1,0 +1,27 @@
+# macOS
+.DS_Store
+.AppleDouble
+.LSOverride
+
+# Python
+__pycache__/
+*.py[cod]
+*.egg-info/
+.ipynb_checkpoints/
+
+# Lingkungan virtual
+.venv/
+venv/
+env/
+
+# Editor
+.vscode/
+.idea/
+*.swp
+
+# Berkas sementara
+*.tmp
+*.log
+
+# Catatan: berkas .csv pada data/ dan .ipynb pada notebooks/ sengaja TIDAK
+# diabaikan agar tetap ikut ter-commit ke repositori.

@@ -1,0 +1,27 @@
+cff-version: 1.2.0
+title: "Korpus Bahasa Batak Toba (Batak Toba Language Corpus)"
+message: "If you use this corpus, please cite it as below."
+type: dataset
+authors:
+  - given-names: "Feliks Victor Parningotan"
+    family-names: "Samosir"
+    affiliation: "Universitas Pelita Harapan"
+abstract: >-
+  An initial Batak Toba (bbc) and Indonesian (ind) text corpus produced under
+  the Beginning Lecturer Research Scheme (PDP) at Universitas Pelita Harapan.
+  The corpus contains a manually curated multi-genre sub-corpus and a parallel
+  Batak Toba Bible sub-corpus, spanning historical/traditional, literary,
+  religious, educational, and contemporary media genres. The Batak Toba side
+  exceeds 112,000 tokens across five genres.
+keywords:
+  - "Batak Toba"
+  - "low-resource languages"
+  - "natural language processing"
+  - "text corpus"
+  - "parallel corpus"
+  - "Indonesian regional languages"
+license: "CC-BY-4.0"
+repository-code: "https://github.com/FeliksMakarios/batak-toba-korpus"
+version: "1.0.0"
+# Sesuaikan tanggal di bawah dengan tanggal rilis sebenarnya bila perlu.
+date-released: "2025-12-01"
