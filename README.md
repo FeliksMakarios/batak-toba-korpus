@@ -99,10 +99,9 @@ pasangan_paralel = multigenre[multigenre["is_parallel"] == "yes"]
 
 Versi awal ini memiliki beberapa keterbatasan yang disengaja dicatat secara terbuka:
 
-1. Belum ada data lisan dari rekaman baru. Penambahan rekaman wawancara, cerita rakyat lisan, dan khotbah direncanakan pada tahap berikutnya.
-2. Domain keagamaan masih dominan. Penambahan teks non-religius akan dilakukan untuk menyeimbangkan domain.
-3. Sub-korpus Alkitab pada versi ini baru memuat satu pasal per kitab. Versi pasal penuh disiapkan sebagai pembaruan mendatang.
-4. Korpus belum dilengkapi anotasi linguistik lanjutan (tokenisasi baku, POS tagging, morfologi, dependency parsing). Pengayaan anotasi direncanakan untuk menjadikannya sumber daya gold-standard.
+1. Domain keagamaan masih dominan. Penambahan teks non-religius akan dilakukan untuk menyeimbangkan domain.
+2. Sub-korpus Alkitab pada versi ini baru memuat satu pasal per kitab. Versi pasal penuh disiapkan sebagai pembaruan mendatang.
+3. Korpus belum dilengkapi anotasi linguistik lanjutan (tokenisasi baku, POS tagging, morfologi, dependency parsing). Pengayaan anotasi direncanakan untuk menjadikannya sumber daya gold-standard. Penelitian berikutnya akan berfokus pada pedoman anotasi awal dengan Universal Dependencies versi 2.
 
 ### Lisensi
 
@@ -122,7 +121,7 @@ Teks Alkitab bersumber dari repositori `erwindosianipar/beeble` (terjemahan tahu
 
 ### Kontak
 
-Feliks Victor Parningotan Samosir, Program Studi Informatika, Fakultas Ilmu Komputer, Universitas Pelita Harapan.
+Feliks Victor Parningotan Samosir, Program Studi Informatika, Fakultas AI and Data Science, Universitas Pelita Harapan.
 
 ---
 
@@ -217,10 +216,9 @@ parallel_pairs = multigenre[multigenre["is_parallel"] == "yes"]
 
 This initial version has several limitations that are recorded openly:
 
-1. No spoken data from new recordings yet. Adding recorded interviews, oral folktales, and sermons is planned for the next stage.
-2. The religious domain is still dominant. Non-religious texts will be added to balance the domains.
-3. The Bible sub-corpus in this version contains only one chapter per book. A full-chapter version is being prepared as a future update.
-4. The corpus is not yet enriched with advanced linguistic annotation (standardised tokenisation, POS tagging, morphology, dependency parsing). Annotation enrichment is planned to develop it into a gold-standard resource.
+1. The religious domain is still dominant. Non-religious texts will be added to balance the domains.
+2. The Bible sub-corpus in this version contains only one chapter per book. A full-chapter version is being prepared as a future update.
+3. The corpus is not yet enriched with advanced linguistic annotation (standardised tokenisation, POS tagging, morphology, dependency parsing). Annotation enrichment is planned to develop it into a gold-standard resource. The next research will focus on the initial annotation guidelines with Universal Dependencies version 2.
 
 ### License
 
@@ -240,4 +238,4 @@ The Bible text is sourced from the `erwindosianipar/beeble` repository (1894 tra
 
 ### Contact
 
-Feliks Victor Parningotan Samosir, Informatics Study Program, Faculty of Computer Science, Universitas Pelita Harapan.
+Feliks Victor Parningotan Samosir, Informatics Study Program, Faculty of AI and Data Science, Universitas Pelita Harapan.
