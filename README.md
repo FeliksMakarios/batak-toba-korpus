@@ -92,7 +92,6 @@ pasangan_paralel = multigenre[multigenre["is_parallel"] == "yes"]
 | Cakupan sumber tradisional | Tercapai |
 | Cakupan sumber modern tertulis | Tercapai |
 | Cakupan sumber religius | Tercapai |
-| Cakupan sumber lisan | Belum tercapai, menjadi rencana lanjutan |
 | Laporan teknis | Tercapai ([docs/laporan-teknis.md](docs/laporan-teknis.md)) |
 
 ### Keterbatasan dan rencana lanjutan
@@ -209,7 +208,6 @@ parallel_pairs = multigenre[multigenre["is_parallel"] == "yes"]
 | Coverage of traditional sources | Achieved |
 | Coverage of modern written sources | Achieved |
 | Coverage of religious sources | Achieved |
-| Coverage of spoken sources | Not yet achieved, planned as follow-up |
 | Technical report | Achieved ([docs/laporan-teknis.md](docs/laporan-teknis.md)) |
 
 ### Limitations and future work
