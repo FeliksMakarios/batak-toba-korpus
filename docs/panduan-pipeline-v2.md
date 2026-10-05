@@ -44,7 +44,7 @@ Folder `keluaran/`, `review_terisi/`, dan `rilis/` dibuat otomatis saat notebook
 1. Buka notebook di Colab lewat **File > Open notebook > GitHub**, lalu pilih repositori ini dan branch yang memuat notebook.
 2. Pilih **Runtime > Change runtime type > T4 GPU**.
 3. Jalankan **Runtime > Run all**. Izinkan Colab mengakses Google Drive saat diminta.
-4. Bagikan `keluaran/s08_review_anotator_A.xlsx` dan `keluaran/s08_review_anotator_B.xlsx` kepada dua anotator. Mereka bekerja terpisah dan tidak saling melihat.
+4. Bagikan `keluaran/s08_review_anotator_A.xlsx` dan `keluaran/s08_review_anotator_B.xlsx` kepada dua anotator. Mereka bekerja terpisah dan tidak saling melihat. Sertakan bagian 1 sampai 9 dari [panduan review anotator](panduan-review-anotator.md), tanpa lampiran peneliti.
 5. Simpan kedua lembar yang sudah diisi ke `review_terisi/` dengan nama `review_anotator_A.xlsx` dan `review_anotator_B.xlsx`.
 6. Jalankan **Run all** sekali lagi. Tahap 1 sampai 8 diambil dari checkpoint, dan Tahap 9 menghitung IAA.
 

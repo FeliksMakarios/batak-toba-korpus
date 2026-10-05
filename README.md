@@ -86,6 +86,7 @@ batak-toba-korpus/
 └── docs/
     ├── laporan-teknis.md  Laporan teknis (luaran penelitian)
     ├── panduan-pipeline-v2.md  Panduan pemakaian notebook pipeline
+    ├── panduan-review-anotator.md  Panduan pengisian lembar review
     ├── pengumpulan-data.md  Metode pengumpulan dan kurasi data
     └── pernyataan-data.md   Pernyataan asal, lisensi, dan etika data
 ```
@@ -226,6 +227,7 @@ batak-toba-korpus/
 └── docs/
     ├── laporan-teknis.md  Technical report (research deliverable)
     ├── panduan-pipeline-v2.md  Usage guide for the pipeline notebook
+    ├── panduan-review-anotator.md  Guide for filling in the review sheets
     ├── pengumpulan-data.md  Data collection and curation method
     └── pernyataan-data.md   Data provenance, license, and ethics statement
 ```
