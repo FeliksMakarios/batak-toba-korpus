@@ -57,7 +57,8 @@ batak-toba-korpus/
 ├── CITATION.cff           Informasi sitasi
 ├── .gitignore
 ├── data/                  Berkas korpus (CSV)
-│   └── README.md
+│   ├── README.md
+│   └── experimental/      Korpus paralel tingkat kalimat (pending IAA)
 ├── notebooks/             Notebook pipeline (Google Colab)
 │   └── README.md
 ├── metadata/
@@ -101,6 +102,7 @@ Versi awal ini memiliki beberapa keterbatasan yang disengaja dicatat secara terb
 1. Domain keagamaan masih dominan. Penambahan teks non-religius akan dilakukan untuk menyeimbangkan domain.
 2. Sub-korpus Alkitab pada versi ini baru memuat satu pasal per kitab. Versi pasal penuh disiapkan sebagai pembaruan mendatang.
 3. Korpus belum dilengkapi anotasi linguistik lanjutan (tokenisasi baku, POS tagging, morfologi, dependency parsing). Pengayaan anotasi direncanakan untuk menjadikannya sumber daya gold-standard. Penelitian berikutnya akan berfokus pada pedoman anotasi awal dengan Universal Dependencies versi 2.
+4. Korpus paralel tingkat kalimat pada [data/experimental/](data/experimental/) masih berstatus eksperimental. Inter-annotator agreement belum dilakukan, sehingga data tersebut belum dapat dianggap gold-standard dan tidak termasuk luaran resmi tahap ini.
 
 ### Lisensi
 
@@ -173,7 +175,8 @@ batak-toba-korpus/
 ├── CITATION.cff           Citation metadata
 ├── .gitignore
 ├── data/                  Corpus files (CSV)
-│   └── README.md
+│   ├── README.md
+│   └── experimental/      Sentence-level parallel corpus (pending IAA)
 ├── notebooks/             Pipeline notebooks (Google Colab)
 │   └── README.md
 ├── metadata/
@@ -217,6 +220,7 @@ This initial version has several limitations that are recorded openly:
 1. The religious domain is still dominant. Non-religious texts will be added to balance the domains.
 2. The Bible sub-corpus in this version contains only one chapter per book. A full-chapter version is being prepared as a future update.
 3. The corpus is not yet enriched with advanced linguistic annotation (standardised tokenisation, POS tagging, morphology, dependency parsing). Annotation enrichment is planned to develop it into a gold-standard resource. The next research will focus on the initial annotation guidelines with Universal Dependencies version 2.
+4. The sentence-level parallel corpus in [data/experimental/](data/experimental/) is still experimental. Inter-annotator agreement has not been measured, so it cannot be treated as gold-standard and is not part of the official deliverable of this phase.
 
 ### License
 

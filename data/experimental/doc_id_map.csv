@@ -1,0 +1,100 @@
+doc_id,title,genre,subgenre,n_pairs,n_needs_review
+doc_0000,Raja Martua Doli Dohot Anakna,Historical/ Traditional,Folktales,98,25
+doc_0001,Haroroan Mula Jadi Ni Tao Toba,Historical/ Traditional,Folktales,9,0
+doc_0002,INONGKU NA BURJU,Literary,Poems,18,2
+doc_0003,Bila Kutitipkan,Literary,Poems,14,0
+doc_0004,UMPAMA 1,Literary,Peribahasa/Umpama,1,0
+doc_0005,UMPAMA 2,Literary,Peribahasa/Umpama,1,0
+doc_0006,UMPAMA 3,Literary,Peribahasa/Umpama,1,0
+doc_0007,UMPAMA 4,Literary,Peribahasa/Umpama,1,0
+doc_0008,UMPAMA 5,Literary,Peribahasa/Umpama,1,0
+doc_0009,UMPAMA 6,Literary,Peribahasa/Umpama,0,0
+doc_0010,UMPAMA 7,Literary,Peribahasa/Umpama,1,0
+doc_0011,UMPAMA 8,Literary,Peribahasa/Umpama,1,0
+doc_0012,UMPAMA 9,Literary,Peribahasa/Umpama,1,1
+doc_0013,UMPAMA 10,Literary,Peribahasa/Umpama,1,0
+doc_0014,UMPAMA 11,Literary,Peribahasa/Umpama,1,0
+doc_0015,UMPAMA 12,Literary,Peribahasa/Umpama,1,0
+doc_0016,UMPAMA 13,Literary,Peribahasa/Umpama,1,0
+doc_0017,UMPAMA 14,Literary,Peribahasa/Umpama,1,0
+doc_0018,UMPAMA 15,Literary,Peribahasa/Umpama,1,0
+doc_0019,UMPAMA 16,Literary,Peribahasa/Umpama,1,0
+doc_0020,UMPAMA 17,Literary,Peribahasa/Umpama,1,0
+doc_0021,UMPAMA 18,Literary,Peribahasa/Umpama,1,0
+doc_0022,UMPAMA 19,Literary,Peribahasa/Umpama,1,0
+doc_0023,UMPAMA 20,Literary,Peribahasa/Umpama,1,0
+doc_0024,UMPAMA 21,Literary,Peribahasa/Umpama,1,0
+doc_0025,UMPAMA 22,Literary,Peribahasa/Umpama,1,0
+doc_0026,UMPAMA 23,Literary,Peribahasa/Umpama,1,0
+doc_0027,UMPAMA 24,Literary,Peribahasa/Umpama,1,0
+doc_0028,UMPAMA 25,Literary,Peribahasa/Umpama,1,0
+doc_0029,UMPAMA 26,Literary,Peribahasa/Umpama,1,0
+doc_0030,UMPAMA 27,Literary,Peribahasa/Umpama,1,0
+doc_0031,UMPAMA 28,Literary,Peribahasa/Umpama,1,0
+doc_0032,UMPAMA 29,Literary,Peribahasa/Umpama,1,0
+doc_0033,UMPAMA 30,Literary,Peribahasa/Umpama,1,0
+doc_0034,UMPAMA 31,Literary,Peribahasa/Umpama,1,0
+doc_0035,UMPAMA 32,Literary,Peribahasa/Umpama,1,0
+doc_0036,UMPAMA 33,Literary,Peribahasa/Umpama,1,0
+doc_0037,UMPAMA 34,Literary,Peribahasa/Umpama,1,0
+doc_0038,UMPAMA 35,Literary,Peribahasa/Umpama,1,0
+doc_0039,UMPAMA 36,Literary,Peribahasa/Umpama,1,0
+doc_0040,UMPAMA 37,Literary,Peribahasa/Umpama,1,0
+doc_0041,UMPAMA 38,Literary,Peribahasa/Umpama,1,0
+doc_0042,UMPAMA 39,Literary,Peribahasa/Umpama,1,0
+doc_0043,UMPAMA 40,Literary,Peribahasa/Umpama,1,0
+doc_0044,UMPAMA 41,Literary,Peribahasa/Umpama,1,0
+doc_0045,UMPAMA 42,Literary,Peribahasa/Umpama,1,0
+doc_0046,UMPAMA 43,Literary,Peribahasa/Umpama,1,0
+doc_0047,UMPAMA 44,Literary,Peribahasa/Umpama,1,0
+doc_0048,UMPAMA 45,Literary,Peribahasa/Umpama,1,0
+doc_0049,UMPAMA 46,Literary,Peribahasa/Umpama,1,0
+doc_0050,Doa pagi hari atau bangun tidur bahasa Batak,Religious,Prayers,5,0
+doc_0051,Doa malam hari atau mau tidur bahasa Batak,Religious,Prayers,4,0
+doc_0052,Doa makan Kristen dalam bahasa Batak,Religious,Prayers,5,0
+doc_0053,NATUTU TU NALILU,Literary,Poems,25,17
+doc_0054,PODA NI PARSINUAN,Literary,Poems,7,3
+doc_0055,TARPAIMA,Literary,Poems,8,6
+doc_0056,BEGEMA I INONG,Literary,Poems,14,1
+doc_0057,Boru Panggoaran,Literary,Poems,15,0
+doc_0058,Ringkasan Buku Kosmos-Carl Sagan,Educational,Book Summary,43,0
+doc_0059,Ringkasan Buku Sapiens-Yuval Noah Herari (versi bahasa Indonesia),Educational,Book Summary,32,0
+doc_0060,Ringkasan — Psychology of Money,Educational,Book Summary,64,1
+doc_0061,Review Buku “Kota Cerdas Berkelanjutan”Kota Cerdas Berkelanjutan,Educational,Quotes,29,0
+doc_0062,Review Buku “Jangan Membuat Masalah Kecil Jadi Masalah Besar”,Contemporary Media,Wiki,16,1
+doc_0063,Review Buku “Ikigai: The Japanese Secret to a Long and Happy Life”,Educational,Book Summary,18,1
+doc_0064,Review Buku “The Things You Can See Only When You Slow Down”,Educational,Book Summary,20,1
+doc_0065,Sinopsis Novel Sang Alkemis,Educational,Book Summary,26,0
+doc_0066,Analisis Literasi Artifical Intelligence Mahasiswa Pada Perguruan Tinggi,Educational,News Article,7,1
+doc_0067,Implementasi Teknologi Artificial Intelligence (AI) dalam Bidang Pendidikan.,Educational,News Article,8,0
+doc_0068,Metafora cinta dalam bahasa Batak Toba,Educational,News Article,13,0
+doc_0069,ANALISIS PENERJEMAHAN SEJARAH DAN BUDAYA DALAM BUKU PELAJARAN BAHASA DAN SASTRA BATAK TOBA,Educational,News Article,12,0
+doc_0070,"Peran Usaha Mikro, Kecil Dan Menengah (UMKM) Dalam Pengembangan Ekonomi Indonesia",Educational,News Article,5,0
+doc_0071,Dampak Ekonomi Digital Terhadap Pertumbuhan Ekonomi di Indonesia,Educational,News Article,9,0
+doc_0072,SIKAP ETIS UMAT KRISTEN DI TENGAH GLOBALISASI EKONOMI DAN PROBLEM KEMISKINAN,Educational,News Article,7,0
+doc_0073,Pendidik sebagai Pembimbing Rohani dalam Menginspirasi Siswa Menerapkan Prinsip Kekristenan,Educational,News Article,9,0
+doc_0074,Kajian Doa Menurut Alkitab dan Relevansinya Dalam Kehidupan Kekristenan,Educational,News Article,6,0
+doc_0075,Huria Kristen Batak Protestan,Contemporary Media,Wiki,48,5
+doc_0076,Ugamo Malim,Contemporary Media,Wiki,74,4
+doc_0077,Suku Batak Toba - Part 1,Contemporary Media,Wiki,49,2
+doc_0078,Suku Batak Toba - Part 2,Contemporary Media,Wiki,73,0
+doc_0079,Suku Batak Toba - Part 3,Contemporary Media,Wiki,13,0
+doc_0080,Suku Batak Toba - Part 4,Contemporary Media,Wiki,80,2
+doc_0081,Bahasa Batak Toba,Contemporary Media,Wiki,23,0
+doc_0082,"4 Kesenian Suku Batak, Penjelasan, dan Contohnya",Contemporary Media,News Article,45,0
+doc_0083,"Pariban: Idola dari Tanah Jawa, Film Komedi Batak yang Tayang 9 Mei",Contemporary Media,News Article,14,0
+doc_0084,Mengenal Rumah Adat Bolon Sumatera Utara: Konstruksi & Fungsinya,Contemporary Media,News Article,51,0
+doc_0085,Jusuf Kalla Sebut Keragaman adalah Kekuatan NKRI,Contemporary Media,News Article,13,0
+doc_0086,Bandara Silangit Diharap Munculkan Ledakan Pariwisata di Danau Toba,Contemporary Media,News Article,12,0
+doc_0087,Jokowi Resmikan Bandara Internasional Silangit Pakai Bahasa Batak,Contemporary Media,News Article,15,1
+doc_0088,Ketika Panggilan Andaliman Tak Kuasa Ditolak,Contemporary Media,News Article,34,0
+doc_0089,Grup Musik Toba World Hibur Penonton di Eropa,Contemporary Media,News Article,17,0
+doc_0090,Masyarakat Batak di Papua Mengecam Ujaran Rasisme Ambroncius,Contemporary Media,News Article,10,0
+doc_0091,Lulusan Ilmu Komputer Yang Tidak Bisa Memrogram,Contemporary Media,Blog Articles,40,0
+doc_0092,Lulusan S1 Ilmu Komputer kalah sama D3?,Contemporary Media,Blog Articles,61,11
+doc_0093,Opsi Pekerjaan untuk Lulusan Ilmu Komputer,Contemporary Media,Blog Articles,41,3
+doc_0094,"Tulisan Tentang Dua Budaya, Dua Bahasa Cinta",Contemporary Media,Blog Articles,44,0
+doc_0095,"Aku  Perempuan, Aku Penari, dan Aku Anak ITB",Contemporary Media,Blog Articles,51,0
+doc_0096,Krisis Identitas di Perantauan,Contemporary Media,Blog Articles,54,0
+doc_0097,"Seni, Batas, dan Interpretasi",Contemporary Media,Blog Articles,52,1
+doc_0098,Agenda Ibadah HKBP,Religious,Ritual Text,0,0
