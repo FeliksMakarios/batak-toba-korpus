@@ -31,6 +31,8 @@ Korpus ini diturunkan dari sub-korpus multi-genre. Nilai `doc_id` mengikuti urut
 
 Dua dokumen tidak tercakup: `doc_0009` (UMPAMA 6) dan `doc_0098` (Agenda Ibadah HKBP). Sub-korpus Alkitab tidak termasuk di sini.
 
+**Catatan versi:** korpus v1 ini dibuat sebelum label genre dikoreksi. Kolom `genre` dan `sub_genre` di sini masih memuat 11 label lama yang keliru (misalnya abstrak jurnal berlabel `News Article`), dan `doc_id`-nya berbeda dari `doc_id` di `../btb_multigenre.csv` versi 2. Versi v2 dengan label terkoreksi, `doc_id` yang sama dengan berkas multi-genre, serta korpus liturgi Agenda HKBP akan dihasilkan oleh [`../../notebooks/pipeline_korpus_multigenre_v2.ipynb`](../../notebooks/pipeline_korpus_multigenre_v2.ipynb) setelah dijalankan di Colab dengan model LaBSE.
+
 ## Aturan pemakaian
 
 1. Jangan memakai baris `needs_review` untuk melatih atau menguji model.

@@ -37,6 +37,11 @@ Praproses dilakukan dengan Python dan pustaka seperti Pandas dan Regex, meliputi
 3. Deteksi dan penghapusan duplikasi eksak agar korpus tidak bias terhadap teks tertentu.
 4. Analisis eksploratif berupa statistik deskriptif, distribusi genre dan sub-genre, serta pemeriksaan variasi leksikal.
 
+Untuk sub-korpus multi-genre, seluruh tahap praproses kemudian disatukan dalam satu notebook pipeline ([`notebooks/pipeline_korpus_multigenre_v2.ipynb`](../notebooks/pipeline_korpus_multigenre_v2.ipynb)) yang berangkat dari berkas gabungan kedua anotator (`Combined Annotator.xlsx`). Setiap koreksi dicatat di log. Pemeriksaan ulang terhadap berkas tersebut menemukan dua masalah yang kemudian diperbaiki:
+
+1. Dua belas label genre atau sub-genre milik anotator kedua tidak sesuai dengan daftar sumber pada panduan anotator. Tiga ulasan buku berlabel Quotes, Wiki, dan Ritual Text, sedangkan sembilan abstrak artikel jurnal berlabel News Article. Semuanya diperbaiki menjadi Educational/Book Summary dan Educational/Abstract.
+2. Enam baris pertama milik setiap anotator masih berisi metadata contoh dari templat Google Sheet (nama penulis, catatan, dan tanggal contoh). Metadata contoh tersebut dikosongkan, dan dua tautan sumber yang hilang dipulihkan.
+
 ### 3.5 Penyimpanan dan dokumentasi
 
 Seluruh data disimpan dalam struktur berkas yang terorganisir berdasarkan genre dan format. Data dapat diekspor ke format CSV dan plaintext. Skema kolom, definisi genre, dan prosedur praproses didokumentasikan agar korpus dapat digunakan dan dikembangkan kembali.
@@ -49,15 +54,26 @@ Pada proposal, direncanakan penggunaan web crawling dan scraping berskala besar 
 
 Penelitian menghasilkan dua sub-korpus: korpus multi-genre (`btb_multigenre`) dan korpus Alkitab paralel Batak Toba dan Bahasa Indonesia (`btb_bible`).
 
+Jumlah token dilaporkan dengan tiga metode: kata (tanda baca tidak dihitung), token berbasis spasi (tanda baca menempel pada kata), dan token NLTK (teks dijadikan huruf kecil lalu dipecah dengan `word_tokenize`, sehingga tanda baca dihitung sebagai token tersendiri).
+
 | Sub-korpus | Satuan | Batak Toba | Bahasa Indonesia |
 |---|---|---|---|
-| `btb_multigenre` | kalimat | 3.498 | 3.539 |
-| `btb_multigenre` | token (perkiraan) | 67.680 | 60.866 |
-| `btb_bible` | dokumen paralel | 520 | 520 |
-| `btb_bible` | token (perkiraan) | 44.660 | 39.687 |
-| Total | token (perkiraan) | 112.340 | 100.553 |
+| `btb_multigenre` | dokumen | 104 | 104 |
+| `btb_multigenre` | kalimat atau baris | 4.429 | 4.447 |
+| `btb_multigenre` | kata | 59.443 | 53.166 |
+| `btb_multigenre` | token NLTK | 67.680 | 60.866 |
+| `btb_bible` | pasal (ayat) | 66 (1.594) | 66 (1.594) |
+| `btb_bible` | kata | 38.509 | 34.320 |
+| `btb_bible` | token NLTK | 44.785 | 39.687 |
+| Total | kata | 97.952 | 87.486 |
+| Total | token berbasis spasi | 98.235 | 85.990 |
+| Total | token NLTK | 112.465 | 100.553 |
 
-Sisi Batak Toba korpus mencapai lebih dari 112.000 token, melampaui target minimal 100.000 token. Rata-rata panjang kalimat berada pada kisaran 17 sampai 24 token, dengan rasio panjang Batak Toba dan Indonesia mendekati 1:1, sehingga korpus layak diperlakukan sebagai data paralel yang seimbang.
+Bila tanda baca dihitung sebagai token, sisi Batak Toba mencapai 112.465 token dan melampaui target minimal 100.000 token. Bila hanya kata yang dihitung, sisi Batak Toba berjumlah 97.952 kata, sekitar 2% di bawah target. Rasio jumlah kata Batak Toba terhadap Indonesia sekitar 1,12.
+
+Angka pada versi awal laporan ini (3.498 kalimat, 520 dokumen paralel Alkitab, dan 112.340 token) dihitung dengan notebook EDA lama. Angka 520 dokumen berasal dari pengelompokan yang keliru, karena jumlah sebenarnya adalah 66 pasal (1.594 ayat). Jumlah kalimat kini dihitung dengan segmentasi pipeline v2 yang juga memecah per baris untuk puisi dan liturgi.
+
+Teks religius (Agenda HKBP, doa, dan Alkitab) mencakup sekitar 75% kata Batak Toba. Agenda HKBP saja mencakup 59% sub-korpus multi-genre.
 
 Analisis eksploratif menunjukkan bahwa fungsi gramatikal Batak Toba (misalnya na, ni, do, di, jala, tu) dan leksikon religius muncul sangat sering pada kedua sub-korpus. Hal ini menandakan dominasi domain keagamaan, namun tetap menyisakan ruang variasi leksikal dari genre lain. Pipeline pembersihan dan analisis yang terdokumentasi di Google Colab dirancang agar dapat direplikasi.
 
@@ -67,7 +83,7 @@ Luaran yang dijanjikan pada proposal adalah korpus mentah Batak Toba minimal 100
 
 | Luaran | Status | Keterangan |
 |---|---|---|
-| Korpus minimal 100.000 token | Tercapai | 112.340 token pada sisi Batak Toba |
+| Korpus minimal 100.000 token | Tercapai dengan catatan | 112.465 token NLTK (tanda baca dihitung) pada sisi Batak Toba; 97.952 kata bila tanda baca tidak dihitung |
 | Sumber tradisional | Tercapai | cerita rakyat, umpasa/umpama, teks historis budaya |
 | Sumber modern tertulis | Tercapai | puisi kontemporer, artikel berita dan blog, materi pendidikan |
 | Sumber religius | Tercapai | Alkitab Batak Toba, doa, dan teks ibadah pendek |
@@ -77,9 +93,10 @@ Luaran yang dijanjikan pada proposal adalah korpus mentah Batak Toba minimal 100
 ## 6. Keterbatasan
 
 1. Belum tersedia data lisan dari rekaman baru.
-2. Domain keagamaan masih relatif dominan.
-3. Sub-korpus Alkitab pada versi ini baru memuat satu pasal per kitab. Versi pasal penuh disiapkan sebagai pembaruan mendatang.
+2. Domain keagamaan sangat dominan, sekitar 75% kata Batak Toba.
+3. Sub-korpus Alkitab pada versi ini baru memuat satu pasal per kitab. Sisi Indonesianya memakai Terjemahan Baru (1974), sehingga izin redistribusinya perlu dipastikan sebelum berkasnya dirilis. Versi pasal penuh disiapkan sebagai pembaruan mendatang.
 4. Korpus belum dilengkapi anotasi linguistik lanjutan.
+5. Korpus paralel tingkat kalimat masih berstatus eksperimental karena kesepakatan antaranotator belum diukur.
 
 ## 7. Rekomendasi dan rencana lanjutan
 

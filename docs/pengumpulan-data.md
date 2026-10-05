@@ -32,6 +32,8 @@ Dua narasumber penutur kompeten Bahasa Batak Toba bertugas menyalin dokumen terk
 
 Kualitas dijaga melalui pemeriksaan acak (spot-check) terhadap sejumlah entri, dengan membandingkan teks sumber dan terjemahan serta mengklarifikasi bagian yang meragukan bersama narasumber.
 
+Pemeriksaan ulang pada tahap praproses menemukan dua sisa masalah pencatatan, yaitu label genre yang tidak sesuai panduan pada sebagian baris anotator kedua dan metadata contoh dari templat yang belum dihapus. Keduanya diperbaiki secara tercatat oleh notebook pipeline (lihat [laporan-teknis.md](laporan-teknis.md) bagian 3.4).
+
 ## Perubahan dari rencana awal
 
 Rencana awal pada proposal menggunakan web crawling dan scraping berskala besar (Scrapy, BeautifulSoup, dan Twitter API). Dalam pelaksanaan, pendekatan dipersempit menjadi penelusuran manual dan kurasi terarah karena pertimbangan etis, perizinan hak cipta, kualitas data, dan keterbatasan waktu. Implikasinya, korpus tahap ini berukuran lebih kecil tetapi lebih terkurasi dan terdokumentasi.
