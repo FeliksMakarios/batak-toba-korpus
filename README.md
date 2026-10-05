@@ -79,11 +79,13 @@ batak-toba-korpus/
 │   └── experimental/      Korpus paralel tingkat kalimat (pending IAA)
 ├── notebooks/             Notebook pipeline (Google Colab)
 │   ├── README.md
-│   └── pipeline_korpus_multigenre_v2.ipynb
+│   ├── pipeline_korpus_multigenre_v2.ipynb
+│   └── panduan_anotator_BTB.ipynb
 ├── metadata/
 │   └── skema-kolom.md     Definisi kolom dan taksonomi genre
 └── docs/
     ├── laporan-teknis.md  Laporan teknis (luaran penelitian)
+    ├── panduan-pipeline-v2.md  Panduan pemakaian notebook pipeline
     ├── pengumpulan-data.md  Metode pengumpulan dan kurasi data
     └── pernyataan-data.md   Pernyataan asal, lisensi, dan etika data
 ```
@@ -217,11 +219,13 @@ batak-toba-korpus/
 │   └── experimental/      Sentence-level parallel corpus (pending IAA)
 ├── notebooks/             Pipeline notebooks (Google Colab)
 │   ├── README.md
-│   └── pipeline_korpus_multigenre_v2.ipynb
+│   ├── pipeline_korpus_multigenre_v2.ipynb
+│   └── panduan_anotator_BTB.ipynb
 ├── metadata/
 │   └── skema-kolom.md     Column definitions and genre taxonomy
 └── docs/
     ├── laporan-teknis.md  Technical report (research deliverable)
+    ├── panduan-pipeline-v2.md  Usage guide for the pipeline notebook
     ├── pengumpulan-data.md  Data collection and curation method
     └── pernyataan-data.md   Data provenance, license, and ethics statement
 ```
