@@ -162,6 +162,6 @@ Sampel rutin diperlukan agar kualitas pasangan yang lolos audit otomatis juga te
 | `metode` | `labse` | Penyelarasan dengan LaBSE dan pemrograman dinamis |
 | `tipe` | `1-1`, `2-1`, `1-3`, dan seterusnya | Jumlah kalimat Toba dan Indonesia yang digabung dalam satu blok |
 
-### Catatan metodologis: anotator menilai terjemahannya sendiri
+### Catatan metodologis: penilai IAA berbeda dari penerjemah
 
-Kedua anotator juga merupakan penerjemah korpus. Dokumen `mg_001` sampai `mg_064` berasal dari Annotator #1, dan `mg_065` sampai `mg_104` dari Annotator #2. Artinya, pada sebagian baris setiap anotator menilai terjemahannya sendiri, yang berpotensi menaikkan angka `terima`. Sebaiknya hal ini disebutkan sebagai keterbatasan di paper. Bila memungkinkan, IAA juga dihitung terpisah untuk baris yang berasal dari masing-masing anotator.
+Review untuk IAA dikerjakan oleh dua anotator yang **berbeda** dari dua narasumber yang menyalin dan menerjemahkan korpus. Dengan begitu, tidak ada penilai yang menilai terjemahannya sendiri, dan kesepakatan yang terukur mencerminkan penilaian independen terhadap kualitas pasangan. Hal ini layak disebutkan di bagian metodologi paper.
