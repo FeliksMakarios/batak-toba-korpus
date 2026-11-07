@@ -17,6 +17,20 @@ Diagram alurnya juga tersedia sebagai [`../docs/peta-alur-korpus.svg`](../docs/p
 
 Notebook ini tidak membutuhkan GPU. Hasil tahap 9 diverifikasi sama persis dengan `korpus_utama_FINAL_v3`.
 
+## `agenda_hkbp_segmentasi.ipynb`
+
+Langkah pertama sub-korpus paralel religius: segmentasi kalimat enam bagian Agenda HKBP (`mg_054` sampai `mg_059` di `btb_multigenre.csv`). Setiap unit diberi keterangan struktur (bagian, subbagian, butir, label peran) dan jenis unit (isi, instruksi, rujukan ayat, formula, dan lainnya), sebagai jangkar untuk penyelarasan berikutnya. Koreksi OCR sisi Indonesia hanya untuk pola yang jelas dan daftar kata eksplisit, dan teks aslinya tetap disimpan.
+
+| Tahap | Isi |
+|---|---|
+| a01 | Muat dan validasi Agenda (sidik SHA-256 berkas masukan diperiksa) |
+| a02 | Struktur baris: judul, subjudul, label peran, penanda butir, penggabungan baris |
+| a03 | Segmentasi kalimat |
+| a04 | Normalisasi OCR terbatas dan jenis unit |
+| a05 | Pemeriksaan keutuhan teks, kesejajaran bagian, pembanding segmentasi lama, dan sampel pemeriksaan |
+
+Penyelarasan, deduplikasi, dan pembagian train/dev/test belum dikerjakan di notebook ini. Keluarannya memuat teks Agenda HKBP yang izin redistribusinya belum dipastikan, jadi simpan hanya di Google Drive tim. Notebook ini tidak membutuhkan GPU.
+
 ## `pipeline_korpus_multigenre_v2.ipynb` (arsip)
 
 Versi sebelumnya. Tahap 1 sampai 5-nya sama dengan notebook utama. Tahap 6 sampai 10-nya berisi eksperimen penyelarasan ulang dengan LaBSE yang tidak dipakai, karena anotasi manusia akhirnya dilakukan pada korpus paralel v1. Panduannya ada di [`../docs/panduan-pipeline-v2.md`](../docs/panduan-pipeline-v2.md).
