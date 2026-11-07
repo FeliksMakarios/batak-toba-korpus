@@ -1,0 +1,20 @@
+{
+  "pasangan": 1542,
+  "dokumen": 97,
+  "kata_bt": 24377,
+  "kata_id": 21486,
+  "review_status": {
+    "not_flagged": 1360,
+    "revised": 77,
+    "revised_split": 69,
+    "accepted": 36
+  },
+  "pasangan_divalidasi_manusia": 182,
+  "persen_divalidasi_manusia": 11.8,
+  "gold_decision": {
+    "revise_translation": 84,
+    "revise_alignment": 58,
+    "accept_unit": 36,
+    "fragment_policy": 4
+  }
+}

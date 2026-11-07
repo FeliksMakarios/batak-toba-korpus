@@ -1,0 +1,78 @@
+{
+  "rekonsiliasi_sesuai_aturan": true,
+  "rekonsiliasi_baris_berubah_A": 92,
+  "rekonsiliasi_baris_tidak_sesuai_aturan": [],
+  "B_accept_unit_dengan_teks_tersunting": 30,
+  "B_accept_unit_tersunting_bukan_hanya_tanda_baca": 18,
+  "skenario_utama": "rekonsiliasi_A",
+  "utama": {
+    "n": 145,
+    "kesepakatan_persen": 46.2,
+    "kappa": 0.17,
+    "tafsir": "sangat lemah (slight)",
+    "kappa_ik95": [
+      0.0595,
+      0.277
+    ],
+    "kappa_biner_accept": 0.295,
+    "baris_sepakat": 67,
+    "baris_tidak_sepakat": 78
+  },
+  "per_prioritas": {
+    "high": {
+      "n": 89,
+      "kesepakatan_persen": 37.1,
+      "kappa": 0.029,
+      "tafsir": "sangat lemah (slight)"
+    },
+    "medium": {
+      "n": 56,
+      "kesepakatan_persen": 60.7,
+      "kappa": 0.347,
+      "tafsir": "lemah (fair)"
+    }
+  },
+  "sebaran_keputusan_A": {
+    "revise_translation": 89,
+    "accept_unit": 31,
+    "revise_alignment": 22,
+    "need_source": 3
+  },
+  "sebaran_keputusan_B": {
+    "revise_translation": 63,
+    "accept_unit": 45,
+    "revise_alignment": 17,
+    "fragment_policy": 12,
+    "need_source": 8
+  },
+  "sensitivitas": [
+    {
+      "skenario": "asli",
+      "n": 145,
+      "kesepakatan_persen": 37.9,
+      "kappa": 0.088,
+      "tafsir": "sangat lemah (slight)"
+    },
+    {
+      "skenario": "rekonsiliasi_A",
+      "n": 145,
+      "kesepakatan_persen": 46.2,
+      "kappa": 0.17,
+      "tafsir": "sangat lemah (slight)"
+    },
+    {
+      "skenario": "simetris",
+      "n": 145,
+      "kesepakatan_persen": 51.7,
+      "kappa": 0.156,
+      "tafsir": "sangat lemah (slight)"
+    },
+    {
+      "skenario": "simetris_abaikan_tanda_baca",
+      "n": 145,
+      "kesepakatan_persen": 49.0,
+      "kappa": 0.183,
+      "tafsir": "sangat lemah (slight)"
+    }
+  ]
+}

@@ -1,0 +1,34 @@
+{
+  "pasangan_final": 1542,
+  "pembanding_final_v3": {
+    "berkas": "korpus_utama_FINAL_v3.xlsx",
+    "baris_dan_urutan_pair_id_sama": true,
+    "sel_berbeda_per_kolom": {},
+    "alignment_type_berbeda": 1420,
+    "alignment_type_berbeda_bukan_karena_tanggal": 0,
+    "identik": true
+  },
+  "pemetaan_doc_id": {
+    "dokumen": 97,
+    "proporsi_teks_ditemukan": 0.9919,
+    "dokumen_proporsi_di_bawah_80_persen": {}
+  },
+  "label_genre_diperbarui": {
+    "pasangan": 246,
+    "dokumen": [
+      "mg_001",
+      "mg_002",
+      "mg_068",
+      "mg_069",
+      "mg_073",
+      "mg_074",
+      "mg_075",
+      "mg_076",
+      "mg_077",
+      "mg_078",
+      "mg_079",
+      "mg_080",
+      "mg_081"
+    ]
+  }
+}

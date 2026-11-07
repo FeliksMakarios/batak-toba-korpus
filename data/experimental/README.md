@@ -1,6 +1,6 @@
 # data/experimental/
 
-> **Status: EKSPERIMENTAL, PENDING IAA.** Berkas di folder ini bukan bagian dari luaran resmi penelitian tahap 1 dan bukan korpus emas (gold standard). Inter-annotator agreement (IAA) belum dilakukan dan belum ada pasangan yang disahkan oleh penutur.
+> **Status: INPUT BEKU, SUDAH DIGANTIKAN.** Korpus paralel final ada di [`../btb_parallel_sentence.csv`](../btb_parallel_sentence.csv). Berkas di folder ini adalah korpus v1 sebelum anotasi dan adjudikasi, dan dipakai sebagai input tahap 6 notebook [`alur_lengkap_korpus_batak_toba.ipynb`](../../notebooks/alur_lengkap_korpus_batak_toba.ipynb). Lembar `Perlu_periksa` di buku kerja audit adalah templat yang diisi kedua penilai untuk IAA. Bagian di bawah ini menjelaskan keadaan korpus v1 sebelum anotasi.
 
 ## Isi
 

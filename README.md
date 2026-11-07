@@ -64,6 +64,28 @@ Sebaran genre dan sub-genre:
 
 Domain keagamaan sangat dominan. Agenda HKBP, doa, dan Alkitab mencakup sekitar 75% kata Batak Toba, dan Agenda HKBP saja mencakup 59% sub-korpus multi-genre. Penyeimbangan domain menjadi bagian dari rencana lanjutan.
 
+### Korpus paralel tingkat kalimat
+
+Berkas `data/btb_parallel_sentence.csv` memuat pasangan kalimat Batak Toba dan Indonesia dari sub-korpus multi-genre (tanpa Agenda HKBP). Pasangan dibentuk dengan penyelarasan otomatis dan audit, lalu 145 pasangan yang ditandai bermasalah dinilai oleh dua penilai yang berbeda dari kedua penerjemah, dan perbedaannya diputuskan melalui adjudikasi. Seluruh prosesnya dapat diulang dengan [notebook alur lengkap](notebooks/alur_lengkap_korpus_batak_toba.ipynb).
+
+| Ukuran | Nilai |
+|---|---|
+| Pasangan | 1.542 |
+| Dokumen | 97 |
+| Kata Batak Toba / Indonesia | 24.377 / 21.486 |
+| Pasangan divalidasi manusia (`validasi_manusia = ya`) | 182 (11,8%) |
+| Pasangan hasil penyelarasan otomatis yang lolos audit | 1.360 |
+
+Kesepakatan antaranotator pada 145 pasangan yang ditandai:
+
+| Skenario | Kesepakatan | Cohen's kappa |
+|---|---|---|
+| Label asli kedua penilai | 37,9% | 0,088 |
+| Setelah rekonsiliasi label penilai A (dasar adjudikasi) | 46,2% | 0,170 (IK95% 0,06 sampai 0,28) |
+| Aturan rekonsiliasi diterapkan ke kedua penilai | 51,7% | 0,156 |
+
+Kesepakatan tergolong sangat lemah, terutama pada pasangan berprioritas tinggi (kappa 0,029, n = 89). Karena itu korpus paralel bersandar pada adjudikasi, bukan pada kesepakatan langsung, dan hanya 182 pasangan yang dapat dianggap tervalidasi manusia. Rincian ada di [data/iaa/](data/iaa/).
+
 ### Struktur repositori
 
 ```
@@ -76,7 +98,9 @@ batak-toba-korpus/
 ├── data/                  Berkas korpus (CSV)
 │   ├── README.md
 │   ├── btb_multigenre.csv Korpus multi-genre versi 2
-│   └── experimental/      Korpus paralel tingkat kalimat (pending IAA)
+│   ├── btb_parallel_sentence.csv  Korpus paralel tingkat kalimat
+│   ├── iaa/               Laporan kesepakatan antaranotator dan keputusan emas
+│   └── experimental/      Korpus paralel v1 dan buku kerja audit (input notebook)
 ├── notebooks/             Notebook pipeline (Google Colab)
 │   ├── README.md
 │   ├── alur_lengkap_korpus_batak_toba.ipynb
@@ -126,7 +150,7 @@ Versi awal ini memiliki beberapa keterbatasan yang disengaja dicatat secara terb
 1. Domain keagamaan sangat dominan (sekitar 75% kata Batak Toba). Penambahan teks non-religius akan dilakukan untuk menyeimbangkan domain.
 2. Sub-korpus Alkitab pada versi ini baru memuat satu pasal per kitab dan berkasnya belum disertakan. Sisi Indonesianya memakai Terjemahan Baru (1974), sehingga izin redistribusinya perlu dipastikan lebih dulu. Versi pasal penuh disiapkan sebagai pembaruan mendatang.
 3. Korpus belum dilengkapi anotasi linguistik lanjutan (tokenisasi baku, POS tagging, morfologi, dependency parsing). Pengayaan anotasi direncanakan untuk menjadikannya sumber daya gold-standard. Penelitian berikutnya akan berfokus pada pedoman anotasi awal dengan Universal Dependencies versi 2.
-4. Korpus paralel tingkat kalimat pada [data/experimental/](data/experimental/) masih berstatus eksperimental. Inter-annotator agreement belum dilakukan, sehingga data tersebut belum dapat dianggap gold-standard dan tidak termasuk luaran resmi tahap ini.
+4. Pada korpus paralel tingkat kalimat, hanya 182 dari 1.542 pasangan yang divalidasi manusia, dan kesepakatan antaranotator tergolong sangat lemah (kappa 0,170). Korpus ini tidak dapat dianggap gold-standard secara keseluruhan dan bukan luaran yang dijanjikan pada tahap ini.
 
 ### Lisensi
 
@@ -206,6 +230,28 @@ Genre and sub-genre distribution:
 
 The religious domain is strongly dominant. The HKBP agenda, prayers, and the Bible account for about 75% of Batak Toba words, and the HKBP agenda alone accounts for 59% of the multi-genre sub-corpus. Domain balancing is part of the planned follow-up work.
 
+### Sentence-level parallel corpus
+
+`data/btb_parallel_sentence.csv` holds Batak Toba and Indonesian sentence pairs from the multi-genre sub-corpus (excluding the HKBP agenda). Pairs were built by automatic alignment and auditing; the 145 pairs flagged as problematic were then judged by two raters who are different from the two translators, and disagreements were resolved by adjudication. The whole process can be rerun with the [full-flow notebook](notebooks/alur_lengkap_korpus_batak_toba.ipynb).
+
+| Measure | Value |
+|---|---|
+| Pairs | 1,542 |
+| Documents | 97 |
+| Batak Toba / Indonesian words | 24,377 / 21,486 |
+| Human-validated pairs (`validasi_manusia = ya`) | 182 (11.8%) |
+| Automatically aligned pairs that passed the audit | 1,360 |
+
+Inter-annotator agreement on the 145 flagged pairs:
+
+| Scenario | Agreement | Cohen's kappa |
+|---|---|---|
+| Original labels of both raters | 37.9% | 0.088 |
+| After label reconciliation by rater A (basis of adjudication) | 46.2% | 0.170 (95% CI 0.06 to 0.28) |
+| Reconciliation rule applied to both raters | 51.7% | 0.156 |
+
+Agreement is slight, especially on high-priority pairs (kappa 0.029, n = 89). The parallel corpus therefore relies on adjudication rather than direct agreement, and only 182 pairs can be considered human-validated. Details are in [data/iaa/](data/iaa/).
+
 ### Repository structure
 
 ```
@@ -218,7 +264,9 @@ batak-toba-korpus/
 ├── data/                  Corpus files (CSV)
 │   ├── README.md
 │   ├── btb_multigenre.csv Multi-genre corpus, version 2
-│   └── experimental/      Sentence-level parallel corpus (pending IAA)
+│   ├── btb_parallel_sentence.csv  Sentence-level parallel corpus
+│   ├── iaa/               Inter-annotator agreement report and gold decisions
+│   └── experimental/      Parallel corpus v1 and audit workbook (notebook input)
 ├── notebooks/             Pipeline notebooks (Google Colab)
 │   ├── README.md
 │   ├── alur_lengkap_korpus_batak_toba.ipynb
@@ -268,7 +316,7 @@ This initial version has several limitations that are recorded openly:
 1. The religious domain is strongly dominant (about 75% of Batak Toba words). Non-religious texts will be added to balance the domains.
 2. The Bible sub-corpus in this version contains only one chapter per book, and its file is not yet included. Its Indonesian side uses the Terjemahan Baru (1974) translation, so redistribution permission must be confirmed first. A full-chapter version is being prepared as a future update.
 3. The corpus is not yet enriched with advanced linguistic annotation (standardised tokenisation, POS tagging, morphology, dependency parsing). Annotation enrichment is planned to develop it into a gold-standard resource. The next research will focus on the initial annotation guidelines with Universal Dependencies version 2.
-4. The sentence-level parallel corpus in [data/experimental/](data/experimental/) is still experimental. Inter-annotator agreement has not been measured, so it cannot be treated as gold-standard and is not part of the official deliverable of this phase.
+4. In the sentence-level parallel corpus, only 182 of 1,542 pairs are human-validated, and inter-annotator agreement is slight (kappa 0.170). It cannot be treated as gold-standard as a whole and is not a promised deliverable of this phase.
 
 ### License
 

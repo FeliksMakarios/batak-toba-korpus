@@ -96,7 +96,7 @@ Luaran yang dijanjikan pada proposal adalah korpus mentah Batak Toba minimal 100
 2. Domain keagamaan sangat dominan, sekitar 75% kata Batak Toba.
 3. Sub-korpus Alkitab pada versi ini baru memuat satu pasal per kitab. Sisi Indonesianya memakai Terjemahan Baru (1974), sehingga izin redistribusinya perlu dipastikan sebelum berkasnya dirilis. Versi pasal penuh disiapkan sebagai pembaruan mendatang.
 4. Korpus belum dilengkapi anotasi linguistik lanjutan.
-5. Korpus paralel tingkat kalimat masih berstatus eksperimental karena kesepakatan antaranotator belum diukur.
+5. Pada korpus paralel tingkat kalimat (1.542 pasangan), hanya 182 pasangan yang divalidasi manusia. Kesepakatan dua penilai pada 145 pasangan yang ditandai tergolong sangat lemah (kappa 0,170; 0,156 bila aturan rekonsiliasi label diterapkan ke kedua penilai), sehingga korpus bersandar pada adjudikasi oleh satu orang. Rincian ada di `data/iaa/`.
 
 ## 7. Rekomendasi dan rencana lanjutan
 
