@@ -1,27 +1,23 @@
 # notebooks/
 
-## `pipeline_korpus_multigenre_v2.ipynb`
+## `alur_lengkap_korpus_batak_toba.ipynb` (notebook utama)
 
-Notebook Google Colab tunggal yang mengolah sub-korpus multi-genre dari hasil kerja kedua anotator (`Combined Annotator.xlsx`) sampai korpus paralel tingkat kalimat yang siap diuji kesepakatan antaranotator (IAA).
+Notebook Google Colab tunggal yang menampilkan seluruh pengolahan korpus dari awal sampai akhir, termasuk peta alur dan riwayat keputusan selama penelitian.
 
-| Tahap | Isi |
+| Bagian | Isi |
 |---|---|
-| 1 | Muat dan validasi input anotator |
-| 2 | Koreksi metadata tercatat |
-| 3 | Pembersihan ringan, menghasilkan `btb_multigenre.csv` |
-| 4 | Segmentasi kalimat |
-| 5 | Statistik korpus dengan tiga metode hitung token |
-| 6 | Penyelarasan kalimat (aturan 1:1 atau LaBSE) |
-| 7 | Audit otomatis dan pelabelan status |
-| 8 | Lembar review untuk dua anotator |
-| 9 | Penghitungan IAA (Cohen's kappa) dan lembar adjudikasi |
-| 10 | Paket rilis, perbandingan dengan v1, manifest, dan changelog |
+| 0 | Peta alur dan riwayat keputusan |
+| A | Persiapan, daftar input, dan konfigurasi |
+| B (tahap 1 sampai 5) | Korpus multi-genre: validasi, koreksi label, pembersihan, segmentasi, statistik |
+| C (tahap 6 sampai 9) | Korpus paralel: korpus v1, rekonsiliasi label dan IAA, keputusan emas dari adjudikasi, penerapan ke korpus |
+| D (tahap 10) | Statistik akhir dan paket rilis |
+| E | Ringkasan dan keterbatasan |
 
-Setiap tahap menyimpan titik simpan (checkpoint) di Google Drive, sehingga saat dijalankan ulang hanya tahap yang masukan, parameter, atau kodenya berubah yang dihitung ulang. Petunjuk lengkap ada di sel pertama notebook.
+Notebook ini tidak membutuhkan GPU. Hasil tahap 9 diverifikasi sama persis dengan `korpus_utama_FINAL_v3`.
 
-Sub-korpus Alkitab tidak diolah di notebook ini.
+## `pipeline_korpus_multigenre_v2.ipynb` (arsip)
 
-Panduan pemakaian lengkap, termasuk data yang dipakai di setiap tahap dan status file lama, ada di [`../docs/panduan-pipeline-v2.md`](../docs/panduan-pipeline-v2.md).
+Versi sebelumnya. Tahap 1 sampai 5-nya sama dengan notebook utama. Tahap 6 sampai 10-nya berisi eksperimen penyelarasan ulang dengan LaBSE yang tidak dipakai, karena anotasi manusia akhirnya dilakukan pada korpus paralel v1. Panduannya ada di [`../docs/panduan-pipeline-v2.md`](../docs/panduan-pipeline-v2.md).
 
 ## `panduan_anotator_BTB.ipynb`
 
@@ -29,12 +25,12 @@ Panduan kerja untuk kedua anotator, berisi definisi teks, target sebaran genre, 
 
 ---
 
-## `pipeline_korpus_multigenre_v2.ipynb`
+## `alur_lengkap_korpus_batak_toba.ipynb` (main notebook)
 
-A single Google Colab notebook that processes the multi-genre sub-corpus from the two annotators' output (`Combined Annotator.xlsx`) to a sentence-level parallel corpus ready for inter-annotator agreement (IAA). It covers input validation, logged metadata corrections, light cleaning, sentence segmentation, corpus statistics, sentence alignment (rule-based 1:1 or LaBSE), automatic auditing, review sheets for two annotators, IAA computation, and a release package with a manifest. Every stage writes a checkpoint to Google Drive, so a rerun only recomputes stages whose inputs, parameters, or code changed. The Bible sub-corpus is processed separately.
+A single Google Colab notebook showing the whole corpus processing from start to finish, including a flow map and a record of decisions made during the research: the multi-genre corpus (stages 1 to 5), the sentence-level parallel corpus with inter-annotator agreement and adjudication (stages 6 to 9), and the release package (stage 10). No GPU is needed. Stage 9 output is verified to be identical to `korpus_utama_FINAL_v3`.
 
-A full usage guide is in [`../docs/panduan-pipeline-v2.md`](../docs/panduan-pipeline-v2.md).
+`pipeline_korpus_multigenre_v2.ipynb` is kept as an archive of the unused LaBSE realignment experiment.
 
 ## `panduan_anotator_BTB.ipynb`
 
-Working guide for the two annotators, with the text definition, target genre distribution, and the source list assigned to each annotator. This source list is the basis for the label corrections in Stage 2 of the pipeline notebook.
+Working guide for the two annotators, with the text definition, target genre distribution, and the source list assigned to each annotator. This source list is the basis for the label corrections in Stage 2.

@@ -1,5 +1,7 @@
 # Panduan Pemakaian Notebook Pipeline v2
 
+> **Arsip.** Notebook utama sekarang adalah [`notebooks/alur_lengkap_korpus_batak_toba.ipynb`](../notebooks/alur_lengkap_korpus_batak_toba.ipynb). Daftar input dan tahapannya dijelaskan di Bagian A notebook tersebut. Panduan ini tetap disimpan untuk notebook pipeline v2.
+
 Dokumen ini merangkum cara memakai notebook [`notebooks/pipeline_korpus_multigenre_v2.ipynb`](../notebooks/pipeline_korpus_multigenre_v2.ipynb): tahapannya, data yang dipakai di setiap tahap, lokasi file, dan status semua file lama.
 
 **Inti yang perlu diingat:** notebook hanya butuh **satu** file dari Anda, yaitu `Combined Annotator.xlsx`. Semua file lain dibuat sendiri oleh notebook.

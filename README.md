@@ -79,6 +79,7 @@ batak-toba-korpus/
 │   └── experimental/      Korpus paralel tingkat kalimat (pending IAA)
 ├── notebooks/             Notebook pipeline (Google Colab)
 │   ├── README.md
+│   ├── alur_lengkap_korpus_batak_toba.ipynb
 │   ├── pipeline_korpus_multigenre_v2.ipynb
 │   └── panduan_anotator_BTB.ipynb
 ├── metadata/
@@ -220,6 +221,7 @@ batak-toba-korpus/
 │   └── experimental/      Sentence-level parallel corpus (pending IAA)
 ├── notebooks/             Pipeline notebooks (Google Colab)
 │   ├── README.md
+│   ├── alur_lengkap_korpus_batak_toba.ipynb
 │   ├── pipeline_korpus_multigenre_v2.ipynb
 │   └── panduan_anotator_BTB.ipynb
 ├── metadata/
