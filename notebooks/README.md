@@ -13,6 +13,8 @@ Notebook Google Colab tunggal yang menampilkan seluruh pengolahan korpus dari aw
 | D (tahap 10) | Statistik akhir dan paket rilis |
 | E | Ringkasan dan keterbatasan |
 
+Diagram alurnya juga tersedia sebagai [`../docs/peta-alur-korpus.svg`](../docs/peta-alur-korpus.svg).
+
 Notebook ini tidak membutuhkan GPU. Hasil tahap 9 diverifikasi sama persis dengan `korpus_utama_FINAL_v3`.
 
 ## `pipeline_korpus_multigenre_v2.ipynb` (arsip)
