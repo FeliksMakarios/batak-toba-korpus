@@ -1,23 +1,38 @@
 # notebooks/
 
-Folder ini berisi notebook Google Colab yang membentuk pipeline korpus.
+## `alur_lengkap_korpus_batak_toba.ipynb` (notebook utama)
 
-Tempatkan tiga notebook berikut di sini:
+Notebook Google Colab tunggal yang menampilkan seluruh pengolahan korpus dari awal sampai akhir, termasuk peta alur dan riwayat keputusan selama penelitian.
 
-- `01_build-batak-toba-corpus.ipynb` - pemuatan data dan pembangunan korpus dari sumber.
-- `02_eda-batak-toba-corpus.ipynb` - pembersihan, analisis data eksploratif (EDA), dan visualisasi.
-- `Annotator - BTB_Template.ipynb` - template kerja untuk narasumber dan anotator.
+| Bagian | Isi |
+|---|---|
+| 0 | Peta alur dan riwayat keputusan |
+| A | Persiapan, daftar input, dan konfigurasi |
+| B (tahap 1 sampai 5) | Korpus multi-genre: validasi, koreksi label, pembersihan, segmentasi, statistik |
+| C (tahap 6 sampai 9) | Korpus paralel: korpus v1, rekonsiliasi label dan IAA, keputusan emas dari adjudikasi, penerapan ke korpus |
+| D (tahap 10) | Statistik akhir dan paket rilis |
+| E | Ringkasan dan keterbatasan |
 
-Notebook dirancang agar dapat direplikasi (reproducible). Untuk menjalankannya, letakkan berkas CSV pada folder `data/` lalu sesuaikan jalur (path) berkas di awal notebook.
+Diagram alurnya juga tersedia sebagai [`../docs/peta-alur-korpus.svg`](../docs/peta-alur-korpus.svg).
+
+Notebook ini tidak membutuhkan GPU. Hasil tahap 9 diverifikasi sama persis dengan `korpus_utama_FINAL_v3`.
+
+## `pipeline_korpus_multigenre_v2.ipynb` (arsip)
+
+Versi sebelumnya. Tahap 1 sampai 5-nya sama dengan notebook utama. Tahap 6 sampai 10-nya berisi eksperimen penyelarasan ulang dengan LaBSE yang tidak dipakai, karena anotasi manusia akhirnya dilakukan pada korpus paralel v1. Panduannya ada di [`../docs/panduan-pipeline-v2.md`](../docs/panduan-pipeline-v2.md).
+
+## `panduan_anotator_BTB.ipynb`
+
+Panduan kerja untuk kedua anotator, berisi definisi teks, target sebaran genre, dan daftar sumber yang ditugaskan kepada setiap anotator. Daftar sumber ini menjadi dasar koreksi label di Tahap 2 notebook pipeline.
 
 ---
 
-This folder contains the Google Colab notebooks that make up the corpus pipeline.
+## `alur_lengkap_korpus_batak_toba.ipynb` (main notebook)
 
-Place the following three notebooks here:
+A single Google Colab notebook showing the whole corpus processing from start to finish, including a flow map and a record of decisions made during the research: the multi-genre corpus (stages 1 to 5), the sentence-level parallel corpus with inter-annotator agreement and adjudication (stages 6 to 9), and the release package (stage 10). No GPU is needed. Stage 9 output is verified to be identical to `korpus_utama_FINAL_v3`.
 
-- `01_build-batak-toba-corpus.ipynb` - data loading and corpus construction from sources.
-- `02_eda-batak-toba-corpus.ipynb` - cleaning, exploratory data analysis (EDA), and visualisation.
-- `Annotator - BTB_Template.ipynb` - working template for informants and annotators.
+`pipeline_korpus_multigenre_v2.ipynb` is kept as an archive of the unused LaBSE realignment experiment.
 
-The notebooks are designed to be reproducible. To run them, place the CSV files in the `data/` folder and adjust the file paths at the top of each notebook.
+## `panduan_anotator_BTB.ipynb`
+
+Working guide for the two annotators, with the text definition, target genre distribution, and the source list assigned to each annotator. This source list is the basis for the label corrections in Stage 2.

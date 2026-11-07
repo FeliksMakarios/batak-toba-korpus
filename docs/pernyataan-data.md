@@ -15,6 +15,8 @@ Korpus terdiri atas dua sub-korpus:
 
 Teks Alkitab berasal dari repositori `erwindosianipar/beeble` dan memuat terjemahan Batak Toba tahun 1894. Terjemahan ini terbit lebih dari 130 tahun lalu dan karena usianya berada dalam domain publik. Meskipun demikian, repositori sumber tetap dikreditkan sebagai bentuk penghargaan.
 
+Sisi Bahasa Indonesia memakai Terjemahan Baru (1974) yang diterbitkan Lembaga Alkitab Indonesia dan tidak berada dalam domain publik. Karena itu berkas `btb_bible.csv` belum disertakan di repositori sampai izin redistribusinya dipastikan.
+
 Pada versi ini, sub-korpus Alkitab baru memuat satu pasal per kitab, bukan seluruh pasal. Cakupan parsial ini disebabkan keterbatasan teknis pada saat pengumpulan. Versi dengan pasal penuh disiapkan sebagai pembaruan terpisah pada rilis mendatang.
 
 ### Sub-korpus multi-genre
@@ -36,7 +38,7 @@ Korpus ini ditujukan untuk penelitian NLP bahasa sumber rendah, kajian linguisti
 ## Keterbatasan yang perlu diketahui pengguna
 
 1. Domain keagamaan relatif dominan, sehingga distribusi leksikal dapat condong ke kosakata religius.
-2. Tokenisasi yang digunakan berbasis spasi dan jumlah token bersifat perkiraan.
+2. Jumlah token bergantung pada metode hitung. README melaporkan tiga metode (kata, token berbasis spasi, dan token NLTK) agar angkanya dapat diperiksa ulang.
 3. Belum tersedia data lisan.
 4. Sub-korpus Alkitab baru mencakup satu pasal per kitab.
 

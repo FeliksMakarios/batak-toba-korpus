@@ -23,29 +23,68 @@ Korpus terdiri atas dua sub-korpus:
 
 ### Isi korpus
 
-Statistik diperoleh dari tahap analisis data eksploratif (EDA). Jumlah token bersifat perkiraan dan dihitung dengan tokenisasi berbasis spasi.
+Angka sub-korpus multi-genre dihasilkan oleh notebook [pipeline v2](notebooks/pipeline_korpus_multigenre_v2.ipynb). Angka sub-korpus Alkitab dihitung dengan fungsi yang sama. Karena hasil hitungan bergantung pada perlakuan terhadap tanda baca, jumlah token dilaporkan dengan tiga metode:
+
+- **Kata**: hanya urutan huruf atau angka. Tanda baca tidak dihitung.
+- **Token berbasis spasi**: teks dipisah pada spasi. Tanda baca ikut menempel pada kata.
+- **Token NLTK**: teks dijadikan huruf kecil, lalu dipecah dengan NLTK `word_tokenize`. Tanda baca dihitung sebagai token tersendiri. Ini metode yang dipakai pada analisis versi awal.
 
 | Sub-korpus | Satuan | Batak Toba | Bahasa Indonesia |
 |---|---|---|---|
-| `btb_multigenre` | kalimat | 3.498 | 3.539 |
-| `btb_multigenre` | token (perkiraan) | 67.680 | 60.866 |
-| `btb_bible` | dokumen paralel | 520 | 520 |
-| `btb_bible` | token (perkiraan) | 44.660 | 39.687 |
-| Total | token (perkiraan) | 112.340 | 100.553 |
+| `btb_multigenre` | dokumen | 104 | 104 |
+| `btb_multigenre` | kalimat atau baris | 4.429 | 4.447 |
+| `btb_multigenre` | kata | 59.443 | 53.166 |
+| `btb_multigenre` | token NLTK | 67.680 | 60.866 |
+| `btb_bible` | pasal (ayat) | 66 (1.594) | 66 (1.594) |
+| `btb_bible` | kata | 38.509 | 34.320 |
+| `btb_bible` | token NLTK | 44.785 | 39.687 |
+| Total | kata | 97.952 | 87.486 |
+| Total | token berbasis spasi | 98.235 | 85.990 |
+| Total | token NLTK | 112.465 | 100.553 |
 
-Sisi Batak Toba melampaui 112.000 token, memenuhi target minimal 100.000 token yang ditetapkan dalam proposal. Rata-rata panjang kalimat berada pada kisaran 17 sampai 24 token, dengan rasio panjang Batak Toba dan Indonesia yang mendekati 1:1.
+Target proposal, yaitu minimal 100.000 token pada sisi Batak Toba, tercapai bila tanda baca dihitung sebagai token (112.465 token NLTK). Bila hanya kata yang dihitung, sisi Batak Toba berjumlah 97.952 kata, sekitar 2% di bawah target. Kedua angka dicantumkan agar pembaca dapat menilai sendiri.
 
-Korpus mencakup lima genre:
+Catatan perubahan angka: versi awal README mencantumkan 520 dokumen paralel untuk sub-korpus Alkitab. Angka itu berasal dari pengelompokan yang keliru pada notebook EDA lama. Jumlah sebenarnya adalah 66 pasal (1.594 ayat). Jumlah kalimat multi-genre kini dihitung dengan segmentasi pipeline v2, yang juga memecah per baris untuk puisi dan liturgi, sehingga berbeda dari angka 3.498 kalimat pada versi awal.
 
-| Genre | Sub-genre |
+Sebaran genre dan sub-genre:
+
+| Genre | Sub-genre | Dokumen | Kata Batak Toba |
+|---|---|---|---|
+| Historical/Traditional | Folktales | 2 | 1.796 |
+| Literary | Peribahasa/Umpama | 46 | 356 |
+| Literary | Poems | 7 | 741 |
+| Religious | Prayers | 3 | 210 |
+| Religious | Ritual Text (Agenda HKBP) | 6 | 35.097 |
+| Religious | Alkitab (`btb_bible`) | 66 pasal | 38.509 |
+| Educational | Book Summary | 8 | 4.120 |
+| Educational | Abstract | 9 | 1.915 |
+| Contemporary Media | Wiki | 7 | 6.246 |
+| Contemporary Media | News Article | 9 | 3.884 |
+| Contemporary Media | Blog Articles | 7 | 5.078 |
+
+Domain keagamaan sangat dominan. Agenda HKBP, doa, dan Alkitab mencakup sekitar 75% kata Batak Toba, dan Agenda HKBP saja mencakup 59% sub-korpus multi-genre. Penyeimbangan domain menjadi bagian dari rencana lanjutan.
+
+### Korpus paralel tingkat kalimat
+
+Berkas `data/btb_parallel_sentence.csv` memuat pasangan kalimat Batak Toba dan Indonesia dari sub-korpus multi-genre (tanpa Agenda HKBP). Pasangan dibentuk dengan penyelarasan otomatis dan audit, lalu 145 pasangan yang ditandai bermasalah dinilai oleh dua penilai yang berbeda dari kedua penerjemah, dan perbedaannya diputuskan melalui adjudikasi. Seluruh prosesnya dapat diulang dengan [notebook alur lengkap](notebooks/alur_lengkap_korpus_batak_toba.ipynb).
+
+| Ukuran | Nilai |
 |---|---|
-| Historical/Traditional | manuskrip, cerita rakyat (folktales), torsa, turian |
-| Literary | puisi, pantun, umpasa, umpama |
-| Religious | doa Kristen, agenda ibadah HKBP (Indonesia dan Batak Toba), Alkitab Batak Toba |
-| Educational | ringkasan buku, abstrak artikel ilmiah |
-| Contemporary Media | Wiki, artikel berita, artikel blog |
+| Pasangan | 1.542 |
+| Dokumen | 97 |
+| Kata Batak Toba / Indonesia | 24.377 / 21.486 |
+| Pasangan divalidasi manusia (`validasi_manusia = ya`) | 182 (11,8%) |
+| Pasangan hasil penyelarasan otomatis yang lolos audit | 1.360 |
 
-Domain keagamaan masih relatif dominan pada versi awal ini. Penyeimbangan domain dan penambahan data lisan menjadi bagian dari rencana lanjutan.
+Kesepakatan antaranotator pada 145 pasangan yang ditandai:
+
+| Skenario | Kesepakatan | Cohen's kappa |
+|---|---|---|
+| Label asli kedua penilai | 37,9% | 0,088 |
+| Setelah rekonsiliasi label penilai A (dasar adjudikasi) | 46,2% | 0,170 (IK95% 0,06 sampai 0,28) |
+| Aturan rekonsiliasi diterapkan ke kedua penilai | 51,7% | 0,156 |
+
+Kesepakatan tergolong sangat lemah, terutama pada pasangan berprioritas tinggi (kappa 0,029, n = 89). Karena itu korpus paralel bersandar pada adjudikasi, bukan pada kesepakatan langsung, dan hanya 182 pasangan yang dapat dianggap tervalidasi manusia. Rincian ada di [data/iaa/](data/iaa/).
 
 ### Struktur repositori
 
@@ -57,20 +96,31 @@ batak-toba-korpus/
 ├── CITATION.cff           Informasi sitasi
 ├── .gitignore
 ├── data/                  Berkas korpus (CSV)
-│   └── README.md
+│   ├── README.md
+│   ├── btb_multigenre.csv Korpus multi-genre versi 2
+│   ├── btb_parallel_sentence.csv  Korpus paralel tingkat kalimat
+│   ├── iaa/               Laporan kesepakatan antaranotator dan keputusan emas
+│   └── experimental/      Korpus paralel v1 dan buku kerja audit (input notebook)
 ├── notebooks/             Notebook pipeline (Google Colab)
-│   └── README.md
+│   ├── README.md
+│   ├── alur_lengkap_korpus_batak_toba.ipynb
+│   ├── pipeline_korpus_multigenre_v2.ipynb
+│   └── panduan_anotator_BTB.ipynb
 ├── metadata/
 │   └── skema-kolom.md     Definisi kolom dan taksonomi genre
 └── docs/
     ├── laporan-teknis.md  Laporan teknis (luaran penelitian)
+    ├── panduan-pipeline-v2.md  Panduan pemakaian notebook pipeline
+    ├── panduan-review-anotator.md  Panduan pengisian lembar review
     ├── pengumpulan-data.md  Metode pengumpulan dan kurasi data
     └── pernyataan-data.md   Pernyataan asal, lisensi, dan etika data
 ```
 
 ### Skema data
 
-Kedua berkas CSV menggunakan skema kolom yang sama: `title`, `text_bt`, `text_id`, `genre`, `subgenre`, `source_link`, `notes`, `is_parallel`. Penjelasan lengkap setiap kolom dan taksonomi genre tersedia pada [metadata/skema-kolom.md](metadata/skema-kolom.md).
+Kedua berkas CSV menggunakan skema kolom yang sama: `title`, `text_bt`, `text_id`, `genre`, `subgenre`, `source_link`, `notes`, `is_parallel`. Berkas `btb_multigenre.csv` versi 2 menambahkan kolom `doc_id` di depan. Penjelasan lengkap setiap kolom dan taksonomi genre tersedia pada [metadata/skema-kolom.md](metadata/skema-kolom.md).
+
+Berkas `btb_bible.csv` belum disertakan di repositori ini. Lihat [data/README.md](data/README.md).
 
 ### Cara menggunakan
 
@@ -78,7 +128,6 @@ Kedua berkas CSV menggunakan skema kolom yang sama: `title`, `text_bt`, `text_id
 import pandas as pd
 
 multigenre = pd.read_csv("data/btb_multigenre.csv")
-bible = pd.read_csv("data/btb_bible.csv")
 
 # Mengambil hanya pasangan yang berlabel paralel
 pasangan_paralel = multigenre[multigenre["is_parallel"] == "yes"]
@@ -88,7 +137,7 @@ pasangan_paralel = multigenre[multigenre["is_parallel"] == "yes"]
 
 | Luaran yang dijanjikan | Status |
 |---|---|
-| Korpus dengan minimal 100.000 token Batak Toba | Tercapai (112.340 token) |
+| Korpus dengan minimal 100.000 token Batak Toba | Tercapai menurut hitungan token NLTK yang menyertakan tanda baca (112.465 token). Tanpa tanda baca: 97.952 kata. |
 | Cakupan sumber tradisional | Tercapai |
 | Cakupan sumber modern tertulis | Tercapai |
 | Cakupan sumber religius | Tercapai |
@@ -98,9 +147,10 @@ pasangan_paralel = multigenre[multigenre["is_parallel"] == "yes"]
 
 Versi awal ini memiliki beberapa keterbatasan yang disengaja dicatat secara terbuka:
 
-1. Domain keagamaan masih dominan. Penambahan teks non-religius akan dilakukan untuk menyeimbangkan domain.
-2. Sub-korpus Alkitab pada versi ini baru memuat satu pasal per kitab. Versi pasal penuh disiapkan sebagai pembaruan mendatang.
+1. Domain keagamaan sangat dominan (sekitar 75% kata Batak Toba). Penambahan teks non-religius akan dilakukan untuk menyeimbangkan domain.
+2. Sub-korpus Alkitab pada versi ini baru memuat satu pasal per kitab dan berkasnya belum disertakan. Sisi Indonesianya memakai Terjemahan Baru (1974), sehingga izin redistribusinya perlu dipastikan lebih dulu. Versi pasal penuh disiapkan sebagai pembaruan mendatang.
 3. Korpus belum dilengkapi anotasi linguistik lanjutan (tokenisasi baku, POS tagging, morfologi, dependency parsing). Pengayaan anotasi direncanakan untuk menjadikannya sumber daya gold-standard. Penelitian berikutnya akan berfokus pada pedoman anotasi awal dengan Universal Dependencies versi 2.
+4. Pada korpus paralel tingkat kalimat, hanya 182 dari 1.542 pasangan yang divalidasi manusia, dan kesepakatan antaranotator tergolong sangat lemah (kappa 0,170). Korpus ini tidak dapat dianggap gold-standard secara keseluruhan dan bukan luaran yang dijanjikan pada tahap ini.
 
 ### Lisensi
 
@@ -139,29 +189,68 @@ The corpus consists of two sub-corpora:
 
 ### Corpus contents
 
-Statistics were obtained during exploratory data analysis (EDA). Token counts are approximate and based on whitespace tokenisation.
+Multi-genre figures are produced by the [v2 pipeline notebook](notebooks/pipeline_korpus_multigenre_v2.ipynb). Bible figures are computed with the same functions. Because counts depend on how punctuation is treated, token counts are reported with three methods:
+
+- **Words**: letter or digit sequences only. Punctuation is not counted.
+- **Whitespace tokens**: text split on spaces. Punctuation stays attached to words.
+- **NLTK tokens**: lowercased text split with NLTK `word_tokenize`. Punctuation marks count as separate tokens. This is the method used in the initial analysis.
 
 | Sub-corpus | Unit | Batak Toba | Indonesian |
 |---|---|---|---|
-| `btb_multigenre` | sentences | 3,498 | 3,539 |
-| `btb_multigenre` | tokens (approx.) | 67,680 | 60,866 |
-| `btb_bible` | parallel documents | 520 | 520 |
-| `btb_bible` | tokens (approx.) | 44,660 | 39,687 |
-| Total | tokens (approx.) | 112,340 | 100,553 |
+| `btb_multigenre` | documents | 104 | 104 |
+| `btb_multigenre` | sentences or lines | 4,429 | 4,447 |
+| `btb_multigenre` | words | 59,443 | 53,166 |
+| `btb_multigenre` | NLTK tokens | 67,680 | 60,866 |
+| `btb_bible` | chapters (verses) | 66 (1,594) | 66 (1,594) |
+| `btb_bible` | words | 38,509 | 34,320 |
+| `btb_bible` | NLTK tokens | 44,785 | 39,687 |
+| Total | words | 97,952 | 87,486 |
+| Total | whitespace tokens | 98,235 | 85,990 |
+| Total | NLTK tokens | 112,465 | 100,553 |
 
-The Batak Toba side exceeds 112,000 tokens, meeting the minimum target of 100,000 tokens set in the proposal. Average sentence length ranges from 17 to 24 tokens, with a Batak Toba to Indonesian length ratio close to 1:1.
+The proposal target of at least 100,000 Batak Toba tokens is met when punctuation marks are counted as tokens (112,465 NLTK tokens). Counting words only, the Batak Toba side has 97,952 words, about 2% below the target. Both figures are reported so that readers can judge for themselves.
 
-The corpus spans five genres:
+Note on changed figures: the initial README listed 520 parallel documents for the Bible sub-corpus. That figure came from an incorrect grouping in the old EDA notebook; the actual count is 66 chapters (1,594 verses). Multi-genre sentence counts now come from the v2 segmentation, which also splits poems and liturgy by line, so they differ from the 3,498 sentences reported initially.
 
-| Genre | Sub-genres |
+Genre and sub-genre distribution:
+
+| Genre | Sub-genre | Documents | Batak Toba words |
+|---|---|---|---|
+| Historical/Traditional | Folktales | 2 | 1,796 |
+| Literary | Peribahasa/Umpama | 46 | 356 |
+| Literary | Poems | 7 | 741 |
+| Religious | Prayers | 3 | 210 |
+| Religious | Ritual Text (HKBP liturgical agenda) | 6 | 35,097 |
+| Religious | Bible (`btb_bible`) | 66 chapters | 38,509 |
+| Educational | Book Summary | 8 | 4,120 |
+| Educational | Abstract | 9 | 1,915 |
+| Contemporary Media | Wiki | 7 | 6,246 |
+| Contemporary Media | News Article | 9 | 3,884 |
+| Contemporary Media | Blog Articles | 7 | 5,078 |
+
+The religious domain is strongly dominant. The HKBP agenda, prayers, and the Bible account for about 75% of Batak Toba words, and the HKBP agenda alone accounts for 59% of the multi-genre sub-corpus. Domain balancing is part of the planned follow-up work.
+
+### Sentence-level parallel corpus
+
+`data/btb_parallel_sentence.csv` holds Batak Toba and Indonesian sentence pairs from the multi-genre sub-corpus (excluding the HKBP agenda). Pairs were built by automatic alignment and auditing; the 145 pairs flagged as problematic were then judged by two raters who are different from the two translators, and disagreements were resolved by adjudication. The whole process can be rerun with the [full-flow notebook](notebooks/alur_lengkap_korpus_batak_toba.ipynb).
+
+| Measure | Value |
 |---|---|
-| Historical/Traditional | manuscripts, folktales, torsa, turian |
-| Literary | poetry, pantun, umpasa, umpama |
-| Religious | Christian prayers, HKBP liturgical agenda (Indonesian and Batak Toba), Batak Toba Bible |
-| Educational | book summaries, academic article abstracts |
-| Contemporary Media | Wiki, news articles, blog articles |
+| Pairs | 1,542 |
+| Documents | 97 |
+| Batak Toba / Indonesian words | 24,377 / 21,486 |
+| Human-validated pairs (`validasi_manusia = ya`) | 182 (11.8%) |
+| Automatically aligned pairs that passed the audit | 1,360 |
 
-The religious domain remains relatively dominant in this initial version. Domain balancing and the addition of spoken data are part of the planned follow-up work.
+Inter-annotator agreement on the 145 flagged pairs:
+
+| Scenario | Agreement | Cohen's kappa |
+|---|---|---|
+| Original labels of both raters | 37.9% | 0.088 |
+| After label reconciliation by rater A (basis of adjudication) | 46.2% | 0.170 (95% CI 0.06 to 0.28) |
+| Reconciliation rule applied to both raters | 51.7% | 0.156 |
+
+Agreement is slight, especially on high-priority pairs (kappa 0.029, n = 89). The parallel corpus therefore relies on adjudication rather than direct agreement, and only 182 pairs can be considered human-validated. Details are in [data/iaa/](data/iaa/).
 
 ### Repository structure
 
@@ -173,20 +262,31 @@ batak-toba-korpus/
 ├── CITATION.cff           Citation metadata
 ├── .gitignore
 ├── data/                  Corpus files (CSV)
-│   └── README.md
+│   ├── README.md
+│   ├── btb_multigenre.csv Multi-genre corpus, version 2
+│   ├── btb_parallel_sentence.csv  Sentence-level parallel corpus
+│   ├── iaa/               Inter-annotator agreement report and gold decisions
+│   └── experimental/      Parallel corpus v1 and audit workbook (notebook input)
 ├── notebooks/             Pipeline notebooks (Google Colab)
-│   └── README.md
+│   ├── README.md
+│   ├── alur_lengkap_korpus_batak_toba.ipynb
+│   ├── pipeline_korpus_multigenre_v2.ipynb
+│   └── panduan_anotator_BTB.ipynb
 ├── metadata/
 │   └── skema-kolom.md     Column definitions and genre taxonomy
 └── docs/
     ├── laporan-teknis.md  Technical report (research deliverable)
+    ├── panduan-pipeline-v2.md  Usage guide for the pipeline notebook
+    ├── panduan-review-anotator.md  Guide for filling in the review sheets
     ├── pengumpulan-data.md  Data collection and curation method
     └── pernyataan-data.md   Data provenance, license, and ethics statement
 ```
 
 ### Data schema
 
-Both CSV files share the same column schema: `title`, `text_bt`, `text_id`, `genre`, `subgenre`, `source_link`, `notes`, `is_parallel`. A full description of each column and the genre taxonomy is available in [metadata/skema-kolom.md](metadata/skema-kolom.md).
+Both CSV files share the same column schema: `title`, `text_bt`, `text_id`, `genre`, `subgenre`, `source_link`, `notes`, `is_parallel`. Version 2 of `btb_multigenre.csv` adds a leading `doc_id` column. A full description of each column and the genre taxonomy is available in [metadata/skema-kolom.md](metadata/skema-kolom.md).
+
+`btb_bible.csv` is not yet included in this repository. See [data/README.md](data/README.md).
 
 ### How to use
 
@@ -194,7 +294,6 @@ Both CSV files share the same column schema: `title`, `text_bt`, `text_id`, `gen
 import pandas as pd
 
 multigenre = pd.read_csv("data/btb_multigenre.csv")
-bible = pd.read_csv("data/btb_bible.csv")
 
 # Keep only rows marked as parallel pairs
 parallel_pairs = multigenre[multigenre["is_parallel"] == "yes"]
@@ -204,7 +303,7 @@ parallel_pairs = multigenre[multigenre["is_parallel"] == "yes"]
 
 | Promised deliverable | Status |
 |---|---|
-| Corpus with at least 100,000 Batak Toba tokens | Achieved (112,340 tokens) |
+| Corpus with at least 100,000 Batak Toba tokens | Achieved when punctuation marks are counted as NLTK tokens (112,465 tokens). Without punctuation: 97,952 words. |
 | Coverage of traditional sources | Achieved |
 | Coverage of modern written sources | Achieved |
 | Coverage of religious sources | Achieved |
@@ -214,9 +313,10 @@ parallel_pairs = multigenre[multigenre["is_parallel"] == "yes"]
 
 This initial version has several limitations that are recorded openly:
 
-1. The religious domain is still dominant. Non-religious texts will be added to balance the domains.
-2. The Bible sub-corpus in this version contains only one chapter per book. A full-chapter version is being prepared as a future update.
+1. The religious domain is strongly dominant (about 75% of Batak Toba words). Non-religious texts will be added to balance the domains.
+2. The Bible sub-corpus in this version contains only one chapter per book, and its file is not yet included. Its Indonesian side uses the Terjemahan Baru (1974) translation, so redistribution permission must be confirmed first. A full-chapter version is being prepared as a future update.
 3. The corpus is not yet enriched with advanced linguistic annotation (standardised tokenisation, POS tagging, morphology, dependency parsing). Annotation enrichment is planned to develop it into a gold-standard resource. The next research will focus on the initial annotation guidelines with Universal Dependencies version 2.
+4. In the sentence-level parallel corpus, only 182 of 1,542 pairs are human-validated, and inter-annotator agreement is slight (kappa 0.170). It cannot be treated as gold-standard as a whole and is not a promised deliverable of this phase.
 
 ### License
 
