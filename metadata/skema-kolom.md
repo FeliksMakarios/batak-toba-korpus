@@ -44,3 +44,17 @@ Sub-korpus Alkitab (`btb_bible.csv`) memakai genre `Religious` dengan sub-genre 
 ## Asal mula skema
 
 Skema ini berakar dari template Google Sheet yang digunakan oleh narasumber dan anotator selama pengumpulan data, dengan kolom: Column 1, Date Collected, Title, Text in Toba, Text in Bahasa Indonesia, Genre Category, Sub-Genre Category, Original Author (Publisher or Person), Source Link, dan Additional Notes (optional). Pemetaan ke skema di atas, beserta seluruh koreksi label dan metadata, dilakukan oleh notebook [`../notebooks/pipeline_korpus_multigenre_v2.ipynb`](../notebooks/pipeline_korpus_multigenre_v2.ipynb) dan tercatat di log koreksinya.
+
+## Label arah penerjemahan (`arah_penerjemahan.csv`)
+
+Satu baris per dokumen multi-genre (104 dokumen). Kolom `arah_otomatis`, `keyakinan`, `alasan_otomatis`, dan `penerjemah_otomatis` diisi otomatis dari `source_link`. Kolom `arah_final` dan `penerjemah_final` diisi peneliti melalui `arah_penerjemahan_periksa.xlsx`.
+
+| Kolom | Isi |
+|---|---|
+| `doc_id`, `judul`, `genre`, `subgenre` | Sama dengan `btb_multigenre.csv` |
+| `n_pasangan_paralel`, `di_korpus_paralel` | Jumlah pasangan dokumen ini di `btb_parallel_sentence.csv` |
+| `domain_sumber`, `source_link_asli` | Tautan sumber. Tautan pengalihan Google (`google.com/url?q=...`) sudah dibuka menjadi URL aslinya |
+| `arah_otomatis` | `asli_toba` (teks asli Batak Toba, sisi Indonesia terjemahan) atau `asli_indonesia` (sebaliknya) |
+| `keyakinan`, `alasan_otomatis` | Tingkat keyakinan aturan otomatis beserta alasannya |
+| `penerjemah_otomatis`, `penerjemah_final` | Penulis sisi terjemahan: `narasumber`, `sumber_asli`, atau `tidak_diketahui` |
+| `arah_final` | Label terperiksa: `asli_toba`, `asli_indonesia`, `campuran`, atau `tidak_diketahui` |

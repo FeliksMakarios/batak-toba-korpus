@@ -31,6 +31,12 @@ Langkah pertama sub-korpus paralel religius: segmentasi kalimat enam bagian Agen
 
 Penyelarasan, deduplikasi, dan pembagian train/dev/test belum dikerjakan di notebook ini. Keluarannya memuat teks Agenda HKBP yang izin redistribusinya belum dipastikan, jadi simpan hanya di Google Drive tim. Notebook ini tidak membutuhkan GPU.
 
+## `eksperimen_mt_batak_toba.ipynb` (eksperimen naskah tahap 2)
+
+Notebook Google Colab untuk eksperimen terjemahan mesin Batak Toba dan Indonesia pada korpus paralel tingkat kalimat. Isinya: audit varietas, pembagian data berbasis dokumen, *baseline copy-source*, NLLB-200 dan MADLAD-400 *zero-shot*, *fine-tuning* NLLB-200 pada lima konfigurasi data, LLM *zero-shot* dan *few-shot*, evaluasi otomatis per arah penerjemahan asli, lembar ESA untuk dua penilai, serta paket hasil untuk naskah. Notebook butuh GPU (A100 disarankan). Setiap tahap menyimpan *checkpoint* di Google Drive, dan pelatihan serta penerjemahan dapat dilanjutkan setelah sesi terputus.
+
+Sebelum menjalankan notebook, periksa dan lengkapi [`../metadata/arah_penerjemahan_periksa.xlsx`](../metadata/arah_penerjemahan_periksa.xlsx), lalu unggah ke folder `input/` notebook.
+
 ## `pipeline_korpus_multigenre_v2.ipynb` (arsip)
 
 Versi sebelumnya. Tahap 1 sampai 5-nya sama dengan notebook utama. Tahap 6 sampai 10-nya berisi eksperimen penyelarasan ulang dengan LaBSE yang tidak dipakai, karena anotasi manusia akhirnya dilakukan pada korpus paralel v1. Panduannya ada di [`../docs/panduan-pipeline-v2.md`](../docs/panduan-pipeline-v2.md).
