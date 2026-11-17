@@ -1,0 +1,401 @@
+{"sidik": "4de1b1f46aed60dd6e8459c749857e4fe798c8e2631a02721a6dcb28df2b59dc", "parameter": {"run": "ft_nusatranslation_s42", "fine_tuning": {"model_dasar": "facebook/nllb-200-distilled-600M", "dua_arah": true, "epoch": 5, "laju_belajar": 0.0001, "porsi_warmup": 0.1, "ukuran_batch": 16, "akumulasi_gradien": 1, "panjang_maks": 128, "simpan_tiap_langkah": 1000, "hapus_bobot_setelah_selesai": true}, "benih": 42, "dekode": {"beam": 5, "ukuran_batch": 32, "panjang_maks_sumber": 128, "faktor_panjang_keluaran": 1.5, "tambahan_panjang": 10, "panjang_maks_keluaran": 256}, "kode_bbc": "bjn_Latn", "data_latih": {"nusatranslation": "007303e3a596f6684831ce816d4e781b7c88a1b10b8904d7e48c6f8af4d62c29"}}}
+{"uji_id": "nx-test-0200", "hipotesis": "pas jenuh rap oleh khas bandung na madung adong,maka roti bakar tunggal bisa jadi pilihan.au jotjot manabusi roti marie na dibakar rap rasa na yuummy,juo roti bakar rap rasa keju sanga coklatna.biasana au manabusi di counter roti bakar tunggal di paskal hyper plaza.harga nai memang agak mahal,tai au rasa hampir sarupo rap panganon oleh-oleh.jadi olo inda bisa juo didokkon mahal.baru toh rasona tabo."}
+{"uji_id": "nx-test-0022", "hipotesis": "restoran on ima sada destinasi kuliner na wajib i kunjungi anggo tu bandung.selain panganon na sattak memanjakan lidah panganon sunda, restoran on juo dibangun rap konsep mangan santai di bagasan saung na dikelilingi alam hutan rap pegunung na dihiasi pepohonan rindang rap dihibur oleh gemericik aek sungai sehingga manawarkon pengalaman kuliner na sattak mengesankon.akkon dicoba giot isepe na tu bandung."}
+{"uji_id": "nx-test-0297", "hipotesis": "au ngen bali,hapengan lagi liburan tu kota bandung,pas lagi donok kantor gubernur jawa barat alias donok gedung sate,hami disugest mangan dibancakan harana donok.dung masuk hami pe dilehen piring ngen kaleng na madung inda deges be,rakku markarat.akhirna hami mamilih panganon na hita suka,rap ratusan lalat tarbongan tu idia harana madung tarlanjur hami pe totop mangan.sattak dursun"}
+{"uji_id": "nx-test-0151", "hipotesis": "kafe on puna arsitektur bangunan na sattak deges.harana penasaran,au meluangkan waktu berkeliling sambil mamette panganon ro.adong galeri na penuh rap koleksi-koleksi kayu rap diluar galeri,tarida pemandangan bandung ngen ketinggian.di sekitar bahat juo karosi tarbuat ngen kayu rap juo batu.ngen sisi panganon,harga termasuk relatif standar sasuai rap cafe-cafe.au suka suasana."}
+{"uji_id": "nx-test-0091", "hipotesis": "markesempatan manikmati santap manyogot harana lagi manginap dihotel on.sebagai pengunjung baru songon au rap rakku na lainna rakku akan antusias tarhadap suasana santap manyogot na diwarnai rap pemandangan ngen sisi timur,harana ngen sisi tersebut adong keindahan bangunan hotel berikut kolam renangna.selain i juo adong barisan bukit rap pegunung akan manambah keinginan giot marfoto ria."}
+{"uji_id": "nx-test-0066", "hipotesis": "hami dalam pardalanan tu lembang dalam keadaan lapar.pas maligin saung pengkolan on hami langsung so mangan.hita mamilih lesehan dilante 2 sehingga mandapotkon pemandangan na indah.pesanan hami ima cumi goreng tepung,gurame goreng crispy,tumis genjer rap dua menu tahu na au lupa goarna.keseluruhan inda adong na istimewa ngen hidangan i.rakku pilihan ku.lanjut"}
+{"uji_id": "nx-test-0281", "hipotesis": "Inganan mangan dohot nuansa doraemon. Arga ni sipanganon na mura jala godang pilihan. Inganan na dang pala bidang alai menak. Di lante 2 di bahen songon bilut ni si nobita lkp dohot meja marsiajar masin waktu dohot pintu tudia sajo. Godang boneka ni si doraemon dohot komik-komik na boi i baca tingki paimahon sipanganon. Asing ni i sambil manikmati siallangon hita boi manonton film ni si doraemon. Dakdanak hu sonang mangan. Lanjutan"}
+{"uji_id": "nx-test-0282", "hipotesis": "au tu kafe dipakar rap keluarga,pemandanganna memang keren doma.pangananna juo tabo-enak.giot maradian manikmati sajian rap pemandangan dipakar sattak manyonangkon.hita tusadun ari minggu,rap sattak rame pengunjung.tai inda mamette leleng,hita langsung dapot meja.giot panganon,dung hita mamesan inda porlu mamette leleng,panganon madung ro.giot foto-foto juo sattak deges."}
+{"uji_id": "nx-test-0003", "hipotesis": "Inganan di braga city walk na sada gedung dohot Aston dohot fave hotel, inganan on lambok hian tu kongkow-kongkow. Kopi campur teh na parjolo hu nikmati hape tabo hian, dipadu dohot telur satonga matang gabe pandamping manghatai dohot dongan-dongan. Area na bebas marisap angkian pasonanghon sambil manikmati pemandangan dung i lalang halak-halak na haluar masuk mall on."}
+{"uji_id": "nx-test-0108", "hipotesis": "Nasi goreng mafia na adong di dalan setiabudi hami pilih ala naeng mangalului sipanganon na hatop. Ditamba ima salah sada kuliner na wajib di kunjungi di bandung. Au mamillit nasi goreng na favorit dison ima nasi goreng bandit sahat tu tingkat kepedasan di level 3. Sipanganon na disajikan cukup hatop, alai sayangna nasi goreng na hu pesan nasina karas, bumbu rempahna tertutup."}
+{"uji_id": "nx-test-0011", "hipotesis": "The peak marlokasi di donok lembang, dataran ginjang di bandung na sejuk rap lokasi na sattak pade namun dalan giot mancapai tempat on sattak markelok disertai tikungan tajam na curam,inda disarankon giot berkendara pas udan rap borngin. Di the peak adong restoran rap pemandangan kota bandung na indah ngen bukit,harga panganon na sattak mahal rap sattak inda sasuai."}
+{"uji_id": "nx-test-0062", "hipotesis": "Tempatna cukup unik, ras panganon standar, menu na ditawarkon juo biasa, hanya saja na menarik tempat rap keunikananna, cara manggora pelayananna dengan mamukuli kentungan,. Au pas tuson pas borngin, ditamba udan, udara na cukup ngali manusuk tulang, soppat mamette kira-kira 15 menit anso bisa dapot tempat, harana penuh blok pada saat i. Disarankan anggo giot tuson sore-sore."}
+{"uji_id": "nx-test-0262", "hipotesis": "Menu masakan na disajikan lumayan marvariasi rap rasa na lumayan tabo, jumlah pelayanan rap waktu pelayananna pe cukup pade sehingga hami puas mangan siang disadun, hanya tata letak restoran na lantaina marvariasi manaek-turun sehingga akkon ekstra hati-hati tu orang tua rap anak menek, semoga bisa mur ditingkatkon pelayanan rap variasi menu na. Sukses pupu tu boemi mitha."}
+{"uji_id": "nx-test-0025", "hipotesis": "bagas mangan di dalan anggrek on puna istimewa jenis seafood na beragam rap adong na leng mangolu giot dipilih rap dimasak saat i juo.maragam jenis masakan bisa dipilih rap waktu mamette na singkat mambuat hita inda tarlalu leleng kelaparan mamette.menu kerapu kukusnai sattak tabo rap guris,apalagi anggo dimasak rap ikan na leng segar.lokasi cukup sejuk,harga murah."}
+{"uji_id": "nx-test-0305", "hipotesis": "au tarmasuk salah sada halak na cukup setia rap kampung daun ngen awal buka di taon 2003 anggo inda salah,kualitas panganon mulana oke,tai semenjak mur rame rap mur tuson,panganon na disajikan inda songon na biasana rap kadang pelayan tarkesan cuek doma,hita mamesan beberapa jenis panganon tai na ro madung rap kondisi ngali rap inda menarik,tempat menarik."}
+{"uji_id": "nx-test-0171", "hipotesis": "Tu ho na mangalului resto dohot suasana na romantis dang sala be tu son sajo. Jala molo rendah ho pas-pasan pesan sajo menu na ringan-ringan. Unang tarsonggot dohot gambar di bukku menu molo dang olo manolsoli. Menu sukina lobi oke alai songon dia mahua dao dao marmacet ria tu son holan mangalului i. I kota lobi afdol songon na. Pemandangan jogja borngin maniop."}
+{"uji_id": "nx-test-0122", "hipotesis": "Tarletak di tepi bukit, tempatna bidang, manyonangkon rap nyaman.mamuna pemandangan na manyonangkon mata,songon gunung,parkebunan,rap kota bandung anggo diligin ngen ginjang.pekarejona cekatan rap ramah.menu panganon didominasi ngen menu steak abope adong juo menu nasi goreng,gurame,rap na lainna.restaoran na direkomendasikan giot dikunjung hatia ro tu bandung."}
+{"uji_id": "nx-test-0114", "hipotesis": "au ro tu resto saulidi on harana rekomendasi ngen internet na unjung au baca bahwa pemandangan na sattak deges rap tempat mangan tepat di sawah na mambuat au tertarik giot ro tu tempat on.namun hatia au sampe sude hal marubah manjadi buruk,mulai ngen tempat parkir na bisa didokkon tarsedia,jalan akses sego rap menekna tempat akses."}
+{"uji_id": "nx-test-0295", "hipotesis": "au rap keluarga mangan borngin ditempat on harana selain menu utama batagor adong menu na lain.au hanya mamesan 2 menu na akhirna ro dung 45 menit,i pe dung beberapa kali au manyapai.ngen segi rasa beberapa menu na sebelumna unjung au cubo lumayan tabo.saran sebelum mamesan lobih pade manyapai sadia leleng pambangunan menu na dipesan"}
+{"uji_id": "nx-test-0112", "hipotesis": "Hami mangunjunghon inganan on ala inganan na jonok tu inganan nami marborngin. Hami mamesan aek bakar dohot pasta. Aek bakar na tabo, godang pilihan, jala dang pedas, boi tu dakdanak. Sedang aek pasta holan sada macam, alai rasana pe tabo. Arga sipanganon pe dang arga jala tarjangkau tu sipanganon di toru 30 ribu. Di inganan on pe gratis wifi."}
+{"uji_id": "nx-test-0009", "hipotesis": "giot manuju tu puncak memang taraso amana dao ngen pusat kota bandung,baru aksesna na agak mambingungkan rap dalan menek markelok-kelok.namun ho rakku inda akan tarsesat harana hampir di satiop belokan adong signage manuju tu puncak.tempatna sattak deges tu ho na manjalaki suasana borngin romantis,rap pemandangan borngin kota na luar biasa."}
+{"uji_id": "nx-test-0206", "hipotesis": "warung mangan na madung hadir sejak leleng rap madung manjadi semacam legenda,rakku sannari madung mambuka cabang.tarkenal harana konsistensi rasona selama marlota-taon,abope bangunan asli madung dipugar tai keaslian leng totop dijaga rap totop susah parkir.beberapa waktu terakhir adong saotik perubahan hatia umak koki utama madung inda tarligin be."}
+{"uji_id": "nx-test-0156", "hipotesis": "au marbadai-badai ngen bogor 7 jom demi mangan sup buntutna tai au mamette ngen jom 8.30 napedo mambuka juo.akhirna au ro jom 10.00.pesan sup buntutna napedo adong dengan alasan naborngin rame jadi koki na leng tepar.wow alasan macam aha songoni? beda doma waktu au mangan 1 taon lalu olo.tempat sattak dursun songon inda niat adong usaha."}
+{"uji_id": "nx-test-0126", "hipotesis": "Dung salpu marbelanja, hami mamutuson laho mangan di warung tenda pinggir dalan. Dibagasan pardalanan mulak tu hotel, hami mamolus dalan na gelleng laho manghindari macet, jala pajuppang warteg on. Tikki ro rame hian! Hami ingkon antre satokkin. Hami mamesan nasi uduk, manuk bakar madu, usus, kol goreng. Rasana tabo! Manuk bakar maduna parah mambahen hatagihan hian!"}
+{"uji_id": "nx-test-0261", "hipotesis": "Resto on puna suasana na menak dohot gaya huta tradisional. Lobi cocok di kunjungi tingki potang sahat borngin di suasana lobi romantis dohot cahaya temaram sian obor dohot api unggun. Sipanganon na disajikan marvariasi sian sipanganon indonesia sahat tu european sipanganon serba adong. Sonang cocok laho manghabiskon tingki dohot dongan manang keluarga."}
+{"uji_id": "nx-test-0174", "hipotesis": "Parjolo tu son i marayahon haporseaon ni anggihu, inganan na i, bagak hian. Desainna pe unik, bagak, menak, menak, cocok hian laho mangan borngin dohot keluarga, pasangan, saudara, dohot dongan-dongan, pamerengan na pe bagak, siallangon na pe tabo-tabo. Arga sarupa dohot pelayananna, dang manolsol tu son. Tung mansai-tingn direkomendasihon."}
+{"uji_id": "nx-test-0253", "hipotesis": "Mumpung lagi mardalan-dalan tu bandunh sekalian manyempatkan mancoba batagor na paling tabo di kota kembang on sampe inda sodar hami mamesan lobi bahat ngen kapasitas mangan hami nadua: Bakso tahu goreng, siomay goreng rap batagor kuah, manuk kremes, rap es cendol rap hami leng akkon mambungkus mulak tahu Yun yin pesanan hami akhirna."}
+{"uji_id": "nx-test-0397", "hipotesis": "Panghobasion denggan, inganan parkir lumayan bidang, kebun stroberi bidang jala godang stroberi na nungga cukup rara laho dipetik. Sipanganon di restoran marmaccam hian, rasana tabo, sambal stroberna unik jala tabo. Nasi liwet stroberi ikkon di coba. Sahat on sude menu na huallang ndang adong na mengecewahon tung rekomendasi tu wisata keluarga"}
+{"uji_id": "nx-test-0249", "hipotesis": "salah sada tempat mangan rap tempat nongkrong na direkomendasihon dongan na oke doma.tempatna memang lumayan manaek anggo ngen kota,rap agak masuk masuk sampe inda tarligin anggo ngen dalan utama.tai panganonna tabo,tempatna asik,harga juo standar.leng sesuai rap harga ma.tola ma anggo tu malang ro tuson buse."}
+{"uji_id": "nx-test-0041", "hipotesis": "mancoba giot buka puaso dison.dengan harga na tartanggo mahal diantara hotel marbintang sakalasnai,rasa na ditawarkon sattak mengecewahon.pastina hambar,panganon lain juo hambar.sattak marbeda rap na biasa ditawarkon.rap pelayanan juo hurang profesional pas melakuhon pambayaran dengan manggunahon kartu kredit."}
+{"uji_id": "nx-test-0160", "hipotesis": "Inganan na di dalan parjolo mambahen murahon hami asa sahat tu inganan na, molo dang puna kendaraan pribadi inganan on boi dijangkau dohot kendaraan umum. Menu panganonna bahat hian jala adong piga-piga menu na parjolo hu dapot di kedai on, rasana pe tabo dohot arga na standar, inganan na tung menak."}
+{"uji_id": "nx-test-0070", "hipotesis": "tanggal 12 Februari ima ulang tahun gandak ku,rap au mangajak ia giot mangan di sebuah restoran na terkenal di surabaya.au giot malehen kado ulang tahun dengan mangan na tabo disadun.tai.saat i au ro kira jam satonga 3.tempat penuh sehingga hami akkon mamette.daftar mamette pada saat i sakitar 4 meja."}
+{"uji_id": "nx-test-0050", "hipotesis": "tu malam minggu disadun pasangan dilehen tempat na inda nyaman,harana pas halak lewat disadun tempat hami goyang goyang,lobih tepatna mirip songon warung pinggir dalan.inda sasuai rap harga panganon na disajikan,seharusna pasangan juo dilehen tempat na deges inda sembarang tarimo tamu rap tararuh di tempat songoni."}
+{"uji_id": "nx-test-0140", "hipotesis": "giot mandapotkon batagor na otentik,ho inda porlu dao-dao manjalaki ia tu pelosok,cukup arahkon kendaraan tu dalan ngen djunjunan,hita dapot manikmati batagor asli na tabo rap tempat na nyaman.rasa batagor na ditawarkon sattak manggugah selera harana batagor disajikan garing-garingnai serta disiram kuah kacang na segar"}
+{"uji_id": "nx-test-0212", "hipotesis": "giot mangan sambil manikmati suasana paris? inda usah dao dao tu prancis,cukup tu paris van java alias bandung.braga parmai on rekomendasi doma giot mangan sambil santai-santai.panganonna tabo,harga masuk akal rap suasana nyaman doma apalagi meja na diluar.mangan sambil manikmati suasana bandung tempo jolo."}
+{"uji_id": "nx-test-0162", "hipotesis": "Tempat on salah sada tempat favorit ku giot maligin bogor di borngin ari,dengan suasanana na nyaman disertai rap panganon rap minumanna serta pelayananna na ramah. Cahaya kota na botul-botul jeges bisa diligin ngen dison.tempat na rekomendasi giot manghabiskon waktu rap pasangan, keluarga sanga dongan."}
+{"uji_id": "nx-test-0229", "hipotesis": "Suasanana di tempat on sungguh luar biasa. Tingki i hami ro tu senja manjelang borngin, dohot mandapot ruang na manghadap tu aek terjun. Gemericik aek terjun dohot suasana parhuta manambah tabo suasana mangan borngin hami tingki i. Sipanganon i taridahon dohot gaya tradisional jala rasana cukup menarik tu lidah nami."}
+{"uji_id": "nx-test-0266", "hipotesis": "Dang songon na godang restoran dohot kafe na asing, konsep tempatna dibahen unik. Godang lampu-lampu, lukisan, semi antique. Sipanganon dohot si inumon lumayan lumayan tabo, na mambahen tarsonggot tingki mamereng daftar menu na. Argana wuooow pas hian di kantong. Jala na pasti arga mura ndang mambahen rasa gabe asing, tongtong tabo dohot kualitas."}
+{"uji_id": "nx-test-0177", "hipotesis": "Bandung tarkenal sebagai tempat produksi tahu lokal rap kualitas prima,salah sada na terbaik bisa dijalaki di warung talaga.halai adong pabrik sandiri di dalan Jendral sudirman,tai pengembangan bisnisna manjadi sajian kuliner juo.adong berbagai pilihan sajian tahu.sattak direkomendasikan tu pecinta kuliner."}
+{"uji_id": "nx-test-0165", "hipotesis": "restoran margaya zaman najolo.adong tampilan kue-kue,es krim juo.suasana nyaman.panganon khas bagas.bisa giot rombongan sangape rap kaluarga.manganna tabo.mangan ula na tabo.mangan torus oncomna juo oke.mangan eropa,asia,nusantara tarsedia dison. tinggal pilih.anak-anak suka mangan es krimna dison."}
+{"uji_id": "nx-test-0344", "hipotesis": "Haccit roha tu pelayanan na dilehen hotel bintang opat on. Tingki au manginap di hotel i, ahu mandapot panghobasion na hurang pas sian panghobasion na adong. Ditamba muse dohot kamar mandi na ndang adong tisuna. Hape arga na lumayan arga. Alai ndang dos tu pelayanan na dilehen."}
+{"uji_id": "nx-test-0309", "hipotesis": "Sumpah, manolsoli hian mambahen orderan via aplikasi on. Boi-bisa na e-ticket dang dilehon. Jala proses konfirmna leleng. Parjolo hea mangalami hal na hampir sarupa di aplikasi sebelah, alai pelayananna hatop hian langsung mangalean solusi. Ndang ingkon sahat telepon layanan pelanggan 4 hali."}
+{"uji_id": "nx-test-0342", "hipotesis": "mansai mengecewahon, au mamesan tiket baru madung hu bayar,padahal waktu i napedo habis pas au transfer,tai sampe sannari napedo dilehen kode bookingna, malah dilehen notifikasi madung habis,lalu hepengna larina tudia,pas au hubungi lewat email hanya ditanggapi sahali sajo."}
+{"uji_id": "nx-test-0078", "hipotesis": "restoran alas daun mangaladeni menu khas sunda na inda dao marbeda rap restoran khas sunda na lainna,tai na mambaen marbeda ima tanpa piring,rap hanya dilehen daun pisang na ditaruhon di meja sebagai gotti piring.jadi mirip halak di india na mangan maralaskon daun pisang."}
+{"uji_id": "nx-test-0189", "hipotesis": "ngen bahatna restoran sunda di bandung,menurut ku siigane salah sada favorit ku.au suka harana manukna khas,digoroknai inda tarlalu kering.lalu sambalna pe inda kalah tabo.menu na lain juo tabo.tempatna songon bagas,inda tarlalu godang tai cukupma,baru juo ias."}
+{"uji_id": "nx-test-0131", "hipotesis": "baru mamboto tentang tempat on ngen dongan,waktu hami ro pengunjungna inda tarlalu bahat,jadi hami mamilih giot juguk dilante kadua sambil manikmati pemandangan diluar.borngin i lagi adong pertunjukan musik,au hurang mamboto sanga pertunjukan musik on adong satiop ari sanga inda."}
+{"uji_id": "nx-test-0019", "hipotesis": "au berkunjung tu restoran i rap dongan ku.dongan ku kebanyakan tarsonggot maligin pamandangan na sattak jeges diborngin.au berkesempatan mancoba steak imporna,sattak tabo apalagi sausnai.mmmm yumma.anggo adong kesempatan porroa au berkunjung buse tu sadun."}
+{"uji_id": "nx-test-0084", "hipotesis": "pas rapat dihotel sensar,au mamesan batagor riri mamakke aplikasi gofood/gojek.pesanan ro dalom waktu inda leleng harana hapengan paket batagor rap siomay madung di-pack dibagasan plastik vakum.harga na tartera dibagasan aplikasi gojek/gojek napedo termasuk pajak sebesar 10%"}
+{"uji_id": "nx-test-0037", "hipotesis": "hami adong acara mangan borngin tikki i, ice krimna inda dipisahkon rap espresso jadi inda bisa mencampur sasuai selera masing-masing. salmon steaknya juo hurang segar, kulit salmonna karas, maliginna leleng di kulkas sanga freezer. Padahal i menu utama na seharusna tabo."}
+{"uji_id": "nx-test-0144", "hipotesis": "Rumah mangan na mangusung konsep tradisional alias jadul on pantas ho cubo. Asing rasana na pas, warung on mamiliki beberapa hal unik songon piring na dipake ima piring seng zaman najolo berikut gelas minumna. Jenis menuna sattak beragam. Jala sudena tabo tabo!"}
+{"uji_id": "nx-test-0068", "hipotesis": "pas parjolo tu san, meja-meja mulai usang rap juo menu panganon na inda sattak marvariasi.namun hargana inda bisa didokkon murah,harana seharusna rap harga-harga sai anggo dapot na lobih pade.tarutama pas au tu wc,sattak dursun rap marbau inda tabo:"}
+{"uji_id": "nx-test-0136", "hipotesis": "restoran on puna lokasi na prima di bukit na puna udara sejuk rap pemandangan hijau menyegarkon. tangkas tujuan utamona ima masakan khas nusantara na manyonangkon. singkatna, markunjung tu son hita dapot melakuhon sakaligus wisata lidah, mata, rap jiwa."}
+{"uji_id": "nx-test-0319", "hipotesis": "mambege ngen mulut tu mulut tentang restoran on,ngen penasaran,au cubo giot markunjung.tai sayang,anggo menurut au,inda songon aha na bahat dicaritohon halak.rasona biasa-biasa sajo,inda sasuai sajo rap harga nai.songon masakan na baru marsiajar."}
+{"uji_id": "nx-test-0153", "hipotesis": "borngin sekitar jom tujuan diorahon klien tu tempat mangan on,overall sih panganonna lobi bahat na digoreng-goreng songon manuk,babat, usus,ati ampela,tai menurut ku sih rasana biasa sajo,rap minyakna di panganonna tarlalu bahat.tai varianna cukup bahat:"}
+{"uji_id": "nx-test-0395", "hipotesis": "au madung jotjot kali ro manikmati panganon di bagas ni nenek.au suka rap suasanana na nyaman giot mangan rap keluarga.di ari-ari tartentu adong hiburan live musik.panganonna pe puna pilihan na beragam ngen na tradisional,asia,sampe panganon barat"}
+{"uji_id": "nx-test-0085", "hipotesis": "au mangunjung restoran on inda pas jom mangan kotu.tai restorannai cukup rame rap untungna hami bisa copat dapot juguk.sannari juguk panganon rap minuman langsung diladeni.sambal hijauna hurang taraso kapek buat hami.panganon tabo cukup puas mangan dison."}
+{"uji_id": "nx-test-0074", "hipotesis": "salah sada restoran favorit ku di bandung.lokasina terpencil,tai leng tarjangkau.menu panganonna tabo,sondana doma.pemandanganna deges,suasana memang mambaen mata rap lidah sude tarpuaskon.sesai mangan sampe kenyang,jadi porroa modom di saungnai."}
+{"uji_id": "nx-test-0238", "hipotesis": "anggo tu mangkok manuk pasti manabusi kwetiaw siramna,anggo diligin songon na saotik,tai pas dipangan beuh,bahat doma anggo giot porsi ku, kwetiaw siramna leng juara dison daripada pada di tempat na lain,sungguh.sambelna juo sasuai sun rap selera ku."}
+{"uji_id": "nx-test-0290", "hipotesis": "Suasanana asri. Godang manggadis sipanganon. Inganan nongkrong dohot cafena cocok laho maradi. Hami sanga manuhor di supermarket. Argana pe dang mahal. Suasanana di bagasan mallna menak. Acna ngali ma. Jala barang-barang brandedna mantap hian jala godang diskon"}
+{"uji_id": "nx-test-0158", "hipotesis": "akkon cubo giot maradian sanga mangan borngin di the 18th on, pemandangan na didapot pade rap na manjadi daya tarik di the 18th adong lante kaca. Untuk harga cukup taranggap mahal harana berada di trans hotel, tai sebanding rap rasa kenyamanan nai."}
+{"uji_id": "nx-test-0368", "hipotesis": "au tuson rap gandak,tempatna cukup luas rap adong area indoor sarupo diluarna.au juguk ditempat indoor na adong panampilan tu arah luar,jadi adong jandela kaco.giot panganon ku cukup puas.ngen sisi harga memang sebanding rap aha na ditawarkon"}
+{"uji_id": "nx-test-0218", "hipotesis": "manjalaki suasana nostalgia di jogja,tempat on ima pilihan na tepat!menu panganon didominasi panganon-panganon na dipangaruhi gaya panganon belanda.favorit ku steak sirloin.restaoran on juo mamiliki toko roti rap pilihan roti margaya zaman najolo."}
+{"uji_id": "nx-test-0388", "hipotesis": "Sambil mamette waktu pargantian taon hita cubo tuson. Hita paduahon mamesan beberapa sushi. Minumna milktea dohot eskrim vanilla dohot botak kelapa. Tu susina lumayan alai godangan nasina songoni. Alai rasana tabo. Argana tarjangkau."}
+{"uji_id": "nx-test-0237", "hipotesis": "dasar inda mamboto diri mu! marsiajar beladiri inda giot di sombongkon! tai giot malindungi diri sandiri! guru mu sajo ho pukul apalagi orang tua mu! dasar iblis ho, hangoluan di bayar hangoluan! ho adong utang sada hangoluan! rap hangoluan mu na jadi pambayaranna!?"}
+{"uji_id": "nx-test-0396", "hipotesis": "bahat halak na hurang suka giot marubat tu dokter.selain biaya na relatif cukup mahal tu sebagian halak,tu dokter inda selamanya bisa manyembuhkan.bahat dokter na salah diagnosa.penting sanga madung lumrah,toh dokter juo manusia."}
+{"uji_id": "nx-test-0076", "hipotesis": "Menu di tempat on sebenarna sederhana doma tai nampuna nai kreatif. Sajian mie, roti rap panganon penutupna di campur rap berbagai pilihan. Tempatna asik giot markuppul rap dongan-dongan. Untuk hargana inda tarlalu mahal sasuai rap rasona."}
+{"uji_id": "nx-test-0293", "hipotesis": "sebuah musibah baru sajo menimpa kampung adat di bajawa,flores.kebrakan hebat na tarjadi pada senin 13/8 sore hampir manganguskon seluruh kampung.total 27 ngen 33 rumah adat na adong habis dilalap api rap sude carito rap sejarahna."}
+{"uji_id": "nx-test-0077", "hipotesis": "restoran rap metode penyajian marbeda.piring tempat mangan digotti rap lembaran daun pisang.menu panganon khas sunda rap citarasa na tabo.ngen segi harga cukup bersahabat,tempat mangan luas rap bahat pilihan meja,parking cukup luas."}
+{"uji_id": "nx-test-0053", "hipotesis": "Soto kudus on adong di pat lima, parjolo naeng mangan songon na ragu do. Alana naeng mamboto rasa kudus na di coba parjolo. Olo hapengan tabo do, jala adong do pilihan laho campur, pokotna tabo hian ma. Argana murah meriah ma."}
+{"uji_id": "nx-test-0020", "hipotesis": "akses manuju dusun bambu bisa ditempuh kira-kira dalam waktu 1 - 2 jom mamake motor pribadi.markunjung tu dusun bambu diusahakan pas potang ari harana hita dapot maligin jelas pemandangan na adong rap waktu na pas giot mangan borngin."}
+{"uji_id": "nx-test-0026", "hipotesis": "Songon na somal hami torus mangalului kuliner na asing sian na asing, dapot ma hami di inganan on ima the restaurant padma hotel. Hami mamesan menu na adong. Adong sian Indonesia, eropa dohot cinaese, hapengan sude masakanna tabo sude."}
+{"uji_id": "nx-test-0260", "hipotesis": "loja mangkare, loja mangalului inganan hundul, loja hundul. Tu na so adong waktu na leleng jala nungga kelaperan, mendingan ndang tuson. Hu tuson tingki liburan arrayo panganon di ruko-ruko di sekitar son songon na arga jala rasana standar."}
+{"uji_id": "nx-test-0271", "hipotesis": "parjolo mancubo madung disuguhi rap kelalaian pelayan na mambaen hita mamette leleng sajo 4 lagu marcell.torus madung leleng da inda jadi pesan ma.inda peduli giot tabo songon aha anggo pelayananna buruk tarlepas ma na goarna rasa."}
+{"uji_id": "nx-test-0322", "hipotesis": "Adong do pak boasa songon na mamanas-manasi kubu di sebelah do? Unang ma pak, i annon nasida tamba cemburu, iri, dengki, nyinyir, mangambek songon dakdanak gelleng, mangamuk-mangamuk ndang jelas juntrungna jala lammu busuk sajo utok-utok dohot roha na."}
+{"uji_id": "nx-test-0371", "hipotesis": "abope sannari hargana madung melonjak manaek tai porcaya ma anggo pesan nasi padang bungkus di singgalang jaya porsinai badai abiiis.sampe sannari tempat on leng manjadi salah sada tempat manikmati masakan padang favorit ku."}
+{"uji_id": "nx-test-0021", "hipotesis": "Sipanganon na denggan sarupa dohot na asing. Alai nang pe ari libur na balga songon arrayo on dang berarti suping na libur dohot order siinumon, dohot na asing-asing ikkon order marhali-hali. Tolong di jaga hapuasan ni panuhor na. Mauliate."}
+{"uji_id": "nx-test-0080", "hipotesis": "Hu bereng tu restoran on laho mangan borngin dohot dongan. Hu mamesan steak manuk na sebenarna hu lupa namanaya. Rasana sattak biasa sajo, hambar. Manukna tebal jala tarhilala karas jala horing hian. Dang adong na istimewa."}
+{"uji_id": "nx-test-0224", "hipotesis": "anggo tuson au pupu mamesan singkong sambal roa. singkongna digoreng dipadengan rap sambal roa,tap.panganon na lainna juo tabo tai buat au rap kaluarga na paling tabo dison olo mangan singkong sambil minum kopi."}
+{"uji_id": "nx-test-0383", "hipotesis": "Nasi uduk on adong di dalan rajiman jala dang sian potang sahat borngin. Menu na lumayan sederhana, holan nasi uduk dohot marmancam parlengkapna. Somalna ahu mangallang nasi uduk dohot manuk goreng dohot sambal, sambalna dang pala patas."}
+{"uji_id": "nx-test-0392", "hipotesis": "Bubur manuk na lumayan rekomendasi di sakitar ni bandung, inganan na strategis mura dilului, argana dang merogoh kantong, inganan na torus rame ditoruhon angka pangunjung ganup ari karejo manang akhir pekan alana rasana na tabo."}
+{"uji_id": "nx-test-0145", "hipotesis": "Kfc Palembang Square jotjot gabe panyelamat di tingki malungun tingki au manginap di sekitar hotel di lokasi i. Sude jolma lomo rohana tu kfc. Jadi. Kfc di lokasi on menyegerakanhon ho laho mamesan tingki ho malungun di bagasan hotel."}
+{"uji_id": "nx-test-0033", "hipotesis": "cukup momo manjalaki lokasi on, tinggal mangihut sajo arah tu tonga kota.naron di hambirang dalan tarligin parkiran motor na cukup bahat,idia ma tempat kafe on.rasona kafe on memang jarang lungun,bahat doma pengunjung."}
+{"uji_id": "nx-test-0120", "hipotesis": "mangan borngin rap seluruh keluarga di ari ulang tahun suami manjadi sattak berkesan rap suasana na menawan di hotel.pelayanan na sattak ramah ngen mas tianan.inda porlu mamette leleng,panganon rap minuman na dipesan."}
+{"uji_id": "nx-test-0147", "hipotesis": "natuari 10 mart 2015 au diorahon anak ku mangan siang dison.au mamesan udang kremes rap sayur asam.botul botul tabo.rap na spesial dison ima sambalna,pedes tai totop giot manambah. jus blackberryna juo tabo."}
+{"uji_id": "nx-test-0008", "hipotesis": "Terakhir tu hanamasa hargana 120.000/ halak. Alai puasna lobi sian i. Boi mambuat sipanganon sapuasna, alai rasa dang mengecewahon, pistar-pintar hita sajo meracik sandiri. Molo peminat daging sapi pasti lomo rohana tu son"}
+{"uji_id": "nx-test-0321", "hipotesis": "anggo inda adong hepeng giot manabusi komik tai juo porroa nongkrong,ro sajo tuson.koleksi komiknai lengkap.panganon minumnai sebenarna hanya fasilitas tambahan,tai cukup lumayan.harga juo murah khas mahasiswa."}
+{"uji_id": "nx-test-0061", "hipotesis": "Mangallang pat ni hambirang na empuk dohot lumayam na balga tu ukuran medium, pas tu sada jolma, mangallang dang adong nasi, dohot es ni lemon teh. Segar hahurangan na holan inganan na berasap, wajar kan goarna pe hambirang na bakar hehehe"}
+{"uji_id": "nx-test-0376", "hipotesis": "letakna cukup nyaman,adong di dalan sudirman na donok rap pilihan tempat belanja,ngen resto pe cukup donok tu tempat i.panganonna tabo,pilionna bahat jadi inda tarlalu mambosanan.tempatna juo nyaman"}
+{"uji_id": "nx-test-0027", "hipotesis": "olo i na mambaen au muruk.on inda kesalahan sang pelamar tai jelas 100% kesalahan pihak na di ginjang na sanga bia cara ni halai berkordinasi.manyesek au i abope on kasus dongan ku na dilampung."}
+{"uji_id": "nx-test-0373", "hipotesis": "Tarletak di festival city link mall, resto on mangaladeni sipanganon cina sipanganon a la carte jala dimsum. Rasa sipanganon lumayan oke, inganan lumayan bidang do jala godang keluarga marsantap dison. Favorit hami udang mayonaise."}
+{"uji_id": "nx-test-0017", "hipotesis": "inda mangarti da asi resto on menduduki ranking 12 ngen 1800-an resto na adong di jakarta.harga mahal!tempat tersembunyi,rap ras panganon biasa sajo.ulang tarlalu porcaya rap review na manyesatkan ma."}
+{"uji_id": "nx-test-0381", "hipotesis": "Inganan parkirna hurang bidang. Jala menyebalhon hian molo tingki hita mangan dung i disuru laho pinda motor alana adong jolma na asing na sidung mangan jala ikkon haluar kendarana. I tung manganggu."}
+{"uji_id": "nx-test-0179", "hipotesis": "salah sada menu favorit ku ima mcflurry aneka rasa selain menu paket rap dua manuk.menurut ku,manuk mcd mamiliki citarasa tersendiri dibagian dadana pe mamiliki tekstur na lembut rap bumbuna guar."}
+{"uji_id": "nx-test-0100", "hipotesis": "hami tu kafe on giot mangan serabi.serabina bagi hami tarlalu tebal di bagian tonga.bahat doma pilihan topping serabi sampe pusing mamilihnia.hapengan hargana lobih mahal ngen warung setiabudi.kecewa."}
+{"uji_id": "nx-test-0258", "hipotesis": "restoran on pupu top.suasana nyaman doma giot mangecet rap dongan, saudara sanga pasangan.panganonna juo tabo.abope au biasana inda mangan borat.soalna paling suka tu sonari manuju borngin"}
+{"uji_id": "nx-test-0176", "hipotesis": "Wow botul-botul tarsonggot tu layanan satuan pengamananna tu bromo malang. Botul diskrimosi doma. Molo hita holan naeng informasi tentang produk nasida. Hita disepelehon. cenderung mangusir. Hacewa doma!"}
+{"uji_id": "nx-test-0273", "hipotesis": "order soto rap igak bakar,ditamba suasana na ngali.rasona tabo rap diladeni rap ramah rap mbak diah,tisna,echa.madung dua kali ro tuson rap pupu puas rap kualitas panganon rap pelayanan:"}
+{"uji_id": "nx-test-0087", "hipotesis": "Terakhir au mangan pesan via delivery order. Anak ku sattak suka perkedel isi daging-na. Restoran zaman najolo na sattak tarkenal. Harga na cukup tarjangkau kantong rap ras masakan na cukup tabo."}
+{"uji_id": "nx-test-0357", "hipotesis": "hami sakamili manempatkon diri mancubo mangan ditempat panganon on songon sarang na sude kaco-kaco na ditutupi oleh ranting-ranting na merambat. eksotik, unik, keren doma rap panganonna pe tabo."}
+{"uji_id": "nx-test-0204", "hipotesis": "pelayananna sattak deges,sattak mamuaskon dari segi tempat,ligin doma bisa maligin pemandangan kota diborngin ngen segi panganon,tarbaik! panganonna tabo doma inda malungun giot ro tuson."}
+{"uji_id": "nx-test-0327", "hipotesis": "au mangihut lomba blog cinta rupiah bank indoneisa -net media rap madung men - submit artikel pada 22 Desember 2017 lalu,tai sampe sannari status artikel ku leng unpublished.mohon penjelasanna."}
+{"uji_id": "nx-test-0101", "hipotesis": "steak murah, cocok giot na budgetna menek tai porroa panganon murah rap kenyang, selain steak juo panganon lainnai tabo rap murah. Suasana lumayan rame, biasana bahat keluarga sanga daganak sikolahan."}
+{"uji_id": "nx-test-0230", "hipotesis": "hargana tarlalu godang,padahal panganon na dijualkan mangan indonesia umumna.padahal giot manikmati panganon sejenis di tempat lain dao lobih murah.mangan goreng sajo dison arga doma doma!kesal."}
+{"uji_id": "nx-test-0377", "hipotesis": "Resto on puna menu na marmancam alai godang menu Cina jala halal. Mi manuk jamur dohot nasi hainna tabo jala direkomendasihon. Bebekna pe tabo. Resto on saonari adong cabang di Istana Plaza."}
+{"uji_id": "nx-test-0113", "hipotesis": "giot mandapotkon pemandangan na deges rap cahaya lampu warna-warni,sebaikna markunjung pas borngin.harana mamiliki latar belakang pemandangan jambatan pasupati na merupakan simbol kota."}
+{"uji_id": "nx-test-0198", "hipotesis": "Na mangorahon GBK dibahen venue konser tu songon-songon hian ma. Rumput di lapangan ise na naeng pelihara molo dang adong hepeng konser. Dang dope kursi na lomo roha dirusak supporter bola. Aduh."}
+{"uji_id": "nx-test-0029", "hipotesis": "Sipanganon dison tabo- tabo dohot godang variasi. Sude tabo dohot pemandangan bagak. Panghobasion na maksimal sian mbak diah dohot gina sian parjolo ro sahat tu sidung, diladeni dohot denggan hian."}
+{"uji_id": "nx-test-0244", "hipotesis": "kafe on, puna beberapa cemilan na top doma, mamboto di lumboenk rap vulkano risols goarna. sensasi unik ngen tampilan rap rasana mambaen giot buse giot buse, bagi na penasaran tola di cubo dah."}
+{"uji_id": "nx-test-0161", "hipotesis": "Inganan on dang cocok tu keluarga na mamboan dakdanak. dalan na tung curam. Tu anjungan foto di ruar holan boi diisi max 10 halak alai godang dope na mamaksa naik laho marfoto."}
+{"uji_id": "nx-test-0094", "hipotesis": "au rap dongan karejo sengaja mancubo mangan siang dison,giot tempat tarbilang cukup nyaman anggo dilante ginjang.rasa manuk bakar dison sattak urrekomenkonkon rap sambal mangga."}
+{"uji_id": "nx-test-0107", "hipotesis": "mangan rap kaluarga akan lobi manyonangkon rap sude fasilitas na adong.lokasi na deges,panganon na cukup tabo rap beragam pilihan.rap pemandangan rap suasana jadi andalan"}
+{"uji_id": "nx-test-0166", "hipotesis": "salah sada goar ni batagor na tarkenal di bandung. rasana nikmat,giot harga per buahna rp. 10 ribu.order 3 buah giot ku cukup manyangkon harana ukuran na per buahna cukup godang."}
+{"uji_id": "nx-test-0042", "hipotesis": "au pe bingung da,pendukung tokoh i hampir sudena sampe bisa na cuma maki-maki,fitnah,kata-kata kasar,mambabar isu palsu,mangutamkon emosi,akal sehat inda unjung dipake."}
+{"uji_id": "nx-test-0188", "hipotesis": "sate kambing H. Ihsan on cukup terkenal di tegal. anggo inda bisa manuru lokasi di pusatna. ho bisa juo mandapotkon sate kambing H Ihsan di beberapa tempat mangan di kota tegal."}
+{"uji_id": "nx-test-0223", "hipotesis": "Inganan na unik. Sambil mangan di pasidunghon tong do inganan na serba unik. Godang batang ni kayu dohot galerina. Tu dakdanak pe unang holsoan. Adong mainan ni dakdanak na. Gabe mangan gabe lobi santai"}
+{"uji_id": "nx-test-0111", "hipotesis": "Pemandangan na parjolo di ski lounge greatia on memang boi paluahon loja mu. Bahkan boi do, angka wisata mangalului area on parjolo, dibandinghon maristirahat di kamar."}
+{"uji_id": "nx-test-0139", "hipotesis": "salah sada restoran seafood terbaik di kota on.sebaikna ro pas liburan ari sabtu,kepiting leng deges baru ro.harga bersaing,inda murah memang tai inda kemahalan kok."}
+{"uji_id": "nx-test-0209", "hipotesis": "giot manuju tu tempat on dalanna sattak macet rap dao ngen pusat kota.sampeanna disadun inda adong hal na spesial na mambaen pardalanan dao tarbayarkon.menu na biasa sajo."}
+{"uji_id": "nx-test-0259", "hipotesis": "Menu na hita pesan udang, sapi, sop sude tabo, sempurna dimasakna, rasana pas, kualitasna timbo. Inganan bidang, pelayanan oke hian. Sude lambok jala lambok tu dakdanak"}
+{"uji_id": "nx-test-0104", "hipotesis": "hotel giot check-in sajo ribet.mamette harana paiaskon kamar leleng doma,malungun dah.on pertama kalinya au tusadun.torus langsung dilehen first impression na inda deges."}
+{"uji_id": "nx-test-0118", "hipotesis": "restoranna adong panampilan aek terjunna,tempat mangan marupa saung.saungna adong bahat ngen toru manaek sampe tu ginjang,mur tu ginjang mur tarligin panampilan aek terjunna."}
+{"uji_id": "nx-test-0254", "hipotesis": "Mancoba mamesan shabu-shabu, menu baru di gading resto. Kualitas rasa cukup tabo, arga tarjangkau buse. Rekomendasi anggo mamboan tamu sanga sakadar mangan borngin rap keluarga."}
+{"uji_id": "nx-test-0399", "hipotesis": "mamette manganna leleng doma,waiterna galak,pas manganna pas i au mamesan pizza ro eh guttur sampe kasirana pe pas au mambayar inda mikim,pelayananna payah."}
+{"uji_id": "nx-test-0103", "hipotesis": "Inganan on tung manarik hian, panatapan na bagak, adong arena marmeam di ruar tu sahalak keluarga. Sangat disaranhon tu keluarga dohot dakdanak gelleng. Sipanganon halal dohot menu marvariasi."}
+{"uji_id": "nx-test-0028", "hipotesis": "pelayananna agak leleng,tai suasana na dilehen keren rap unik,jadi sambil mamette panganon bisa manikmati suasana di resto on,menu na disajikan beragam rap tabo,"}
+{"uji_id": "nx-test-0285", "hipotesis": "au suka mangan dison harana menu manuknai tabo rap empuk,sambal pas di lidah rap suasana restorannai juo nyaman.selain i pelayanan juo deges rap harga tarjangkau."}
+{"uji_id": "nx-test-0350", "hipotesis": "bakso dohot ceker manang pat manuk ima sensasi na luar biasa. tabo hian ma pokotna asing ni bakso godang dope menu na asing. Pokotna direkomendasikan hian ma"}
+{"uji_id": "nx-test-0052", "hipotesis": "lean sagodang godang na.anso halak on diproses.malungun maligin video mangido maap sambil tangis-tangis baru mangadu tu umak baru mandokkon anggo perlakuan i inda sangajo."}
+{"uji_id": "nx-test-0316", "hipotesis": "maap,inda nomor ku sajo na songoni,au marsapa sude na dipake di daerah i,mangkatai hal na sarupo,leng inda ra mangaku juo anggo memang sinyalna na joko"}
+{"uji_id": "nx-test-0367", "hipotesis": "Bubur Ahong on tabo diallang tikki mangan borngin. Godang menu na asing na boi di nikmati asing ni bubur. Rumah mangan on rame di kunjungi jala lumayan bidang. Buburna pe tabo."}
+{"uji_id": "nx-test-0005", "hipotesis": "on salah sada contoh generasi na inda marguna.inda malah marguna tu bangsa tai malah jadi sesuatu na marbahaya tu bangsa!mantap jerat sajo pake inu itte"}
+{"uji_id": "nx-test-0267", "hipotesis": "Tarletak di lante 1 hotel na merupakan lante tartinggi, manyorahkon pemandangan luar biasa tu arah bukit na ditumbaki pepohonan. Fresh, ias, nyaman, luar biasa!"}
+{"uji_id": "nx-test-0362", "hipotesis": "dison bisa mangetik stroberi sandiri rap langsung dibayar anggo lagi godang godang buahna lumayan juo manis stroberna rap adong kuliner juo bisa mangan na lain dison"}
+{"uji_id": "nx-test-0299", "hipotesis": "au manabusi berbagai macam roti.pilihannya bahat tai rasana biasa sajo.roti nai kering songon madung marari-ari.inda segar.pelayananna juo leleng.mangecewahon."}
+{"uji_id": "nx-test-0235", "hipotesis": "didia ma leleng konfirmasina? on madung dibayar,madung mangirimkon bukti transfer,tai e-tiket totop inda kaluar? au kecewa,inda ra digantung songonon."}
+{"uji_id": "nx-test-0345", "hipotesis": "Sian naborngin dang boi di pakke, panghobasion indosat songonon. Daftar extra 2 gb 10 ribu dang boi, mago mago mago pulsa hu gabe habis dang di pakke manang aha."}
+{"uji_id": "nx-test-0032", "hipotesis": "busna inda nyaman,ibu,inda sasuai rap na didokkon natoras mu,napedo lagi panganonna hurang tabo doma,lalu tempat wisata tujuanna na mengecewahon:"}
+{"uji_id": "nx-test-0157", "hipotesis": "Molo mamareso layanan mandiri verified by visa vbv dang boi sian layanan mandiri call 14000, alai holan boi sian email dohot kantor cabang bank mandiri."}
+{"uji_id": "nx-test-0311", "hipotesis": "au melakuhon 5 transaksi pada tanggal 22 juni,sude na targinton nyatana tardebit ngen rekening hampir 7 juta,ngen 5 transaksi baru 3 transaksi na dikembalikan."}
+{"uji_id": "nx-test-0394", "hipotesis": "baru au gratis dong update nomor telepon genggam terbaru tu pelayanan pelanggan cab bni anggo data di bni leng nomor handphone leleng, bia ma pelayananna!"}
+{"uji_id": "nx-test-0286", "hipotesis": "au madung loja giot mangamuk-amuk.anso au sandiri ma ma na mambuat buse paketna baru au kirim via ekspeditisi lain sajo.kecewa borat sanga piga kalina."}
+{"uji_id": "nx-test-0279", "hipotesis": "Sipanganonna tabo, dohot viewnya luar biasa,. Holan na manuju pintu-pintu na hurang gabe dang sude jolma boi mamboto adong pintu-pintu di si alai jolma na lewat."}
+{"uji_id": "nx-test-0287", "hipotesis": "Reunion house on i rekomendasihon hian laho mangan siang di bandung. Inganan na menak, tabo laho santai manghatai dohot manang ise pe. Menu na pe oke hian."}
+{"uji_id": "nx-test-0102", "hipotesis": "Pertemuan antara pihak bank bri, bpbat sungai gelam - jambi, rap pokdakan na adong di desa pudak. Untuk mendiskusihon bentuk penyaluran dana csr ngen bank bri"}
+{"uji_id": "nx-test-0106", "hipotesis": "secara keseluruhan sih deges.karyawanna juo ramah ramah.rap pemandanganna deges.tai panganonna tarlalu mahal.mahal sun malah.dompet akkon tebal."}
+{"uji_id": "nx-test-0193", "hipotesis": "pelayanan batik aek bisnis class di halim mengecewahon, gelas dursun / bau, tv inda adong dengan alasan pesawat baru, penjemputan ngen turun pesawat dihapuskon"}
+{"uji_id": "nx-test-0055", "hipotesis": "restoran seafood.menu spesialnyanya kepiting na diallang dohot kulitna.tu au hurang tabo.kulina leng agak karas.pelayananna biasa-biasa sajo."}
+{"uji_id": "nx-test-0221", "hipotesis": "di indonesia pilihan merek telepon seluler kan bahat.anggo inda suka cara siiai manjalankon bisnisna olo tinggal pilih merek lain.dioban santai sajo."}
+{"uji_id": "nx-test-0195", "hipotesis": "Inganan mangan na sederhana hian, alai rasana juara. Komposisi bumbu kacangna pas jala porsina dang pala balga. Pangunjung na ro tung mansai rame."}
+{"uji_id": "nx-test-0236", "hipotesis": "manonton film indonesia di tv on,kadang mambaen mangamuk.harana songon indonesia inda adong masalah,harana sude lagi mardalan-dalan diluar negeri."}
+{"uji_id": "nx-test-0304", "hipotesis": "Restorana deges rap godang.waktu tu son pas mangan tonga ari rap ari minggu rame doma pengunjung.panganonna tabo tabo,gurame goreng rap sambalna mantap."}
+{"uji_id": "nx-test-0323", "hipotesis": "Rekomendasi doma ma. Capuccinona ketagihan, harga miring, rap valet parkir mambayar seikhlasna. Ro pas manjelang maghrib pasti lobih seru suasana."}
+{"uji_id": "nx-test-0190", "hipotesis": "hotel on madung berdiri sejak tolu puluh taon na lalu,sebelum au lahir.penginapan parjolo di kota on. sannari madung bahat berdiri hotel dison."}
+{"uji_id": "nx-test-0148", "hipotesis": "puna restoran akkon mewah rapi masa on marlumut marjamur pelayan hurang mamuaskon masa au ditumpahkon aek idia minumnai adong madu ku i alergi madu"}
+{"uji_id": "nx-test-0268", "hipotesis": "sebelum au rap pasangan mulak tu jakarta.au soppat jolo tu restoran on.pemandanganna keren rap panganonna pe murah meriah.rekomen doma"}
+{"uji_id": "nx-test-0039", "hipotesis": "Buffet mangan borngin paling top. Arga dos tu na dapot. Rasana tabo pilihanna bahat. Arga sipata diskon molo ro rombongan. Sukses torus da."}
+{"uji_id": "nx-test-0137", "hipotesis": "adaboru ku inda tarlalu suka ramen,tu kali on ia mandok tabo rap guris.ia malah mamesan buse tu dirina dung mandai pesanan ku."}
+{"uji_id": "nx-test-0382", "hipotesis": "olo songoni sih, kesadaran tu tanggung jawab mahasiswa sannari i hurang doma.kebanyakan inda bertanggung jawab rap aha na madung jadi tugasna."}
+{"uji_id": "nx-test-0251", "hipotesis": "botul botul manuk goreng na guris rap mambaen au ketagihan,sambal na patas mambaen sensasi mangan lobih mantap rap beras hangat rap es teh manis"}
+{"uji_id": "nx-test-0059", "hipotesis": "kafe na nyaman, tabo rap murah rap desain kafe na unik rap mambaen betah.panganon tabo rap kopi tabo serta fasilitas wifi na copat rap tv kabel"}
+{"uji_id": "nx-test-0164", "hipotesis": "pilihan mangan rap minuman bahat giot dipilih.rap tempatna godang,dibagi manjadi beberapa bagian rap konsep.untuk harga cukup pas buat di kantong."}
+{"uji_id": "nx-test-0133", "hipotesis": "panganon madung oke,namun giot penataan tempat juguk hurang,tarligin tarlalu rame sehingga inda nyaman,harga lumayan rap kualitas na hurang."}
+{"uji_id": "nx-test-0375", "hipotesis": "anggo tuson wajib doma manabusi terong gorengna,tempatna juo tabo adong na lesehan,indari jom mangan kotu anggo giot tuson harana penuh doma"}
+{"uji_id": "nx-test-0045", "hipotesis": "101 dalmatians: The series ima sada seri animasi televisi na dipature sian disney tv animation, karejo rap dohot jumbo pictures."}
+{"uji_id": "nx-test-0083", "hipotesis": "Richeese factory ima restorasi waralaba na mananda manuk dohot panghilalaan na patas dohot berbagai level. Sangat cocok tu ho na manghaholongi panghilalaan na patas."}
+{"uji_id": "nx-test-0119", "hipotesis": "pelayananna ramah.mambaen pupu porroa ro buse.hapengan juo jotjot manginap dison,hotelnai ias rap pemandangan ngen kamar hotel deges."}
+{"uji_id": "nx-test-0002", "hipotesis": "Kangkungna lumayan alai kepiting sosis padangna mengecewahon hami dilehen kepiting na kopong akhirna hami dang mangallang keepingna jala i paulak."}
+{"uji_id": "nx-test-0134", "hipotesis": "au sonang marleleng-leleng dison,harana suasana tabo,pencahayaanna deges,adong pilihan bisa diluar ruangan sanga dibagasan.panganonna lumayan."}
+{"uji_id": "nx-test-0181", "hipotesis": "Satena balga-balga. Bumbuna dipisah. dilehen irisan angur rara dohot cabe rawit dikus, porsi lontong dohot nasina pe pas. Pokokna lomo rohaku."}
+{"uji_id": "nx-test-0325", "hipotesis": "Inganan mangan dohot suasana alam on paling pas tu acara dohot pasangan manang dohot keluarga. Sipanganon na tabo jala arga pe cukup tarjangkau"}
+{"uji_id": "nx-test-0095", "hipotesis": "au kecewa rap pelayananna.baru au mamesan grabfood pesanan inda diantar tai madung disidungkon.mohon giot mamilih parkarejo."}
+{"uji_id": "nx-test-0338", "hipotesis": "rasa bumbu nasi gorengna inda segodang na jolo be,tarkesan hambar rap lobih asin.porlu adong pengontrol kualitas rasa anso kualitas totop tarjaga."}
+{"uji_id": "nx-test-0196", "hipotesis": "lokasi rap arsitektur tempat on oke doma,cuma anggo panganon rap minuman dison inda tarlalu istimewa.enak giot mambunuh rap dongan-dongan."}
+{"uji_id": "nx-test-0378", "hipotesis": "Mampir tu bandung. Mangalului ramen. Na ninna lagi kekinian. Argana satimpal dos tu rasana. Molo tu bandung muse pasti maradi muse."}
+{"uji_id": "nx-test-0370", "hipotesis": "rasana madung marubah inda songon na jolo.tarkesan hambar.akkon ditingkatkon cita rasana.giot menu minum sattak minim hanya adong soft drink"}
+{"uji_id": "nx-test-0277", "hipotesis": "tolong manjalaki alamat halak on.akan au ajak duel secara jantan pake samurai.ia madung manghina umakku na paling au cinta rap hormati."}
+{"uji_id": "nx-test-0030", "hipotesis": "dalom ajang piala dunia 2018 naron, telkomsel mambuat bagian sebagai pendukung penyiaran resmi dalom perhelatan sepak bola dunia tersebut."}
+{"uji_id": "nx-test-0175", "hipotesis": "Kemampuan mangarti bacaan tiop halak i marbeda-beda, adong na sakali manjaha madung mangarti, adong juo na butuh markali-kali manjaha jolo baru mangarti."}
+{"uji_id": "nx-test-0256", "hipotesis": "Kericuhan na tarjadi pengujung debat kadua pilgub jabar pada 14 mei 2018 na lalu, mambaen kawin pandapot ngen para kontestan debat."}
+{"uji_id": "nx-test-0379", "hipotesis": "anggo adong na salah rap tingkah laku au tola mahua makkuling langsung tu au,ulang makkuling di belakang.inda asik songoni.pengecut!"}
+{"uji_id": "nx-test-0064", "hipotesis": "inda bosan aha film indonesia na marmeam ia sajo,inda mandokkon ia inda deges,tai anggo pemain i i melulu jenuh juo maliginna."}
+{"uji_id": "nx-test-0222", "hipotesis": "Hea mangan di poolside hotel hilton? Tung dang rekomendasi tu rasa dohot arga. Sipanganon hurang rasa, ahu mamboan 20 halak, sude kecewa."}
+{"uji_id": "nx-test-0278", "hipotesis": "Inganan siinum kopi jonok kampus UI, vietnamese kopi na tabo, argana relatif sedang, cocok laho berkontemplasi sambari mangulahon tesis"}
+{"uji_id": "nx-test-0385", "hipotesis": "Minimal kartu internet ku inda dapot digunahon padahal kuota lokal leng, au berada di lokasi aktivasi rap kartu juo madung registasi"}
+{"uji_id": "nx-test-0000", "hipotesis": "donok tu hotel ku manginap,hanya ditempuh mardalan pat,dison bahat doma pilihan panganonna,tempat na bidang,rap manyonangkon"}
+{"uji_id": "nx-test-0213", "hipotesis": "Yogyakarta on di ganup pojok dalan godang hotel. Alai sayang. Tu kalas bintang 3 sajo arga lobi arga dohot pelayanan ndang sarupa."}
+{"uji_id": "nx-test-0276", "hipotesis": "Sipanganonna lumayan tabo- tabo di udara ngali jala godang variasina sian mulai restoran burangrang, saung purbasari dohot area foodcourtna."}
+{"uji_id": "nx-test-0390", "hipotesis": "hami sattak kecewa rap pelayanan karyawan leon di gat a6 bandar udara cengkareng.au dbohongi,barang sego rap dursun oppot tujuan."}
+{"uji_id": "nx-test-0183", "hipotesis": "salamat manyogot.wah kecewa borat masa indihome internet inda kocek be.au i bayar godang.ulang kecewakan hami sebagai pelanggan"}
+{"uji_id": "nx-test-0117", "hipotesis": "Sup guramenya tabo,pelayanan copat,dongan.restauran ias.harana porsi beras amana saotik,tu na doyan mangan pasti manambah."}
+{"uji_id": "nx-test-0159", "hipotesis": "salah sada mall rap konsep na cukup unik.bahat pilihan restoran sehingga cocok giot manghabiskon waktu rap dongan-dongan."}
+{"uji_id": "nx-test-0040", "hipotesis": "Tempat na deges anggo dinikmati borngin.cukup nyaman.harga cukup tarjangkau.favorit ku steak tenderloina.cukup tabo."}
+{"uji_id": "nx-test-0089", "hipotesis": "suka heran rap telkomsel,kuotana bahat asi tai copat doma abisna,padahal inda bahat mambuka aplikasi borat.mancurigai"}
+{"uji_id": "nx-test-0294", "hipotesis": "tuson waktu acara kantor.adong live musik.menu beragam.cocok anggo kehe rame-rame tai selerana beda-beda.ramenna tabo."}
+{"uji_id": "nx-test-0328", "hipotesis": "Kafe on mangalean sipanganon tradisional margaya kafe dakdanak. Asing ni inganan na menak, argana tarbilang mura jala tarjangkau"}
+{"uji_id": "nx-test-0014", "hipotesis": "Lammu-lammu apatis mangalapor hal-hal songonon. Alana sahat tu minggu na salpu tong dope dang dope di karejohon. Holan janji-janji sajo."}
+{"uji_id": "nx-test-0015", "hipotesis": "arga selangit porsi seiprit inda janji buse au ro giot na kadua kalina.manganna inda beda dao rap eme ku dong!"}
+{"uji_id": "nx-test-0043", "hipotesis": "jabu mangan nungga bagak sannari mengecewahon ah. dursun, halak dimamkon sajo marisap di ruangan mar ac, sipanganon leleng ro na."}
+{"uji_id": "nx-test-0240", "hipotesis": "porlu rap sebarkon negeriku na madung marun,kalo oknum aparat jadi keparat,na botul disalah rap na salah dibenarkan"}
+{"uji_id": "nx-test-0348", "hipotesis": "au muruk sejak Februari ditelpon tiop ari ditelpon ngen mnc tv.au inda unjung langganan,au puluhan kali klarifikasi."}
+{"uji_id": "nx-test-0393", "hipotesis": "Mangunjung inganan on laho maradi dung loja macet di pardalanan, sipanganon oke, alai kue-kuena mantap, gabe tarbayar."}
+{"uji_id": "nx-test-0169", "hipotesis": "Mangido informasikan detail kronologi, pulsa awal rap akhir rap mention tim olo kak, tim akan cek transaksi pemakaian pulsana"}
+{"uji_id": "nx-test-0351", "hipotesis": "Xiaomi, samsung, margantung do ho tu tipe aha jala dos tu biaya na adong mu, sukkun-sukkun sajo tu inganan na manggadis hpna"}
+{"uji_id": "nx-test-0366", "hipotesis": "rasa tabo dipadu rap sambelna.daging empuk.harga sasuai rap na disajikan.lokasi momo didapotkon.sip pokotna."}
+{"uji_id": "nx-test-0036", "hipotesis": "baru hatia ia oppot,mur sego sajo on acara.jijik doma au rap ia,origin!moof daah au inda suka sun tu ia"}
+{"uji_id": "nx-test-0096", "hipotesis": "Nungga mago handphone ni siomi redmi note 5 warna gold 64/4 di daerah duri selatan, jambatan lima, tambora, jakarta barat."}
+{"uji_id": "nx-test-0184", "hipotesis": "driver inda ro tu tempat tujuan,tai di aplikasi madung picu manaek,rap gopay madung tarpotong,tapok au pake gojek"}
+{"uji_id": "nx-test-0185", "hipotesis": "panganon dison menurut ku hurang tabo da,harana au halak minang,au inda tarlalu suka panganon jawa na manis hehe"}
+{"uji_id": "nx-test-0038", "hipotesis": "Inganan na mura di dapot. Ias jala hygienis, pangaladenan na bagak, boi hita mardiskusion taringot siallangon na adong. Ias."}
+{"uji_id": "nx-test-0056", "hipotesis": "tabo lumayan,tai hargana mahal harana porsinai saotik menek.adong pilihan infused malungun aek na cukup giot 4 halak"}
+{"uji_id": "nx-test-0124", "hipotesis": "sejak mambuka cendana bistrou au madung mancoba panganon,giot au hurang cocok,panganonna biasa-biasa inda adong na spesial."}
+{"uji_id": "nx-test-0337", "hipotesis": "agak manyosal rap kaputusan masuk jurusan film,porroa masuk seni rupa sebenarna.tai ragu rap bakat na dipunai."}
+{"uji_id": "nx-test-0138", "hipotesis": "inganan na menak. rasana tabo. arga na pe pas. kambingna dang bau. Pokokna recomend tu na manghaholongi kuliner kambing."}
+{"uji_id": "nx-test-0346", "hipotesis": "Inganan na lumayan asik, parkiran di susun rapi. Perpaduan na aneh alai tabo, steak dohot ho dang super pedas. Hm."}
+{"uji_id": "nx-test-0088", "hipotesis": "Parkiran maol sahat tu marputar 3x. Saran: Parkiran di jonok hotel sajo torus mardalan pat. Restoran di area perumahan."}
+{"uji_id": "nx-test-0214", "hipotesis": "bakminya tabo.ditamba daging rica2na super mantap.rasona sih patas-patas tai nikmat.mangan sada merasa hurang da."}
+{"uji_id": "nx-test-0247", "hipotesis": "tu layanan bank di akhir pekan na marlokasi di bekasi, bapak dapot ro tu kantor cab bank mandiri bekasi juanda."}
+{"uji_id": "nx-test-0283", "hipotesis": "inda salah buse on kafe modern salah sada favorit warga depok giot mangan,markuppul seriusan tempatna nyaman soalna."}
+{"uji_id": "nx-test-0339", "hipotesis": "sasuai rekomendasi,au mancubo mie goreng spesial rap rasana menurut ku sattak biasa sajo rap hurang cocok di lidah"}
+{"uji_id": "nx-test-0391", "hipotesis": "na paling mengecewahon ima hatia pemimpin inda bisa bedakan rap inda ra mamboto idia negarawan rap idia politisi dursun"}
+{"uji_id": "nx-test-0105", "hipotesis": "harana kartu oktrip saat on ima ngen bni,maka isi ulang bisa dilakuhon di mitra-mitra na bekerjasama rap bni."}
+{"uji_id": "nx-test-0199", "hipotesis": "Gila ate. Pesan mix platter sajo sahat tu lobi sian 30 menit. Manukkun tu pelayananna gabe kabur. Ndang responsif. Leleng."}
+{"uji_id": "nx-test-0329", "hipotesis": "stasiun tv payah,inda konsisten,mangecewahon pendukung persib -persib,inda marprikemanusiaan!payah rap cupu!"}
+{"uji_id": "nx-test-0141", "hipotesis": "tarhilala biasa sajo,inda adong na spesial.akkon mamette cukup leleng ro panganonna,pelayan juo hurang ramah."}
+{"uji_id": "nx-test-0210", "hipotesis": "Rasa ni roti na tabo. Varian roti dohot cemilan na godang i jual. Arga na standar. Paling lomo rohana dohot roti tawarna. Lomo rohana."}
+{"uji_id": "nx-test-0243", "hipotesis": "porcaya dope tu hata na? ia na manutup rapat-rapat keboboran sifatna,ia juo na mambuka tabir aibna."}
+{"uji_id": "nx-test-0307", "hipotesis": "Kang, mardalan di muara bulian baru, baru sebulanan dipature, nungga sega muse. Na karejo songon naso serius"}
+{"uji_id": "nx-test-0092", "hipotesis": "telekomunikasi inda hanya giot kota godang,tai juo sampe tu daerah pelosok rap batas negara cc: telkomsel"}
+{"uji_id": "nx-test-0170", "hipotesis": "Area mangan di luarna manyonangkon. Igan oke, rasana tabo.Jus orange plus stroberna tabo.Argana pe oke."}
+{"uji_id": "nx-test-0246", "hipotesis": "holan penerbangan di indonesia na so hea manghargai waktu. Nungga mambayar arga tong panghobasion na mambahen jut roha"}
+{"uji_id": "nx-test-0386", "hipotesis": "hypermart lagi mangalean diskon 20% tu produk segar tiop ari senin - kamis dengan mandiri kartu hypermart"}
+{"uji_id": "nx-test-0208", "hipotesis": "rasa panganonna biasa sajo rap hargana mahal.tempatna juo biasa.lokasina juo tarlalu dao ngen pusat kota."}
+{"uji_id": "nx-test-0075", "hipotesis": "idia taring kpk? kasus ecek-ecek puluhan juta ho takkup sampe tu lubang porkis sekalipun! waras do ho kpk?"}
+{"uji_id": "nx-test-0207", "hipotesis": "malehen bantuan tu korban musibah giot pencitraan gratis. apalagi giot publikasi.moof doma.muak au."}
+{"uji_id": "nx-test-0330", "hipotesis": "Inganan na menak jala berkesan lambok. Satena pe tabo jala adong menu na asing muse di inganan on, dang holan sate"}
+{"uji_id": "nx-test-0302", "hipotesis": "Naik grab, abangna marcarito na natuari hona lempar batu di dalan.Juanda pas lebaran hapengan anak donganna"}
+{"uji_id": "nx-test-0034", "hipotesis": "Haccit roha hu tu provider on, sampe muruk, muruk, emosi, ahu haluar, ala ala, sinyal na so toho."}
+{"uji_id": "nx-test-0331", "hipotesis": "panampilanna deges giot foto-foto,awaranna ngali,panganonna rasana tabo.harga juo tarjangkau.mantap."}
+{"uji_id": "nx-test-0343", "hipotesis": "Loh parahna jne! au telepon inda diangkat,tweet inda dibalas,email inda dibalas,pesan inda dibalas!"}
+{"uji_id": "nx-test-0272", "hipotesis": "Nasi rawonna sattak tabo,harga tarjangkau.donok universitas parahyangan.tempatna unik rap kayu-kayu."}
+{"uji_id": "nx-test-0317", "hipotesis": "Jangkauan siarna tolong diperluaskan, harana bahat daerah na napedo bisa manikmati siaran net. Tarimokasih."}
+{"uji_id": "nx-test-0380", "hipotesis": "Mangido konfirmasi giot pangiriman tu alamat panarimo akan dilakuhon sadarion sanga atcogot ari kak tarimokasih"}
+{"uji_id": "nx-test-0389", "hipotesis": "inda laporan ku inda diproses-proses. ragu hepeng ku akan dikembalikan,padahal pulsa rap kuota ku mago."}
+{"uji_id": "nx-test-0048", "hipotesis": "Manuhor kaos, topi manang jam tangan di lapak monoton roomstore boi diego khusus pakke aplikasi di hape boskuh."}
+{"uji_id": "nx-test-0071", "hipotesis": "inda suka maligin daganak sikola sannari,anggo pake jilbab obuknai pada disengajahon kaluar,makana aha?"}
+{"uji_id": "nx-test-0123", "hipotesis": "Bca lagi mangobanhon ulaon ulang tahun jala mangundang sude parkarejona laho mangihuthon ulaon i."}
+{"uji_id": "nx-test-0125", "hipotesis": "Minimal biaya transaksi bulan 11 na seharusnya direfund bulan 12 natuari inda masuk tu akun ku on."}
+{"uji_id": "nx-test-0163", "hipotesis": "kecewa rap proses pambatalkon tiket,madung 43 ari tai inda unjung ditransfer.lotet inda ra malayani"}
+{"uji_id": "nx-test-0334", "hipotesis": "Minimal internet hu putus oppot-oppot, 1 jabu pahe simpati sude songoni pe dang boi connect internet"}
+{"uji_id": "nx-test-0340", "hipotesis": "bakso na tabo laho diallang, inganan na ias panjajian siallangon bakso na menurut hu asing. tabo hian ma"}
+{"uji_id": "nx-test-0116", "hipotesis": "Sate kambing dohot gulai kambingna maknyus, panyajian siallangon na pe hatop hian. Inganan na lumayan ias"}
+{"uji_id": "nx-test-0288", "hipotesis": "giot mamboto promo-promo na lagi berlangsung di tokopedia ho dapot mangunjunghon halaman berikut on."}
+{"uji_id": "nx-test-0353", "hipotesis": "harana park-skate on dikelilingi tempat markuppul na asik,au merasa inda akan unjung merasa bosan."}
+{"uji_id": "nx-test-0060", "hipotesis": "madung sabulan lobi inda mangan indomie,sakali nai mangan langsung mambaen dua porsi indomie goreng jumbo."}
+{"uji_id": "nx-test-0320", "hipotesis": "Iphone on. Kamera golapna wassalam roa hian ndang boi di porsea hian molo malosok mamboan kamera."}
+{"uji_id": "nx-test-0079", "hipotesis": "Rasa ni siotona manuruthu patas alai guttur. Minum sirup markisa na segar dohot es lilina na tabo."}
+{"uji_id": "nx-test-0347", "hipotesis": "rakku manyogot on macet doma da,madung tur di bus lobi ngen sejam,tai inda sampe sampe juo."}
+{"uji_id": "nx-test-0352", "hipotesis": "Inganan parkir pa sompit hu, sampe motor ingkon dititiphon tu lahan parkir na adong di sabola ni hotel."}
+{"uji_id": "nx-test-0047", "hipotesis": "marbagi berkah rap sinde! dapotkon 50 paket umroh satiop pambagian minimal rp 15.000 di alfamart."}
+{"uji_id": "nx-test-0356", "hipotesis": "asli madung indihome parah doma dah sannari,aha guna nai mambayar mahal mahal rittik emosi on botul-botul"}
+{"uji_id": "nx-test-0226", "hipotesis": "modom na cukup satiop ari nai bisa mambaen badan inda kecapekan rap segar hatia ngot manyogot manyogot ari."}
+{"uji_id": "nx-test-0172", "hipotesis": "rasana hampir sarupo rap resto na lain na marjagal seafood.aman ias rap pelayananna copat."}
+{"uji_id": "nx-test-0242", "hipotesis": "tinggalkon sajo anggo ho memang madung bosan rap gandak mu rap marhallet inda adong guna na tu ho."}
+{"uji_id": "nx-test-0275", "hipotesis": "Udan di manogot ni ari tung mansai jut roha, macet dohot arga ojol gabe super dang terkendali mambahen eneg"}
+{"uji_id": "nx-test-0150", "hipotesis": "Jala dohot narkoba ima sada cara na boi di pakke laho pagodanghon kualitas dakdanak bangso."}
+{"uji_id": "nx-test-0192", "hipotesis": "biama inda muruk cubo,rona php indosat sajo on.pulsa pupu tarpotong ludes inda tarsisa."}
+{"uji_id": "nx-test-0318", "hipotesis": "Boasa boi di paloas bangunan di ginjang ni aek, di dalan sian rumah sakit tu pasar Ciroyom, asing."}
+{"uji_id": "nx-test-0127", "hipotesis": "Pemberitaanna naso markualitas jala tung manidik. Gok kepentingan dohot pencitraan"}
+{"uji_id": "nx-test-0186", "hipotesis": "Pajak, kak, naeng manjalo nomor epin, naung salpu nungga di aktifasi, alai lupa tu password akun dponline,"}
+{"uji_id": "nx-test-0216", "hipotesis": "anti pake power bank semenjak handphone samsung au bocor batere nai dung dipake soni."}
+{"uji_id": "nx-test-0035", "hipotesis": "sarung battal,siperei rap ulos nai inda be bontar...torus dindingna madung bahat lumut.."}
+{"uji_id": "nx-test-0067", "hipotesis": "Dapot bonus tcash 12.500 alai dang boi di pakke laho manuhor pulsa na seharga 10 ribu h asing"}
+{"uji_id": "nx-test-0231", "hipotesis": "dibagasan akun mycare ku na tarblockir i madung au tambahon nomor im3 ku na baru"}
+{"uji_id": "nx-test-0232", "hipotesis": "120 peserta na lulus on akan dibagi manjadi 4 kalas rap jumlah masing-masing 30 siswa."}
+{"uji_id": "nx-test-0006", "hipotesis": "Sore sahabat, saat on lagi dilakuhon pemeliharaan sehingga aplikasi inda dapot diakses."}
+{"uji_id": "nx-test-0154", "hipotesis": "Hai anggi, tu penerbitan tiket perubahan jadwal diharuskan melakuhon pambayaran jolo da."}
+{"uji_id": "nx-test-0263", "hipotesis": "tagihan melonjak dua kali lipat harana promo habis tanpa pemberitahuan,inda botul on."}
+{"uji_id": "nx-test-0016", "hipotesis": "Baru jala tarsedia, 5 sekat mangan siang kotak kotak mangan yoyee kotak bekal anti bocor 590"}
+{"uji_id": "nx-test-0197", "hipotesis": "rasa panganon biasa sajo rap suasana inda istimewa sehingga sakali kedatangan madung cukup."}
+{"uji_id": "nx-test-0359", "hipotesis": "Arga inda tarlalu godang, rasana juo tabo, bahat pilihan panganon khas Banjar na lainna."}
+{"uji_id": "nx-test-0135", "hipotesis": "Sude na didokkon tu pak rocky i dang berdasar. Heran ate boasa boi gabe propesor."}
+{"uji_id": "nx-test-0349", "hipotesis": "sering mamboto doma da ho mate.inda usah sok-sokan malehen ceramah segala.ceramah mu sesat."}
+{"uji_id": "nx-test-0128", "hipotesis": "panjual lambat mangaraspon.adong kendala leleng diurus.sampe sannari barang napedo digotti"}
+{"uji_id": "nx-test-0220", "hipotesis": "mangurus gaji karyawan sandiri sajo inda becus didokkon giot mangurus bumn.mikir pake otak"}
+{"uji_id": "nx-test-0361", "hipotesis": "Supir gocar ro ngen luar kota tu jakarta giot manjalaki panumpang demi mandapotkon poin."}
+{"uji_id": "nx-test-0152", "hipotesis": "Pake kutci duplikat, bank bri di pusat kota diobol maling, hepeng rp 1 miliar mago."}
+{"uji_id": "nx-test-0228", "hipotesis": "Selamat sore inong, perihal produk perbankan bank mandiri aha na dapot hami bantu? Yogi"}
+{"uji_id": "nx-test-0248", "hipotesis": "Lungun hian mamereng laut na saonari dorun gabe inganan mambolonghon rapan sembarangan"}
+{"uji_id": "nx-test-0072", "hipotesis": "Calon-calon pamimpin negeri on cukup gogo marsiapkon strategi giot kemenanganna."}
+{"uji_id": "nx-test-0121", "hipotesis": "mangolu torus pak, cabik-cabik sajo persatuan rap kesatuan indonesia rap retorikamu."}
+{"uji_id": "nx-test-0274", "hipotesis": "Youtube godang hian manfaatna. Boi manonton film, mambege ende, sipata laho marsiajar."}
+{"uji_id": "nx-test-0303", "hipotesis": "Seklompok mahasiswa na oto. Syukur ma au inda mahasiswa daerah i. maila woy."}
+{"uji_id": "nx-test-0308", "hipotesis": "memang inda tabo tarjebak macet,tai lobih inda tabo buse anggo tarjebak masa lalu"}
+{"uji_id": "nx-test-0173", "hipotesis": "hasil kuart count didokkon marbeda rap hasil survei mambaen au marsapa-sapa."}
+{"uji_id": "nx-test-0269", "hipotesis": "Manghilala sattak ma tu sudek na. Bosen hian mangulahon rutinitas na songoni-songoni sajo."}
+{"uji_id": "nx-test-0057", "hipotesis": "tu daerah banda aceh rap sekitarna leng lancar,inda adong gangguan sama sekali."}
+{"uji_id": "nx-test-0202", "hipotesis": "Selamat siang, biaya pamarenta rek simpedes rp 5.500, - / bulan. Mauliate era"}
+{"uji_id": "nx-test-0257", "hipotesis": "Manogot on lupa paluahon helm abang gojek dung turun sian motor alana mangalului bus"}
+{"uji_id": "nx-test-0296", "hipotesis": "paket madung ditarimo. saotik kecewa harana order warna hitam dikirim warna kuning."}
+{"uji_id": "nx-test-0215", "hipotesis": "Aplikasi ni mobile banking mangido dipature soalna naeng aktivasi akun dang boi."}
+{"uji_id": "nx-test-0227", "hipotesis": "restoran on sattak romantis rap panampilan nai na sattak deges di borngin"}
+{"uji_id": "nx-test-0301", "hipotesis": "Inganan na uli jonok di ginjang ni bukit, boi mamereng panorami ni kota sian ginjang."}
+{"uji_id": "nx-test-0099", "hipotesis": "i indomie rap mangkokna madung markeliaran,marpisah buse isi rap wadahnai."}
+{"uji_id": "nx-test-0191", "hipotesis": "panganon dison sarupo songon kfc na lainna. manuk gorengna crispy,gurih rap tabo"}
+{"uji_id": "nx-test-0201", "hipotesis": "lao rappak keluarga mangan borngin,harga na mahal rap rasa na biasa sajo."}
+{"uji_id": "nx-test-0211", "hipotesis": "Ise do ibana on? boasa isi barita ni ibana sude, ndang ibana mantan narapidana i"}
+{"uji_id": "nx-test-0051", "hipotesis": "Menu panganon cukup marvariasi rap mambaen giot dipesan sude. Murah? Pastina!"}
+{"uji_id": "nx-test-0086", "hipotesis": "suka cemburu maligin doi marcanda rap adaboru,tai hita inda sanga ise"}
+{"uji_id": "nx-test-0336", "hipotesis": "au paling inda suka i,anggo donok pemilu,suasana pupu mamanas."}
+{"uji_id": "nx-test-0023", "hipotesis": "mulak mangaktifkon paket data indosat harana dapot akses youtube unlimited."}
+{"uji_id": "nx-test-0298", "hipotesis": "manonton sinetron sajo mulai bosan apalagi manonton isu tipu na diramalkan."}
+{"uji_id": "nx-test-0292", "hipotesis": "na foto rap halak i inda anggi bang donyi.jijik ah foto rap halak i."}
+{"uji_id": "nx-test-0312", "hipotesis": "mayoritas pangguna hak pilih di pamilihan gubernur madung mamaterihon pamilihan."}
+{"uji_id": "nx-test-0146", "hipotesis": "marmancam-mancam minuman segar tarsedia mulai ngen jus buah sampe aneka teh."}
+{"uji_id": "nx-test-0234", "hipotesis": "ahu pajumpang dohot ibana di asrama tempat hami marborngin saleleng mahasiswa najolo"}
+{"uji_id": "nx-test-0063", "hipotesis": "dalom pilkada 2018,polri dipangido pagodanghon pengaman di sekitar tps."}
+{"uji_id": "nx-test-0315", "hipotesis": "giot mangan oreo sajo ribet doma sih,akkon diputer-dijilat-dicelupkon"}
+{"uji_id": "nx-test-0054", "hipotesis": "Olahraga di borngin borngin boi gabe pilihan laho mangisi tingki luang."}
+{"uji_id": "nx-test-0180", "hipotesis": "au tarhilala targanggu maligin parkiran motor halak manutup dalan umum."}
+{"uji_id": "nx-test-0142", "hipotesis": "kue ulang tahun spesial pake telur sepiring plus mozzarella buat ho"}
+{"uji_id": "nx-test-0372", "hipotesis": "Bebekna tabo, lembut, sambelna tabo. Inganan ias jala lumayan oke."}
+{"uji_id": "nx-test-0187", "hipotesis": "Musim udan songonon ganup udan pasti dang tenang mabiar kebanjir."}
+{"uji_id": "nx-test-0289", "hipotesis": "Inna jam on water resist, alai di pakke marlange holan nungga mate"}
+{"uji_id": "nx-test-0341", "hipotesis": "pelakuna ulang diserahkon tu pak polisi.kubur mangolu-olu sajo."}
+{"uji_id": "nx-test-0365", "hipotesis": "inganan ni restoran di Kemang. Mahal jala dang tabo. Unang tu si."}
+{"uji_id": "nx-test-0149", "hipotesis": "au baru sajo gotti kartu na sego,tai totop inda adong sinyal."}
+{"uji_id": "nx-test-0194", "hipotesis": "pake laurier double pas giot modom pas menstrasi anso inda botcor"}
+{"uji_id": "nx-test-0010", "hipotesis": "Kebun raya bogor bisa dibaen salah sada tujuan destinasi wisata"}
+{"uji_id": "nx-test-0335", "hipotesis": "kaskus memang jotjot malehen informasi na menarik rap terbaru"}
+{"uji_id": "nx-test-0049", "hipotesis": "aplikasi google maps sattak marguna,au puas mamanggunahoni!"}
+{"uji_id": "nx-test-0130", "hipotesis": "Pt nami dohot 12 bank nungga manandatangani pembiayaan irt jabodebek"}
+{"uji_id": "nx-test-0081", "hipotesis": "hita kan saling membenci sada rap na lain semenjak 4 taon na lalu."}
+{"uji_id": "nx-test-0203", "hipotesis": "Inganan menak jala tabo, sipata dibahen inganan foto pre-wedding"}
+{"uji_id": "nx-test-0219", "hipotesis": "Ketua dpr mangapresiasi pilkada serentak na berlangsung dame."}
+{"uji_id": "nx-test-0239", "hipotesis": "atlet muda tanah air ikuti serpong run 2018 giot ajang uji coba"}
+{"uji_id": "nx-test-0313", "hipotesis": "madung mamette dsb hapengan ia ro na atcogot.porroa au mangamuk"}
+{"uji_id": "nx-test-0324", "hipotesis": "oke bos,abope handphone oppot oppot mahank sandiri selama sadari"}
+{"uji_id": "nx-test-0167", "hipotesis": "Hea porsea molo body lotion citra mambahen bulu godang"}
+{"uji_id": "nx-test-0326", "hipotesis": "porcaya i ikhlas? tulus? inda na i cuma pencitraan sajo kan?"}
+{"uji_id": "nx-test-0058", "hipotesis": "emosi rap gojek na pupu nyasar anggo giot tu bagas ku."}
+{"uji_id": "nx-test-0069", "hipotesis": "Minum aha do boasa cara minumna asing, rasana asing muse"}
+{"uji_id": "nx-test-0182", "hipotesis": "anggo diligin-ligin,sandiaga un rap nadiem makarim mirip da"}
+{"uji_id": "nx-test-0013", "hipotesis": "bahat hal na dapot hita lakuhon giot mangisi waktu luang."}
+{"uji_id": "nx-test-0132", "hipotesis": "au porroa manabusi 20 tiket giot laga persebaya vs arema atcogot."}
+{"uji_id": "nx-test-0110", "hipotesis": "tu kakak admin tolong doooooonk bales pesan langsung ku"}
+{"uji_id": "nx-test-0241", "hipotesis": "Bus harapan jaya dao lobih nyaman dibandingkon na lainna"}
+{"uji_id": "nx-test-0264", "hipotesis": "Mangido informasi tentang daftar harga baju na lagi di jual"}
+{"uji_id": "nx-test-0217", "hipotesis": "Botol uc 1000 maol hian dibukka dah, mambahen tangan marsahit"}
+{"uji_id": "nx-test-0265", "hipotesis": "au mur malungun ds alana pangirimanna torus tarlambat"}
+{"uji_id": "nx-test-0364", "hipotesis": "loja hian mamereng sampah di ruas dalan kota palangkaraya"}
+{"uji_id": "nx-test-0004", "hipotesis": "Gianyar manjalo bantuan sosial 2018 sebesar rp 44, 9 miliar"}
+{"uji_id": "nx-test-0018", "hipotesis": "Ledakan dibagasan aksi protes di afganistan mateanhon 68 halak"}
+{"uji_id": "nx-test-0024", "hipotesis": "ahu ipe pasuo donganhu na karejo di trans tv"}
+{"uji_id": "nx-test-0098", "hipotesis": "Youtube lammu ari lammu bahat iklanna, menyebalkon!"}
+{"uji_id": "nx-test-0129", "hipotesis": "ulang maloloskon diskon langsung sampe Rp 10 juta dison!"}
+{"uji_id": "nx-test-0284", "hipotesis": "bosan sajo rap kelakuan nyinyir torus kelompok sebelah."}
+{"uji_id": "nx-test-0300", "hipotesis": "ulang lupa minum aek mineral 8 -- 10 gelas per ari nai."}
+{"uji_id": "nx-test-0369", "hipotesis": "mamilih gubernur sanga inda ima pilihan satiop halak."}
+{"uji_id": "nx-test-0310", "hipotesis": "madung au kirim pesan langsungna,tolong copat dicek"}
+{"uji_id": "nx-test-0065", "hipotesis": "natuari dian manabusi salao baru lewat aplikasi lazada"}
+{"uji_id": "nx-test-0384", "hipotesis": "Annon indomie parjolo di 2018 ahu naborngin hapengan tabo"}
+{"uji_id": "nx-test-0252", "hipotesis": "au madung registasi tai inda dapot sms ngen 5111"}
+{"uji_id": "nx-test-0143", "hipotesis": "giot mangamuk tu indosat!asi sinyalna mago melulu si"}
+{"uji_id": "nx-test-0155", "hipotesis": "Anggi boru hu manggadis iphone 8 laho manuhor ps5"}
+{"uji_id": "nx-test-0306", "hipotesis": "Manuhor di Giant diskon 20% dohot kartu kredit bca."}
+{"uji_id": "nx-test-0314", "hipotesis": "spotify ribet,pake adong administrasi bulanan segala"}
+{"uji_id": "nx-test-0245", "hipotesis": "2018 kpk bertekad manuntaskon kasus e-ktp rap blbi."}
+{"uji_id": "nx-test-0073", "hipotesis": "anggi ku lagi manonton harry potter di trans tv"}
+{"uji_id": "nx-test-0333", "hipotesis": "bahat baju rap salaoara na didol di matahari mal"}
+{"uji_id": "nx-test-0007", "hipotesis": "memang lemah hita on au juo penakut sebenarna"}
+{"uji_id": "nx-test-0046", "hipotesis": "Kantor penghubung korsel - korut dibuka pekan on"}
+{"uji_id": "nx-test-0109", "hipotesis": "on ma sop stengkel na denggan di aceh tamiang"}
+{"uji_id": "nx-test-0178", "hipotesis": "tolong kirimkon buse tagihan ku bulan na lalu"}
+{"uji_id": "nx-test-0280", "hipotesis": "au mamulai usaho rap inda unjung mabiar gagal."}
+{"uji_id": "nx-test-0291", "hipotesis": "pamikiran soppit tai sok botul kusel doma au"}
+{"uji_id": "nx-test-0398", "hipotesis": "Demi aha pe tes cpns mambaen macet, sialannnnnn"}
+{"uji_id": "nx-test-0225", "hipotesis": "telepon genggamna eror pas parjolo mangolu"}
+{"uji_id": "nx-test-0044", "hipotesis": "Nadia mangalului kemeja tu anggi na di uniqlo"}
+{"uji_id": "nx-test-0090", "hipotesis": "daganak sannari baru godang madung barani manakko"}
+{"uji_id": "nx-test-0354", "hipotesis": "au madung lapor tu email mandiricare.co.id"}
+{"uji_id": "nx-test-0363", "hipotesis": "Baru sajo nakkin sahat barangna, deges do"}
+{"uji_id": "nx-test-0205", "hipotesis": "Arif manabusi jaket billabong na baru"}
+{"uji_id": "nx-test-0255", "hipotesis": "Oke. Nungga hu kirim via pesan langsung"}
+{"uji_id": "nx-test-0374", "hipotesis": "Sipanganon di rumah sakit torus ndang tabo"}
+{"uji_id": "nx-test-0082", "hipotesis": "ayak biasana mamangke semir sipatu kiwi"}
+{"uji_id": "nx-test-0270", "hipotesis": "sayang kotakna na sampe agak penyok"}
+{"uji_id": "nx-test-0233", "hipotesis": "aha on,harga na mahal,pelayanan hurang!"}
+{"uji_id": "nx-test-0093", "hipotesis": "Naung denggan molo modom sahat tu lima jom."}
+{"uji_id": "nx-test-0097", "hipotesis": "au inda kecewa rap produk apple"}
+{"uji_id": "nx-test-0168", "hipotesis": "macet didia-dia anggo lagi liburan"}
+{"uji_id": "nx-test-0360", "hipotesis": "segel rapi abope kotak saotik penyok"}
+{"uji_id": "nx-test-0012", "hipotesis": "au kapok mamakke jasa leon aek"}
+{"uji_id": "nx-test-0332", "hipotesis": "Anggihu tung lomo rohana tu brownis primaasa"}
+{"uji_id": "nx-test-0355", "hipotesis": "au madung adong kode akses rap pin."}
+{"uji_id": "nx-test-0358", "hipotesis": "au cemburu tai inda bisa aha-aha"}
+{"uji_id": "nx-test-0250", "hipotesis": "On the spot lagi tayang di trans7"}
+{"uji_id": "nx-test-0001", "hipotesis": "olo botul,ia lagi manjaga warung."}
+{"uji_id": "nx-test-0115", "hipotesis": "harana malungun,au mamesan indomie."}
+{"uji_id": "nx-test-0031", "hipotesis": "ibana somal na manabusi tisu paseo"}
+{"uji_id": "nx-test-0387", "hipotesis": "giot mangamuk sajo au tu indosat"}

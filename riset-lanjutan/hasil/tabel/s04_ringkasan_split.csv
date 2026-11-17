@@ -1,0 +1,14 @@
+split,arah_asli,genre,pasangan,dokumen
+latih,asli_indonesia,Contemporary Media,626,16
+latih,asli_indonesia,Educational,220,10
+latih,asli_indonesia,Literary,14,1
+latih,asli_toba,Historical/Traditional,115,1
+latih,asli_toba,Literary,92,31
+latih,asli_toba,Religious,14,3
+uji,asli_indonesia,Contemporary Media,198,5
+uji,asli_indonesia,Educational,68,5
+uji,asli_toba,Historical/Traditional,9,1
+uji,asli_toba,Literary,35,12
+validasi,asli_indonesia,Contemporary Media,98,2
+validasi,asli_indonesia,Educational,38,2
+validasi,asli_toba,Literary,15,8

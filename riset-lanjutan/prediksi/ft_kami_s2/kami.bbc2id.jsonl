@@ -1,0 +1,311 @@
+{"sidik": "ec34a004e016aa2d9ae70142429fd48dad991445cdd0dac02bf55daa33773304", "parameter": {"run": "ft_kami_s2", "fine_tuning": {"model_dasar": "facebook/nllb-200-distilled-600M", "dua_arah": true, "epoch": 5, "laju_belajar": 0.0001, "porsi_warmup": 0.1, "ukuran_batch": 16, "akumulasi_gradien": 1, "panjang_maks": 128, "simpan_tiap_langkah": 1000, "hapus_bobot_setelah_selesai": true}, "benih": 2, "dekode": {"beam": 5, "ukuran_batch": 32, "panjang_maks_sumber": 128, "faktor_panjang_keluaran": 1.5, "tambahan_panjang": 10, "panjang_maks_keluaran": 256}, "kode_bbc": "bjn_Latn", "data_latih": {"kami": "350beae755f9b1e0d00d61cccb443cc877bd9d2ae29e0435715edf71ee766428"}}}
+{"uji_id": "kami-doc_0068_s011", "hipotesis": "Hasil penelitian menunjukkan ada sepuluh satu kategori, yaitu distribusi kekayaan sebagai objek di dalam rumah (entitas dalam ruangan) yang memiliki subkategori kekayaan sebagai api; distribusi kekayaan sebagai benda yang memiliki subkategori kekayaan sebagai tempat tinggal, kekayaan sebagai komoditas berharga, kekayaan sebagai bangunan, kekayaan sebagai barang berharga"}
+{"uji_id": "kami-doc_0061_s029", "hipotesis": "Kami melihat dampak keputusan pada hari Sabtu mulai dari RTRW hingga RDTR dapat mendorong pembelajaran lingkungan, ekonomi, ekonomi, dan pengembangan agar tujuan pengelolaan alam dapat tercapai sesuai dengan Sustainable Development Goals (SDGs)."}
+{"uji_id": "kami-doc_0069_s009", "hipotesis": "Hasil penelitian menunjukkan bahwa garis keturunan, adat istiadat, karakter sebagai garis besar terdiri dari 23 kata, sedangkan garis budaya sosial terdiri dari 9 kata, garis ekologi terdiri dari 7 kata, dan garis budaya lengkap terdiri dari 6 kata."}
+{"uji_id": "kami-doc_0090_s002", "hipotesis": "Pekerjaan Ambroncius Nababan telah meningkatkan kepercayaan masyarakat Batak di Indonesia, terutama di Tanah Papua, dan saya juga yakin hal tersebut bisa menciptakan perbedaan pendapat antar suku Batak dan suku-suku lainnya yang ada di Tanah Papua, kata Kenan Sipayung melalui sebuah pernyataan tertulis, Selasa (26/1/2021)."}
+{"uji_id": "kami-doc_0066_s001", "hipotesis": "Melalui penelitian dan deskripsi penelitian melalui komputasi, data diinterpretasikan melalui pertanyaan tertulis yang memuat data seperti deskripsi di kepala pembaca AI, kemampuan menggunakan aplikasi AI, dan pengamatan mengenai permasalahan peran dalam penggunaan AI."}
+{"uji_id": "kami-doc_0066_s005", "hipotesis": "Oleh karena itu, penelitian ini memberikan pengamatan lebih lanjut mengenai penyebaran kecerdasan buatan (AI) ke latar belakang pekerjaan siswa setelah lulus, peran kecerdasan buatan (AI) di seluruh bidang pendidikan, dan memperjelas pengembangannya dan keselarasan kompetensi dan keterbukaan kecerdasan buatan (AI)."}
+{"uji_id": "kami-doc_0061_s008", "hipotesis": "Dalam buku ini, dijelaskan ada enam permasalahan, yaitu hubungan kehidupan perantau dengan perekonomian, permasalahan tata ruang, kehidupan alam semesta secara ekologis, sumber daya alam alam alam, tata ruang kota-kota, dan pekerjaan penting dengan tata ruang sosial."}
+{"uji_id": "kami-doc_0072_s003", "hipotesis": "Surat ini berusaha untuk mengidentifikasi kekuatan hubungan ekonomi di dalam perekonomian dunia untuk memperjuangkan kesejahteraan dunia melalui penyebaran prinsip kepercayaan yang beragam yang dapat diterapkan oleh orang Kristen secara bersama-sama dalam kehidupan sehari-hari mereka."}
+{"uji_id": "kami-doc_0061_s004", "hipotesis": "Buku Huta Pantas Marparbinotoan yang ditulis oleh Nirwono Joga dan teman-temannya, adalah buku yang membahas tentang peran penting dalam membangun masyarakat yang layak berparbinotoan dan ramah, yaitu dari perilaku, tata kelola, penghayat, dan komunikasi."}
+{"uji_id": "kami-doc_0072_s004", "hipotesis": "Dalam usahanya, penulis menggunakan metode untuk menggambarkan pembelajaran Alkitab melalui marginya dari kepercayaan terhadap ajaran Alkitab dan kepercayaan sejati orang Kristen seperti yang disarankan oleh berbagai teolog dalam sejarah agama dalam tradisi reformasi."}
+{"uji_id": "kami-doc_0069_s004", "hipotesis": "Tujuan dari penelitian ini adalah untuk menginformasikan data mengenai sejarah dan budaya yang terdapat di buku pendidikan Bahasa dan Sastra Batak Toba serta menjelaskan hasil seleksi data yang digunakan dalam memberikan data mengenai sejarah dan budaya yang diperoleh."}
+{"uji_id": "kami-doc_0072_s005_a", "hipotesis": "Sebagai kesimpulan, penulisan mendorong orang Kristen untuk beradaptasi dalam memelihara kekayaan dunia dan berbagai peran yang nyata melalui kepercayaan yang dihasilkan dalam menjaga kekayaan dunia yang diselaraskan dengan penyesuaian yang menyerukan kekayaan yang beragam."}
+{"uji_id": "kami-doc_0061_s006", "hipotesis": "Pembelajaran siswa yang kompeten dan sopan harus mempertimbangkan berbagai jenis pendidikan, mulai dari pendidikan latar belakang, pendidikan latar belakang, pendidikan latar belakang, dan pendidikan latar belakang."}
+{"uji_id": "kami-doc_0080_s059", "hipotesis": "Pada suatu waktu ketika raja sedang dalam perjalanannya sampai terbawa angin dan modem kedamaian, Nommensen membuat selimut dan menutup badan mereka, hingga menundukkan hati dan hati mereka, memuji perbuatan baik Nommensen."}
+{"uji_id": "kami-doc_0069_s005", "hipotesis": "Metode yang digunakan dalam analisis ini adalah deskriptif melalui sifat, yaitu melalui data awal melalui metode pengumpulan data melalui penulisan surat, penjelajahan informasi dan analisis surat yang berisi hal tersebut."}
+{"uji_id": "kami-doc_0072_s002", "hipotesis": "Di sisi lain, gereja-gereja selalu mengambil keputusan untuk tidak langsung meminta pemerintah untuk mengatasi permasalahan ekonomi tetapi juga memperingatkan sikap individu dan interpretasi dari analisis ekonomi yang jujur."}
+{"uji_id": "kami-doc_0089_s010", "hipotesis": "Seiring berjalannya waktu menjelajahi seni budaya Batak, acara Toba World ini juga bertujuan untuk menjelajahi seni budaya Batak ke masyarakat Eropa, termasuk di Slovenia, kata Viky Sianipar dalam sambutannya."}
+{"uji_id": "kami-doc_0080_s022", "hipotesis": "Pada tahun 1834, dua orang Amerika, yaitu Samuel Munson dan Henry Lyman, menjadi utusan Gereja Kongregasional Amerika yang diutus oleh The American Board of Commissioners for Foreign Mission (ABCFM) di Boston untuk masuk ke Sumatera."}
+{"uji_id": "kami-doc_0080_s072", "hipotesis": "Kekristenan Katolik semakin meningkat pada awal tahun 1950-an, daerah Batak Toba dengan kekristenan Katolik yang cukup besar berada di sekitar Pulau Samosir dan Danau Toba dan di sekitar Kecamatan Andam Dewi di daerah Tapanuli Tengah."}
+{"uji_id": "kami-doc_0080_s030_b", "hipotesis": "Surat tersebut sampai kepada para kepala Lembaga Alkitab Nederlandsche Bijbelgenootschap di Belanda, sehingga dibantu oleh seorang ahli bahasa bernama Herman Neubronner van der Tuuk untuk melakukan penelitian bahasa Batak dan untuk menerjemahkan Alkitab."}
+{"uji_id": "kami-doc_0089_s009", "hipotesis": "Setiap tahun, ratusan seniman dari daerah dan luar negeri berpartisipasi dalam festival selama tiga hari dan tampil di tempat-tempat yang tepat di pedesaan besar Slovenia, yang menjadi pusat peribadatan sihabang."}
+{"uji_id": "kami-doc_0077_s065__r02", "hipotesis": "Asal Mula: Kabupaten Toba Samosir yang dibentuk berdasarkan Undang-undang No. 12 Tahun 1998 mengenai pembentukan Kabupaten Daerah Tingkat II Toba Samosir dan Kabupaten Mandailing Natal, di Daerah Tingkat I Provinsi Sumatera Utara."}
+{"uji_id": "kami-doc_0089_s003", "hipotesis": "\"Nights in Old Ljubljana Town International Festival\" diselenggarakan oleh Imago Slovenia di desa selatan Huta Ljubljana, seperti dikutip oleh Fungsi Pensosbud  KBRI Wina, Vienna Retnosari ke Antara London, Senin (29/8/2016)."}
+{"uji_id": "kami-doc_0089_s016", "hipotesis": "Aktivitas Toba World di Austria dan Slovenia menjadi bagian dari acara Toba World Europe Tour 2016 yang diselenggarakan oleh Kementerian Pariwisata RI sebagai bagian dari kampanye promosi pariwisata Wonderful Indonesia di kawasan Eropa."}
+{"uji_id": "kami-doc_0091_s014", "hipotesis": "Karena kurang paham awal, ia tak terpapar pada hal-hal penting di industri seperti design pattern, architecture, dan sebagainya, apalagi soal prinsip-prinsip seperti SOLID atau pemrograman fungsional."}
+{"uji_id": "kami-doc_0077_s051__r02", "hipotesis": "Raja Batak adalah penduduk asli Toba di Huta Sianjur Mulamula yang terletak di lereng gunung Pusuk Buhit, sekitar 45 menit perjalanan dari Pangururan, ibu kota Kabupaten Samosir, saat ini."}
+{"uji_id": "kami-doc_0080_s050", "hipotesis": "Dalam sambutannya, Ludwig Ingwer Nommensen ditengah-tengah Raja Pontas Lumbantobing untuk menyampaikan pesan dari Barus ke Silindung dengan keterangan tertulis yang meyakinkan bahwa dia tidak peduli dengan hidupnya."}
+{"uji_id": "kami-doc_0077_s050", "hipotesis": "Sama seperti suku Nasution yang banyak berdomisili di daerah Padangsidimpuan yaitu adik dari suku Siahaan di Balige, tentu juga dipengaruhi oleh oppu (leluhur) yang sama antara keduanya."}
+{"uji_id": "kami-doc_0061_s011", "hipotesis": "Tujuan penari yang menulis buku ini adalah untuk menjelaskan tentang peran penting dalam penyalahgunaan tata krama dan cara untuk melakukan penyalahgunaan tata krama yang layak dan sopan."}
+{"uji_id": "kami-doc_0061_s028", "hipotesis": "Sangat keras digunakan sebagai penolong pemerintah dan masyarakat dalam penyalahgunaan tanah, terutama ketika Indonesia saat ini sedang memperburuk penyalahgunaan sumber daya manusia yang baru."}
+{"uji_id": "kami-doc_0090_s008", "hipotesis": "\"Apa yang dilakukan Ambroncius Nababan adalah peran yang menarik dan luar biasa bagi masyarakat Batak yang hidup sesat dengan masyarakat dari berbagai marga yang ada di Papua,\" kata Makmur."}
+{"uji_id": "kami-doc_0080_s012", "hipotesis": "Mereka menghabiskan waktu 5 jam berjalan kaki dari Huta Tinggi dan duduk di sebuah pondok untuk menikmati perjalanan pada hari Selasa menjelang atau pada tanggal 4 Mei dan sampai mereka berkunjung ke Silindung."}
+{"uji_id": "kami-doc_0089_s004", "hipotesis": "Toba World yang beranggotakan 12 orang tampil membawakan sedikitnya 12 suara dari seluruh keluarga Batak yang telah diperbaharui dengan aransemen, di dalamnya terdapat Suan, Attar DiDokkon, O Tanah Batak."}
+{"uji_id": "kami-doc_0089_s007", "hipotesis": "Pekerjaan pembinaan juga dihadiri oleh Ketua DPR RI Republik Austria dan Republik Slovenia, Rachmat Budiman, yang juga menantu Macek Muri, seorang perempuan keturunan khas Slovenia."}
+{"uji_id": "kami-doc_0066_s000", "hipotesis": "Penelitian ini bertujuan untuk mengkaji kemampuan para siswa dari Fakultas Ilmu Komputer dan Ilmu Informasi (JTIK) Universitas Negeri Makassar (UNM) dalam bidang Informatika Binagunan."}
+{"uji_id": "kami-doc_0077_s019", "hipotesis": "Afdeling Padangsidimpuan, yang sekarang menjadi Kabupaten Tapanuli Selatan, Kabupaten Mandailing Natal, Kabupaten Padang Lawas, Kabupaten Padang Lawas Utara, dan Kota Padangsidimpuan."}
+{"uji_id": "kami-doc_0091_s005", "hipotesis": "Ia adalah seorang juara dari olimpiade komputer, mengantisipasi algoritma, dan mengetahui cara membuat program secara prosedural, tetapi kurang memiliki pemahaman awal mengenai pemrograman."}
+{"uji_id": "kami-doc_0061_s012", "hipotesis": "Kejarlah tempat untuk menyampaikan pesan kepada masyarakat dan teman-teman setempat yang sedang melaksanakan kegiatan tersebut, sebagai kegiatan yang disukai pada saat pelecehan dan pelestarian hutan."}
+{"uji_id": "kami-doc_0072_s000", "hipotesis": "Makalah ini bertujuan untuk memperjelas usulan sikap jujur orang Kristen terhadap penjajahan dunia dan konflik ekonomi di tengah krisis ekonomi dunia."}
+{"uji_id": "kami-doc_0077_s024", "hipotesis": "4.Afdeling Bataklanden, yang sekarang menjadi Kabupaten Tapanuli Utara, Kabupaten Humbang Hasundutan, Kabupaten Toba, Kabupaten Samosir, Kabupaten Dairi, dan Kabupaten Pakpak Bharat."}
+{"uji_id": "kami-doc_0068_s002", "hipotesis": "Sura-sura tertulis diperoleh dari berbagai sumber seperti ende-ende, buku wisata dan kata-kata ende, dan kata-kata biasa diperoleh melalui keterbukaan dan penyampaian pesan."}
+{"uji_id": "kami-doc_0080_s015", "hipotesis": "Ketika mereka sampai di Silindung, mereka didatangi dengan baik oleh raja setempat, namun perjalanan peribadatan pada masa tersebut hancur berkeping-keping dan hancur berkeping-keping."}
+{"uji_id": "kami-doc_0066_s003", "hipotesis": "Kecerdasan ini dapat membantu universitas mengembangkan AI yang canggih, yang menyediakan pembelajaran AI yang efektif dan yang membantu siswa untuk melakukan penelitian tentang AI."}
+{"uji_id": "kami-doc_0077_s006", "hipotesis": "Pada masa Kekaisaran Batak yang berpusat di Bangkara, Kekaisaran Batak yang dibangun pada masa pemerintahan dinasti Si Singamangaraja dibagi menjadi empat wilayah yang dinamakan Raja Maropat, yaitu:"}
+{"uji_id": "kami-doc_0089_s013", "hipotesis": "Selain tampil di Nights in Old Ljubljana Town International Festival, Toba World juga tampil di Huta Landeck, Austria dan di Jabu Joglo di kampung bunga Arboretum, Slovenia."}
+{"uji_id": "kami-doc_0077_s002", "hipotesis": "Wilayah kesejahteraan terbesar suku Batak Toba adalah Kabupaten Samosir, Kabupaten Toba, Kabupaten Humbang Hasundutan, Kabupaten Tapanuli Utara, dan Kabupaten Tapanuli Tengah."}
+{"uji_id": "kami-doc_0080_s058", "hipotesis": "Berperilaku sopan santun, Nommensen selalu ramah dan ramah, sehingga orang yang lebih tinggi membuat dirinya lebih bahagia dan mereka melakukan yang terbaik untuk dirinya."}
+{"uji_id": "kami-doc_0090_s006", "hipotesis": "Begitu juga dengan Kenan Sipayung, tokoh masyarakat Batak di Tanah Papua Makmur Nababan yang didatangi Ibu Negara Batak (IPBP) Jee Somosir berkunjung ke Pulau Papua."}
+{"uji_id": "kami-doc_0089_s002", "hipotesis": "Meramaikan acara Nights in Old Ljubljana Town International Festival, acara Toba World juga bertujuan untuk menyampaikan seni pengetahuan Batak kepada masyarakat Eropa."}
+{"uji_id": "kami-doc_0080_s002", "hipotesis": "Pada tahun 1820, tiga misionaris dari Baptist Missionary Society, yaitu Nathan Ward, Evans Meers, dan Richard Burton, diutus ke Bengkulu untuk berkunjung ke Thomas Stamford Raffles."}
+{"uji_id": "kami-doc_0090_s003", "hipotesis": "\"Persatuan Batak Provinsi Papua meminta kepada seluruh pihak kepolisian Republik Indonesia untuk disesuaikan dengan tuntas dan diproses sesuai aturannya yang tegas,\" lanjutnya."}
+{"uji_id": "kami-doc_0077_s053", "hipotesis": "Pada saat konflik kedaulatan dimulai pada awal tahun 1950, gereja-gereja Tapanuli yang tersebar di Provinsi Sumatera Utara dibagi menjadi empat distrik baru, yakni:"}
+{"uji_id": "kami-doc_0091_s023_a", "hipotesis": "Dengan demikian, tidak akan ketinggalan bahwa orang yang menjadi finalis atau juara lomba olimpiade komputer atau lulusan Ilmu Komputer dengan IPK yang sudah lulus, bisa langsung menjadi programmer."}
+{"uji_id": "kami-doc_0089_s005", "hipotesis": "Pada awal hidupnya, Viky Sianipar berbicara tentang rasa syukur dan kepercayaan Indonesia yang beragam marga dan budaya, yang Batak adalah salah satunya."}
+{"uji_id": "kami-doc_0089_s011", "hipotesis": "Dengan demikian, diharapkan potensi musik yang dihasilkan oleh Toba World dapat menarik wisatawan Slovenia untuk berkunjung ke Indonesia, termasuk ke Danau Toba di Sumatera Utara."}
+{"uji_id": "kami-doc_0061_s005", "hipotesis": "Bumi menjadi pusat kegiatan masyarakat dimana pemerintah harus menghormati nilai-nilai yang baik terhadap lingkungan hidup, baik terhadap lingkungan hidup, dan lingkungan hidup."}
+{"uji_id": "kami-doc_0080_s029", "hipotesis": "Pada tahun 1840, seorang astronom berkebangsaan Jerman bernama Franz Wilhelm Junghuhn melakukan perjalanan ke daerah Batak dan kemudian ia menerima surat mengenai suku Batak."}
+{"uji_id": "kami-doc_0090_s009", "hipotesis": "Ambroncius Nababan mendirikan gereja untuk menjaga ketertiban seluruh suku yang ada di Tanah Papua, sebagai bukti bahwa mereka adalah suku Batak."}
+{"uji_id": "kami-doc_0089_s012", "hipotesis": "Viky Sianipar selama 12 tahun terakhir telah merilis tujuh album yang menjadi seniman ternama dengan karya-karyanya yang memiliki makna kontemporer di kalangan orang Batak."}
+{"uji_id": "kami-doc_0091_s002", "hipotesis": "Saya menemukan seseorang yang melakukan tugas akhirnya membuat aplikasi penjadwalan tetapi sangat membutuhkan interpretasinya (fundamental programming) mengenai pemrograman."}
+{"uji_id": "kami-doc_0068_s009", "hipotesis": "Kata-kata tersebut diproses dengan cara mengompleksikan untuk memperjuangkan keterkaitan antar sesama tokoh dengan informasi dan menghibur di lingkungan yang tepat."}
+{"uji_id": "kami-doc_0068_s012", "hipotesis": "Penulisan puisi sebagai karya merupakan penggambaran karakter yang sangat banyak digunakan dalam bahasa Batak Toba, dan memiliki rantai keterbukaan yang luas."}
+{"uji_id": "kami-doc_0080_s030_a", "hipotesis": "Dalam bukunya, Junghuhn meminta pemerintah kolonial untuk menyebarkan ajaran Kristen untuk mengamanatkan penyebaran Islam di bagian utara Pulau Sumatra."}
+{"uji_id": "kami-doc_0061_s009", "hipotesis": "Jika ingin melakukan penyesuaian, maka harus sesuai dengan Sustainable Development Goals (SDGs) yang merupakan strategi untuk mencapai tujuan yang lebih baik."}
+{"uji_id": "kami-doc_0089_s001", "hipotesis": "Kumpulan musik berjudul Toba World yang dipimpin oleh pemusik Viky Sianipar menjelajahi seluruh Eropa melalui acara pertama di Huta Ljubljana, Slovenia."}
+{"uji_id": "kami-doc_0089_s015", "hipotesis": "Peresmian Jabu Joglo di Rura Uli Bunga Arboretum, yang disatukan oleh KBRI/PTRI Wina pada tahun 2013, di dalamnya juga menjadi bagian dalam promosi Indonesia di Slovenia."}
+{"uji_id": "kami-doc_0066_s002", "hipotesis": "Secara eksplisit, banyak siswa dari JTIK UNM yang memiliki pengalaman yang baik tentang AI dalam pekerjaan sehari-hari, tetapi harus dipotong-potong terlebih dahulu dari latar belakang."}
+{"uji_id": "kami-doc_0066_s004", "hipotesis": "Penelitian ini juga memberikan pemahaman yang mendalam tentang peran AI dalam ilmu pengetahuan dan komunikasi antar siswa tentang AI di universitas dan masyarakat."}
+{"uji_id": "kami-doc_0080_s010", "hipotesis": "Mereka melanjutkan perjalanannya dan menjelajahi jalan selama 6 jam perjalanan menuju kampung suci yang terletak di tengah-tengah Pegunungan Lambung."}
+{"uji_id": "kami-doc_0080_s009", "hipotesis": "Mereka disambut dengan baik oleh sang raja yang berada di sana dan dimasukkan ke dalam pondok selama satu malam di rumah Pangulu Huta, serta mendapat tanda kehormatan di tempat peristirahatan."}
+{"uji_id": "kami-doc_0061_s007", "hipotesis": "Sebelum melakukan penyalahgunaan rumah tangga yang layak dan sopan, harus segera mengatasinya permasalahan-permasalahan yang dihadapi selama di rumah tangga."}
+{"uji_id": "kami-doc_0077_s048", "hipotesis": "Misalnya, mayoritas penduduk Silindung adalah marga-marga Hutabarat, Panggabean, Hutagalung, Simorangkir, Hutapea, dan Lumbantobing."}
+{"uji_id": "kami-doc_0077_s051__r01", "hipotesis": "Batak Toba sebagai budaya asli bisa menyebar ke seluruh daerah untuk menjelajahi batas-batas geografis asal leluhur mereka"}
+{"uji_id": "kami-doc_0080_s051", "hipotesis": "Awalnya Nommensen tidak peduli dengan kepercayaan diri, karena seringkali mereka terkesan malu karena memilih orang lain yang tidak memiliki budaya."}
+{"uji_id": "kami-doc_0077_s032", "hipotesis": "Judul dari Afdeling Bataklanden, misalnya, diubah menjadi Luhak Tanah Batak, dan lulusan pertama yang diangkat adalah Cornelius Sihombing yang kemudian menjadi Demang Silindung."}
+{"uji_id": "kami-doc_0069_s000", "hipotesis": "Penelitian ini membahas tentang interpretasi bahasa kita tentang kekhasan dan ciri khas masyarakat yang terdapat di buku pendidikan."}
+{"uji_id": "kami-doc_0069_s008", "hipotesis": "Penelitian ini menggunakan teori teori kepala penganut bahasa tradisional dari Newmark (1988) dan kepala kepala penganut bahasa dari Baker."}
+{"uji_id": "kami-doc_0069_s002", "hipotesis": "Jadi, buku ini tidak hanya membahas sebuah kekuatan sosial, tetapi juga membahas masalah-masalah seperti perception, relasi, politik, dan lain sebagainya."}
+{"uji_id": "kami-doc_0077_s047", "hipotesis": "Sama seperti suku-suku lainnya, etnis Batak Toba juga bermigrasi ke daerah-daerah yang lebih miskin menjanjikan kehidupan yang lebih baik."}
+{"uji_id": "kami-doc_0080_s024", "hipotesis": "Dalam perjalanan, ketika sampai di tombak Lombang Silindung, pada 28 Juni 1834, mereka dijemput, dijemput, dan dimatikan di lambung Lobu Pining."}
+{"uji_id": "kami-doc_0061_s027", "hipotesis": "Pengaturan tata ruang menjadi sangat penting berkat pengujian tata ruang alam dan tata ruang masyarakat agar dapat berdamai dengan pemerintah."}
+{"uji_id": "kami-doc_0091_s036", "hipotesis": "Tim pemasar di perusahaan teknologi saat ini, minimal harus mampu melakukan queries dari database dan melakukan analisis dengan bahasa seperti R atau Python."}
+{"uji_id": "kami-doc_0061_s022", "hipotesis": "Misalnya, tata kelola pengolahan dan pengolahan air setiap saat bisa menjadi masalah jika sudah banyak orang berdomisili di kota tersebut."}
+{"uji_id": "kami-doc_0080_s013_a", "hipotesis": "Awalnya, akses jalan dipengaruhi hingga ke Danau Toba, namun akses jalan dibatasi karena penyakit kolera yang harus ditangani Ward."}
+{"uji_id": "kami-doc_0061_s010", "hipotesis": "Perbedaan dalam penyalahgunaan hukum dilakukan secara rutin di antara pemerintah dan masyarakat untuk saling memahami dalam memperjuangkan keputusan."}
+{"uji_id": "kami-doc_0091_s020_a", "hipotesis": "Yang akhirnya menjadi mudah, yaitu karena ia hanya belajar apa yang diberikan oleh dosen tersebut saja, dan tidak ada perkembangan secara langsung yang dilakukan terhadap apa yang diberikan."}
+{"uji_id": "kami-doc_0001_s006_b", "hipotesis": "Saat wisatawan sehari-hari berkunjung ke tempat wisata banyak hiburan yang bisa dilihat dari tempat wisata yang tersedia dan tempat wisata yang dapat dilihat."}
+{"uji_id": "kami-doc_0069_s006", "hipotesis": "Pesan yang digunakan adalah tujuh pesan berbahasa Batak yang terdapat di buku muatan lokal Parsiajaran Hata dan Sastra Batak Toba 3 edisi 1 tahun 2011."}
+{"uji_id": "kami-doc_0077_s003", "hipotesis": "Wilayah kesejahteraan lainnya adalah di Kabupaten Dairi, Kabupaten Simalungun, Kota Pematangsiantar, Kota Sibolga, Kabupaten Asahan, dan Kota Medan."}
+{"uji_id": "kami-doc_0077_s049", "hipotesis": "Hadingannya marga ini merupakan keturunan Guru Mangaloksa yang merupakan putera kedua Raja Hasibuan di daerah Toba."}
+{"uji_id": "kami-doc_0061_s024", "hipotesis": "Terlepas dari penyalahgunaan penduduk rata-rata dan rendah, perlu dipertimbangkan penyesuaian penduduk masa depan pada waktu yang akan datang di wilayah tersebut."}
+{"uji_id": "kami-doc_0080_s062", "hipotesis": "Orang Batak yang berbakti Kristen mendapat penghargaan dan diterima kembali dari kampung halaman karena tidak suka memberikan kontribusi terhadap kegiatan adat."}
+{"uji_id": "kami-doc_0089_s008", "hipotesis": "Nights in Old Ljubljana Town International Festival adalah salah satu festival seni pertunjukan terbesar di Slovenia yang diselenggarakan pada waktu setempat."}
+{"uji_id": "kami-doc_0080_s065", "hipotesis": "Sepuluh tahun kemudian pada tahun 1881, meningkatnya jumlah lima suku, sehingga jumlah orang Batak yang beragama Kristen mencapai sekitar 6.250 jiwa."}
+{"uji_id": "kami-doc_0061_s025", "hipotesis": "Seni bela diri harus dilatih oleh para pejuang untuk mewujudkan kehidupan yang seimbang."}
+{"uji_id": "kami-doc_0080_s021", "hipotesis": "Perbedaan tersebut adalah perang saudara yang mengubah tujuan Gutzlaff ke Jakarta untuk menyebarkan ajaran ke orang Tionghoa yang tinggal di sana."}
+{"uji_id": "kami-doc_0091_s029", "hipotesis": "Jika ingin menjadi dorongan pengembang, maka dia harus mampu dan rajin diajak bermusyawarah agar dihargai."}
+{"uji_id": "kami-doc_0069_s007", "hipotesis": "Tujuh berita tersebut disampaikan dari bahasa Batak Toba ke bahasa Indonesia melalui kamus bahasa Batak, penerjemahan surat dan informasi."}
+{"uji_id": "kami-doc_0080_s005", "hipotesis": "Setelah itu, Raffles menyuruh mereka untuk menjelajahi wilayah utara, wilayah kepercayaan orang Batak yang hidup dope dalam agama Kristen."}
+{"uji_id": "kami-doc_0080_s039", "hipotesis": "Pada tahun yang sama, tepatnya pada tanggal 7 Oktober 1861, diselenggarakan pertemuan empat pendeta di Sipirok, yang dipimpin oleh dua pendeta Jerman, yaitu Pdt."}
+{"uji_id": "kami-doc_0069_s010", "hipotesis": "Uji besi yang paling banyak digunakan adalah pengolahan kata, kata-kata yang lebih ramah, tambahan informasi dan penyesuaian kata."}
+{"uji_id": "kami-doc_0077_s017", "hipotesis": "Kewarganegaraan Tapanuli dibagi menjadi empat daerah yang disebut sebagai afdeling dan setiap saat diketahui orangnya adalah Kabupaten atau Kota, yaitu:"}
+{"uji_id": "kami-doc_0001_s002", "hipotesis": "Setelah tiba di kampung Toba, seorang penari berbentuk emas kembali menjadi seorang perempuan yang baru lahir dan diberi nama Si Toba sebagai putri."}
+{"uji_id": "kami-doc_0090_s001", "hipotesis": "Ambroncius Nababan mendirikan gereja yang memelihara perdamaian di seluruh wilayah yang ada di Tanah Papua."}
+{"uji_id": "kami-doc_0091_s023_b", "hipotesis": "Membutuhkan mentoring, coaching, dan pembelajaran yang baik, sehingga mereka dapat membuka jurang kecerdasan di kampus dan di industri."}
+{"uji_id": "kami-doc_0061_s013", "hipotesis": "Pendukung kota harus mengadopsi kebijakan waktu dan memfasilitasi aktivitas masyarakat seperti pengembangan aplikasi."}
+{"uji_id": "kami-doc_0069_s001", "hipotesis": "Buku pembelajaran, terutama buku tugas lokal, diperintahkan untuk memberikan informasi mengenai bahasa dan daerah setempat."}
+{"uji_id": "kami-doc_0091_s004", "hipotesis": "Terus terang, orang-orang ini tidak peduli dengan coding atau sama sekali coding sama sekali, seperti yang saya pelajari sebelumnya."}
+{"uji_id": "kami-doc_0091_s021", "hipotesis": "Setelah lulus, ia kemudian menjadi seorang developer Android di startup/perusahaan besar dengan pendapatan yang cukup besar."}
+{"uji_id": "kami-doc_0072_s001", "hipotesis": "Proposal ini sangat penting bagi masyarakat karena orang Kristen kadang-kadang melakukan hal-hal tersendiri sesuai dengan kebutuhan masyarakat."}
+{"uji_id": "kami-doc_0080_s011_a", "hipotesis": "Selama dua hari perjalanan, mereka berkunjung ke Huta Tinggi pada hari Senin setelah 4 jam perjalanan dari tempat perjalanannya."}
+{"uji_id": "kami-doc_0061_s014", "hipotesis": "Hal ini menjadi bukti bahwa masyarakat layak berinformasi yang mencerminkan peran teknologi sebagai peran dalam perekonomian masyarakat."}
+{"uji_id": "kami-doc_0061_s017", "hipotesis": "Di sisi lain, hal tersebut bisa menjadi faktor-faktor yang mempengaruhi keterpaduan pengelola di sekitarnya."}
+{"uji_id": "kami-doc_0061_s021", "hipotesis": "Desain green city harus dibangun dari atas hingga bawah agar melonjak kehidupan alam semesta dan harus dibangun terus."}
+{"uji_id": "kami-doc_0091_s012", "hipotesis": "Padahal, sekarang hampir semua bahasa pemrograman dan framework dibangun dengan paradigma pemrograman berorientasi objek."}
+{"uji_id": "kami-doc_0091_s018", "hipotesis": "Karena banyak yang belajar teori, interpretasinya mengenai komunikasi data dan protokol jaringan pun sangat sederhana."}
+{"uji_id": "kami-doc_0068_s000", "hipotesis": "Penulisan ini bertujuan untuk menggambarkan garis keturunan bahasa yang berbeda mengenai kasih sayang dalam bahasa Batak Toba."}
+{"uji_id": "kami-doc_0089_s006", "hipotesis": "Jelashon Viky adalah rasa syukur setiap orang dan tingkah lakunya yang dibawakan oleh dua aktor Toba World, Louise dan Alsant."}
+{"uji_id": "kami-doc_0077_s070", "hipotesis": "Nama marga ini diperoleh dari latar belakang keturunan baoa sebagai garis keturunan patrilineal yang juga menyebar ke kalangan keturunan dewasa."}
+{"uji_id": "kami-doc_0080_s034", "hipotesis": "Van der Tuuk menyarankan agar lembaga zending menurut para penginjil ke Tapanuli, langsung ke daerah di sekitarnya."}
+{"uji_id": "kami-doc_0001_s004", "hipotesis": "Tapi Toba tidak bisa sembarangan bersumpah, dan harus percayalah bahwa anakku yang bernama Samosir itu benar-benar mertuanya."}
+{"uji_id": "kami-doc_0080_s031", "hipotesis": "Van der Tuuk adalah orang Barat pertama yang melakukan penelitian ilmiah mengenai bahasa Batak, Lampung, Kawi, Bali."}
+{"uji_id": "kami-doc_0091_s035", "hipotesis": "Saat ini pemasar juga semakin terdorong dengan pendapatan dari pengelolaan dan pengembangan data untuk meningkatkan penjualan."}
+{"uji_id": "kami-doc_0061_s018", "hipotesis": "Penggunaan sumber data yang tepat dan hangat harus mempertimbangkan makna dari semua tempat yang tersedia."}
+{"uji_id": "kami-doc_0077_s033", "hipotesis": "Jenderal onderafdeling juga digantikan menjadi urung, dan anggota yang memimpin onderafdeling diangkat menjadi Kepala Urung."}
+{"uji_id": "kami-doc_0080_s007", "hipotesis": "Setelah dua jam menikmati kejujuran, mereka sampai di kota Parik Debata yang terletak di daerah Pagaran Lambung."}
+{"uji_id": "kami-doc_0080_s016", "hipotesis": "Parmian itu salah paham dengan kata-kata parjamita yang mengatakan mereka harus menghormati kerajaan mereka, seperti anak laki-laki yang tidak bertanggung jawab."}
+{"uji_id": "kami-doc_0080_s074", "hipotesis": "Sesat dengan Komunitas Protestan yang berorientasi Lutheran, Katolik Roma mempersiapkan Adat Batak di dalam komunitas keagamaan."}
+{"uji_id": "kami-doc_0077_s035", "hipotesis": "Setelah dibahas secara historis, pemerintahan di Keresidenan Tapanuli dibagi menjadi empat kabupaten, yaitu:"}
+{"uji_id": "kami-doc_0089_s014", "hipotesis": "Rumah Joglo merupakan salah satu rumah wisatawan Indonesia yang merupakan milik Pemerintah Provinsi Daerah Istimewa Yogyakarta kepada masyarakat Slovenia."}
+{"uji_id": "kami-doc_0091_s032", "hipotesis": "Orang yang mengelola infrastruktur harus mampu mengotomatisasikan kluster dan menjadi DevOps, bukan hanya menjadi SysAdmin."}
+{"uji_id": "kami-doc_0090_s007", "hipotesis": "Mereka juga meminta laporan polisi mengenai perbuatan Ambroncius Nababan yang dianggap melanggar aturan."}
+{"uji_id": "kami-doc_0091_s024", "hipotesis": "Jika ada teman-teman yang memiliki pengalaman yang sama dan ingin masuk ke dalam industri usaha digital startup sebagai pengembang:"}
+{"uji_id": "kami-doc_0068_s010", "hipotesis": "Pengamatan dari Metaphor Konseptual digunakan untuk membangun konsep-konsep metaphoris mengenai perasaan."}
+{"uji_id": "kami-doc_0080_s014", "hipotesis": "Mereka tinggal di Silindung selama seminggu dan berangkat dari Silindung pada jam 7 pagi pada tanggal 11 Mei."}
+{"uji_id": "kami-doc_0080_s020", "hipotesis": "Awalnya, Karl Gützlaff ingin berkunjung ke Sumatra, tetapi gagal karena kekurangan tanah yang masa perpecahan."}
+{"uji_id": "kami-doc_0091_s006", "hipotesis": "Seperti menunduk (stuck) adalah seseorang yang hanya pada saat pertama, pada saat balapan, dan tidak membagi-bagikan."}
+{"uji_id": "kami-doc_0091_s019", "hipotesis": "Tidak diketahui bahwa satu alamat tidak hanya memuat halaman HTML, tetapi juga dapat JSON dan angka lainnya."}
+{"uji_id": "kami-doc_0068_s007", "hipotesis": "Cara berbicara juga digunakan untuk mencari informasi tentang pengalaman hidup orang kaya."}
+{"uji_id": "kami-doc_0077_s026", "hipotesis": "Pada masa penjajahan Jepang, kepemimpinan pemerintah di Kepulauan Tapanuli hampir sama sekali tidak berubah."}
+{"uji_id": "kami-doc_0061_s016", "hipotesis": "Kayu dan harta yang diperoleh dari masa dahulu bisa menjadi nilai bagi kehidupan penduduk setempat."}
+{"uji_id": "kami-doc_0061_s019", "hipotesis": "Dalam buku ini, dijelaskan cara untuk menjelaskan makna alam semesta yang dapat dijadikan alam semesta."}
+{"uji_id": "kami-doc_0080_s028", "hipotesis": "Ludwig Ingwer Nommensen, misionaris Jerman yang berhasil menyebarkan Injil di tengah-tengah masyarakat Batak Toba."}
+{"uji_id": "kami-doc_0069_s011", "hipotesis": "Kata-kata penting: Nainggolan, Budaya, Penggambaran, Bahasa Indonesia, Bahasa Batak Toba"}
+{"uji_id": "kami-doc_0077_s023", "hipotesis": "Afdeling Sibolga and Ommnenlanden, yang saat ini menjadi Kabupaten Tapanuli Tengah dan Kota Sibolga."}
+{"uji_id": "kami-doc_0080_s036", "hipotesis": "Van Asselt, utusan dari gereja yang terletak di Ermelo, Belanda, melakukan pembinaan di Tapanuli Selatan."}
+{"uji_id": "kami-doc_0091_s026", "hipotesis": "Di kampus, bisa juga diajarkan Turbo Pascal 7.0, tetapi algoritma yang sama juga bisa digunakan di NodeJS."}
+{"uji_id": "kami-doc_0072_s005_b", "hipotesis": "Kata Kunci: Kesejahteraan dunia, kesejahteraan dunia, sikap jujur, kepercayaan yang beragam."}
+{"uji_id": "kami-doc_0091_s016_b", "hipotesis": "Selain itu, ia juga melakukan skripsi khusus untuk aplikasi penjadwalan yang tersebar di platform Android."}
+{"uji_id": "kami-doc_0080_s071", "hipotesis": "Kekristenan Katolik didirikan pada tahun 1934 oleh misionaris Katolik Belanda bernama Sybrandus Van Rossum."}
+{"uji_id": "kami-doc_0091_s011", "hipotesis": "Dasar dari Object-Oriented Programming (OOP) secara abstrak juga cukup sederhana."}
+{"uji_id": "kami-doc_0001_s005", "hipotesis": "Setelah bertemu dengan Sisamosir, saya bertemu dengan teman-teman yang sedang berkunjung dan saya percaya bahwa gunung tertinggi adalah gunung."}
+{"uji_id": "kami-doc_0077_s046", "hipotesis": "Orang Batak Toba tidak cenderung tinggal di wilayah geografis Toba, yang juga berawal dari Toba."}
+{"uji_id": "kami-doc_0077_s066", "hipotesis": "Kabupaten Toba Samosir merupakan hasil pengembangan dari Daerah Tingkat II Kabupaten Tapanuli Utara."}
+{"uji_id": "kami-doc_0080_s038", "hipotesis": "Pada tanggal 31 Maret 1861, dua orang Batak pertama yang di urbasi yaitu: Jakobus Tampubolon dan Simon Siregar."}
+{"uji_id": "kami-doc_0001_s006_a", "hipotesis": "Dan menangislah mertuanya itu saat hujan turun keras-keras sampai bumi berubah menjadi satu orang."}
+{"uji_id": "kami-doc_0080_s064", "hipotesis": "Selama tujuh tahun Nommensen melakukan penelitian, jumlah orang Batak yang beragama Kristen mencapai 1.250 orang."}
+{"uji_id": "kami-doc_0080_s060", "hipotesis": "Sikap penolakan Raja Batak saat itu karena kata-kata Nommensen tersebut merupakan awal dari pihak Belanda."}
+{"uji_id": "kami-doc_0091_s008_b", "hipotesis": "Dan nama-nama variabel yang juga khas seperti nama-nama variabel pada dasarnya soal jenis algoritma: x, y, z."}
+{"uji_id": "kami-doc_0061_s020", "hipotesis": "Seperti contoh karya pendukung pulau yang mempertimbangkan kondisi alam semesta dan alam semesta."}
+{"uji_id": "kami-doc_0077_s016", "hipotesis": "Pada masa penjajahan Belanda, pemerintah Belanda mendirikan Gereja Katolik Tapanuli pada tahun 1910."}
+{"uji_id": "kami-doc_0080_s049", "hipotesis": "Kemudian, pada tahun 1864, ia masuk ke wilayah Silindung, pertama di Huta Dame, kemudian di Pearaja."}
+{"uji_id": "kami-doc_0091_s016_a", "hipotesis": "Tidak ada yang bisa memprogram, tetapi saya bisa mendapatkan pekerjaan yang paling mahal sekarang: menjadi pengembang mobile."}
+{"uji_id": "kami-doc_0077_s064", "hipotesis": "Pada bulan Desember tahun 2008, Residenan Tapanuli diselenggarakan di Provinsi Sumatera Utara."}
+{"uji_id": "kami-doc_0080_s044", "hipotesis": "Mereka melaksanakan tugas tersebut untuk menyampaikan tugas penyebaran kepada Rheinische Missionsgesellschaft."}
+{"uji_id": "kami-doc_0077_s034", "hipotesis": "Onderdistrik juga menjadi Urung Kecil yang dipimpin oleh Kepala Urung Kecil yang sebelumnya menjadi Asisten Demang."}
+{"uji_id": "kami-doc_0080_s032", "hipotesis": "Ia juga merupakan orang Eropa pertama yang mendirikan Danau Toba dan berkunjung bersama Sang Raja."}
+{"uji_id": "kami-doc_0077_s028", "hipotesis": "Setelah merdeka, pemerintah Republik Indonesia telah menjadikan Tapanuli sebagai sebuah residensi."}
+{"uji_id": "kami-doc_0061_s015", "hipotesis": "Jalan-jalan tersebut menjadi dorongan bagi masyarakat untuk mencari sumber uang."}
+{"uji_id": "kami-doc_0091_s031", "hipotesis": "Saat ini, dengan munculnya cloud computing, peran administrator semakin rumit."}
+{"uji_id": "kami-doc_0068_s003", "hipotesis": "Metode yang digunakan untuk menjelaskan soal-soal adalah dengan cara menenangkan dan cara berbicara."}
+{"uji_id": "kami-doc_0068_s004", "hipotesis": "Spastaran yang digunakan untuk menyampaikan kabar adalah cara menenangkan dan berpesan."}
+{"uji_id": "kami-doc_0080_s006", "hipotesis": "Mereka berangkat pada tanggal 30 April 1824 dan melakukan perjalanannya di sisi Tapanuli."}
+{"uji_id": "kami-doc_0077_s001", "hipotesis": "Batak Toba adalah suku suku Batak yang berasal dari Provinsi Sumatera Utara, Indonesia."}
+{"uji_id": "kami-doc_0080_s073", "hipotesis": "Saat ini, kurang-lebih ±11% penduduk Batak Toba adalah anggota Gereja Katolik Roma."}
+{"uji_id": "kami-doc_0001_s003_a", "hipotesis": "Setelah itu Si Toba bertemu dengan seorang perempuan yang baru saja menikah dengan menantu tersebut."}
+{"uji_id": "kami-doc_0061_s023", "hipotesis": "Selain itu, data mengenai kerontokan, pengadaan barang, dan polusi bisa menjadi kendala bagi masyarakat."}
+{"uji_id": "kami-doc_0080_s063", "hipotesis": "Keberagaman semacam ini membuat mereka bersatu di sebuah kota besar, yakni Huta Dame."}
+{"uji_id": "kami-doc_0077_s004", "hipotesis": "Kisah-kisah tentang Kekaisaran Batak Parsorion dan sejarah rumah bolon."}
+{"uji_id": "kami-doc_0080_s047", "hipotesis": "Dia tinggal di Barus beberapa waktu untuk belajar bahasa dan budaya Batak dan Melayu."}
+{"uji_id": "kami-doc_0002_s010", "hipotesis": "Kirimlah kepadaku, anak yang paling muda, agar tidak lupa aku berada di kampung halaman kami."}
+{"uji_id": "kami-doc_0066_s006", "hipotesis": "Yang berfungsi sebagai kepala perjalanan dari proyek pendidikan yang melibatkan mahasiswa di kampus."}
+{"uji_id": "kami-doc_0077_s063", "hipotesis": "Peninggalan Parsidangan Raja, yang terletak di Tomok, Samosir."}
+{"uji_id": "kami-doc_0077_s071", "hipotesis": "Ada banyak marga orang Batak Toba, dan setiap marga memiliki ciri khasnya masing-masing."}
+{"uji_id": "kami-doc_0080_s053_b", "hipotesis": "Dalam kesempatan seperti ini, Nommensen memulai dengan mengatakan kepada banyak orang:"}
+{"uji_id": "kami-doc_0080_s013_b", "hipotesis": "Ward adalah seorang penginjil yang bertugas sebagai penginjil yang menyebar di daerah tersebut."}
+{"uji_id": "kami-doc_0077_s021", "hipotesis": "Afdeling Nias, yang sekarang menjadi Kabupaten Nias dan Kabupaten Nias Selatan."}
+{"uji_id": "kami-doc_0080_s003", "hipotesis": "Sebelumnya, tiga orang melakukan pekerjaan di Sumatera di tiga wilayah yang berbeda."}
+{"uji_id": "kami-doc_0002_s007", "hipotesis": "Jadi segan-segan saja mertuanya, biarlah engkau terlebih dahulu menangis setelah menikah."}
+{"uji_id": "kami-doc_0080_s018", "hipotesis": "Para misionaris juga mendirikan sebuah gereja dari Alkitab dalam bahasa Batak Toba."}
+{"uji_id": "kami-doc_0080_s070", "hipotesis": "Awalnya, nama ini adalah nama asli masyarakat Batak kepada Singamangaraja."}
+{"uji_id": "kami-doc_0090_s004", "hipotesis": "Ambroncius Nababan mengatakan, bahwa Kenan, adalah perbuatan dan perkataan orang-orang sendiri."}
+{"uji_id": "kami-doc_0069_s003", "hipotesis": "Penelitian ini berfokus pada buku pembelajaran bahasa dan turiturian Batak Toba."}
+{"uji_id": "kami-doc_0077_s065__r01", "hipotesis": "Pulau Toba saat ini masuk ke wilayah Kabupaten Toba yang berpusat di Balige"}
+{"uji_id": "kami-doc_0080_s045", "hipotesis": "Hari ini diresmikan sebagai hari dukungan Huria Kristen Batak Protestan (HKBP)."}
+{"uji_id": "kami-doc_0091_s001_a", "hipotesis": "Setelah beberapa perbedaan tahun ke depan di daftar kampus yang tidak bisa dipungkiri namanya."}
+{"uji_id": "kami-doc_0091_s020_b", "hipotesis": "Dan, sepertinya dia kurang tertarik dengan (passionate) soal pemrograman."}
+{"uji_id": "kami-doc_0091_s027", "hipotesis": "- Jangan langsung jadi bos pengembang, tapi kalau buat sendiri ya."}
+{"uji_id": "kami-doc_0080_s066", "hipotesis": "Pada tahun 1918, terdapat 185.731 orang Kristen yang tersebar di wilayah RMG Sumatera Utara."}
+{"uji_id": "kami-doc_0080_s025", "hipotesis": "Kematian Raja Panggalamei, yang menjadi Raja di Pintubosi yang tinggal di Singkak."}
+{"uji_id": "kami-doc_0080_s046", "hipotesis": "Setelah itu Ludwig Ingwer Nommensen (1834 - 1918) sampai mati di Padang pada tahun 1862."}
+{"uji_id": "kami-doc_0068_s005", "hipotesis": "Keberhasilan mengamati bahasa berbicara dibantu dengan membakar dan menulis."}
+{"uji_id": "kami-doc_0068_s006", "hipotesis": "Cara mengkhususkan diri digunakan untuk mencari ilmu di dalam buku."}
+{"uji_id": "kami-doc_0077_s069", "hipotesis": "Orang Batak seakan-akan memiliki nama marga yang disambung di belakang namanya."}
+{"uji_id": "kami-doc_0077_s068", "hipotesis": "Karena itu ia merupakan bagian dari keluarga yang menjadi ciri khasnya."}
+{"uji_id": "kami-doc_0080_s037", "hipotesis": "Ia meresmikan beberapa gereja dan memberikan ajaran Kekristenan kepada mereka."}
+{"uji_id": "kami-doc_0080_s011_b", "hipotesis": "Perjalanannya adalah perintah dari Raffles untuk pergi ke utara, yakni Silindung."}
+{"uji_id": "kami-doc_0080_s017", "hipotesis": "Perjalanan tidak terlalu sulit, karena pulang ke parjamita di tahun ini."}
+{"uji_id": "kami-doc_0080_s023_a", "hipotesis": "Pada 17 Juni 1834 mereka sampai di Sibolga dan tinggal beberapa hari di sana."}
+{"uji_id": "kami-doc_0080_s052", "hipotesis": "Pada suatu waktu, diselenggarakan pesta oppu Siatas Barita, biasanya disukai korban."}
+{"uji_id": "kami-doc_0091_s008_a", "hipotesis": "Ia juga bisa memprogram, tetapi sulit keras dan sangat berantakan kodeinnya."}
+{"uji_id": "kami-doc_0091_s030", "hipotesis": "- Molo tidak tertarik menjadi pengembang dan ingin mengatur infrastruktur."}
+{"uji_id": "kami-doc_0001_s000", "hipotesis": "Pada suatu waktu Ibu Si Toba menantu makan dekat dengan tempat makanannya."}
+{"uji_id": "kami-doc_0001_s003_b", "hipotesis": "Dan mertuanya pun tidak bisa atau tidak bisa menolong si mertua."}
+{"uji_id": "kami-doc_0080_s019", "hipotesis": "Sekretariat dari American Board of Commissioners for Foreign Mission"}
+{"uji_id": "kami-doc_0091_s022", "hipotesis": "Terus terang, itu tidak mungkin, dan kita harus belajar lebih dulu."}
+{"uji_id": "kami-doc_0091_s025", "hipotesis": "- Terkadang pinggang dan mata terbuka untuk orang-orang yang baru di teknologi."}
+{"uji_id": "kami-doc_0002_s008", "hipotesis": "Tidak ada perbedaan antara ilmu yang diajarkan oleh bapak/ibu perempuan di pondok pesantren Maraburan."}
+{"uji_id": "kami-doc_0061_s026", "hipotesis": "Buku ini sangat mencolok dalam mengkaji penyalahgunaan adat istiadat asa hot."}
+{"uji_id": "kami-doc_0068_s001", "hipotesis": "Surat-surat yang digunakan adalah surat tertulis dengan bahasa somal."}
+{"uji_id": "kami-doc_0080_s004", "hipotesis": "Ward bertugas di Bengkulu, Burton di Sibolga dan Meers di Padang."}
+{"uji_id": "kami-doc_0014_s000", "hipotesis": "Seharusnya satu sama seperti adik, sebelum dua sama seperti adik"}
+{"uji_id": "kami-doc_0080_s033", "hipotesis": "Namun, hatinya berbalik dan menolong orang Batak dalam hidupnya."}
+{"uji_id": "kami-doc_0080_s048", "hipotesis": "Ia bahkan bekerja dengan badan Misi Rheinische Missionsgesellschaft."}
+{"uji_id": "kami-doc_0080_s053_a", "hipotesis": "Keesokan harinya Nommensen menjadi korban, yang saat itu masih ada di sana."}
+{"uji_id": "kami-doc_0091_s009", "hipotesis": "Padahal, inilah yang akan menyimpan request dan response dari HTTP."}
+{"uji_id": "kami-doc_0077_s059", "hipotesis": "Kabupaten Tapanuli Selatan (sebelumnya Kabupaten Padangsidimpuan)"}
+{"uji_id": "kami-doc_0080_s054", "hipotesis": "Itu bukan alasan Siatas Barita, tapi alasan kegigihan."}
+{"uji_id": "kami-doc_0090_s005", "hipotesis": "Itu bukan berarti menghayati masyarakat Batak di Tanah Papua."}
+{"uji_id": "kami-doc_0080_s053_c", "hipotesis": "Keberagaman yang baik dengan orang banyak sudah banyak sekali karena kamu."}
+{"uji_id": "kami-doc_0080_s055", "hipotesis": "Baguslah dia orang yang ingin merubah satu dari kedua anaknya!"}
+{"uji_id": "kami-doc_0080_s068", "hipotesis": "Jabatan tersebut didirikan hingga kematiannya pada 23 Mei 1918."}
+{"uji_id": "kami-doc_0001_s001", "hipotesis": "Kemudian menemukan sebuah pondok emas dan membawanya kembali ke rumah."}
+{"uji_id": "kami-doc_0080_s069", "hipotesis": "Orang Batak memanggil Nommensen dengan nama Ompu."}
+{"uji_id": "kami-doc_0080_s001", "hipotesis": "Pendeta Sinuru dari Punguan Protestan Baptis Inggris"}
+{"uji_id": "kami-doc_0080_s023_b", "hipotesis": "Pada tanggal 23 Juni 1834, mereka berangkat menuju kampung Silindung."}
+{"uji_id": "kami-doc_0090_s000", "hipotesis": "Masyarakat Batak di Papua Menerima Kata Rasisme Ambroncius"}
+{"uji_id": "kami-doc_0077_s055", "hipotesis": "Kabupaten Tapanuli Utara (sebelumnya Kabupaten Tanah Batak)"}
+{"uji_id": "kami-doc_0049_s000", "hipotesis": "Yang dititipkan pohon berbunga, yang ditambahi hutan berbunga"}
+{"uji_id": "kami-doc_0054_s003", "hipotesis": "Mempersiapkan kejujuran, di setiap sudut pandang kita saling melengkapi"}
+{"uji_id": "kami-doc_0061_s000", "hipotesis": "Judul Buku: The Marvelous and Hot Earth"}
+{"uji_id": "kami-doc_0077_s029", "hipotesis": "Ferdinand Lumban Tobing merupakan Residen Tapanuli yang pertama."}
+{"uji_id": "kami-doc_0077_s031", "hipotesis": "Tetapi pembagian tanah memang benar."}
+{"uji_id": "kami-doc_0089_s000", "hipotesis": "Punguan Musik Toba World Mangalasoni Sesaat di Eropa"}
+{"uji_id": "kami-doc_0091_s000", "hipotesis": "Lulusan Ilmu Komputer Tapi Enggak Bisa Melakukan Program"}
+{"uji_id": "kami-doc_0077_s057", "hipotesis": "Kabupaten Tapanuli Tengah (sebelumnya Kabupaten Sibolga)"}
+{"uji_id": "kami-doc_0080_s067", "hipotesis": "Pada tahun 1881, Nommensen diangkat menjadi Ephorus dari RMG."}
+{"uji_id": "kami-doc_0091_s003", "hipotesis": "Padahal, lulus dari jurusan yang sama dengan saya juga."}
+{"uji_id": "kami-doc_0068_s008", "hipotesis": "Setelah itu kata tersebut dimanjakan untuk membagi-bagikan."}
+{"uji_id": "kami-doc_0091_s038", "hipotesis": "Apakah ada pekerjaan di sebuah perusahaan berbasis teknologi?"}
+{"uji_id": "kami-doc_0080_s061", "hipotesis": "Pendeta Kekristenan Setelah Injil Terjatuh di Tanah Batak"}
+{"uji_id": "kami-doc_0054_s000", "hipotesis": "Tidak sembarangan benarlah kita orang tua, melainkan kasih sayang yang telah terputus"}
+{"uji_id": "kami-doc_0077_s045", "hipotesis": "Batak Toba merupakan kesatuan budaya."}
+{"uji_id": "kami-doc_0080_s027", "hipotesis": "Surat kabar dari Rheinische Missionsgesellschaft"}
+{"uji_id": "kami-doc_0080_s026", "hipotesis": "Dia melakukan pembunuhan itu selaras dengan bangsanya."}
+{"uji_id": "kami-doc_0080_s041", "hipotesis": "Klemmer dan dua pendeta Belanda, yaitu Pdt."}
+{"uji_id": "kami-doc_0077_s044", "hipotesis": "Ciri-ciri budaya Batak Toba"}
+{"uji_id": "kami-doc_0091_s033_b", "hipotesis": "Kalau ada yang tau dope, harus diam diam diam saja."}
+{"uji_id": "kami-doc_0017_s000", "hipotesis": "Tidak di bagiku, tidak di bagimu, tempat tinggalku di begu"}
+{"uji_id": "kami-doc_0077_s027", "hipotesis": "Kemerdekaan Republik Indonesia"}
+{"uji_id": "kami-doc_0080_s008", "hipotesis": "Perbatasan Lambung terdiri dari 10 hingga 20 kota."}
+{"uji_id": "kami-doc_0002_s000", "hipotesis": "Hanya itu yang kau inginkan, hidup ini"}
+{"uji_id": "kami-doc_0002_s013", "hipotesis": "Keberagaman atau mertuanya harus membuatku percaya padamu."}
+{"uji_id": "kami-doc_0002_s017", "hipotesis": "Pengharapanku pada diriku adalah bahwa aku harus mengingatmu."}
+{"uji_id": "kami-doc_0046_s000", "hipotesis": "Yang tak terlupakan yang tak terlupakan"}
+{"uji_id": "kami-doc_0061_s001", "hipotesis": "Penulis: Nirwono Yoga, dan Kisahnya (dkk)"}
+{"uji_id": "kami-doc_0091_s028", "hipotesis": "Pengembang ini mirip dengan perguruan tinggi silat."}
+{"uji_id": "kami-doc_0036_s000", "hipotesis": "Sebentar jadi gambir, tiba-tiba jadi torus."}
+{"uji_id": "kami-doc_0002_s015", "hipotesis": "Katakanlah kepadaku apa yang akan menjadi namaku engkau"}
+{"uji_id": "kami-doc_0077_s030", "hipotesis": "Ada sedikit perubahan waktu dalam namanya."}
+{"uji_id": "kami-doc_0002_s012", "hipotesis": "Sampai kutitipkan ibu di dalam rohku"}
+{"uji_id": "kami-doc_0002_s014", "hipotesis": "Sebentar lagi umur mertuanya kutitipkan"}
+{"uji_id": "kami-doc_0013_s000", "hipotesis": "Tidak ada amporik yang sembarangan sama sekali"}
+{"uji_id": "kami-doc_0080_s056", "hipotesis": "Ternyata Sibaso itu tergeletak di tanah."}
+{"uji_id": "kami-doc_0061_s002", "hipotesis": "Penerbit: PT. Gramedia Pustaka Utama"}
+{"uji_id": "kami-doc_0080_s000", "hipotesis": "Hari Berita Nauli ke Tanah Batak"}
+{"uji_id": "kami-doc_0091_s001_b", "hipotesis": "Semua ini saya lakukan dengan sendiriku."}
+{"uji_id": "kami-doc_0002_s001", "hipotesis": "Padahal tidak ada yang lebih baik dari Parsinuan."}
+{"uji_id": "kami-doc_0002_s005", "hipotesis": "Yang meratapku dari menek"}
+{"uji_id": "kami-doc_0077_s052", "hipotesis": "Kekerasan Keadilan Awal Tahun 1950"}
+{"uji_id": "kami-doc_0002_s011", "hipotesis": "Ibu Pencipta adalah ibu yang cepat"}
+{"uji_id": "kami-doc_0002_s016", "hipotesis": "Ibu pengantin perempuanku yang gembala"}
+{"uji_id": "kami-doc_0002_s004", "hipotesis": "Berharap tersesat sekali engkau perempuan"}
+{"uji_id": "kami-doc_0004_s000", "hipotesis": "Tidak ada biskuit yang tumbuh dari tanah liatnya"}
+{"uji_id": "kami-doc_0044_s000", "hipotesis": "Setitik seperti yang dititipkan pada balanga"}
+{"uji_id": "kami-doc_0054_s007", "hipotesis": "Tetapi menjadi ulos bagi nasa pembeli"}
+{"uji_id": "kami-doc_0019_s000", "hipotesis": "Jangan sesat menghadap ke belakang"}
+{"uji_id": "kami-doc_0091_s034", "hipotesis": "- Seperti apa tim pemasarannya?"}
+{"uji_id": "kami-doc_0002_s002", "hipotesis": "Tetapi ibu mertuanya ada di dalam diriku"}
+{"uji_id": "kami-doc_0054_s005", "hipotesis": "Tetapi menjadi harta di perjalanannya"}
+{"uji_id": "kami-doc_0030_s000", "hipotesis": "Itu sundunya kau merampok"}
+{"uji_id": "kami-doc_0054_s002", "hipotesis": "Dalam kegembiraan hidup"}
+{"uji_id": "kami-doc_0080_s035", "hipotesis": "Pada tahun 1857, penyebar Injil G."}
+{"uji_id": "kami-doc_0002_s003", "hipotesis": "Anak sesat semua orang akan melihatmu"}
+{"uji_id": "kami-doc_0002_s009", "hipotesis": "Bahwa aku anakmu"}
+{"uji_id": "kami-doc_0080_s057", "hipotesis": "Ludwig Ingwer Nommensen"}
+{"uji_id": "kami-doc_0002_s006", "hipotesis": "Sampai ke tempat kemakmuranku."}
+{"uji_id": "kami-doc_0077_s008", "hipotesis": "Raja Maropat Silindung"}
+{"uji_id": "kami-doc_0077_s015", "hipotesis": "Penjajahan Belanda"}
+{"uji_id": "kami-doc_0077_s010", "hipotesis": "Raja Marapat Samosir"}
+{"uji_id": "kami-doc_0077_s012", "hipotesis": "Raja Maropat Humbang"}
+{"uji_id": "kami-doc_0077_s025", "hipotesis": "Penjajahan Jepang"}
+{"uji_id": "kami-doc_0077_s000", "hipotesis": "Bangsa Batak Toba"}
+{"uji_id": "kami-doc_0077_s014", "hipotesis": "Raja Maropat Toba"}
+{"uji_id": "kami-doc_0080_s040", "hipotesis": "Heine dan Pdt."}
+{"uji_id": "kami-doc_0091_s033_a", "hipotesis": "Apa itu DevOps?"}
+{"uji_id": "kami-doc_0091_s037", "hipotesis": "Jadi seperti apa dia?"}
+{"uji_id": "kami-doc_0080_s042", "hipotesis": "Betz dan Pdt."}
+{"uji_id": "kami-doc_0054_s006", "hipotesis": "Ibu yang satu ini"}
+{"uji_id": "kami-doc_0054_s004", "hipotesis": "Kata-kata ini"}

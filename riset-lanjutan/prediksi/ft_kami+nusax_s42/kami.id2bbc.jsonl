@@ -1,0 +1,311 @@
+{"sidik": "e75a9ce756bafb45d6b128517f23bd903d1d94427fbd8b216c6bb41732a36ff1", "parameter": {"run": "ft_kami+nusax_s42", "fine_tuning": {"model_dasar": "facebook/nllb-200-distilled-600M", "dua_arah": true, "epoch": 5, "laju_belajar": 0.0001, "porsi_warmup": 0.1, "ukuran_batch": 16, "akumulasi_gradien": 1, "panjang_maks": 128, "simpan_tiap_langkah": 1000, "hapus_bobot_setelah_selesai": true}, "benih": 42, "dekode": {"beam": 5, "ukuran_batch": 32, "panjang_maks_sumber": 128, "faktor_panjang_keluaran": 1.5, "tambahan_panjang": 10, "panjang_maks_keluaran": 256}, "kode_bbc": "bjn_Latn", "data_latih": {"kami": "350beae755f9b1e0d00d61cccb443cc877bd9d2ae29e0435715edf71ee766428", "nusax": "29ece63f11354c49d7712e38717c8b1f03a8de3afc8c2369f59aa23981d02fd4"}}}
+{"uji_id": "kami-doc_0068_s011", "hipotesis": "Na ro sian panulingkian patuduhon na adong sadalas ragam, i ma ragam ni holong songon parbinotoan di bagasan wadah na adong subkategori ni holong songon api; ragam ni holong songon barang na adong subkategori ni holong songon taneman, holong songon komoditas na mura, holong songon gedong, holong songon objek na tinago, holong songon ubat, dohot holong songon sipanganon; ragam ni holong songon dalan; ragam ni holong songon gogo adong subkategori ni holong songon gogo fisik, holong songon gogo alami, dohot holong songon gogo psikologis; ragam ni holong songon kesatuan adong subkategori ni holong songon tali; ragam ni holong songon burju; ragam ni holong songon korban; ragam ni holong song"}
+{"uji_id": "kami-doc_0066_s005", "hipotesis": "Alani i, panulingkian on mangalehon panulingkian na leleng taringot taringot tu pangkorhon ni parbinotoan taringot tu AI tu dalan ni ulaon ni angka sisean dung mansai taringot, panulak (paraloan) ni parbinotoan ni AI di sude inganan parsiajaran, dohot na manentu hambatan dohot panuturion ni parbinotoan ni AI dohot parsoalan taringot tu AI."}
+{"uji_id": "kami-doc_0061_s029", "hipotesis": "Dipaimahon panuhunan kebijakan di tingki na naeng mulai sian Rancangan Tata Ruang dohot Daerah (RTRW) sahat tu Rancangan Detail Tata Ruang (RDTR) boi mangakomodasi aspek lingkungan, sosial budaya, ekonomi, dohot politik asa tujuan pajongjong ni sada luat boi sasintongna dohot SDGs."}
+{"uji_id": "kami-doc_0090_s002", "hipotesis": "Palakkaan ni angka dongan Ambroncius Nababan nunga mansai mansai marusak angka parbinotoan ni bangso Batak di Indonesia, tarlumobi di Tano Papua, apalagi hata-hata na boi mambahen hata na so tarsinta di tonga-tonga ni marga Batak dohot marga-marga na asing na adong di Tano Papua, ninna si Kenan Sipayung marhite panuturion na tarsurat, Selasa (26/1/2021)."}
+{"uji_id": "kami-doc_0069_s004", "hipotesis": "Alai tujuan ni panulingkian on i ma laho manganalisis istilah-istilah ni sejarah dohot bangso na adong di buku pangajaran hata dohot sasastra Batak Toba dohot manggombarhon pilihan-pilihan hata na dipangke di bagasan mangartihon istilah-istilah ni sejarah dohot bangso na adong."}
+{"uji_id": "kami-doc_0069_s009", "hipotesis": "Sian hasil ni panulingkian tarsimbolon i, ragam ni organisasi, adat, ulaon gabe ragam na mansai somal roha songon 23 ungkapan, dung i, ragam ni bangso sosial songon 9 ungkapan, ragam ni ekologi songon 7 ungkapan, dohot ragam ni bangso bahan songon 6 ungkapan."}
+{"uji_id": "kami-doc_0072_s003", "hipotesis": "Tulisan on marpangulahon laho manghatai potensi gogo ni pasa ni kapitalisme di bagasan pardonganan ni parhepengon laho mangalusi parsoalan parmiskinan ni portibi marhite marintegrasihon parhataan na marbagasan na boi diaplikasihon ni halak Kristen secara individu di bagasan ngolu ni ulaon nasida."}
+{"uji_id": "kami-doc_0072_s005_a", "hipotesis": "Songon panutupna, dipangido ni panurat i angka jolma Kristen laho mangolu di bagasan mangalusi kasusahan ni portibi on dohot ragam ni pangoluan na adil marhite holong ni roha di bagasan parhepengon ni portibi on di bagasan ulaon ni portibi on di bagasan ulaon na marlandaskan haporseaon na marpungu."}
+{"uji_id": "kami-doc_0066_s001", "hipotesis": "Marhite mamangke pendekatan lintas disiplin dohot desain panulingkian kuantitatif, data i didapot marhite kuesioner na mangalusi aspek-aspek songon pangantusion ni konsep na ringkot ni AI, parbinotoan mamangke aplikasi AI, dohot panghorhon taringot tu parsoalan etika di panggunaan ni AI."}
+{"uji_id": "kami-doc_0072_s004", "hipotesis": "Di bagasan ulaonna, mamangke panurat mamangke metode kualitatif panulingkian pustaka marhite sian panindangon parhepengon, panindangon ni Alkitab dohot panindangon parhiteon ni halak Kristen songon na diparsinta ni godang teolog di parhiteon tarlumobi, tarlumobi di parhiteon na Reformed."}
+{"uji_id": "kami-doc_0080_s022", "hipotesis": "Dung i di taon 1834, dua halak Amerika, i ma Samuel Munson dohot Henry Lyman na gabe utusan ni huria Kongregasionalis Amerika na dipajongjong ni The American Board of Commissioners for Foreign Mission (ABCFM) di Boston laho masuk tu Sumatra."}
+{"uji_id": "kami-doc_0080_s030_b", "hipotesis": "Surat i sahat tu angka pangulu ni Lembaga Alkitab Nederlandsche Bijbelgenootschap di Bolanda, sahat tu nasida mangalehon ma sada ahli hata na margoar Herman Neubronner van der Tuuk laho manulingkian hata Batak dohot laho manurupi Alkitab."}
+{"uji_id": "kami-doc_0080_s072", "hipotesis": "Halak Kristen Katolik marpalaon na ringkot di parjolo ni taon 1950, luat Batak Toba na mar-populasi Halak Kristen Katolik na lumayan balga i ma di sekitar Pulo Samosir dohot Tao Toba dohot di sekitar Kecamatan Andam Dewi di luat Tapanuli Tengah."}
+{"uji_id": "kami-doc_0089_s003", "hipotesis": "Ulaon \"Nights in Old Ljubljana Town International Festival\" i diulahon ni Imago Slovenia di luat pusat ni kota Ljubljana, songon i dipasahat ni Fungsi Pensosbud - KBRI Wina, Wina Retnosari tu Antara London, Senin (29/8/2016)."}
+{"uji_id": "kami-doc_0080_s050", "hipotesis": "Di bagasan mambahen Injil i, diurupi Ludwig Ingwer Nommensen ma Raja Pontas Lumbantobing (Raja Batak na parjolo na dibaptis) laho mangalehon ibana sian Barus laho tu Silindung dohot catatan na tarsurat ia ndang martanggung jawab tu haporlason ni ibana."}
+{"uji_id": "kami-doc_0069_s005", "hipotesis": "Parhataan na dipangke di panulingkian on ima deskriptif kualitatif i ma marhite data primer i ma dohot teknik pengumpulan data na diulahon marhite manulingkian dokumen, wawancara dohot panulingkian pustaka na marhite."}
+{"uji_id": "kami-doc_0061_s004", "hipotesis": "Buku Kota na Marsiajar na Marjolo-jolo ni Nirwono Joga dohot dongan-dongan ima buku na mambahas taringot tu parsoalan na strategis di bagasan pajongjong kota na marsiajar na marjolo-jolo mulai sian perencanaan, panataan ruang, pangaturon, dohot pangembangon."}
+{"uji_id": "kami-doc_0089_s009", "hipotesis": "Tiap taon ratusan seniman lokal dohot internasional marparticipasi di festival na marujung saleleng tolu ari i dohot tampil di inganan na strategis di kawasan kota na matua di Slovenia, na gabe pusat daya tarik ni roha tu angka sihabang."}
+{"uji_id": "kami-doc_0089_s010", "hipotesis": "Dipajongjong laho pajongjong sining ni bangso Batak, partuturon ni Toba World di ulaon i pe marlapatan tu pangalehon sining ni bangso Batak tu halak na di Eropa, tarlumobi di Slovenia, patuduhon ni Viky Sianipar di sada pertunjukan."}
+{"uji_id": "kami-doc_0061_s008", "hipotesis": "Di buku on didokhon adong enam parsoalan, diantaranna: parsaoran sosial demografis, parsoalan tata ruang, lingkungan ekologi kota, rangka kerja kota, kesenjangan ni huta-huta, dohot panghobasion parjolo dohot panuhunan."}
+{"uji_id": "kami-doc_0080_s059", "hipotesis": "Di na sadari borngin i, dung adong roha di jabu ni raja i sahat tu borngin jala torogot lam, dipahot Nommensen ma selimut jala dilapot tubun nasida, sahat tu manogot nasida tangi jala marsitutu, marnida ulaon na denggan ni Nommensen."}
+{"uji_id": "kami-doc_0077_s065__r02", "hipotesis": "(Aslina: Kabupaten Toba Samosir na dibentuk marhite Paraturan Nomor 12 Tahun 1998 taringot tu pambentukan Kabupaten Daerah Tingkat II Toba Samosir dohot Kabupaten Mandailing Natal, di Daerah Tingkat I Provinsi Sumatera Utara)."}
+{"uji_id": "kami-doc_0072_s002", "hipotesis": "Di sude na asing, huria pe jotjot manghatai suara na porfatis laho mangulahon protes tu pamarenta laho mangadopi parsoalan parmasyarakatan alai hurang maringanan parange ni natorop dohot pangantusion parbinotoan parhepengon na pas."}
+{"uji_id": "kami-doc_0089_s016", "hipotesis": "Saluhut ulaon ni Toba World di Austria dohot Slovenia gabe bagian sian ragam ni Toba World Europe Tour 2016 na dipajongjong ni Kementerian Pariwisata RI laho mangarganihon pariwisata Wonderful Indonesia di luat Eropa."}
+{"uji_id": "kami-doc_0089_s004", "hipotesis": "Toba World na mar-anggot 12 jolma tampil mambahen hira-hira 12 na godangna i ma hira-hira tradisional Batak na di-aransemen uli, diantaranna Suan, Attar DiDokkon, O Tano Batak."}
+{"uji_id": "kami-doc_0091_s014", "hipotesis": "Ala parjoloan na hurang hian, ndang tarekspos tu angka na dipangke di industri songon design pattern, argitektur dohot angka na asing apalagi dohot prinsip songon SOLID manang pamrograman fungsional."}
+{"uji_id": "kami-doc_0090_s008", "hipotesis": "\"Ale na diulahon ni Ambroncius Nababan i ma ulaon na marlalawan hukum, nunga mansai murukhon bangso Batak na mangolu rap dohot bangso sian ragam ni marga na adong di Papua,\" ninna Makmur."}
+{"uji_id": "kami-doc_0077_s051__r02", "hipotesis": "Raja Batak i ma luat Toba na secara khusus i ma Desa Sianjur Mulamula maringan di tudung ni Gunung Pusuk Buhit, hira-hira 45 menit mardalani sian Pangururan, Ibu kota Kabupaten Samosir, nuaeng."}
+{"uji_id": "kami-doc_0090_s003", "hipotesis": "\"Kerukunan Bangso Batak Provinsi Papua mangido tu pihak kepolisian Republik Indonesia laho mangurupi tuntas dohot mangulahon i songon parpeak-peak na berlaku,\" ninna."}
+{"uji_id": "kami-doc_0066_s002", "hipotesis": "Hombar tu survei, godang mahasiswa ni JTIK UNM marparsimbolon na denggan taringot tu AI jala boi mamangke aplikasi AI di bagasan ulaon siganup ari, alai tongtong do ingkon dipaulihon sian parange ni parange."}
+{"uji_id": "kami-doc_0077_s006", "hipotesis": "Di tingki Huria Batak na marpusat di Bangkara, Huria Batak na di bagasan pamarentahon ni dinasti Si Singamangaraja mambahen Huria Batak gabe opat luat na digoari Raja Maropat, i ma:"}
+{"uji_id": "kami-doc_0061_s012", "hipotesis": "Parhepengon ruang aspirasi tu bangso dohot bangso di bagasan panuhunan strategi gabe solutif pardonganon di tingki pangulahon pajongjong dohot panuhunan kota na torus."}
+{"uji_id": "kami-doc_0089_s007", "hipotesis": "Ulaon borngin ni bangso i pe didongani dohot hadirion ni Dupu RI tu Republik Austria dohot Republik Slovenia, Rachmat Budiman, na mambahen Macek Muri, lagu ni halak na hasusor tu Slovenia."}
+{"uji_id": "kami-doc_0091_s023_a", "hipotesis": "Alani i, ndada gabe panandaan na jolma na gabe finalis manang juara lomba olimpiade komputer manang lulusan Ilmu Komputer dohot IPK na denggan, boi langsung gabe programmer."}
+{"uji_id": "kami-doc_0089_s013", "hipotesis": "Asing sian tampil di Nights in Old Ljubljana Town International Festival, Toba World pe mangulahon di kota Landeck, Austria dohot di Ruma Joglo di taman wisata bunga Arboretum, Slovenia."}
+{"uji_id": "kami-doc_0077_s019", "hipotesis": "Parbinotoan Padangsidimpuan, na saonari gabe Kabupaten Tapanuli Selatan, Kabupaten Mandailing Natal, Kabupaten Padang Lawas, Kabupaten Padang Lawas Utara, dohot Kota Padangsidimpuan."}
+{"uji_id": "kami-doc_0077_s024", "hipotesis": "4. Apala Bataklanden, na saonari gabe Kabupaten Tapanuli Utara, Kabupaten Humbang Hasundutan, Kabupaten Toba, Kabupaten Samosir, Kabupaten Dairi, dohot Kabupaten Pakpak Bharat."}
+{"uji_id": "kami-doc_0066_s000", "hipotesis": "Ulaon panulingkian on marlapatan laho manganalisis parbeguan ni mahasiswa di Fakultas Ilmu Komputer dohot Ilmu Informasi (JTIK) Universitas Negeri Makassar (UNM) di bidang Parbinotoan Binagunan (AI)."}
+{"uji_id": "kami-doc_0089_s011", "hipotesis": "Marhite i, diparsintahon pertunjukan musik na diulahon Toba World boi mangallang hasusor ni angka sihabang ni Slovenia laho mardalani tu Indonesia, tarlumobi tu Tao Toba di Sumatera Utara."}
+{"uji_id": "kami-doc_0077_s002", "hipotesis": "Godang ni ragam na ringkot ni bangso Batak Toba i ma Kabupaten Samosir, Kabupaten Toba, Kabupaten Humbang Hasundutan, Kabupaten Tapanuli Utara, dohot Kabupaten Tapanuli Tengah."}
+{"uji_id": "kami-doc_0066_s003", "hipotesis": "Panindangon on boi mangurupi universitas mangarancang program AI na lobi denggan, mangurupi parsiajaran AI na efektif, dohot manggogo mahasiswa laho mangulahon panulingkian na marhite AI."}
+{"uji_id": "kami-doc_0061_s011", "hipotesis": "Tujuan ni panurat na manurat buku on i ma laho mangalehon parbinotoan taringot tu isu strategis pajongjong ni kota dohot dalan laho mangulahon pajongjong ni kota na marparbinotoan."}
+{"uji_id": "kami-doc_0080_s002", "hipotesis": "Di taon 1820, tolu misionaris sian Baptist Missionary Society i ma Nathan Ward, Evans Meers, dohot Richard Burton i dikirim tu Bengkulu laho mangadopi si Thomas Stamford Raffles."}
+{"uji_id": "kami-doc_0077_s032", "hipotesis": "Goar ni Afdeling Bataklanden songon na diuba gabe Luhak Tano Batak jala Luhak parjolo na diangkat i ma si Cornelius Sihombing na nunga gabe Demang Silindung."}
+{"uji_id": "kami-doc_0077_s050", "hipotesis": "Songon i marga Nasution na godang na mangolu luat Padangsidimpuan i ma adong dongan ni marga Siahaan di Balige, gabe dua marga on i ma turunan ni leluhur na sarupa."}
+{"uji_id": "kami-doc_0090_s006", "hipotesis": "Marhite dohot si Kenan Sipayung, Parhataan ni Bangso Batak di Tano Papua Makmur Nababan dipadomuan ni Ketua Ikatan Pemuda Batak (IPBP) Jee Somosir marnaeng ro tu Polda Papua."}
+{"uji_id": "kami-doc_0061_s028", "hipotesis": "Mansai pas dipakke songon pasu-pasu ni pamarenta dohot bangso di bagasan pajongjong ni luat, tarlumobi nunga di tingki on Indonesia nunga mangarancang pajongjong ni ibana na imbaru."}
+{"uji_id": "kami-doc_0080_s012", "hipotesis": "Dipaulihon nasida 5 jam laho sian Huta Tinggi jala diboan di sada gubuk asa diulahon nasida laho mardalani di selasa manogot manang di tanggal 4 Mei jala sahat tu Silindung."}
+{"uji_id": "kami-doc_0091_s020_a", "hipotesis": "Na paling denggan gabe jawaban i, i ma: alana holan marsiajar na diulahon dosen i, jala ndang adong mangulahon parbinotoan taringot tu naung diulahon i."}
+{"uji_id": "kami-doc_0061_s009", "hipotesis": "Laho mangulahon pambangunan na torus ikkon marujuk tu Sasaran Pembangunan na Tolu (SDGs) na gabe sada parsaoran laho mangulahon portibion na lobi denggan."}
+{"uji_id": "kami-doc_0080_s029", "hipotesis": "Di taon 1840, sada parbinoto ni Jerman, i ma si Franz Wilhelm Junghuhn, mardalani tu luat Batak jala dung manurat karangan taringot tu suku Batak."}
+{"uji_id": "kami-doc_0080_s015", "hipotesis": "Dung sahat nasida ro di Silindung, ditarima do roha ni luat na di luat i, alai pardalanan ni panginjilan nasida dipajongjong tingki adong na so marsahas dohot angka jolma."}
+{"uji_id": "kami-doc_0089_s002", "hipotesis": "Mambaen di ulaon Nights in Old Ljubljana Town International Festival, partuturon ni Toba Worl i pe marlapatan mangalului sining ni bangso Batak tu partuturon di Eropa."}
+{"uji_id": "kami-doc_0089_s012", "hipotesis": "Viky Sianipar saleleng 12 taon na uli mambahen pitu album ima seniman na tarbarita marhite karya-karyanya dohot sentuhan kontemporer tu lagu-lagu Batak."}
+{"uji_id": "kami-doc_0080_s013_a", "hipotesis": "Di parjolo, rencana ni pardalangan i dipajongjong laho sahat tu Tao Toba, alai ditunda ma pardalangan i alana adong wabah kolera na ingkon dipadenggan ni Ward."}
+{"uji_id": "kami-doc_0080_s021", "hipotesis": "Parsoalan on ima parmusor ni angka pandita na ujungna mamindahhon tujuan ni Gutzlaff tu Jakarta laho manarangkon mangulahon panginjilan tu angka jolma Tionghoa na maringanan disan."}
+{"uji_id": "kami-doc_0089_s005", "hipotesis": "Di parjolo ni pajongjonganna, didokhon ni Viky Sianipar taringot tu hamoraon dohot keunikan ni Indonesia na marragam etnis dohot budaya, jala halak Batak i ma sada sian i."}
+{"uji_id": "kami-doc_0068_s012", "hipotesis": "Parbinotoan ni holong songon benda i ma parbinotoan ni parbinotoan ni holong na umbalga dipangke di hata Batak Toba, hape mar-parbinotoan na umbalga."}
+{"uji_id": "kami-doc_0077_s053", "hipotesis": "Di tingki pangiran ni kedaulatan di parjoloan ni taon 1950, Huria Tapanuli na nunga dipadomu di Provinsi Sumatera Utara i dibagi gabe opat kabupaten na imbaru, i ma:"}
+{"uji_id": "kami-doc_0061_s006", "hipotesis": "Pembangunan kota na marnogu na tumamba hian ingkon mangalusi ragam ni parange mulai sian parange sosial budaya, parange lingkungan, parange tata ruang, dohot parange parhepengon."}
+{"uji_id": "kami-doc_0077_s070", "hipotesis": "Goar ni marga on dijalo sian garingan parbinotoan ni amana gabe garingan parbinotoan patrilineal na situtu naeng diparade tu parbinotoan ni ibana torus-torusan."}
+{"uji_id": "kami-doc_0091_s036", "hipotesis": "Tim pamasar di parusahaan teknologi zaman saonari inganan inganan inganan inganan inganan inganan inganan inganan ingananingananingananingananingananingananingananingananingananingananingananingananingananingananingananingananingananingananingananingananingananingananingananingananingananingananingananingananinganan"}
+{"uji_id": "kami-doc_0089_s015", "hipotesis": "Panindangon ni Ruma Joglo di Taman Wisata Bunga Arboretum, diprakarsai ni KBRI/PTRI Wina di taon 2013 i, songon na asing songon parange ni Indonesia di Slovenia."}
+{"uji_id": "kami-doc_0080_s058", "hipotesis": "Mampakke keadaan na ringkot, Nommensen torus lambok dohot lambok, sahat tu leleng-leleng mambahen jolma marsipangido dohot las ni roha mangulahon na so timbo tu i."}
+{"uji_id": "kami-doc_0069_s006", "hipotesis": "Data na dipangke ima pitu cerita na marhata Batak na adong di buku muatan lokal Pelajaran Bahasa dohot Sasastra Batak Toba 3 edisi 1 taon 2011."}
+{"uji_id": "kami-doc_0080_s009", "hipotesis": "Dibagasan roha ni raja na di luat i, ditambai nasida laho manumpang borngin di jabu ni ulu ni huta jala mandapot tanda parange ni ari na salpu."}
+{"uji_id": "kami-doc_0080_s030_a", "hipotesis": "Di bagasan buku i, dipangido si Junghuhn pamarenta kolonial laho mangalehon Hristenon laho manghalangi pajongjong ni Islam di tonga-tonga ni Pulo Sumatera."}
+{"uji_id": "kami-doc_0090_s009", "hipotesis": "Ambroncius Nababan i didokkon mangulahon ulaon na mangalusi parsatongkinan antarseluruhan halak na adong di Tano Papua, tarlumobi songon bangso Batak."}
+{"uji_id": "kami-doc_0091_s005", "hipotesis": "Ibana sada juara sian Olimpiade Komputer, mangantusi algoritma, dohot manghatai dalan mamrogram secara prosedural alai parhataan na ringkot hian."}
+{"uji_id": "kami-doc_0069_s007", "hipotesis": "Pitu hadirion i tarjolo sian hata Batak Toba tu Hata Indonesia mamangke kamus hata Batak, panulingkian pustaka dohot narasumber."}
+{"uji_id": "kami-doc_0061_s010", "hipotesis": "Parpandoan di bagasan pajongjong ni kota diulahon marhite parsaoran di tonga-tonga ni pamarenta dohot publik laho marbagi-bagi di bagasan panuhunan kebijakan."}
+{"uji_id": "kami-doc_0072_s000", "hipotesis": "Makalah on marlapatan laho patuduhon parhataan parange ni halak Kristen taringot tu pardonganan ni parhepengon dohot parsoalan parmasyarakatan di tonga-tonga ni resesi global ni portibi on."}
+{"uji_id": "kami-doc_0077_s003", "hipotesis": "Daerah penyebaran na balga i ma di Kabupaten Dairi, Kabupaten Simalungun, Kota Pematangsiantar, Kota Sibolga, Kabupaten Asahan, dohot Kota Medan."}
+{"uji_id": "kami-doc_0080_s024", "hipotesis": "Di dalan i, dung sahat di pinggir ni Tano Silindung, tingki borngin tanggal 28 Juni 1834, didapot, didapot, dohot dipaboa nasida di tonga-tonga ni Lobu Pining."}
+{"uji_id": "kami-doc_0001_s006_b", "hipotesis": "Saonari taringot tu parmulaan ni Tao Toba nunga godang ragam na, na boi didok sian taringot na boi digoari dohot taringot na boi didalani."}
+{"uji_id": "kami-doc_0089_s001", "hipotesis": "Garejo musik na margoar Toba World na dipimpin ni musisi Viky Sianipar mambahen panindangon Eropa marhite pangalahoanna di Kota Ljubljana, Slovenia."}
+{"uji_id": "kami-doc_0061_s024", "hipotesis": "Hombar ni pajongjong ni kota na imburon na so hatudosan ingkon marhitehite dinamika kota na boi adong di tingki na naeng ro di sada luat."}
+{"uji_id": "kami-doc_0080_s062", "hipotesis": "Bangso Batak na ro sian Ugamo Kristen dijalani pogoson jala digodai sian huta nasida alana ndang naeng mangalehon sumbangan tu upacara-upacara ni marga."}
+{"uji_id": "kami-doc_0068_s002", "hipotesis": "Data na tarsurat dijalo sian ragam ni goar songon puisi, novel dohot lirik lagu, alai data lisan dijalo marhite wawancara dohot informan."}
+{"uji_id": "kami-doc_0080_s065", "hipotesis": "Sapulu taon dope di taon 1881, godangna tumimbul lima tikki, sahat tu godang ni halak Batak na ro tu Hristenon i songon 6.250 halak."}
+{"uji_id": "kami-doc_0069_s002", "hipotesis": "Alani i, buku-buku on ndada holan marsipatujolo tu sada parbinotoan, alai adong do topik-topik songon budaya, sosial, politik dohot na asing."}
+{"uji_id": "kami-doc_0080_s010", "hipotesis": "Dibahen nasida laho mardalani jala mangalului dalan i maringanan 6 jam laho mardalani andorang mardalani di huta na maringanan di tonga-tonga ni Pagaran Lambung."}
+{"uji_id": "kami-doc_0061_s027", "hipotesis": "Pangaturon ni inganan gabe hal na ringkot dipajongjong pangaturon ni portibion dohot pangaturon ni bangso i asa boi marseragam dohot pamarenta."}
+{"uji_id": "kami-doc_0080_s051", "hipotesis": "Di parjolo, ndang ditarima Nommensen roha ni jolma, ala boi nasida diboan ala ditarima jolma na asing na so mangarade adat."}
+{"uji_id": "kami-doc_0089_s008", "hipotesis": "Nights in Old Ljubljana Town International Festival ima sada sian festival seni budaya na balga di Slovenia na diulahon di tingki panas."}
+{"uji_id": "kami-doc_0061_s005", "hipotesis": "Kota songon pusat ni ulaon ni bangso manang pamarenta ingkon pajongjonghon angka-angan na lambok lingkungan, lambok sosial, dohot parbinotoan."}
+{"uji_id": "kami-doc_0080_s039", "hipotesis": "Di taon na sarupa pas tanggal 7 Oktober 1861, diulahon radangan opat pandita di Sipirok, na diurupi dua pandita Jerman, i ma: Pdt."}
+{"uji_id": "kami-doc_0061_s022", "hipotesis": "Songon contoh panataan sanitasi dohot pangatur sampah na marroha boi gabe parsoalan tingki adong kota naung godang halak."}
+{"uji_id": "kami-doc_0091_s002", "hipotesis": "Ahu mandapot sahalak jolma na mangulahon ulaon na parpudi na mambahen aplikasi panjadwalan dohot parjolo ni pamrogramanna tung mansai hurang."}
+{"uji_id": "kami-doc_0080_s016", "hipotesis": "Dibahen nasida jolma i do hata ni pangebati i, na mandokhon na inganan nasida ingkon marsitutu, songon anak na balga."}
+{"uji_id": "kami-doc_0091_s018", "hipotesis": "Susah do, nang pe alasna ala godang marsiajar teori, pangantusionanna taringot tu parhataan data dohot protokol jaringan pe tung mansai sompit."}
+{"uji_id": "kami-doc_0068_s009", "hipotesis": "Data dianalisis mamangke metode padan laho mamparsinta parange na konkret di tano ni sumber dohot parange na emosi di tano na dipajongjong."}
+{"uji_id": "kami-doc_0091_s012", "hipotesis": "Alai saonari nunga sude hata pamrograman dohot rangka-kurangna diulahon dohot parange pamrograman na mar-orientas objek."}
+{"uji_id": "kami-doc_0091_s032", "hipotesis": "Sian na mangatur infrastruktur diparlului boi mangotomatisasi kluster jala mangulahon gabe DevOps, ndang holan gabe SysAdmin."}
+{"uji_id": "kami-doc_0069_s010", "hipotesis": "Parhataan na paling godang dipangke ima parhataan, parhataan istilah na lobi somal, parhataan tambahan dohot panjaga istilah."}
+{"uji_id": "kami-doc_0077_s047", "hipotesis": "Songon suku-suku ni bangso na asing, bangso Batak Toba pe mardalani tu luat na lobi mangido panghirimon na lobi denggan."}
+{"uji_id": "kami-doc_0077_s048", "hipotesis": "Songon, godang ni jolma asli Silindung i ma marga-marga Hutabarat, Panggabean, Hutagalung, Simorangkir, Hutapea, dohot Lumbantobing."}
+{"uji_id": "kami-doc_0080_s049", "hipotesis": "Dung i, di taon 1864, ro tu luat Silindung, mula-mula di Huta Dame, dung pe di Pearaja (saonari gabe kantor pusat ni HKBP)."}
+{"uji_id": "kami-doc_0061_s021", "hipotesis": "Pangurupian ni kota na imbaru ingkon diurupi sian ulu sahat tu hilir asa laho manjaga ketahanan lingkungan jala ndang mambahen parsoalan."}
+{"uji_id": "kami-doc_0080_s011_a", "hipotesis": "Di ganup dua ari pardalanan i, diparjolohon nasida di Huta Tinggi di ari Senin dung 4 jam pardalanan sian inganan pardalanan i."}
+{"uji_id": "kami-doc_0091_s021", "hipotesis": "Na naeng do ia holan naeng sahali lulus jala gabe pangembang Android di startup/parusahaan na tarbarita dohot pandapatan na timbo."}
+{"uji_id": "kami-doc_0091_s023_b", "hipotesis": "Hombar do adong mentoring, coaching, dohot marsiajar na sungkun-sungkun, asa boi dipajongjong do parbinotoan di kampus dohot di industri."}
+{"uji_id": "kami-doc_0080_s005", "hipotesis": "Dung i, direkomendasihon Raffles asa laho nasida laho tu tonga-tongana, tu luat inganan ni jolma Batak na so maringanan Kristen."}
+{"uji_id": "kami-doc_0061_s007", "hipotesis": "Andorang mangulahon pajongjong ni kota na marnida, ingkon mananda parsoalan na jotjot di kota."}
+{"uji_id": "kami-doc_0072_s001", "hipotesis": "Parhataion on dipatupa ringkot alana jolma Kristen jotjot mangulahon privatisasi haporseaon na mar-orientasikan tu hasalamaton ni roha."}
+{"uji_id": "kami-doc_0077_s017", "hipotesis": "Panghobasion Tapanuli gabe opat luat na digoari Departemen jala nuaeng diboto gabe Kabupaten manang kota, i ma:"}
+{"uji_id": "kami-doc_0077_s051__r01", "hipotesis": "Batak Toba songon sada parbinotoan ni bangso na ikkon tarbarita tu ragam ni humaliang marhite batas-batas geografis sian najoloanna."}
+{"uji_id": "kami-doc_0091_s026", "hipotesis": "Di kampus boi dope dope diajarkon mamangke Turbo Pascal 7.0. Alai algoritma na sarupa boi dope dipangke di NodeJS."}
+{"uji_id": "kami-doc_0069_s008", "hipotesis": "Panulingkian on mamangke teori konsep tarjemahan budaya ni Newmark (1988) dohot strategi tarjemahan ni Baker (1992)."}
+{"uji_id": "kami-doc_0077_s049", "hipotesis": "Alai namma marga i ma turunan ni Guru Mangaloksa na gabe anak na paduahon ni Raja Hasibuan di luat Toba."}
+{"uji_id": "kami-doc_0089_s014", "hipotesis": "Ruma Joglo i ma sada ni Indonesia i ma Pamarentahon Provinsi Daerah Istimewa Yogyakarta tu halak Slovenia."}
+{"uji_id": "kami-doc_0091_s019", "hipotesis": "Ndang na so diboto do ia molo adong alamat na so ingkon paulihon halaman HTML, alai boi JSON dohot godang na asing."}
+{"uji_id": "kami-doc_0001_s006_a", "hipotesis": "Jala mangihuthon ma ibana i, didokhon ma udan na mansai jotjot sahat tu na mambahen luat i gabe danu."}
+{"uji_id": "kami-doc_0069_s001", "hipotesis": "Buku-buku parsiajaran, khususna buku muatan lokal dipajongjong laho mangalehon informasi taringot tu hata dohot luat na di luat i."}
+{"uji_id": "kami-doc_0090_s001", "hipotesis": "Ambroncius Nababan i didokkon mangulahon ulaon na manogu pardongan ni sude partondion na adong di Tano Papua."}
+{"uji_id": "kami-doc_0091_s035", "hipotesis": "Parhepengon pe saonari nunga nunga dioloi dohot hasusoranna sian pangatur dohot pangembanghon data laho mangoptimize panggasar."}
+{"uji_id": "kami-doc_0080_s034", "hipotesis": "Van der Tuuk mangalehon laho lembaga zending mangiringhon angka panginjil tu Tapanuli, langsung tu luat na mardalani."}
+{"uji_id": "kami-doc_0077_s033", "hipotesis": "Goarna onderafdeling i pe digoari gabe urung jala angka dongan na manguluhon onderafdeing i diangkat gabe Kapang Urung."}
+{"uji_id": "kami-doc_0077_s034", "hipotesis": "Onderdistrik pe gabe Urung Kecil na dipimpin ni Kapala Urung Kecil na jolo gabe Assistent Demang."}
+{"uji_id": "kami-doc_0091_s004", "hipotesis": "Na manarikna jolma on ndada jolma na buta mar-coding sasintongna songon na hea didokhon donganhu dison."}
+{"uji_id": "kami-doc_0091_s024", "hipotesis": "Molo adong dongan-dongan na marroha hal na sarupa jala naeng masuk tu industri usaha rintisan digital gabe pangembang:"}
+{"uji_id": "kami-doc_0061_s025", "hipotesis": "Parjoloan ni pajongjong parbuaton ingkon marnida parange ni parbinotoan ni luat na di luat i laho manjaga keseimbangan sosial budaya."}
+{"uji_id": "kami-doc_0069_s000", "hipotesis": "Panulingkian on marsangap taringot taringot tu panuturion ni istilah-istilah ni sejarah dohot bangso na adong di buku ajar."}
+{"uji_id": "kami-doc_0080_s007", "hipotesis": "Dung leleng dua jam laho mamolus dataran rampak, sahat nasida ro di huta Parik Debata na maringanan luat ni Pagaran lambung."}
+{"uji_id": "kami-doc_0080_s074", "hipotesis": "Marhite Komunitas Protestan marhite Lutheran, Katolik Roma manjaga adat Batak di bagasan komunitas keagamaan."}
+{"uji_id": "kami-doc_0077_s035", "hipotesis": "Marhite pardalanan ni sejarah, pamarentahon di Huria Tapanuli hea dibagi gabe opat kabupaten, i ma:"}
+{"uji_id": "kami-doc_0080_s031", "hipotesis": "Van der Tuuk i ma halak Barat na parjolo na mangulahon panulingkian ilmiah taringot tu hata Batak, Lampung, Kawi, Bali."}
+{"uji_id": "kami-doc_0090_s007", "hipotesis": "Nunga dipajongjong nasida mangulahon laporan polisi taringot tu dugaan ulaon na mangalusi hukum na diulahon ni Ambroncius Nababan."}
+{"uji_id": "kami-doc_0061_s013", "hipotesis": "Pangrungon ni kota ingkon mangurupi pardonganan ni tingki dohot mangurupi panghobasion ni publik songon panggunaan ni aplikasi."}
+{"uji_id": "kami-doc_0061_s017", "hipotesis": "Di sisi na asing, i boi gabe partondian ni partondian na mar-korellasi dohot paningtingon ni parhepengon na maringanan."}
+{"uji_id": "kami-doc_0089_s006", "hipotesis": "Viky pe mangarangrangi makna ni ganup lagu dohot gerakan na dipatupahon ni dua vokalis Toba World, Louise dohot Alsant."}
+{"uji_id": "kami-doc_0068_s000", "hipotesis": "Ulaon panulingkian on marlapatan laho manggombarhon ragam ni metaphor konseptual holong di hata Batak Toba."}
+{"uji_id": "kami-doc_0080_s020", "hipotesis": "Di parjolo, naeng dipatupa Karl Gützlaff tu Sumatra, alai dang boi dipatupa alana inganan na adong konflik."}
+{"uji_id": "kami-doc_0061_s014", "hipotesis": "On gabe panandaan ni kota na marragam na marhite parange teknologi songon parange ni partingkian ni kota."}
+{"uji_id": "kami-doc_0077_s028", "hipotesis": "Dung mardeka, pamarenta Republik Indonesia pe tongtong mambahen Tapanuli gabe sada parbinotoan."}
+{"uji_id": "kami-doc_0080_s071", "hipotesis": "Ugamo Kristen Katolik dipajongjong di taon 1934 ni misionaris Katolik Bolanda na goarna Sybrandus Van Rossum."}
+{"uji_id": "kami-doc_0061_s019", "hipotesis": "Di buku on, diparade dalan laho mangulahon potensi wilayah na boi gabe parjolo ni sada kota."}
+{"uji_id": "kami-doc_0080_s060", "hipotesis": "Sipatupaon ni panulak ni Raja Batak on alani parsoalan na Nommensen i do parbinotoan sian pihak Bolanda."}
+{"uji_id": "kami-doc_0080_s063", "hipotesis": "Hagaleon songon on mambahen nasida marpungu di sada huta sandiri, i ma Huta Dame."}
+{"uji_id": "kami-doc_0091_s016_a", "hipotesis": "Tarida ndang boi mamprogram, alai naeng mandapot ulaon na laris nuaeng: gabe pangembang mobile."}
+{"uji_id": "kami-doc_0002_s007", "hipotesis": "Ndang lewat ganup borngin i inang, molo so uli sai sai mangangguhi di tikar ni parmanganan i."}
+{"uji_id": "kami-doc_0061_s020", "hipotesis": "Songon songon parange pajongjong ni kota ni pulo na mambahen faktor lingkungan dohot tanggap ni bencana."}
+{"uji_id": "kami-doc_0077_s001", "hipotesis": "Bangso Batak Toba ima sada suku Batak na ro sian Provinsi Sumatera Utara, Indonesia."}
+{"uji_id": "kami-doc_0001_s002", "hipotesis": "Di tingki si Toba mardalani, itik na mas i gabe sada boru na bagak jala si Toba tarida i."}
+{"uji_id": "kami-doc_0080_s064", "hipotesis": "Dung pitu taon diulahon ni Nommensen panginjilan i, jolma Batak na masuk Kristen marjumlah 1.250 halak."}
+{"uji_id": "kami-doc_0091_s016_b", "hipotesis": "Alani i, diulahon ni ibana i panuraton taringot tu aplikasi panjadwalan na mar-focus tu parbinotoan Android."}
+{"uji_id": "kami-doc_0001_s003_a", "hipotesis": "Dung i dipangido Si Toba ma boru na bagak na songon sada ikkan i asa laho marbagas nasida."}
+{"uji_id": "kami-doc_0001_s004", "hipotesis": "Alai si Toba mangalusi janji i jala disuru anakna na margoar Samosir i ma anakna ni halak."}
+{"uji_id": "kami-doc_0080_s014", "hipotesis": "Diboan nasida di Silindung saleleng saminggu jala dao sian Silindung di jam 7 manogot tanggal 11 Mei."}
+{"uji_id": "kami-doc_0080_s028", "hipotesis": "Ludwig Ingwer Nommensen, misionaris Jerman na nunga manarang Injil di tonga-tonga ni halak Batak Toba."}
+{"uji_id": "kami-doc_0061_s016", "hipotesis": "Warisan dohot barang-barang na tarida sian najolo boi gabe sada nilai na tarida tu parbinotoan ni luat i."}
+{"uji_id": "kami-doc_0072_s005_b", "hipotesis": "Hata Kunci: Parhepengon ni portibion, Parhepengon ni portibion, Parhataan na Parjolo, Parhobas na Marpungu."}
+{"uji_id": "kami-doc_0077_s023", "hipotesis": "Parbinotoan Sibolga dohot Ommnenlanden, na saonari gabe Kabupaten Tapanuli Tengah dohot Kota Sibolga."}
+{"uji_id": "kami-doc_0080_s038", "hipotesis": "Di tanggal 31 mart 1861, dua halak Batak parjolo dibaptis, i ma: Jakobus Tampubolon dohot Simon Siregar."}
+{"uji_id": "kami-doc_0066_s004", "hipotesis": "Panulingkian on pe mangalehon parbinotoan taringot tu pardonganan ni AI di parbinotoan jala mangalehon tu parbinotoan."}
+{"uji_id": "kami-doc_0080_s036", "hipotesis": "Van Asselt, utusan sian angka jemaat na metmet di Ermelo, Bolanda, mangulahon ulaon di Tapanuli Selatan."}
+{"uji_id": "kami-doc_0080_s044", "hipotesis": "Dibahen nasida parpunguan laho mangalehon misi panginjilan tu Rheinische Missionsgesellschaft."}
+{"uji_id": "kami-doc_0077_s016", "hipotesis": "Di tingki panjajahan Bolanda, pamarenta Bolanda mambahen Huria Tapanuli di taon 1910."}
+{"uji_id": "kami-doc_0091_s008_b", "hipotesis": "Jala goarna na marragam pe marragam songon goarna na marragam tu jawaban taringot tu marga algoritma: x, y, z."}
+{"uji_id": "kami-doc_0001_s005", "hipotesis": "Dung i didok Samosir ma ibana, jala diparentahon ibana laho mandai tu dolok na timbo."}
+{"uji_id": "kami-doc_0077_s066", "hipotesis": "Kabupaten Toba Samosir on ma pamekaran sian Daera Tingkat II Kabupaten Tapanuli Utara."}
+{"uji_id": "kami-doc_0077_s071", "hipotesis": "Godang marga halak Batak Toba, jala ganup marga mar-parbinotoan parbinotoan na masing-masing."}
+{"uji_id": "kami-doc_0080_s018", "hipotesis": "Angka misionaris i pe mangartihon hape parpeak na sada sian Alkitab tu hata Batak Toba."}
+{"uji_id": "kami-doc_0077_s064", "hipotesis": "Di bulan Desember taon 2008, haporseaon haporseaon Tapanuli di bagasan Provinsi Sumatera Utara."}
+{"uji_id": "kami-doc_0080_s025", "hipotesis": "Parjempekna i ma Raja Panggalamei, na gabe Raja di Pintubosi na maringanan di Singkak."}
+{"uji_id": "kami-doc_0080_s013_b", "hipotesis": "Ward i ma sada tenaga kasehatan na mangulahon manarikhon wabah na marsarar di luat i."}
+{"uji_id": "kami-doc_0077_s026", "hipotesis": "Di tingki panjajahan Jepang, parange pamarenta di Huria Tapanuli nunga so maruba."}
+{"uji_id": "kami-doc_0080_s053_b", "hipotesis": "Di tingki na songon on, ro ma Nommensen tu parjoloan jala didok ma tu jolma i:"}
+{"uji_id": "kami-doc_0001_s003_b", "hipotesis": "Jala nasumpa do ndang diboto tu sahalak jolma asa sian parmulaan ni boru i."}
+{"uji_id": "kami-doc_0080_s017", "hipotesis": "Ndada lomo roha ni jolma on, ala i angka pangebati i dipasuda di taon i ma."}
+{"uji_id": "kami-doc_0068_s010", "hipotesis": "Teori Metaphor Konseptuala dipangke laho mangkonseptualisasi hata na metaphoris tu holong."}
+{"uji_id": "kami-doc_0091_s027", "hipotesis": "- Unang mamimpi langsung gabe bosna pangembang alai memang i ulaon ni sandiri."}
+{"uji_id": "kami-doc_0080_s006", "hipotesis": "Marangkat nasida di ari 30 April 1824 jala mardalani di pesisir Tapanuli."}
+{"uji_id": "kami-doc_0080_s032", "hipotesis": "Ibana do muse halak Eropa parjolo na manatap Tao Toba jala pajumpang dohot Si Singamangaraja."}
+{"uji_id": "kami-doc_0091_s029", "hipotesis": "Molo naeng gabe hatagoman ni pangembang, ingkon boi dohot bagak dipangido sparring molo naeng dihargai."}
+{"uji_id": "kami-doc_0077_s046", "hipotesis": "Batak Toba dang ikkon mangolu di luat ni Toba, nang pe asal-usul i ma Toba."}
+{"uji_id": "kami-doc_0080_s070", "hipotesis": "Di parjolo, gelar on ma tudosan na hasusurat ni bangso Batak tu angka Singamangaraja."}
+{"uji_id": "kami-doc_0002_s008", "hipotesis": "Tung so tarsurat muse, Inong, tangihonmu na tongtong ro di tikar ni bornginmu."}
+{"uji_id": "kami-doc_0061_s018", "hipotesis": "Pangulahon kota na marnogu na tumamba hian ingkon mangalusi potensi ni ganup luat."}
+{"uji_id": "kami-doc_0091_s020_b", "hipotesis": "Jala, songon na so adong ni roha ni roha ni roha i taringot tu partuturon."}
+{"uji_id": "kami-doc_0077_s065__r01", "hipotesis": "Daerah Toba saonari tarmasuk tu luat Kabupaten Toba na marragam kota di Balige."}
+{"uji_id": "kami-doc_0080_s052", "hipotesis": "Di sada tingki, diulahon parmanganon ni natua-tua Siatas Barita, somalna dilehon angka korban."}
+{"uji_id": "kami-doc_0080_s047", "hipotesis": "Diboan i di Barus pigapiga tingki laho marsiajar hata dohot adat Batak dohot Melayu."}
+{"uji_id": "kami-doc_0090_s004", "hipotesis": "Panuturion ni Ambroncius Nababan, hata ni Kenan, i ma hata dohot panuturion na sandiri."}
+{"uji_id": "kami-doc_0002_s010", "hipotesis": "Porsea ma di ahu, Inong, ahu anak ni anak na umbalga, ahu ndang hea mangalusi pangorbananmu."}
+{"uji_id": "kami-doc_0080_s045", "hipotesis": "Ari i didok gabe ari pajongjong ni Huria Kristen Batak Protestan (HKBP)."}
+{"uji_id": "kami-doc_0080_s066", "hipotesis": "Di taon 1918, nunga tarsurat 185.731 halak Kristen di luat RMG Sumatera Utara."}
+{"uji_id": "kami-doc_0080_s073", "hipotesis": "Sadarion sahat ±11% sian populasi Batak Toba i ma pengikut ni Huria Katolik Roma."}
+{"uji_id": "kami-doc_0049_s000", "hipotesis": "Na ditebang kampak i gabe bertuna, na ditebang sumpah mate ndang mar-parsonang."}
+{"uji_id": "kami-doc_0068_s003", "hipotesis": "Parhataan na dipangke laho mangumpulhon data i ma parhataan simak dohot parhataan cakap."}
+{"uji_id": "kami-doc_0061_s023", "hipotesis": "Asing ni i, parsoalan ni parsoalan, parsoalan, dohot parsalion boi gabe parsoalan ni kota."}
+{"uji_id": "kami-doc_0068_s007", "hipotesis": "Parhataan cakap dipangke laho mangalului pardalanan taringot tu pangalaman holong ni si Informman."}
+{"uji_id": "kami-doc_0080_s011_b", "hipotesis": "Pardalangan on ma sogo ni Raffles laho manuju utara, i ma Silindung."}
+{"uji_id": "kami-doc_0091_s006", "hipotesis": "Tarida parbinotoan ni ibana marsitok tu parbinotoan ni tingki lomba sandiri jala ndang marbarbarita."}
+{"uji_id": "kami-doc_0061_s026", "hipotesis": "Buku on mansai muruk di bagasan mambahas pajongjong ni kota asa laho pajongjong."}
+{"uji_id": "kami-doc_0080_s023_a", "hipotesis": "Di 17 Juni 1834 sahat nasida tu Sibolga jala manatap piga-piga ari disan."}
+{"uji_id": "kami-doc_0091_s001_a", "hipotesis": "Dung sahat polemik taon na salpu di miilis kampus na so boi hu manggogo goarna."}
+{"uji_id": "kami-doc_0061_s015", "hipotesis": "Pariwisata i ma asa dohot investasi ni kota di bagasan mandapot parbinotoan ni roha."}
+{"uji_id": "kami-doc_0077_s021", "hipotesis": "Parbinotoan ni Nias, na saonari gabe Kabupaten Nias dohot Kabupaten Nias Selatan."}
+{"uji_id": "kami-doc_0077_s068", "hipotesis": "Marga ima bagian goarna na gabe pertanda sian keluarga na ro sian i."}
+{"uji_id": "kami-doc_0077_s004", "hipotesis": "Parjoloan ni Nagari Batak: Pardalani dohot pangantusion taringot tu Ruma Bolon."}
+{"uji_id": "kami-doc_0080_s046", "hipotesis": "Dung i Ludwig Ingwer Nommensen (1834 - 1918) sahat di Padang di taon 1862."}
+{"uji_id": "kami-doc_0091_s031", "hipotesis": "Saonari on, dohot adong komputasi awan, parange ni pangulu sandiri nunga na ringkot hian."}
+{"uji_id": "kami-doc_0080_s067", "hipotesis": "Di taon 1881, Ludwig Ingwer Nommensen digoari jadi Ephorus ni RMG."}
+{"uji_id": "kami-doc_0066_s006", "hipotesis": "Na gunana gabe ujung ni roha ni proyek panulingkian na marhite di kampus."}
+{"uji_id": "kami-doc_0091_s008_a", "hipotesis": "Ibana boi mamprogram, alai hurang kokoh jala kode-kode na mansai marragam."}
+{"uji_id": "kami-doc_0091_s030", "hipotesis": "- Molo so tarida songon pangembang jala naeng mangatur infrastruktur."}
+{"uji_id": "kami-doc_0002_s000", "hipotesis": "Rungka i ma na sasintongna ho inang, di bagasan ngolu on"}
+{"uji_id": "kami-doc_0001_s000", "hipotesis": "Di na sadari Toba naeng laho manambati ikkan di danu laho digoari."}
+{"uji_id": "kami-doc_0080_s053_a", "hipotesis": "Laho mambunusu Nommensen gabe korban, na di tingki i adong disan."}
+{"uji_id": "kami-doc_0080_s068", "hipotesis": "Jabatan i dipatupa ibana sahat ma ibana marujung di ari 23 Mei 1918."}
+{"uji_id": "kami-doc_0014_s000", "hipotesis": "Ikkon sada daini songon daini ni ai, unang adong dua daini songon nira."}
+{"uji_id": "kami-doc_0068_s005", "hipotesis": "Teknik simak libat cakap didokhon dohot teknik rekam dohot teknik catat."}
+{"uji_id": "kami-doc_0068_s004", "hipotesis": "Teknik na dipangke ima teknik na maju i ma teknik libat cakap."}
+{"uji_id": "kami-doc_0080_s003", "hipotesis": "Andorang i, toru nasida mangulahon tugas di Sumatra di tolu inganan na marragam."}
+{"uji_id": "kami-doc_0077_s063", "hipotesis": "Peninggalan Inganan Parsidangan ni Raja, na adong di Tomok, Samosir."}
+{"uji_id": "kami-doc_0080_s033", "hipotesis": "Dibagasan roha ni ibana i, roha ma ibana do roha tu halak Batak di jabu."}
+{"uji_id": "kami-doc_0069_s003", "hipotesis": "Panulingkian on marpikkir buku pangajaran hata dohot sasastra Batak Toba."}
+{"uji_id": "kami-doc_0069_s011", "hipotesis": "Hata Parjoloan: Parjoloan, Bangso, Panuturion, Hata Dalan, Batak Toba"}
+{"uji_id": "kami-doc_0077_s069", "hipotesis": "Bangso Batak torus mar-goar marga na didokhon di ujung goarna."}
+{"uji_id": "kami-doc_0080_s019", "hipotesis": "Panginjil na jadi utusan ni American Board of Commissioners for Foreign Mission"}
+{"uji_id": "kami-doc_0080_s037", "hipotesis": "Dibahen ibana ma piga-piga jolma jala diulahon ma pangajaran ni Kristiani."}
+{"uji_id": "kami-doc_0080_s004", "hipotesis": "Ward dipatupa di Bengkulu, Burton di Sibolga dohot Meers di Padang."}
+{"uji_id": "kami-doc_0080_s023_b", "hipotesis": "Di tanggal 23 Juni 1834, marangkat nasida tu dolok Silindung."}
+{"uji_id": "kami-doc_0054_s000", "hipotesis": "Hami ndada holan tombak nak, alai jolma na hatop"}
+{"uji_id": "kami-doc_0080_s053_c", "hipotesis": "Roh na manghatai marhite jolma i nunga godang mangalusi hamu."}
+{"uji_id": "kami-doc_0091_s011", "hipotesis": "Dasar ni pamrograman na marhite objek secara abstrak pe hurang hian."}
+{"uji_id": "kami-doc_0077_s059", "hipotesis": "Kabupaten Tapanuli Selatan (sadari Kabupaten Padangsidimpuan)"}
+{"uji_id": "kami-doc_0080_s069", "hipotesis": "Didok halak Batak tu Nommensen margoar Ompu i."}
+{"uji_id": "kami-doc_0077_s029", "hipotesis": "Ferdinand Lumban Tobing i ma Rumaikan Tapanuli na parjolo."}
+{"uji_id": "kami-doc_0017_s000", "hipotesis": "Dang tu ahu, dang tu hamu, denggan do tu parbinotoan"}
+{"uji_id": "kami-doc_0080_s055", "hipotesis": "Parmanganan ni inangmu mangihuthon darah ni sada sian sundut ni ibana!"}
+{"uji_id": "kami-doc_0090_s000", "hipotesis": "Bangso Batak di Papua Mambahen Ulaon Rasisme Ambroncius"}
+{"uji_id": "kami-doc_0091_s022", "hipotesis": "Ahu mangalehon i ndang boi, jala ingkon ma ibana marsiajar godang."}
+{"uji_id": "kami-doc_0046_s000", "hipotesis": "Na tung mansai tung mansai tung mansai tung mansai tung mansai tung mansai tung mansai tung mansai tung mansai tung mansai tung mansai tung mansai tung mansai"}
+{"uji_id": "kami-doc_0077_s055", "hipotesis": "Kabupaten Tapanuli Utara (sadari Kabupaten Tano Batak)"}
+{"uji_id": "kami-doc_0080_s048", "hipotesis": "Diboan i marhite Badan Misi Rheinische Missionsgesellschaft."}
+{"uji_id": "kami-doc_0080_s061", "hipotesis": "Pangaradean ni Kekristenan dung roha ni Injil di Tano Batak"}
+{"uji_id": "kami-doc_0001_s001", "hipotesis": "Jala dipasahat ma ikan mas i, dijalo ma ibana."}
+{"uji_id": "kami-doc_0054_s007", "hipotesis": "alai gabe ulos tu sude bangso."}
+{"uji_id": "kami-doc_0068_s006", "hipotesis": "Parhataan cakap pe dipangke laho mangumpulhon data lisan."}
+{"uji_id": "kami-doc_0080_s054", "hipotesis": "Ido ndada roh ni Siatas Barita, inangmu, alai roh na jahat."}
+{"uji_id": "kami-doc_0002_s017", "hipotesis": "Sipanganonmu tu ahu, sai tongtong do huingot."}
+{"uji_id": "kami-doc_0068_s008", "hipotesis": "Dung i didapot angka data i marhite ragam ni parbinotoan i."}
+{"uji_id": "kami-doc_0091_s025", "hipotesis": "- Pasang taringot dohot panindangon taringot tu parjolohan ni teknologi."}
+{"uji_id": "kami-doc_0077_s057", "hipotesis": "Kabupaten Tapanuli Tengah (sadari Kabupaten Sibolga)"}
+{"uji_id": "kami-doc_0090_s005", "hipotesis": "Alani i ndada mangurupi bangso Batak di Tano Papua."}
+{"uji_id": "kami-doc_0036_s000", "hipotesis": "Rumput gabe bahan campuran sirih, tangke pakis gabe matua."}
+{"uji_id": "kami-doc_0068_s001", "hipotesis": "Data na dipangke ima data na tarsurat dohot data lisan."}
+{"uji_id": "kami-doc_0080_s041", "hipotesis": "Klemmer dohot dua pandita Bolanda, i ma: Pdt."}
+{"uji_id": "kami-doc_0002_s003", "hipotesis": "Anakmu na sandiri on marnida parsaoranmu."}
+{"uji_id": "kami-doc_0091_s003", "hipotesis": "Alai lulusan i di jurusan na sarupa dohot ahu."}
+{"uji_id": "kami-doc_0091_s009", "hipotesis": "Alai laho pajongjong pangidoan dohot parsulangan ni HTTP."}
+{"uji_id": "kami-doc_0002_s004", "hipotesis": "Sai tongtong do roha ni roha mu, Inong."}
+{"uji_id": "kami-doc_0091_s038", "hipotesis": "Sai naeng mangulahon di parusahaan na marparbinoto teknologi?"}
+{"uji_id": "kami-doc_0002_s001", "hipotesis": "Alai Apu na mangalehon nunga so adong dope."}
+{"uji_id": "kami-doc_0044_s000", "hipotesis": "Tarbuka manang tarpampang songon nasi di bagasan kuali."}
+{"uji_id": "kami-doc_0054_s003", "hipotesis": "Mambahen hatorangan, di ganup holong na muruk."}
+{"uji_id": "kami-doc_0080_s027", "hipotesis": "Parjolo ni Rheinische Missionsgesellschaft"}
+{"uji_id": "kami-doc_0091_s033_b", "hipotesis": "Molo so dope mangantusi, ingkon godang do mambaca."}
+{"uji_id": "kami-doc_0080_s001", "hipotesis": "Panginjil na Manginjil Injil Baptis Inggris"}
+{"uji_id": "kami-doc_0091_s000", "hipotesis": "Lulusan Ilmu Komputer na Dang Mampu Marprogram"}
+{"uji_id": "kami-doc_0013_s000", "hipotesis": "Dang adong manuk pipit na so mangallang padi."}
+{"uji_id": "kami-doc_0089_s000", "hipotesis": "Kumpulan Muzik Toba World Manghibur Angka Panonton di Eropa"}
+{"uji_id": "kami-doc_0091_s001_b", "hipotesis": "Saonari au tarida sandiri."}
+{"uji_id": "kami-doc_0002_s011", "hipotesis": "Inong na mambahen, Inong na tung mansai denggan."}
+{"uji_id": "kami-doc_0002_s015", "hipotesis": "Molo naeng au laho, ikkon ma ahu ma ho."}
+{"uji_id": "kami-doc_0019_s000", "hipotesis": "Manuk na manggang ndang ro tu padi-padian"}
+{"uji_id": "kami-doc_0002_s012", "hipotesis": "Siganup do ahu mambuat, Inong, di bagasan ni roha ni ahu."}
+{"uji_id": "kami-doc_0002_s014", "hipotesis": "leleng do umurmu, Inong, laho maringanan tu ahu."}
+{"uji_id": "kami-doc_0077_s030", "hipotesis": "Adong do piga-piga parubahon na diulahon tu goar."}
+{"uji_id": "kami-doc_0077_s045", "hipotesis": "Batak Toba ima sada kesatuan budaya."}
+{"uji_id": "kami-doc_0002_s002", "hipotesis": "Alai ibana lobi mansai mansai las ni roha ahu."}
+{"uji_id": "kami-doc_0002_s013", "hipotesis": "Miskin manang margoar ingkon huhormati ho."}
+{"uji_id": "kami-doc_0080_s008", "hipotesis": "Hagaran lambung marisi sian 10-20 huta."}
+{"uji_id": "kami-doc_0002_s016", "hipotesis": "Inong na mambahen ahu, Inong na denggan."}
+{"uji_id": "kami-doc_0004_s000", "hipotesis": "Rebung marbunag dang dao sian taringot"}
+{"uji_id": "kami-doc_0061_s000", "hipotesis": "Goar ni buku : Bandar Cerdas na Marnanding"}
+{"uji_id": "kami-doc_0002_s005", "hipotesis": "Ho do na mangurupi ahu sian saleleng ni roha."}
+{"uji_id": "kami-doc_0030_s000", "hipotesis": "Pohon naeng tumbo tu dalan na."}
+{"uji_id": "kami-doc_0061_s002", "hipotesis": "Panabur : PT. Gramedia Pustaka Utama"}
+{"uji_id": "kami-doc_0080_s026", "hipotesis": "Ibana mamorang rap dohot halakna."}
+{"uji_id": "kami-doc_0091_s028", "hipotesis": "Pangembang on songon perguruan silat."}
+{"uji_id": "kami-doc_0054_s005", "hipotesis": "alai gabe harta di perantauan."}
+{"uji_id": "kami-doc_0077_s027", "hipotesis": "Parjolo mardeka ni Republik Indonesia"}
+{"uji_id": "kami-doc_0077_s031", "hipotesis": "Alai mambahen luat i sai songon i."}
+{"uji_id": "kami-doc_0080_s000", "hipotesis": "Masukna Panginjil tu Tano Batak"}
+{"uji_id": "kami-doc_0091_s034", "hipotesis": "- Songon dia tu tim pemasaran?"}
+{"uji_id": "kami-doc_0054_s002", "hipotesis": "Di bagasan aturan ni ngolu"}
+{"uji_id": "kami-doc_0077_s052", "hipotesis": "Panuturion ni kedaulatan parjolo di taon 1950"}
+{"uji_id": "kami-doc_0080_s056", "hipotesis": "Di tikki i, ragat si Sibaso tu tano."}
+{"uji_id": "kami-doc_0080_s035", "hipotesis": "Taon 1857, pangebangon Injil G."}
+{"uji_id": "kami-doc_0061_s001", "hipotesis": "Panurat : Nirwono Joga, dkk"}
+{"uji_id": "kami-doc_0002_s006", "hipotesis": "Sahat ma ahu balga."}
+{"uji_id": "kami-doc_0080_s057", "hipotesis": "Ludwig Ingwer Nommensen"}
+{"uji_id": "kami-doc_0002_s009", "hipotesis": "Mangido ma tu ahu, anakmu"}
+{"uji_id": "kami-doc_0077_s008", "hipotesis": "Raja Maropat Silindung"}
+{"uji_id": "kami-doc_0077_s010", "hipotesis": "Raja Maropat Samosir"}
+{"uji_id": "kami-doc_0077_s012", "hipotesis": "Raja Maropat Humbang"}
+{"uji_id": "kami-doc_0054_s006", "hipotesis": "On holan parange"}
+{"uji_id": "kami-doc_0077_s044", "hipotesis": "Bangso Batak Toba"}
+{"uji_id": "kami-doc_0054_s004", "hipotesis": "On holan hata,"}
+{"uji_id": "kami-doc_0077_s015", "hipotesis": "Panjajahon Bolanda"}
+{"uji_id": "kami-doc_0077_s014", "hipotesis": "Raja Maropat Toba"}
+{"uji_id": "kami-doc_0077_s025", "hipotesis": "Panjajahon Jepang"}
+{"uji_id": "kami-doc_0077_s000", "hipotesis": "Suku Batak Toba"}
+{"uji_id": "kami-doc_0091_s033_a", "hipotesis": "Aha do i DevOps?"}
+{"uji_id": "kami-doc_0091_s037", "hipotesis": "Jadi boasa do?"}
+{"uji_id": "kami-doc_0080_s040", "hipotesis": "Heine dohot Pdt."}
+{"uji_id": "kami-doc_0080_s042", "hipotesis": "Betz dohot Pdt."}

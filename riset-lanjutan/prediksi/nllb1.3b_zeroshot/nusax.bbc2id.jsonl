@@ -1,0 +1,401 @@
+{"sidik": "a638ea56f531491139f79ae1282d08feec87ec231b2e2f352a0d5a435d0b3fb8", "parameter": {"model": "facebook/nllb-200-distilled-1.3B", "dekode": {"beam": 5, "ukuran_batch": 32, "panjang_maks_sumber": 128, "faktor_panjang_keluaran": 1.5, "tambahan_panjang": 10, "panjang_maks_keluaran": 256}, "kode_id": "ind_Latn", "kode_bbc": "bjn_Latn"}}
+{"uji_id": "nx-test-0066", "hipotesis": "dinalaho hami mardalani tu lembang na tung mansai male butha, disi hubereng sopo-sopo di tekongan i pintor maradi do hami laho mangan, hupilit hami do na hundul dilage-lage di tingkat 2 asa boi huhut mamereng hinauli ni inganan i , hu pangido hami ma cumi na digoreng dohot topong, gurame goreng crispy, genjer nai tumis dohot dua ragam ni tahu na so huingot be goarna, sude na hupangido i somal hian do adong na sud"}
+{"uji_id": "nx-test-0297", "hipotesis": "Au sian bali, saat sedang berlibur ke kota bandung, andaorang dilambangkan oleh kantor gubernur jawa barat dan dilambangkan oleh godung sate, hami di suggest makan di bancakan ala jonok. Dung masuk dilehon ma tuhing piring sian kaleng naung beras (na so denggan be) na songon na tasikon. alai hupilit hami ma sipanganon lomo ni roha nami, jala tungsai godanghian lanok marhabangan alai alanaung masuk ba sanga tong do hami mangan, tungsai magigi hian iba"}
+{"uji_id": "nx-test-0151", "hipotesis": "Pengarang ni kopi on mansai dari si tutu, alana sungkun - sungkun rohangku ga bisegeh ma mereng-mereng lagu na paimahan ro sipangan. Adong do inganan na tardas jala godang do angka barang sian hau dohot di duri na pe. Tarida panatap ni bandung sian inganan na timbo. Di nahumaliang pe godang do bangku na sian hau dohot sian batu. Taringot tu sipanganon argana biasa do songon argani roh kopi tung mansai angka lomo."}
+{"uji_id": "nx-test-0022", "hipotesis": "restoran on ima adalah salah satu restoran kuliner di bandung yang disebut molo tu bandung. asing ni sipanganon na apar pasonanghon di sipanganon suna, restoran on pe dipajongjong dohot konsep makan na santai di bagas saung yang dikelilingi alam harangan dohot dolok-dolok na di hias angka hau-hau na rindang jala masonanghon alani suara ni aek sunge gabe mambahen panguburan kliner na apar mengesankan hian."}
+{"uji_id": "nx-test-0025", "hipotesis": "Makan di jalan anggrek dengan adonan seafood yang bermacam-macam dan adonan dope yang bermacam-macam membuat sifilin menjadi sangat banyak. Ada berbagai jenis siloppaon dan boe pilliton yang bermacam-macam."}
+{"uji_id": "nx-test-0281", "hipotesis": "Di lantai 2 dipisahkan oleh kamar si Nobita renta dot meja marsiajar, mesin waktu dohot pintu ke mana saja. Gendang boneka doraemon dohot komik-komik na di mana tingki paimahon sipanganon. Asing ni huhu menghalangi si sipanganon nonton film doraemon. Gellenghu lom rohana mangan."}
+{"uji_id": "nx-test-0200", "hipotesis": "Tikki jenuh itu ole-ole nasi Bandung na nungnga adong, roti nakatutung tunggal boe gabe sipilliton. Au jot-jot manuhor roti marie naditutung dohot dai na tabo, muse roti naditutung dohot daini keju na coklat. Somalna hutuhor di lapo roti naditutung tunggal di paskal hyper square."}
+{"uji_id": "nx-test-0108", "hipotesis": "indahan gorang mafia yang ada di jalan setiabudi haami pillit ala aning meluluskan sipangan na hatop. ditambahi muse alana salah satu sajian kuliner yang ada di ebati di bandung. au memillit indahan goreng yang dihalomkan di dison ima indahan goreng bandit sahat itu tingkat haihon di level 3."}
+{"uji_id": "nx-test-0062", "hipotesis": "Ahu sahat itu si nunga borngin, udan muse jadi mansai lewat situtu sahat tu holi-holi, sanga do paimahan 15 menit asa dapot ingan, alana gok do blok tingki i. Asa molo naeng tu san undeng ma sibot siari."}
+{"uji_id": "nx-test-0262", "hipotesis": "berbagai jenis makanan yang ada di kutub untuk memasak berbagai macam makanan dan makanan yang ada di toko-toko. Saat makan malam di San Diego, banyak orang mulai mengkonsumsi berbagai jenis makanan."}
+{"uji_id": "nx-test-0091", "hipotesis": "Diloh tingki laho mandai sipanganon manogot ala tagan marborngin di hotel on. Molo na baru ro ro songon ahu jala na asing pe olo do ra mansai lomo rohana tu suasana ni sipanganon di manogot na diwarnai dohot patapan sian bariba timur, ala sian bariba i do adong haulion ni godung hotel rapot dohot kolam renangnya. Asing ni i adong dopejor jo buhit dohot dolok gabe mambaen sai naeng marfoto-foto."}
+{"uji_id": "nx-test-0305", "hipotesis": "Au sadaya itu huta bulung dung mulai bermunculan pada tahun 2003 oleh so sala, dae ni sipanganon mulai I di mansai tabo do, alai dung mulai torop ro sahat itu nuaen on gabe muba daena dan songon na uju I be, jala panghobasionna pe di dalam ture, molo mangido pira-pira ragam ni sipanganon na olo ro na kali-kali gabe so lomo roha marnida, alai manggo ingananon uli do."}
+{"uji_id": "nx-test-0126", "hipotesis": "Dung sae simor maronan, makan ma hami di kode tena pinggir jalan. Di tikki di jalan mulak si hotel, hita melintasi jalan yang gelleng laho pasidinghon maccet, jala pajumpang ma di warteg on."}
+{"uji_id": "nx-test-0295", "hipotesis": "Ahu rap dohot keluarga makan borngin di tempat makan yang penuh dengan makanan utama dan makanan dari luar negeri. Ahu holan makan 2 hidangan akhir yang memakan waktu 45 menit, masing-masing tiga hari."}
+{"uji_id": "nx-test-0122", "hipotesis": "Ingannya lapangan jala di pinggir ni dolok-dolok tung mansai uli situtu, jala solo do simalolong marnidasa, saihira dolok, kobun, dohot kota bandung molo nitatap sian ginjang. Angka parkir pe dasip-dasip jala burju-burju, ragam ni sipanganon gumodang ma steak yang pe adong do indahan goreng, gurami, dohot angka na asing. on ma rumaot makan naingkon jalan molo tu bandung."}
+{"uji_id": "nx-test-0112", "hipotesis": "Kami mendatangi tempat makan yang terkenal dengan nama marborngin. Kami meminta tempat makan yang ditutupi dengan pasta. Kami mendatangi tabung, tongkat sipilliton, jalan dang saya, boe tu akka takdanak."}
+{"uji_id": "nx-test-0397", "hipotesis": "Penghuni rumah mendengar, tempat parkir yang nyaman di luar, kebun stroberi terbuka dengan batang stroberi yang agak merah untuk dipotong."}
+{"uji_id": "nx-test-0003", "hipotesis": "Berada di Braga City Walk dan sebuah rumah di Aston Hot Fave Hotel, tempat yang sangat populer di Hong Kong. Kopi di Cappur Test baru saja dibuka oleh seorang pria bernama Atimi Hape Tabo Hain, di Gaor Door Tolor, sebuah toko makanan yang tidak dimasak di Dongani yang memasak raphon dongan-dongan."}
+{"uji_id": "nx-test-0011", "hipotesis": "The peak berlokasi di hulu lembah, berlokasi di bandung dan mermer dohot ingatannya menyusui bagak alai jalan laho tusi mansai margellok raphon tekongan na mansai bagas, dang di pangido laho marketa pas hujan dohot tornin ni ari. Di the peak adong parmangan dohot panataan kota bandung yang berlokasi di bukit, argani siallangonna mansai arga dohot soksok."}
+{"uji_id": "nx-test-0156", "hipotesis": "Untuk sampai di Bogor 7 jam, Anda harus makan sup buntut dan mengambilnya dari jam 8.30 pagi dan buka dope. Malam itu mulai pukul 10.00. Makan sup buntut dan adong didokhon nabodari rame tanpa pengalompa dan marsahit dope. Wow sidalian apa ma songoni? Asing ini tingki hu makan 1 tahun yang lalu di atas."}
+{"uji_id": "nx-test-0266", "hipotesis": "Pada saat seorang ruma makan kopi asing, ia disuguhi dengan lagu-lagu yang berbeda dari biasanya, seperti nomor lampu, nomor lukisan/gambar antik, teman makan si minum tabung, yang membawa tarsonggot lain."}
+{"uji_id": "nx-test-0261", "hipotesis": "Resto on inganan na sonang songon huta najolo, alai denggan do botari sahat tu borngin hita ro tuson ala lampu ni obor dohot api ugun mambahen situasi / suasana gabe romantis. Ragam ni sipangan pe goang mulai sian siallangon ni halak Indonesia sahat tu siallangon ni halak Eropa, tapi mansai denggan pasuda tikki rap dohot dongan ni keluarga pe."}
+{"uji_id": "nx-test-0171", "hipotesis": "Jala molo toru hamu pas-pasan pesan makanan yang murah-murah. Pertama-tama dioto-oto gambarnya di buku makanan asa unang marsak. Makanan sukina untabo alai sai hera tua ma dao-dao macet tu son holan mangulului i. Di kota uncocok do ra. Penetapan ini Jogja borngin na maniop."}
+{"uji_id": "nx-test-0206", "hipotesis": "Pada tahun-tahun berikutnya, daun-daun yang masih muda ditanam di tempat baru oleh Haaslion dan tong dope yang dijaga oleh jaring-jaring panas untuk memarkirnya."}
+{"uji_id": "nx-test-0282", "hipotesis": "Pada hari Minggu, mereka duduk di atas meja. Mereka makan, minum, dan berjualan di luar rumah. Mereka duduk di atas meja. Mereka mengambil foto-foto mereka."}
+{"uji_id": "nx-test-0009", "hipotesis": "Laho tu the peak tung mansai dao dari kota bandung, tarsong ni maol do lao tusi jala jalan tusi geleng jala margellok-gelok. Alai ho dang na liu molo lao tusi alana tiap tekon adong signage do molo laho tu the peak. Tang mansai dari inganan i di angka yang melulu inganan na pasonanghon roha molo borngin tung man sai dari kota i."}
+{"uji_id": "nx-test-0174", "hipotesis": "Parjolo menusuk tangan untuk menentukan apa yang saya sukai, menariknya, keren ini. Desainnya yang unik, keren, sonang, jala cokcok ini bisa makan borngin rap dohot sisolhot, hallet, haha anggi, dohot akka dongan, panatapanpe keren, sesamanya tabunya."}
+{"uji_id": "nx-test-0212", "hipotesis": "Siapa yang ingin menikmati suasana di Paris? Yang pertama adalah pola dao-dao di Prancis, seperti di Paris van java alias Bandung."}
+{"uji_id": "nx-test-0074", "hipotesis": "Di dalam rumah mereka, mereka akan makan buah-buahan yang sudah dibakar di jalanan. Mereka akan makan buah-buahan yang sudah dibakar di jalanan. Mereka akan makan buah-buahan yang sudah dibakar di jalanan. Mereka akan makan buah-buahan yang sudah dibakar di jalanan. Mereka akan makan buah-buahan yang sudah dibakar di jalanan. Mereka akan makan buah-buahan yang sudah dibakar di jalanan. Mereka akan makan buah-buahan yang sudah dibakar di jalanan."}
+{"uji_id": "nx-test-0114", "hipotesis": "Rope au tu resto sapulidi on alana hea do hujaha di internet, tung deng jala uli inganan on jala inganan parmangan na pe pas di saba gabe lasma rohangku ro tuson. Hape dung sahat au dison gabe muba do sude roa gabe marsak roha, mulai sian inganan parkir na didingki adongot jalan laho masuk na nasi jala mansai tung sompit."}
+{"uji_id": "nx-test-0165", "hipotesis": "Makanan bergaya songon najolo. Adong parade kue-kue, ekrim pe. Menak mahte. Sipanganonna has loppaan ni jabu."}
+{"uji_id": "nx-test-0229", "hipotesis": "Suara burung hantu ini menggugah suasana di kota ini dengan nama tingki i. Makanan disiapkan dengan menyanyikan lagu-lagu dan lagu-lagu yang menarik."}
+{"uji_id": "nx-test-0050", "hipotesis": "Pada malam hari minggu di san akka, dua belas pelaut yang sedang berlayar melewati jembatan di san hami masing-masing, ketika para pelaut sedang berlayar di ujung jalan. Pada saat itu, dua pelaut sedang berlayar, sehingga dua belas pelaut yang sedang berlayar mendengar suara pertama dari jembatan yang berlayar di puncak jembatan."}
+{"uji_id": "nx-test-0290", "hipotesis": "Tung mansai dari jala denggan do inganan on. Godang muse partai-tiga sipangannon. Inganan manghata - hatai dohot cafe na pe tung denggan. Sanga do hami belanja di supermarket."}
+{"uji_id": "nx-test-0037", "hipotesis": "Ada acara bernama makan borngin ditingki i, es krim yang dipupulikan dengan espresso tanpa bau pedomuon asa saat itu selera angka jolma i. Salmon steak na i nungnga hurang denggan, terakhir-terakhir ni salmon i karas, molo nibereng nunga leleng di bagasan kulkas na freezer, hape i do sasintong masakan naingkhon tabo"}
+{"uji_id": "nx-test-0249", "hipotesis": "Tiap-tiap orang yang masuk ke dalam kota itu akan merasa takut, karena mereka tidak akan dapat masuk ke kota itu. Mereka akan masuk ke dalam kota itu dengan menggunakan jaring yang dibuat dari kayu, kayu manis, dan lain-lain. Tiap-tiap orang yang masuk ke dalam kota itu akan merasa takut dan tidak akan dapat masuk ke kota itu. Tiap-tiap orang yang masuk ke kota itu akan merasa takut dan tidak akan dapat masuk ke kota itu. Tiap-tiap orang yang masuk ke kota itu akan merasa takut dan tidak akan dapat masuk ke kota itu. Tiap-tiap orang yang masuk ke kota itu akan merasa takut dan tidak akan dapat masuk ke kota itu. Tiap-tiap orang yang masuk ke kota itu"}
+{"uji_id": "nx-test-0162", "hipotesis": "Inganan on ma sada inganan na mansai lomo rohaku laho mangida bogor tingki si borngin, suasana na sonang dohot sipangan dohot siinumon na dohot panghobasi na tabu."}
+{"uji_id": "nx-test-0070", "hipotesis": "Pada tanggal 12 Februari, hari ulang tahunnya, ia mengundang ayahnya untuk makan malam di sebuah restoran Natarbarita di Surabaya."}
+{"uji_id": "nx-test-0041", "hipotesis": "Mansuba laho buka puasa dison. dohot arga na tardok arga sian hotel marbittang na satarap. daina di lehon apar mambahen iba manarita. pastila dang mardai sipanganon na asing pe dang mardai. apar asing ma dohot na biasa dibahen. dohot panghobasionna pe hurang do malona di tikki laho manggarak mamake kartu kredit."}
+{"uji_id": "nx-test-0177", "hipotesis": "Bandung bercerita bahwa ia tidak mau memberitahukan kepada penduduk setempat bahwa ia makan daging sapi, dan kemudian mencuci daging sapi di tepi danau. Ia mendirikan pabriknya sendiri di Jalan Jenderal Sudirman, mengambil tempat bisnis tanpa tempat makan."}
+{"uji_id": "nx-test-0253", "hipotesis": "Paima lalu berjalan-jalan ke Bandung lalu disanggah mendai batagor nauntabo di kota Kembang on sampai sadar kami menghormat ungodang sian nasuda nama nadua: Bakso tahu goreng, siomay goreng dohot batagor kuah, ayam kremes, dohot es cendol jala kami ikon membungkus mulak tahu yun yin dengan nama ujungnya."}
+{"uji_id": "nx-test-0218", "hipotesis": "Sebelum pesta songon sinajolo di Jogja, kamu bisa menikmati coklat pilliton! Ragam makanan ini adalah sipangan seperti sipangan yang disajikan oleh masakan Belanda."}
+{"uji_id": "nx-test-0078", "hipotesis": "Restoran lapis tipis menyediakan makanan khas sunda dengan pola yang berbeda dari makanan khas sunda yang lain."}
+{"uji_id": "nx-test-0085", "hipotesis": "Mereka makan di rumah pada sore hari, dan setelah makan di rumah, mereka makan di atas atap rumah. Mereka makan dan minum di atas atap rumah. Mereka makan dan minum di atas atap rumah. Mereka makan dan minum di atas atap rumah. Mereka makan dan minum di atas atap rumah. Mereka makan dan minum di atas atap rumah. Mereka makan dan minum di atas atap rumah. Mereka makan dan minum di atas atap rumah. Mereka makan dan minum di atas atap rumah. Mereka makan dan minum di atas atap rumah. Mereka makan dan minum di atas atap rumah. Mereka makan dan minum di atas atap rumah. Mereka makan dan minum di atas atap rumah. Mereka makan dan minum di atas atap rumah. Mereka makan di atas atap rumah. Mereka makan dan minum di atas atap rumah."}
+{"uji_id": "nx-test-0140", "hipotesis": "Setelah melewati batagor na topo, kamu dalam pola laho dao melintas tu huta-huta, boi holan laho tu jalan djunjunjun, hita boi mandai batagor na topo dohot inganan na sonang. Dai ni batagor na dilehon nang mambahen ro ijur alana batagor i dibahen garing jala di siram hua ni kaccang na segar."}
+{"uji_id": "nx-test-0160", "hipotesis": "yang ada di jalan utama makan tanpa urah kami bisa mendapatkan penginapan di sana. pertama kali di kereta api sendiri ada mobil sewa. menu makanannya ada di atas meja dan ada beberapa menu yang ada di atas meja, bukan di atas meja standar, tapi di atas meja."}
+{"uji_id": "nx-test-0189", "hipotesis": "Sian gosang makanan sunda di Bandung, pandapot Ciganea tangan dan lomo rohakku. Ahu lomo rohakku aluna meukena has, digoreng dalam pola pa koringhu. Musa sambalna pe dang tiga tabona."}
+{"uji_id": "nx-test-0084", "hipotesis": "Tikki merapat di hotel sensa, atau meminta batagor untuk paket aplikasi gofood/gojek. Permintaan itu diajukan saat nasabah lelang beberapa paket paket batagor dohot somay yang terbungkus plastik vakum. Harga yang ditampilkan pada aplikasi gojek/gojek dan dope termasuk pajak tambahan 10%."}
+{"uji_id": "nx-test-0395", "hipotesis": "Au nungnga mansai jotjot mandai makanan di luar ni oppung. Lomo do rohakku ditinangi oleh sonang laho rap makan dohot akka keluarga. Ditikki ari tarentu adong do musik live na."}
+{"uji_id": "nx-test-0342", "hipotesis": "mengecewakan ini, ahu pengido tiket jala ngannga hu garar, hape tikki i dang lewat dope pas hu transfer, alai sahat tu nuaeng dang di lehon dope kode bookingna, gabe dilehon boa-boa ngannga lewat, dungi hepengna gabe lari tudia, ditikki hu sian hubungi email holan di alusi sahali."}
+{"uji_id": "nx-test-0077", "hipotesis": "Ruma makan on asing hii docara pangaradeonna. Piring ingasan ni sipanganon diganti dohot bulung ni pisang. Ragam ni sipangan ni halak sunda na tabo dainai. Sian arganape suman do. Inganan parmangananna bidang dohot meja sipilliton pe goang, jala parkiran pe antara bidang do."}
+{"uji_id": "nx-test-0368", "hipotesis": "Di bagian atas, seperti di halaman pertama, ada sebuah taman yang besar. Di bagian atas, tidak ada jendela. Di bagian atas, seperti di halaman pertama, ada jendela-jendela besar. Di bagian atas, seperti di halaman kedua, ada jendela-jendela besar. Di bagian atas, seperti di halaman ketiga, ada jendela-jendela besar. Di bagian atas, seperti di halaman ketiga, ada jendela-jendela besar. Di bagian atas, seperti di halaman ketiga, ada jendela-jendela besar. Di bagian atas, seperti di halaman ketiga, ada jendela-jendela besar. Di bagian atas, seperti di halaman ketiga, ada jendela-jendela besar. Di bagian atas, seperti di halaman ketiga, ada jendela-jendela besar. Di bagian atas"}
+{"uji_id": "nx-test-0144", "hipotesis": "Makanan ini mengusung konsep tradisional sinajolo dan ikon dari sabunmu. Meskipun tidak lagi tepat, lapo ono pe ada beberapa jenis uniknya yaitu masakan yang menggunakan tangan pinggan seng najolo untuk menggosok galasnya."}
+{"uji_id": "nx-test-0131", "hipotesis": "On pe huboto inganan on sian dongan, tingki hami ro tu sonna na ro di pola godang, gabe hundul di lante dua hami sambil mengamati panataan di luar. Tingki borngin i adong sibereng musik, alai hurang huboto do manang na tiap ari adong sibereng musik i nang daun."}
+{"uji_id": "nx-test-0309", "hipotesis": "Setoho, maafkan kami karena tidak menghormati aplikasi on. boi do attong e-ticket dang issued. jala proses konfirmasi lelang. andorang soi hona mirip muse dohot na di aplikasi dibariba. alai parhobasna hatop ini langsung adong solusi. dang maka sampaion parhobas 4 hali."}
+{"uji_id": "nx-test-0344", "hipotesis": "Selain itu, hotel bintang empat ini juga menawarkan akomodasi yang cukup murah. Di tingkat atas hotel ini, Anda dapat menikmati berbagai macam makanan dan minuman."}
+{"uji_id": "nx-test-0068", "hipotesis": "Tingki parjolo sahali tusi, angka meja duduk buruk idaon jala akka sifililiton dang pala marragam. Alai molo argana dang boi nidok mura, ala molo marimbang tu arga nai hian ikkon ma dapot ni iba naung listen. Lamma ditingki tu kamar mandi iba, rotak hian jala bau."}
+{"uji_id": "nx-test-0153", "hipotesis": "Pada pukul 7 pagi, mereka menawarkan kepada klien makan malam yang lezat, dengan hidangan ayam goreng yang terdiri dari burung, ulat, usus, belalang burung, ikan pandapothu dan somal do, serta ikan magodanghu."}
+{"uji_id": "nx-test-0061", "hipotesis": "Untuk menghalangi empat hambing hae-hae yang mensai damor attar balga itu ukururan ma sedang, tempat ma laho tu sahalak, makan dang pola pakke iddahan, dohot es asom."}
+{"uji_id": "nx-test-0258", "hipotesis": "Pada malam hari, kalian makan dan minum di rumah yang penuh dengan orang-orang yang tidak mau makan dan minum, dan pada malam hari kalian makan dan minum di rumah yang penuh dengan orang-orang yang tidak mau makan dan tidak mau minum di rumah yang penuh dengan orang-orang yang tidak mau makan."}
+{"uji_id": "nx-test-0076", "hipotesis": "Mi napinarade, roti dohot sipangan penutupnya dicampur dengan dohot marragam sifililiton. Ingannya tabu lao marpungu dohot akka dongan. Molo argana pola dang arga dos tu sia ma."}
+{"uji_id": "nx-test-0373", "hipotesis": "Pada Festival City Link Mall, makanan yang disajikan di sana adalah makanan khas Tionghoa yang disajikan dengan menu menu menu menu menu menu menu menu menu menu menu menu menu menu menu menu menu menu menu menu menu menu menu menu menu menu menu menu menu menu menu menu menu menu menu menu menu menu menu menu menu menu menu menu menu menu menu menu menu menu menu menu menu menu menu menu menu menu menu menu menu menu menu menu menu menu menu menu menu menu menu menu menu menu menu menu menu menu menu menu menu menu menu menu menu menu menu menu menu menu menu menu menu menu menu menu menu menu menu menu menu menu menu menu menu menu menu menu menu menu menu menu menu menu menu menu menu menu menu menu menu menu menu menu menu menu menu menu menu menu menu menu menu"}
+{"uji_id": "nx-test-0101", "hipotesis": "Steak murah, sosokma adalah potongan daging yang terbuat dari daging sapi atau daging sapi."}
+{"uji_id": "nx-test-0158", "hipotesis": "Ikon ini dijual dengan harga terjangkau di hotel trans i, dengan harga yang sangat terjangkau."}
+{"uji_id": "nx-test-0319", "hipotesis": "Binege sian sipamangsa taringot tu parmangan on, alani tarhirim hian hu mencoba ma laho tusi. alai sial, molo pandapothu, dang songon na diberitakan ang ajolmai. diana pe biasa hian do."}
+{"uji_id": "nx-test-0383", "hipotesis": "Nasi uduk on adong di jalan rajiman dohot bukka dan sian botari sahat tu borngin. Sipillitonna pe agak otik do, holan nasi uduk dohot akka tabbana/donganna. Somalna au menghalang nasi uduk dohot manuk nanigot dohot sambal, sambalna dang pasiakhu."}
+{"uji_id": "nx-test-0271", "hipotesis": "Parjolo masuk dengan duduk di atas atap rumah dan melaporkan bahwa Parhobas membawa Anda ke lelang tangan 4 lagu Marcel."}
+{"uji_id": "nx-test-0371", "hipotesis": "Pada saat itu, aku merasa tidak enak badan, dan aku merasa tidak enak badan. Aku merasa tidak enak badan, dan aku merasa tidak enak badan. Aku merasa tidak enak badan, dan aku merasa tidak enak badan."}
+{"uji_id": "nx-test-0019", "hipotesis": "Au roo adalah restoran rap dohot donganhu. Donganhu makan roti panggang yang terbuat dari daging si borngin. Untuk mencoba steak impor, makan tahu apalagi sausnya."}
+{"uji_id": "nx-test-0388", "hipotesis": "Untuk tahun ini, cobalah makan son. Ada dua jenis sushi yang terkenal. Minum teh susu dengan es krim vanili dengan dasar kelapa."}
+{"uji_id": "nx-test-0176", "hipotesis": "wow tung tarsonggot situtu do di panghobasi ni pengamanan bkp bromo malang. Tutu situtu memereng-mereng bohi hei, Molo holan naung menungkung produk na si da do, ndang di antri hita, gariada olo di kapal, tung hansit hian do roha."}
+{"uji_id": "nx-test-0238", "hipotesis": "Molo tu mangkok ayam pasti tohoron ketiaw siramna, molo binereng hera na otik, hape dung dimakan/diallang bah, goang do hape molo di au, ketiaw siramna Ibo unta dope sian inganan na asing, tapi situtu sambal nai pe pashian tu dilanghu."}
+{"uji_id": "nx-test-0033", "hipotesis": "Sedikit lebih murah untuk melewati tempat ini, namun hal ini membuat para pengunjung merasa tidak nyaman. Di sebelah jalan, di seberang tempat parkir motor yang agak sepi, terdapat sebuah kafe."}
+{"uji_id": "nx-test-0293", "hipotesis": "Sedikitnya ada 27 dari 33 suku adat yang tinggal di hutan api pertama kali ditemukan dalam sejarah."}
+{"uji_id": "nx-test-0026", "hipotesis": "Di Indonesia, Eropa, dan Tiongkok, hidangan ini memang dilarang."}
+{"uji_id": "nx-test-0120", "hipotesis": "Mangan bodari rap sude keluarga pada hari ulang tahunnya tanpa makan dan minum di hotel. Penghobiannya adalah makan dan minum di sini. Tidak perlu lelang untuk makan dan minum di sana."}
+{"uji_id": "nx-test-0021", "hipotesis": "Makanan yang baik mirip dengan makanan XO Suki lainnya. Melalui hari libur yang penuh dengan lagu-lagu lebaran dan hari libur yang tidak termasuk minuman keras, makanan asing yang dihormati oleh para pelaku."}
+{"uji_id": "nx-test-0350", "hipotesis": "Keempat burung ini membawa kesenangan yang luas, tetapi manusia menjelajahi raja asing dari kelapa sawit dengan berbagai jenis makanan asing, tetapi manusia menjelajahi raja asing dengan jumlah yang besar."}
+{"uji_id": "nx-test-0053", "hipotesis": "Pada waktu itu, orang-orang Yahudi tidak boleh makan bagian-bagian yang dipersembahkan kepada Allah. Mereka tidak boleh makan bagian-bagian yang tidak dipersembahkan kepada Allah. Mereka tidak boleh makan bagian-bagian yang tidak dipersembahkan kepada Allah. Mereka tidak boleh makan bagian-bagian yang tidak dipersembahkan kepada Allah. Mereka tidak boleh makan bagian-bagian yang tidak dipersembahkan kepada Allah. Mereka tidak boleh makan bagian-bagian yang tidak dipersembahkan kepada Allah. Mereka tidak boleh makan bagian-bagian yang tidak dipersembahkan kepada Allah. Mereka tidak boleh makan bagian-bagian yang tidak dipersembah"}
+{"uji_id": "nx-test-0237", "hipotesis": "Betapa bodohnya orang-orang itu! Mereka mengajari anak-anak dengan cara yang tidak benar. Lihatlah! Orang-orang itu tidak mau mengikuti ajaranmu. Mereka tidak mau mengikuti ajaranmu. Mereka tidak mau mengikuti ajaranmu. Mereka tidak mau mengikuti ajaranmu. Mereka tidak mau mengikuti ajaranmu. Mereka tidak mau mengikuti ajaranmu. Mereka tidak mau mengikuti ajaranmu. Mereka tidak mau mengikuti ajaranmu. Mereka tidak mau mengikuti ajaranmu. Mereka tidak mau mengikuti ajaranmu. Mereka tidak mau mengikuti ajaranmu. Mereka tidak mau mengikuti ajaranmu. Mereka tidak mau mengikuti ajaranmu."}
+{"uji_id": "nx-test-0396", "hipotesis": "Tidak seorang pun di antara orang-orang kudus yang mencari kedokteran, tetapi orang-orang kudus yang mencari kedokteran adalah orang-orang kudus. Tidak ada seorang pun di antara mereka yang membutuhkan kedokteran, melainkan orang-orang kudus."}
+{"uji_id": "nx-test-0020", "hipotesis": "Jalan ke rumah Bamboo Boyo di jalanan mereka berjarak 1-2 jam dengan sepeda motor pribadi."}
+{"uji_id": "nx-test-0145", "hipotesis": "KFC Palembang Square menjemput para penyelamat di tingki male tingki au modom di sekitar hotel di taman i. Sude jolma lomo rohana kfc So. Kfc di taman on membawa hamu pittor dan memesan tingki male hamu di bagasan hotel."}
+{"uji_id": "nx-test-0322", "hipotesis": "Apa yang kau lakukan di tempat-tempat peristirahatan? Pertama-tama, kau membawa anak-anakmu ke tempat penguburan, ke hutan, ke hutan, ke hutan, ke hutan, ke hutan, ke hutan, ke hutan, ke hutan, ke hutan, ke hutan, ke hutan, ke hutan, ke hutan, ke hutan, ke hutan, ke hutan, ke hutan, ke hutan, ke hutan, ke hutan, ke hutan, ke hutan, ke hutan, ke hutan, ke hutan, ke hutan, ke hutan, ke hutan, ke hutan, ke hutan, ke hutan, ke hutan, ke hutan, ke hutan"}
+{"uji_id": "nx-test-0377", "hipotesis": "Hidangan yang bermacam-macam, seperti hidangan halal Tiongkok, mie ayam, hidangan jamur, dan sup, disarankan."}
+{"uji_id": "nx-test-0392", "hipotesis": "Burung-burung yang berkeliaran di sekitar Bandung, burung-burung yang berkeliaran di laut, burung-burung yang berkeliaran di hutan, burung-burung yang berkeliaran di hutan, burung-burung yang berkeliaran di hutan, burung-burung yang berkeliaran di hutan, burung-burung yang berkeliaran di hutan, burung-burung yang berkeliaran di hutan, burung-burung yang berkeliaran di hutan, burung-burung yang berkeliaran di hutan, burung-burung yang berkeliaran di hutan, burung-burung yang ber"}
+{"uji_id": "nx-test-0080", "hipotesis": "Ahu mendatangi makanannya setelah makan borngin rap dohot dongan. Ahu mendatangi steak burung dan ahu lupa goarna. Daina mansai somal hii, dang mardai. Maukla tobal jalan keras dohot koring hii. Dengdong istimewa."}
+{"uji_id": "nx-test-0260", "hipotesis": "Loja paimaha, loja meluluskan inganan hundul, loja hundul. Itu ada waktu lelang dohot ngan male, tumagon pertama tuson. Au tuson ketika mardalani banyak makan di rumah-rumah di humaliang yang agak mahal dohot bukan pe somal."}
+{"uji_id": "nx-test-0147", "hipotesis": "Pada tanggal 10 Maret 2015, ia diundang oleh putranya untuk makan nasi. Hupangido krim udang dengan sayur-sayuran asin. Situtu tabo."}
+{"uji_id": "nx-test-0027", "hipotesis": "Ada yang membagi roh saya. Namun masalah ini tidak meluluskan pekerjaan karena jelas 100 persen kesalahan angka kepemimpinan yang tidak dapat diatur dengan baik. Jadi roh saya disiarkan pada saat itu dengan saya di lampung."}
+{"uji_id": "nx-test-0008", "hipotesis": "Parpudi itu tidak mengharapkan uang 120 ribu/orang. Alai sabasna lobi sian i. Boe membuat makanan sepuasnya, alai daina dang mengecewakan, malo-malo tak berurusan dengan dirinya sendiri. Molo terlebih dahulu daging lembu ikon lomo rohana tuson."}
+{"uji_id": "nx-test-0087", "hipotesis": "Parpudi Sahali au makan merhite hite delivery order. Anakkon hu lomo ini rohana perkedel yang mewarisi daging."}
+{"uji_id": "nx-test-0136", "hipotesis": "Restoran ini memiliki inangan yang prima di atasnya dan ikan alogona jala panatapan hijau tabo ma idaon. alai molo na tinudu ni roha tangan sipangan sian nusantara na ung tabo. alai molo ro tuson boi hita mangan dohot magida ida."}
+{"uji_id": "nx-test-0224", "hipotesis": "Molo tuson au torus do hu tohor gadong sambal dua. gadong na di goreng di padomu dohot sambal dua, tabo. sipangan na asing pe tabo alai molo au dohot saja na ung tabo di tangan manghalang gadong dohot minum kopi."}
+{"uji_id": "nx-test-0017", "hipotesis": "Pada tahun 1800, ada 12 buah restoran yang berdiri di Jakarta."}
+{"uji_id": "nx-test-0254", "hipotesis": "Minuman yang dikonsumsi pada hari Sabtu, makanan yang baru di makan di restoran. Makanan yang dikonsumsi agak tabu, karena harganya murah."}
+{"uji_id": "nx-test-0179", "hipotesis": "Pada saat makan malam, McFlurry membagikan makanan kepada orang asing dalam satu paket dengan dua bagian burung."}
+{"uji_id": "nx-test-0321", "hipotesis": "Molo soadong hepeng laho manuhor komik alai tong naeng markombur, ro ma tu son. Gok do akka komik na. Sipangan dot siinumon na holan fasilitas na manamba do, alai lumayan ma."}
+{"uji_id": "nx-test-0273", "hipotesis": "Manuhor soto dohot iga bakar, ditambahi suasana yang dingin. Dai na tabo jala dihobasi dohot lambok sian ito Diah, tisna, echa."}
+{"uji_id": "nx-test-0327", "hipotesis": "Au mendotot lomba blog cinta rupiah bank indonesia-net media dohot dengan men-submit article pada 22 desember 2017 nasalpu, alai sahat tu saonari pangkat ni artikelku dang di pabotohan dope."}
+{"uji_id": "nx-test-0376", "hipotesis": "Makanannya cukup lezat, beraneka ragam dan tidak membosankan. Makanannya sangat lezat."}
+{"uji_id": "nx-test-0107", "hipotesis": "Rap mengkonsumsi obat-obatan secara teratur di rumah sakit karena fasilitasnya yang tidak memadai."}
+{"uji_id": "nx-test-0198", "hipotesis": "Ada yang mengorai GBK di luar venue konser tertentu di Dabah."}
+{"uji_id": "nx-test-0244", "hipotesis": "kafe on, adong piga piga tambul na suman hei, tahu dilumbuenk dohot vulkan risols goarna. asing sensasi sian rupa dohot daina mambahen olo muse olo muse."}
+{"uji_id": "nx-test-0259", "hipotesis": "Makanan yang disajikan antara lain ikan udang, sapi, soto dan tahu, sempurna untuk dilompat, tidak pas, berkualitas tinggi."}
+{"uji_id": "nx-test-0204", "hipotesis": "Karena takut dan khawatir, mereka menyiramkan air mata mereka ke dalam tanah. Orang-orang yang melihat gempa itu pun bergegas keluar dari kota, lalu bercerita tentang apa yang telah terjadi."}
+{"uji_id": "nx-test-0029", "hipotesis": "Makanan di sana sangat bermacam-macam. Sudena tidak bisa berdiri tegak. Penghobasian maksimal dari Ito Dian Doot Gina Cian mulai menjadi baik, dihobasi oleh obat-obatan dan obat-obatan."}
+{"uji_id": "nx-test-0042", "hipotesis": "Ahu pe jangan bingung do bah, pendukung ni tokko i hampir seluruhnya mirip dengan orang-orang yang menghujat, memfitnah, memarahi kasar, membocorkan berita yang tidak benar, memprioritaskan emosi, pikirannya dan sikapnya."}
+{"uji_id": "nx-test-0193", "hipotesis": "Penghobasian ini batik air business class di Halim pajuthon roha, galas kotor jala bau, dan adong TV."}
+{"uji_id": "nx-test-0094", "hipotesis": "Ahu rappak dohot dengan kerjo sangaju mansuba makan ari dison, itu ingananna tardek do molo di lante ginjang. Daini burung nadetur dison mansai rekomendasi dohot sambal mangga."}
+{"uji_id": "nx-test-0223", "hipotesis": "Ingannya unik. Huit makan pe dimanja dohot akka ingannya unik. Godang hau-hau dohot galerina. Itu anak pertama pola kecemasan. Adong me-meam ni anak na."}
+{"uji_id": "nx-test-0348", "hipotesis": "Tungsai marsak jala sogo hei do rohangku dimulai pada bulan Februari I alana setiap hari itu telepon ini dari mnc tv. Hape sohea iba langganan bahwa pola loja iba maruluhali paboahon itu nasida."}
+{"uji_id": "nx-test-0357", "hipotesis": "Kami adalah keluarga dari sembilan orang yang memesan makanan di sebuah warung makan dengan rasa sakit karena kaca-kaca yang tertutup tiba-tiba pecah. Sekali lagi, unik, kotak-kotak ini adalah jaring makan yang terbuat dari kayu."}
+{"uji_id": "nx-test-0100", "hipotesis": "Hami adalah cafe on laho yang menghalangi serabi. Serabina patobalhu dihami yang ditongai. Tangan ini memiliki topeng sifilliton tanpa mirdong yang lain memelihara."}
+{"uji_id": "nx-test-0381", "hipotesis": "Jala sogo ini roha molo tingki mangan olo disuruh pindah motor alana adong jolma naasing naung sae makan jaring naeng keluar motornya."}
+{"uji_id": "nx-test-0139", "hipotesis": "Pada hari Sabat, semua orang di kota itu berkumpul di pasar-pasar untuk mendengarkan ramuan-ramuan baru yang dijual oleh saudagar-saudagar."}
+{"uji_id": "nx-test-0111", "hipotesis": "Penetapan yang tepat di sky lounge grandia on toho do boi akan membuat Anda tertekan."}
+{"uji_id": "nx-test-0028", "hipotesis": "Pengobasan dengan lagu-lagu lelang, suasana yang dihiasi dengan jaring-jaring sudut, suasana makan malam yang menyenangkan di restoran, berbagai macam makanan yang bermacam-macam."}
+{"uji_id": "nx-test-0367", "hipotesis": "Bubur ni Ahong on tabo dilalangi oleh si borngin. Gudang dope sipanganon yang asing nabui di asing ni bubur. Parmanganon on mansai gandang do jolma jala bidang."}
+{"uji_id": "nx-test-0345", "hipotesis": "Sian nabodari boasa dang boi dipekke, boasa songonon panghobasionni indosat. Daftar extra 2 gb 10 ribu dang marnaboi, dang marguna pulsaku gabe lak habis dang boi dipakek manang tudia."}
+{"uji_id": "nx-test-0394", "hipotesis": "Ba dang adong hape lapatanna hu update nomor telepon genggam baru tu parhobas ni partobo cab bni guna tong do data di bni nomor handpone na lelang, bohdo panghobasi ni halak i!"}
+{"uji_id": "nx-test-0399", "hipotesis": "makanannya selesai di lelang, airnya dingin, makanannya yang dingin dan pizza yang masuk ke kasir saat makan dan membayar lainnya, penghobiannya dan makanannya."}
+{"uji_id": "nx-test-0052", "hipotesis": "Putuslah segala godaan. Asa jolma on di pareso. Malang melangsungkan beli minta maaf dengan berteriak-teriak. I paboa i laoskan mulut di depan pembahasan i dang di sangajo."}
+{"uji_id": "nx-test-0059", "hipotesis": "Kafe na pasonangkon roha, tabung jala mura huhut di tata kafe on asing sian na asing mambahen lomo roha. Sipanganon tabung dohot kopi pe tabung dungi wifi na hatop jala tv kabel pe denggan"}
+{"uji_id": "nx-test-0230", "hipotesis": "Argana paargahu, adalah salah satu hidangan khas Indonesia. Hidangan ini mirip dengan hidangan luar negeri yang lebih murah."}
+{"uji_id": "nx-test-0285", "hipotesis": "Au lomo do rohakku mangan dison alani ragam ni ayamna mogang jala lambok, sambal pas di dila jala suasana restoran pe sonang."}
+{"uji_id": "nx-test-0362", "hipotesis": "Di sini, ayam memetik stroberi sewaktu makan pittor di garing terlebih dahulu di tempat-tempat pembuatan tarhilala dari tongki ni stroberina untuk makan adonan ayam yang ada di luar daerah tersebut."}
+{"uji_id": "nx-test-0161", "hipotesis": "Inganan on dang suman adalah keluarga yang membesarkan pes pes pes. Jalan narahis."}
+{"uji_id": "nx-test-0106", "hipotesis": "Bagak do saluhut na. angka parkarejona pe burju-burju, jala panatapanna pe uli, alai tangan arga ni sipanganon na mansai arga, arga hei gariada, ingkon hapalma dompet."}
+{"uji_id": "nx-test-0188", "hipotesis": "Sate kambing H. Ihsan ini cukup terkenal di Tegal."}
+{"uji_id": "nx-test-0209", "hipotesis": "Saat itu, mereka sedang berada di jalan raya yang membentang di luar kota. Di sana, mereka menemukan sebuah tempat khusus untuk menggarap jalan."}
+{"uji_id": "nx-test-0287", "hipotesis": "Reunion house di rekomendasikan untuk makan siang di Bandung."}
+{"uji_id": "nx-test-0113", "hipotesis": "Di bawahnya ada lampu berwarna-warni yang menyinari kota itu. Di bawahnya ada sebuah jembatan yang menandai kota itu."}
+{"uji_id": "nx-test-0118", "hipotesis": "Ruma makan adonan penuh, tidak seperti makan lagu-lagu sosok yang mensai gandum mulai dari sian toro naik sahat itu ginjal, di dalamnya ginjal lam tarida ke ujung i."}
+{"uji_id": "nx-test-0148", "hipotesis": "Molo adong parmangankon tanak ture ale on marlimut marjamur parkerjo hurang pasombuho boi disarankan tu ahu adong musek madu di minuman i hape alergi tu madu."}
+{"uji_id": "nx-test-0166", "hipotesis": "Sedang goar ini bertumbuh di Bandung. Daina tabo, mulai dari harga perbiji Rp. 10 ribu. Nipangido 3 biji laho di ahu nunga sae pabuthon ala tungtungna lumayan balga."}
+{"uji_id": "nx-test-0103", "hipotesis": "Tung mansai dari inganan on, panatapna pe uli, berengon adung inganan marmeam di luar sana angka keluarga apalagi yang mambangan dakdanak. sipangan pe halal jaring bermacam-macam."}
+{"uji_id": "nx-test-0251", "hipotesis": "Untuk memasak ayam goreng dan mencuci tabung jaring membawa beberapa nasi dan musuk, sebelum memasak saya membawa pai dan sup dalam tabung dengan rasa yang lezat dan es teh."}
+{"uji_id": "nx-test-0323", "hipotesis": "Rekomendasi ini bah. Cappucinona hatagian, harga murah ini, dohot nyaman parkir gararon satulus ni roha. Ro tikki naeng-naeng magrib ikon dalam suasana seru nya."}
+{"uji_id": "nx-test-0222", "hipotesis": "Where do you eat at the poolside hotel miltom? Daena dohot argana dang suman, Sipanganonna hurang daena, hubun ma 20 halak tusi laos apala luhutna do dang marlomoniroha."}
+{"uji_id": "nx-test-0104", "hipotesis": "Hotel naeng check-in pe mauol, Paimahon alana paishon kamar lelang ini, kecewa ma. On ma parjolo sahali tusan."}
+{"uji_id": "nx-test-0221", "hipotesis": "Di Indonesia, merek ponsel pertama kali diluncurkan. Molo dang lomo rohana membela xiaomi untuk melanjutkan karirnya sebagai pelukis merek asing. Diboyong sonang pe."}
+{"uji_id": "nx-test-0279", "hipotesis": "Pintu gerbang masuk ke kota itu sangat besar, sehingga tidak ada orang yang bisa masuk, dan orang-orang yang lewat di sana tidak bisa masuk."}
+{"uji_id": "nx-test-0039", "hipotesis": "Buffet makanannya sangat stabil. Harga pada saat itu turun. Soap tidak lagi meragukan museum sifilis."}
+{"uji_id": "nx-test-0181", "hipotesis": "Satena balga-blaga. Masak di pauliku. Dileleh seitan ni bau merah dohot cabe rawitdi kukus, garang ni lontong dohot iddaa pe pas. padahal lomo rohaku."}
+{"uji_id": "nx-test-0196", "hipotesis": "Luat dohot pangarangangan ni inganan on mangsai denggan, alai molo sipanganon dohot siinumon dison di pola polin. tabo laho puasa dohot angka dongan dongan."}
+{"uji_id": "nx-test-0235", "hipotesis": "Dia meminta konfirmasi? Dia menunggu di gerbang, lalu mengirim tanda transfer, mengambil e-tiket dan keluar?"}
+{"uji_id": "nx-test-0299", "hipotesis": "Au menghormati jumlah roti. Sipilliton dan jagung alai daina sopala. roti horing hera nadang martiga hari. dang sogar. penghobasionna na pe leleng. marsak iba."}
+{"uji_id": "nx-test-0283", "hipotesis": "Pada saat ini, banyak kafe modern yang menawarkan angka yang lebih tinggi untuk mengkonsumsi makanan daripada jumlah yang lebih tinggi untuk mengkonsumsi makanan."}
+{"uji_id": "nx-test-0316", "hipotesis": "Maaf, dalam hal nomor hu dan lagu i, khususnya sude yang membanggakan di atas i, mirip dengan perintahnya, alai dang olo dope mengaku moloi satojona sinyal na do dua."}
+{"uji_id": "nx-test-0002", "hipotesis": "Kangkung nai boi membawa gurampang saus padang nai somardae pajuthon roha, dilehami gurampang na so marisi gabe sampai hupangan hami jala laos dipaulak."}
+{"uji_id": "nx-test-0064", "hipotesis": "Dang nolngolan haroa atas holan ibana marmeam di film ini indonesia, dang na mandok ibana dang denggan, alai molo pemain i holan i torus ba jenuh do iba mangida."}
+{"uji_id": "nx-test-0134", "hipotesis": "Jiwaku sangat senang melihat di sana, alana tabunya yang indah, panorama yang sangat indah, ada muse sifilliton yang ada di luar dan makanannya agak lezat."}
+{"uji_id": "nx-test-0190", "hipotesis": "Hotel on tungga jongjong sian tiga puluh tahun naung salpu, dang dope au tubu.Ingan perbodoran parjolo di kota on. Nuaeng tungga godang jongjong hotel dison."}
+{"uji_id": "nx-test-0038", "hipotesis": "Mura dapat melihat wajahnya. Ias higienisnya, perasaannya saat mendengar, bau busuknya, dan jumlah orang yang ada di sana. Taboma."}
+{"uji_id": "nx-test-0095", "hipotesis": "Pada saat itu, rohku menjadi kebosanan. Baru-baru ini, doping yang dilakukan oleh Grabfood membawa pesan yang diletakkan oleh para pelaku."}
+{"uji_id": "nx-test-0157", "hipotesis": "Untuk mendapatkan pengesahan ini Mandiri verified by visa vbv dan bisa menghubungi 14000, email ke kantor cabang bank Mandiri."}
+{"uji_id": "nx-test-0164", "hipotesis": "Godang do sifilliton guna menghalangi dosa-dosanya. Dengan demikian, bidang do, dibagi menjadi beberapa bagian dari dosa-dosanya."}
+{"uji_id": "nx-test-0138", "hipotesis": "Mereka akan membawa anak-anak mereka, dan mereka akan membawakan anak-anak mereka, dan mereka akan membawakan anak-anak mereka, dan mereka akan membawakan anak-anak mereka, dan mereka akan membawakan anak-anak mereka, dan mereka akan membawakan anak-anak mereka, dan mereka akan membawakan anak-anak mereka, dan mereka akan membawakan anak-anak mereka, dan mereka akan membawakan anak-"}
+{"uji_id": "nx-test-0183", "hipotesis": "Saat itu, Baung Mansai duduk di atas panggung di internet untuk mendengarkan lagu tersebut."}
+{"uji_id": "nx-test-0055", "hipotesis": "Restoran seafood. Makanan khusus tangan gurupaka yang dimakan dengan kulitnya. Molo di au hurang tabo. Kulitnya cukup keras."}
+{"uji_id": "nx-test-0304", "hipotesis": "Restona menggemari jaring balga. Tikus itu suka makan ikan jaring pada hari Minggu dini hari. Makanan yang ada tabunya, gurame goreng dohot sambal yang mantap."}
+{"uji_id": "nx-test-0338", "hipotesis": "Obat-obatan ini digunakan untuk menggoreng ikan pada tahun-tahun berikutnya."}
+{"uji_id": "nx-test-0379", "hipotesis": "Kalau ada kesalahan dalam permohonan dan pembahasan, pelaku langsung ke dok itu, terlebih dahulu duduk di podium, kemudian dengarkan lagunya."}
+{"uji_id": "nx-test-0032", "hipotesis": "Karena itu, ketika kedua orang itu berada di depan si tua kami, ketika teman-temannya berteriak-teriak kepada kami, Musa sangat kecewa."}
+{"uji_id": "nx-test-0268", "hipotesis": "Andorang ahu dohot hallethu mulak itu Jakarta. Ahu sangaha dope laho itu restoran on. Penampilannya penuh dohot dengan makanan yang murah-murah. Rekomendasi ini."}
+{"uji_id": "nx-test-0175", "hipotesis": "Hamaloon mengantusi karya-karya ini dengan orang-orang yang bersendirian, dengan satu-satunya pemuda yang diutus, dan satu-satunya musisi yang harus diulang satu kali dalam satu tugas."}
+{"uji_id": "nx-test-0236", "hipotesis": "Menonton film Indonesia di tv on, sipata membahen sogo roha."}
+{"uji_id": "nx-test-0102", "hipotesis": "Pertemuan ini dilakukan oleh bank BRI, BPBAT dari Gelam-Jambi, yang berada di kota Pudak."}
+{"uji_id": "nx-test-0169", "hipotesis": "Berdasarkan cerita yang beredar, pulsa pertama saat itu adalah perpudi yang menyebutkan timnya, tim kedua yang meneliti tersedia tiga pulsa yang ditargetkan."}
+{"uji_id": "nx-test-0277", "hipotesis": "Urupi majo mengulangi alamat ni jolma on. Ikkon hutogihon marbada songon baoa marsamurai."}
+{"uji_id": "nx-test-0286", "hipotesis": "Aku menunggu toko-toko yang berantakan. Saat temanku membuat paket, aku tidak mengirimkannya ke pengiriman luar negeri."}
+{"uji_id": "nx-test-0133", "hipotesis": "Di sebelah kanannya ada sebuah kerajaan yang besar, dan di belakangnya ada sebuah kerajaan yang besar, yaitu kerajaan yang tak terhitung jumlahnya."}
+{"uji_id": "nx-test-0385", "hipotesis": "Minimal kartu internet dapat digunakan untuk mendapatkan kuota lokal tanpa dope. Jala ahu dilokasi aktivasi dari jaringan kartu hu dapat diregistrasi/ didaftarkan."}
+{"uji_id": "nx-test-0195", "hipotesis": "Makanan yang disajikan sangat sederhana, tidak ada juara. Masak dengan tangan yang lezat dengan saus tiram dan marlobi-lobi."}
+{"uji_id": "nx-test-0311", "hipotesis": "Setelah melakukan 5 transaksi pada 22 Juni, Sudan mengalami penurunan jumlah debit ke rekening hampir 7 juta, dan tiga transaksi baru ditolak."}
+{"uji_id": "nx-test-0276", "hipotesis": "Makanan mereka agak bertebaran di alogo dan melewati roti jagung bersama tangan makan burung, sop purbasari roti yang indah di foodcourtnya."}
+{"uji_id": "nx-test-0390", "hipotesis": "Mansai juga diberi nama penghobasian oleh para pekerja singa di gerbang a6 bandara Cengkareng."}
+{"uji_id": "nx-test-0075", "hipotesis": "Pertanyaan uang puluhan juta tercakup dalam jaring diluluskan kamu sehat itu lubang ni poris pe ! Ai naung rittik do hamu kpk ?"}
+{"uji_id": "nx-test-0213", "hipotesis": "Yogyakarta on akka suhi suhi ni jalan godang hotel. Ale seang ma."}
+{"uji_id": "nx-test-0184", "hipotesis": "driver/supir agar itu mudah dan tepat, ambil di aplikasi dengan pola naik, jala gopay dengan tarotong, untuk laos so olo be ahu pangke gojek,"}
+{"uji_id": "nx-test-0119", "hipotesis": "Pengunjungnya ramah. Lebih dekat ke museum. Kebetulan museum ini berada di dekatnya, hotelnya berada di atas setelan hotel besar."}
+{"uji_id": "nx-test-0272", "hipotesis": "Setelah lulus dari sekolah tersebut, ia masuk ke universitas parahyangan."}
+{"uji_id": "nx-test-0294", "hipotesis": "Tuson tikki acara ini kattor. Adong musik live. Sipilliton massam. Pada mulo naeng ro natorop hape lomo ni rohana marasing-asing. Ramenna tabu."}
+{"uji_id": "nx-test-0000", "hipotesis": "Jika itu adalah hotel hu marborngin, jalan keluar dari empat jalan, dison goang hei siallang dan ke pilliton, tidak ada lapangan, tidak ada tempat istirahat."}
+{"uji_id": "nx-test-0137", "hipotesis": "Inantaku tidak memiliki pola yang sama dengan ramen, tetapi hanya ada di atas tabung."}
+{"uji_id": "nx-test-0370", "hipotesis": "Daina nungga dang be songon najolo. Sai songon naso mardai. Ikkon di pakok do daina. Itu sifililiton siinumon mansai otik holan soft drink."}
+{"uji_id": "nx-test-0005", "hipotesis": "Dengan tuduhan-tuduhan palsu itu, mereka membuat keributan di tengah-tengah orang banyak, lalu membiarkan mereka pergi."}
+{"uji_id": "nx-test-0240", "hipotesis": "perlu jaring berita rakyatku naung marsahit, molo akka aparat gabe parjehe, nasintong gabe dang sintong jala naso sintong gabe dipasintong"}
+{"uji_id": "nx-test-0256", "hipotesis": "Kerusuhan terjadi pada akhir debat kedua Pilgub Jabar pada 14 Mei 2018 lalu, memicu pembantaian rakyat atas jumlah pemilih dalam perdebatan."}
+{"uji_id": "nx-test-0382", "hipotesis": "Dengan kata lain, siswa akan menyadari bahwa mereka adalah orang yang baik, dan bahwa mereka adalah orang yang baik, dan bahwa mereka adalah orang yang tidak memiliki pekerjaan."}
+{"uji_id": "nx-test-0375", "hipotesis": "Sebelum makan siang, makan siang di malam hari. Saat makan siang, makan malam di malam hari, makan malam di malam hari, makan malam di malam hari, makan malam di malam hari, makan malam di malam hari, makan malam di malam hari, makan malam di malam hari, makan malam di malam hari, makan malam di malam hari, makan malam di malam hari, makan malam di malam hari, makan malam di malam hari."}
+{"uji_id": "nx-test-0083", "hipotesis": "Richeese Factory adalah sebuah restoran waralaba yang menjual makanan berlemak."}
+{"uji_id": "nx-test-0185", "hipotesis": "Sipanganon dison molo pandapothu hurang do tabona, alana au halak minang, au dang pola lomo rohakku siallang ni jawa na tonggi hehehhe."}
+{"uji_id": "nx-test-0267", "hipotesis": "Di salah satu hotel yang berada di pinggiran kota, ada empat tempat parkir yang berukuran besar. Mermer, es, tabung uar biasa digunakan."}
+{"uji_id": "nx-test-0159", "hipotesis": "Semua mall tidak memiliki dinding yang agak miring."}
+{"uji_id": "nx-test-0340", "hipotesis": "Bakso yang tidak dapat dimakan adalah makanan yang tidak dapat dimakan oleh orang asing, tetapi tidak dapat dimakan oleh orang asing."}
+{"uji_id": "nx-test-0088", "hipotesis": "Parkir berputar 3 kali. Tapi: parkir di depan hotel ini baru keluar empat. Restoran tamu itu penuh."}
+{"uji_id": "nx-test-0246", "hipotesis": "Maskapai penerbangan yang beroperasi di Indonesia tidak memiliki biaya penerbangan yang tinggi, tetapi mereka memiliki biaya penerbangan yang lebih tinggi pada musim dingin."}
+{"uji_id": "nx-test-0325", "hipotesis": "Makanan dengan suasana alam yang baik cocok untuk acara makan malam dan makan malam keluarga."}
+{"uji_id": "nx-test-0210", "hipotesis": "Ini roti bakar. Berbagai jenis roti bakar yang dibumbui dengan tepung terigu. Harga biasa. Di mulutku ada roti warna-warni. Renyah."}
+{"uji_id": "nx-test-0330", "hipotesis": "Keindahan air terjun ini sangat indah. Di pantai ini terdapat berbagai jenis ikan dan ikan yang berasal dari luar negeri."}
+{"uji_id": "nx-test-0337", "hipotesis": "Manolsoli au tu hatotopan masuk itu jurusan film. yang masuk itu seni rupa hei do sebenernya. alai dang porsea au tu aha na hupuna."}
+{"uji_id": "nx-test-0036", "hipotesis": "Ia merasa sangat lelah, karena ia tidak bisa berbuat apa - apa lagi. \"Katakanlah kepada mereka, 'Kembalilah kepada Allah dan terimalah karunia Roh Kudus-Nya.' \""}
+{"uji_id": "nx-test-0043", "hipotesis": "Makanan nusa indah saonari mengecewakan bah. Rotak, orang di pasip do ngarasap di bagasan na mar ac, sipanganana lelang ro."}
+{"uji_id": "nx-test-0089", "hipotesis": "Ai asing telkomsel on heran iba, kota godang do alai hatop hian habis, hape dang godang hubukka aplikasi naborat. Curiga au"}
+{"uji_id": "nx-test-0328", "hipotesis": "Kafein merupakan makanan tradisional yang memiliki rasa kopi yang lezat."}
+{"uji_id": "nx-test-0391", "hipotesis": "Yang paling mengecewakan adalah tangan tinggi para pemimpin dan mereka membedah jaring dan membungkam para negarawan dan politisi yang kotor."}
+{"uji_id": "nx-test-0014", "hipotesis": "Lam dang beli paboa hon seperti si songon on. Alana saat itu sudah berminggu-minggu di mar dan dikeringkan. Holan berjanji akan terus."}
+{"uji_id": "nx-test-0124", "hipotesis": "Mulai talak cendana bistro atau menunggu hidangan, molo di au hurang tongon, siallangonna somal-somal berdiri di sudut."}
+{"uji_id": "nx-test-0275", "hipotesis": "Udan si manogot nai membawa jut ini roha, masset muse jala argani ojol pe gabe sibahen lomo-lomo be bawa marsak roha."}
+{"uji_id": "nx-test-0346", "hipotesis": "Penginapan di antara taboos, parkir dan pembicaraan diatur, lagu-lagu asing yang membawa taboos steak dengan mie naso harusiak, Hm."}
+{"uji_id": "nx-test-0366", "hipotesis": "Tidak ada minyak zaitun yang ada di depanmu, tidak ada daging yang ada di depanmu, tidak ada minyak zaitun yang ada di depanmu, tidak ada minyak zaitun yang ada di depanmu, tidak ada minyak zaitun yang ada di depanmu, tidak ada minyak zaitun yang ada di depanmu, tidak ada minyak zaitun yang ada di depanmu."}
+{"uji_id": "nx-test-0045", "hipotesis": "101 Dalmatians: The Series I adalah serial animasi televisi yang dibuat oleh Disney Television Animation dan Jumbo Pictures."}
+{"uji_id": "nx-test-0117", "hipotesis": "Sup ni gurame na tabo, penghobasi na hatop, tutur. Restoran es. Alana otik indahan na, akka na gogo makan ikon martambu."}
+{"uji_id": "nx-test-0214", "hipotesis": "Mereka tidak mau menerima apa pun dari orang lain. Mereka tidak mau menerima apa pun dari orang lain. Mereka tidak mau menerima apa pun dari orang lain. Mereka tidak mau menerima apa pun dari orang lain. Mereka tidak mau menerima apa pun dari orang lain. Mereka tidak mau menerima apa pun dari orang lain. Mereka tidak mau menerima apa pun dari orang lain. Mereka tidak mau menerima apa pun dari orang"}
+{"uji_id": "nx-test-0378", "hipotesis": "Pada saat itu, orang-orang Yahudi yang ada di Yerusalem sedang duduk-duduk di atas kerumunan orang-orang Yahudi di Yerusalem."}
+{"uji_id": "nx-test-0030", "hipotesis": "Pada piala dunia 2018 tahun ini, telkomsel juga mendukung para pemain dunia melalui pertandingan sepak bola dunia i."}
+{"uji_id": "nx-test-0135", "hipotesis": "Sudena mengatakan kepada Pak Rocky bahwa ia tidak tahu apa alasannya, dan bertanya-tanya apakah ia bisa menjadi seorang profesor."}
+{"uji_id": "nx-test-0207", "hipotesis": "Mengambil pelayan itu dengan senang hati pergi ke rumah untuk mencari uang. Lamma pergi ke rumah. Maafkan aku. Magigi ahu."}
+{"uji_id": "nx-test-0278", "hipotesis": "Inganan minum kopi jonok itu kampus UI, Vietnamese kopi nai tabo, argana sedang ma, boi marpikkkir huhu mengerjakan tesis"}
+{"uji_id": "nx-test-0329", "hipotesis": "Stasiun tv naso denggan, dang hot, marsak na manggalang persip-persiba, dang marroha!Dang denggan, jala dang marjambaran!"}
+{"uji_id": "nx-test-0247", "hipotesis": "Untuk pembukaan bank pada hari minggu yang akan datang di Bekasi, sang ayah adalah kantor cabang bank mandiri Bekasi Juanda."}
+{"uji_id": "nx-test-0307", "hipotesis": "Bang, jalan di muara bulan baru, baru sebulan dope didengar, beras museum."}
+{"uji_id": "nx-test-0092", "hipotesis": "Telekomunikasi dang na holan laho tu kota na balga, alai tong do sahat tu huta-huta dohot perbatasan negara cc: Telkomsel"}
+{"uji_id": "nx-test-0393", "hipotesis": "Merasa tidak nyaman karena toko-toko yang macet di jalanan, makan dengan baik, mengambil kue-kue yang bagus, tanpa terburu-buru."}
+{"uji_id": "nx-test-0170", "hipotesis": "Seperti makan di luar memang enak. Dagingnya bagus, tidak ada tabunya. Jus orang yang mengonsumsi stroberi dan tabunya. Harga pun oke."}
+{"uji_id": "nx-test-0199", "hipotesis": "Mengkritik be atas. Berita mix platter i do boi lobi sian 30 menit. Manukkun itu parhobasna alai lari. Dang sigop. Leleng"}
+{"uji_id": "nx-test-0208", "hipotesis": "Tidak ada makanan dan minuman yang tersedia di sini. Tidak ada makanan dan minuman yang tersedia di sini. Tidak ada makanan dan minuman yang tersedia di sini."}
+{"uji_id": "nx-test-0015", "hipotesis": "Lebih baik seekor ikan dari pada dua ekor kambing. Lihatlah betapa berbedanya seekor kambing dengan seekor kambing."}
+{"uji_id": "nx-test-0056", "hipotesis": "Lebih mudah terbakar, yaitu dengan mengambil argana atau argana berwarna kuning kecokelatan. Adonan sifilin yang diinfuskan dengan air nasal berukuran 4 ha."}
+{"uji_id": "nx-test-0141", "hipotesis": "Dai na somal do, berdiri di sudut."}
+{"uji_id": "nx-test-0339", "hipotesis": "Hombar itu diditonahon, au mandai mie goreng spesial jala daina molo diau songon na somal i do jala dang pas di lidah."}
+{"uji_id": "nx-test-0351", "hipotesis": "Xiaomi, samsung, mereng ho do sudah naeng tipe aha dohot dos tu hepengmu, sukkun-sukkun ma tu inganan pihak hp i."}
+{"uji_id": "nx-test-0356", "hipotesis": "Asal dari indihome untuk marmus nuaeng, ahama dengan gararon I untuk mansai argo adalah pola parohon rimas/muruk."}
+{"uji_id": "nx-test-0220", "hipotesis": "Mengurus gaji atau pekerjaan dengan sendirinya akan membuat kita tidak bisa mengurus rumah."}
+{"uji_id": "nx-test-0353", "hipotesis": "Alana skate park on dielilingi dengan keindahan perkotaan yang sangat indah, namun sangat indah karena keindahannya yang luar biasa."}
+{"uji_id": "nx-test-0386", "hipotesis": "Hypermart menawarkan diskon 20% pada jumlah produk yang dijual pada hari Senin-Kamis untuk kartu hypermart."}
+{"uji_id": "nx-test-0302", "hipotesis": "Nakkok Grab, hahana berbarita menjumpai hona danggur batu di jalan, Juanda tikki lebar hape anak ni donganna."}
+{"uji_id": "nx-test-0096", "hipotesis": "Nunga mago hp xiomi redmi note 5 warna gold 64/4 di jalan Duri Sleatan, Jembaran Lima, Tambora, Jakarta Barat."}
+{"uji_id": "nx-test-0163", "hipotesis": "Penulis memiliki proses penundaan tiket, dengan 43 hari untuk melakukan transfer."}
+{"uji_id": "nx-test-0343", "hipotesis": "Bah posa nai jne! Hu telepon dang di alusi, tweet dang di balos, email dang di balos, pesan pe dang di balos!"}
+{"uji_id": "nx-test-0116", "hipotesis": "Tetapi jika ada angin kencang dan angin kencang, pekerjaan tukang kayu itu akan sia - sia, dan tidak akan ada yang dapat dilakukan."}
+{"uji_id": "nx-test-0125", "hipotesis": "Minimal biaya kerja 11 bulan dan aturannya adalah pengembalian dana 12 bulan setelah masuk ke rekening HU."}
+{"uji_id": "nx-test-0349", "hipotesis": "Jadi, masing-masing orang akan diberi tempat masing-masing. Orang yang bekerja keras akan mendapat tempat yang lebih baik, dan orang yang bekerja keras akan mendapat tempat yang lebih buruk."}
+{"uji_id": "nx-test-0352", "hipotesis": "Alih-alih berparkir di depan, orang-orang di sepeda motor yang ditembak itu berparkir di dekat hotel."}
+{"uji_id": "nx-test-0389", "hipotesis": "Tapi ada hal-hal yang harus dilakukan. Terutama kepalaku yang terlentang, bagaimana pulsa kuotaku pe mago."}
+{"uji_id": "nx-test-0071", "hipotesis": "Ketika seorang siswa sekolah menengah pertama mengenakan jilbab di luar, apa artinya?"}
+{"uji_id": "nx-test-0380", "hipotesis": "Diperkirakan pengiriman itu alamat ini nantang taruhonon ma sadari on menang ari marsogot kak mauliate"}
+{"uji_id": "nx-test-0226", "hipotesis": "Modom yang cukup besar dan berukuran besar membawa daging dan halangan net bahkan ditikik untuk didengar di manogot hari ini."}
+{"uji_id": "nx-test-0243", "hipotesis": "Porsea dope apa yang kita lihat? Allah menghakimi orang-orang fasik karena iman mereka, iman itu membuka mulut mereka."}
+{"uji_id": "nx-test-0257", "hipotesis": "Manugot on dang huingot menggali helm ini bergoyang-goyang dan turun dari kereta api dan berlomba dengan motor."}
+{"uji_id": "nx-test-0047", "hipotesis": "Berbagi pasu-pasu rap sinde! Dapatkan 50 paket umroh ganup dengan harga paling murah Rp. 15.000 di alfamart."}
+{"uji_id": "nx-test-0128", "hipotesis": "Sepertiga dari bumi terbelah, dan segala sesuatu yang ada di bumi terbelah, dan segala sesuatu yang ada di bumi terombang-ambing."}
+{"uji_id": "nx-test-0186", "hipotesis": "Pajak, kakak, jangan minta nomor efin, sebelum bisa diaktifkan, jangan lupa password akun djp online."}
+{"uji_id": "nx-test-0317", "hipotesis": "Jangkauan penyiaran ini diperluas, namun tidak ada yang dapat menikmati siaran online."}
+{"uji_id": "nx-test-0331", "hipotesis": "Penetapan kembali ke gambar, aloga lambak, makanan yang tabu dai na. Harga juga murah. Stabil."}
+{"uji_id": "nx-test-0334", "hipotesis": "Minimal internet terputus, kecuali menggunakan simpati sude songoni tong dang boi terhubung ke internet."}
+{"uji_id": "nx-test-0034", "hipotesis": "Mengatakan atau membantah penyedia, maka akan menimbulkan emosi, emosi, atau keluarnya sinyal dan harga."}
+{"uji_id": "nx-test-0048", "hipotesis": "Menghormati kaus, tahuluk dan arloji di inganan monoton roomstore boidopangke aplikasi ni hape tokeku"}
+{"uji_id": "nx-test-0060", "hipotesis": "Setelah berbulan-bulan melobi dan menghalangi indomi, ia malah makan pittor dua porsi indomi goreng jumbo."}
+{"uji_id": "nx-test-0172", "hipotesis": "Daina hera mirip dengan restoran asing yang menjual seafood."}
+{"uji_id": "nx-test-0320", "hipotesis": "Iphone on. Kamera gelapnya wassalam dua ini dang boe ini diandalkan oleh sosok roha yang memasang kamera."}
+{"uji_id": "nx-test-0197", "hipotesis": "Di sini teman-teman somali memiliki suasana yang istimewa dan tidak ada yang lebih baik dari satu tuson yang lain."}
+{"uji_id": "nx-test-0318", "hipotesis": "Boasa boi di ruang bawah tanah gedung di atas ini, di jalan rumah sakit menemukan Onan Ciroyom, seorang asing."}
+{"uji_id": "nx-test-0192", "hipotesis": "Bohama dang muruk atas, hona php indosat do torus neih. Pulsa torus dipotong suda di adong teba."}
+{"uji_id": "nx-test-0228", "hipotesis": "Saat pemungutan suara perempuan, tarsingot yang dilakukan oleh perbankan bank mandiri apa muse na boe hami urupi?"}
+{"uji_id": "nx-test-0105", "hipotesis": "Alani memiliki kartu Optrip sendiri dari BNI, mengisi ulang kartu BNI dengan mitra kerja sama dari BNI."}
+{"uji_id": "nx-test-0150", "hipotesis": "Padaohon narkoba tangan sadalan na boi dipangke laho patambah kualitas ni dakdanak ni bangso on"}
+{"uji_id": "nx-test-0359", "hipotesis": "Harga dan pola makan yang berbeda, tidak ada yang berbeda, dan berbagai jenis makanan khas Banjar."}
+{"uji_id": "nx-test-0152", "hipotesis": "Ayahku mencuci panolangi i, bank bri di pusat kota di takko panakko, dengan harga Rp 1 miliar lebih murah."}
+{"uji_id": "nx-test-0216", "hipotesis": "Anti pangke power bank mulai boor baterai ini handphone samsung hu dung hupakngke sisonji."}
+{"uji_id": "nx-test-0269", "hipotesis": "Herana loja ini rasa sudena on. Ngolngol ini bekerja hera nasomal na sai lalap songon i."}
+{"uji_id": "nx-test-0298", "hipotesis": "Penonton sinetron pe yang mulai mengangguk kemudian menonton berita seperti sosok topo yang diprediksi."}
+{"uji_id": "nx-test-0347", "hipotesis": "Sumando terjebak di atas, yang berada di bus di lobi lain selama satu jam, lalu bernapas."}
+{"uji_id": "nx-test-0016", "hipotesis": "Baru jala adong, 5 sekat makan siang kotak kotak makan yooyee kotak bekalan anti bocor 590."}
+{"uji_id": "nx-test-0242", "hipotesis": "Tinggalkan ma molo ho yang bosan dan rap halletmu dohot marhallet dang adong guna di ho."}
+{"uji_id": "nx-test-0191", "hipotesis": "Hidangan di sana mirip dengan hidangan kfc di luar negeri."}
+{"uji_id": "nx-test-0292", "hipotesis": "Namargambar rap dohot halak i dang anggi ni bang Doni. Magigi ah margambar dohot halak i."}
+{"uji_id": "nx-test-0296", "hipotesis": "Paket berada di jalan. Mengatakan otik alana ini pemesanan warna biru dikirimkan warna kuning."}
+{"uji_id": "nx-test-0067", "hipotesis": "Daputan bonus tcash 12.500 alai ndang boi pangkeon manuhor pulsa arga 10 ribu h asingnai"}
+{"uji_id": "nx-test-0099", "hipotesis": "Jika Anda ingin tahu apa yang terjadi di rumah sakit, Anda harus tahu apa yang terjadi di rumah sakit."}
+{"uji_id": "nx-test-0123", "hipotesis": "BCA menyelenggarakan acara ulang tahun ulang tahunnya setelah parkireona menggantikan acara i."}
+{"uji_id": "nx-test-0248", "hipotesis": "Sungai ini berwarna laut dan berwarna merah dan berwarna merah tanpa bau atau kotoran marjinal."}
+{"uji_id": "nx-test-0312", "hipotesis": "Orang-orang Yahudi pun berdesak-desakan atas perintah gubernur itu."}
+{"uji_id": "nx-test-0173", "hipotesis": "Hasil dari quick count ini didokumentasikan dengan cara meringkas hasil layanan yang dipindahkan dari satu kelompok ke kelompok lainnya."}
+{"uji_id": "nx-test-0006", "hipotesis": "Sore-sore saja, saunari on tagan diselenggarakan tanpa aplikasi dang boe di buka."}
+{"uji_id": "nx-test-0035", "hipotesis": "Sarung bantal, seprei jaring selulet dan botar be, museum dinding dan pe gudang lumut."}
+{"uji_id": "nx-test-0072", "hipotesis": "Calon-calon pemimpin di negara-negara yang tidak bergoyang-goyang mengambil jalan itu dan menang."}
+{"uji_id": "nx-test-0215", "hipotesis": "Aplikasi BNI mobile banking silahkan dengarkan untuk mengaktifkan akun dang boi."}
+{"uji_id": "nx-test-0308", "hipotesis": "Nian dang tabog targasip maccet, alai naung dang tabog muse targasip di tingki nasalpu."}
+{"uji_id": "nx-test-0121", "hipotesis": "Tutung torus bapa, ribak-ribak ma paradaan dohot hasadaan indonesia dohot retorikam"}
+{"uji_id": "nx-test-0231", "hipotesis": "dibagasan akun mycare hu na terblokir i naeng hu tambahon ini nomor Im3 hu na baru"}
+{"uji_id": "nx-test-0263", "hipotesis": "Sigararon nakok dua hali loppit alani promo suda dangdong boa-boon, dang toho on."}
+{"uji_id": "nx-test-0274", "hipotesis": "Youtube sangat berguna. Boe menonton film, membeli toko, dan belajar."}
+{"uji_id": "nx-test-0201", "hipotesis": "Rampak laho dohot keluarga mangan borngin, argana timbo dohot euweuh na somal hei."}
+{"uji_id": "nx-test-0301", "hipotesis": "Inganna yang bermukim di jonok gijjang dolok, boi mengida panataan kota sian ginjang."}
+{"uji_id": "nx-test-0303", "hipotesis": "Punguan ini mahasiswa na oto. Mauliate ma au dang mahasiswa sian luat i. Maila iba."}
+{"uji_id": "nx-test-0364", "hipotesis": "Ada yang bisa melakukan hal lain untuk mengurangi jumlah sampah yang ada di pinggir jalan kota pusat."}
+{"uji_id": "nx-test-0132", "hipotesis": "Au naeng membeli 20 tiket untuk pertandingan Persebaya melawan Arema Marsubot."}
+{"uji_id": "nx-test-0154", "hipotesis": "Saatnya pergi, itu keluar ini tiket makan malam ini jadwal ikkon jolo di garar do sudah."}
+{"uji_id": "nx-test-0232", "hipotesis": "120 peserta lulus ujian dan dibagi menjadi 4 kelas besar dengan masing-masing kelas 30 siswa."}
+{"uji_id": "nx-test-0234", "hipotesis": "Ahu pajumpang dohot ibana di asrama inganan nama tinggal tingki mahasiswa najolo."}
+{"uji_id": "nx-test-0004", "hipotesis": "Gianyar memperoleh bantuan sosial (pangurupion) tahun 2018 sebesar rp. 44,9 Miliar"}
+{"uji_id": "nx-test-0057", "hipotesis": "Itu membawa benda kecil bukan untuk memulihkan tulus dope, mendengarkan gugangan untuk satu kali."}
+{"uji_id": "nx-test-0079", "hipotesis": "daini sotona merasa aku ale holpu. sionon na mermer dohot es lilin pe tabo"}
+{"uji_id": "nx-test-0127", "hipotesis": "Berdoalah dengan sungguh-sungguh, jangan terlalu keras kepala."}
+{"uji_id": "nx-test-0146", "hipotesis": "Berbagai jenis minuman segar mulai dari jus yang sehat hingga jenis teh."}
+{"uji_id": "nx-test-0361", "hipotesis": "Sopir gocar yang berada di luar kota Jakarta telah mendahului penyewa untuk mendapatkan poin."}
+{"uji_id": "nx-test-0023", "hipotesis": "Mulak muse membuat paket data indosat alani boe di youtube unlimited."}
+{"uji_id": "nx-test-0063", "hipotesis": "Pada pemilu 2018, polisi diminta untuk meningkatkan keamanan di sekitar TPS."}
+{"uji_id": "nx-test-0086", "hipotesis": "Para pemburu mengubur hallet karena bau busuk, lalu mengambil sisa-sisa itu."}
+{"uji_id": "nx-test-0194", "hipotesis": "Pak ma laurier double tingki lao modom ditinkki menstruasi asa pertama boccor."}
+{"uji_id": "nx-test-0202", "hipotesis": "Jam ari, hepeng administrasi rek simpedes rp 5.500, -/bulan. Era Mauliate."}
+{"uji_id": "nx-test-0018", "hipotesis": "Setelah aksi menuntut di Afghanistan, 68 orang tewas."}
+{"uji_id": "nx-test-0180", "hipotesis": "Ahu merasa terganggu memarkir sepeda motor ini di pinggir jalan umum."}
+{"uji_id": "nx-test-0315", "hipotesis": "Hal ini menghalangi oreo dari berputar, dilampirkan, atau disorophon."}
+{"uji_id": "nx-test-0288", "hipotesis": "Untuk memilih promo-promo yang lain di tokopedia ho boi ro itu halaman on."}
+{"uji_id": "nx-test-0051", "hipotesis": "Makanan yang siap disajikan dengan berbagai macam masakan terkenal di dunia. Mura? ido tutu!"}
+{"uji_id": "nx-test-0239", "hipotesis": "Atlet yang bersalah ini memutuskan untuk mengikuti Serpong Run 2018 untuk mengikuti uji coba."}
+{"uji_id": "nx-test-0336", "hipotesis": "I ma na sohinalomohon ni rohangku molo yang jonok pemilu, mohop do situasi"}
+{"uji_id": "nx-test-0054", "hipotesis": "olahraga ditingki borngin boi do gabe sada tingki pasuda hari-hari na kosong"}
+{"uji_id": "nx-test-0130", "hipotesis": "Atas nama 12 bank juga menandatangani pembiayaan LRT Jabodetabek."}
+{"uji_id": "nx-test-0211", "hipotesis": "Ise ibana? boasa isi ni berita ibana sude. dangna natarurung hei i ?"}
+{"uji_id": "nx-test-0142", "hipotesis": "Kue ulang tahun khusus terbuat dari piring safir tabba mozarella yang sudah dihidangkan."}
+{"uji_id": "nx-test-0203", "hipotesis": "Untuk mendapatkan foto pre-wedding, kepala harus dibalut dengan foto pre-wedding."}
+{"uji_id": "nx-test-0365", "hipotesis": "Seperti restoran di Kemang. Harga jala dang tabo. Pertama mau pergi itu si."}
+{"uji_id": "nx-test-0324", "hipotesis": "Oke bos, tanggap ponsel pintor tompu heng/sega sahat rodi sadar."}
+{"uji_id": "nx-test-0227", "hipotesis": "restoran on bagak ini dohot panatapanna mansai uli di borning ni ari"}
+{"uji_id": "nx-test-0372", "hipotesis": "Bebeknya tabung, lambuk, sambalna tabung. Ingannya es jaring cukup tabung."}
+{"uji_id": "nx-test-0384", "hipotesis": "Indomie pun mulai bekerja pada tahun 2018 untuk menyelesaikan pekerjaan ini."}
+{"uji_id": "nx-test-0187", "hipotesis": "Musim hujan biasanya berasal dari curah hujan yang tenang dan meluas."}
+{"uji_id": "nx-test-0310", "hipotesis": "Nungge hu tempat be berita i jalo, tolong ma dan pintor di pareso"}
+{"uji_id": "nx-test-0182", "hipotesis": "Di antara mereka, ada yang tidak mau mengikuti banyak orang."}
+{"uji_id": "nx-test-0335", "hipotesis": "Kaskuser dengan cepat menerima berita yang menarik jaring baru."}
+{"uji_id": "nx-test-0149", "hipotesis": "Untuk mengganti kartu dengan nasi, ambil hot dan aduk dengan sinyal."}
+{"uji_id": "nx-test-0219", "hipotesis": "Ketua DPR Partai Keadilan Sejahtera (PKS) Serampek berteriak damai."}
+{"uji_id": "nx-test-0289", "hipotesis": "Dilihat pada jam on anti air, bawalah holan menggunakan marlange yang mati."}
+{"uji_id": "nx-test-0049", "hipotesis": "Aplikasi google maps sangat berguna, dan sangat bagus!"}
+{"uji_id": "nx-test-0065", "hipotesis": "Nantuari dianjurkan untuk segera memperbarui aplikasi Lazada."}
+{"uji_id": "nx-test-0167", "hipotesis": "Hea porsea molo body lotion citra membawa imbulu obat goang"}
+{"uji_id": "nx-test-0178", "hipotesis": "Molo boe ini ditempatkan di museum cigaronku selama sebulan."}
+{"uji_id": "nx-test-0264", "hipotesis": "Mengido bercerita tentang daftar barang-barang yang ada lagi pada gadis itu."}
+{"uji_id": "nx-test-0265", "hipotesis": "Au lam sogo rohku itu jin ala kirim torus lambat."}
+{"uji_id": "nx-test-0284", "hipotesis": "Marsak do roha ala ni panglaho parbada- ni parobasan."}
+{"uji_id": "nx-test-0098", "hipotesis": "Youtube tamba ari tamba goang do iklan na, jut hian do roha"}
+{"uji_id": "nx-test-0217", "hipotesis": "Botol uc 1000 maol ini sudah dibuka, membawa hansit tangan."}
+{"uji_id": "nx-test-0069", "hipotesis": "Ai siinumon ahadoon asing sara minum na. Daina pe asing."}
+{"uji_id": "nx-test-0143", "hipotesis": "Tapi api itu Indosat! Boasa holan dan mago mago sinyalnya."}
+{"uji_id": "nx-test-0313", "hipotesis": "tunggu hupaima jne hape ibana parrona sogot. aning muruk au"}
+{"uji_id": "nx-test-0058", "hipotesis": "Muruk itu gojek na sai tongtong lilu molo naeng tu jabunghu"}
+{"uji_id": "nx-test-0093", "hipotesis": "Andul dumenggan do molo boi modom iba paling otik lima jam"}
+{"uji_id": "nx-test-0306", "hipotesis": "Belanja di Giant diskon 20% untuk menggunakan kartu kredit BCA."}
+{"uji_id": "nx-test-0314", "hipotesis": "spotify maol, adong muse administrasi sigararon setiap bulan"}
+{"uji_id": "nx-test-0129", "hipotesis": "Untuk pertama kalinya diskon langsung sehat itu Rp 10 juta dison!"}
+{"uji_id": "nx-test-0369", "hipotesis": "Memillit gubernur dan daun tangan tuduan ni ganup jolma"}
+{"uji_id": "nx-test-0010", "hipotesis": "Kebun raya Bogor ini dibangun bukan untuk tujuan berjualan."}
+{"uji_id": "nx-test-0341", "hipotesis": "Pelaku pertama yang ditangkap adalah polisi."}
+{"uji_id": "nx-test-0013", "hipotesis": "Seekor buaya terburu-buru datang untuk menggosok batang yang longgar."}
+{"uji_id": "nx-test-0024", "hipotesis": "Ahu baru saja lulus dari sekolah dan bekerja di Trans TV."}
+{"uji_id": "nx-test-0252", "hipotesis": "Untuk informasi lebih lanjut, hubungi 5111."}
+{"uji_id": "nx-test-0280", "hipotesis": "Au membuahkan pembagian jaring dan hebiar hasundatan."}
+{"uji_id": "nx-test-0326", "hipotesis": "Porsea do i sian ias ni roha? Roha na bebas? Ai dang?"}
+{"uji_id": "nx-test-0044", "hipotesis": "Nadia menelusuri baju kameja tua itu untuknya di uniqlo"}
+{"uji_id": "nx-test-0046", "hipotesis": "Kantor menginformasikan bahwa korsel-korsel dibuka pada minggu itu."}
+{"uji_id": "nx-test-0090", "hipotesis": "Saya punya saonari baru magodang dope nunga olo manakko."}
+{"uji_id": "nx-test-0398", "hipotesis": "Untuk menang dalam tes cpns, bawa macet, sial nai."}
+{"uji_id": "nx-test-0110", "hipotesis": "Itu akan membuat admin peduli dan membalasnya."}
+{"uji_id": "nx-test-0245", "hipotesis": "2018 KPK martahi laut pasaehon jeaE-KTP dohot blbi"}
+{"uji_id": "nx-test-0300", "hipotesis": "Anda lupa untuk minum 8-10 gelas air mineral sehari."}
+{"uji_id": "nx-test-0081", "hipotesis": "Bertemu dengan Marsogo di Roha do Sião 4 tahun yang lalu."}
+{"uji_id": "nx-test-0155", "hipotesis": "Haha aku membawa gadis iphone 8 lalu memilikinya ps5."}
+{"uji_id": "nx-test-0007", "hipotesis": "Memang gale do hita au pe parbiar do satutuna."}
+{"uji_id": "nx-test-0073", "hipotesis": "Anggaku lagi menonton Harry Potter di Trans TV."}
+{"uji_id": "nx-test-0225", "hipotesis": "Telepon sitioponna beras saat parjolo pada laki-laki."}
+{"uji_id": "nx-test-0241", "hipotesis": "bus harapan jaya lobi tabo sian nomor na asing"}
+{"uji_id": "nx-test-0332", "hipotesis": "Anggiku memasak roti rohana brownis primerasa."}
+{"uji_id": "nx-test-0374", "hipotesis": "Makanan di rumah sakit torus do dang tabu."}
+{"uji_id": "nx-test-0109", "hipotesis": "On ma sop stengkel na untabo di Aceh Tamiang"}
+{"uji_id": "nx-test-0233", "hipotesis": "Aha do on, arga ini, penghobasiannya hurang!"}
+{"uji_id": "nx-test-0333", "hipotesis": "Toko-toko untuk gadis-gadis di Matahari Mall."}
+{"uji_id": "nx-test-0363", "hipotesis": "Hanya ingin dope sehat barangnya, bagak do."}
+{"uji_id": "nx-test-0354", "hipotesis": "Nungnga hupaboa adalah email mandiricare.co.id"}
+{"uji_id": "nx-test-0082", "hipotesis": "Among somal yang memangke simir sepatu kiwi"}
+{"uji_id": "nx-test-0270", "hipotesis": "Sial ini inginannya ada di samping mapol."}
+{"uji_id": "nx-test-0358", "hipotesis": "Au mengubur alai dang boi menang marhua."}
+{"uji_id": "nx-test-0012", "hipotesis": "Jora be au menggunakan layanan Lion air."}
+{"uji_id": "nx-test-0168", "hipotesis": "Maccet menang di sini molo lagi mardalani."}
+{"uji_id": "nx-test-0255", "hipotesis": "Baiklah, lalu kirimkan pesan langsung."}
+{"uji_id": "nx-test-0360", "hipotesis": "Segel memiliki tutur yang berupa otik beras."}
+{"uji_id": "nx-test-0205", "hipotesis": "Arif menghormati jaket billabong baru."}
+{"uji_id": "nx-test-0355", "hipotesis": "Yang tidak memiliki kode akses adalah pin hu."}
+{"uji_id": "nx-test-0097", "hipotesis": "Dang Marsak ahu adalah produk dari Apple."}
+{"uji_id": "nx-test-0031", "hipotesis": "Ibana biasanya menghormatinya."}
+{"uji_id": "nx-test-0250", "hipotesis": "On the spot tag tayang di trans7"}
+{"uji_id": "nx-test-0001", "hipotesis": "Ido toho, kau menjaga kode"}
+{"uji_id": "nx-test-0115", "hipotesis": "Ala male, au manuhor indomi."}
+{"uji_id": "nx-test-0291", "hipotesis": "Patagi-tagihon sial ini au."}
+{"uji_id": "nx-test-0387", "hipotesis": "Aning muruk ma au tu indosat"}
+{"uji_id": "nx-test-0040", "hipotesis": "ingatannya"}

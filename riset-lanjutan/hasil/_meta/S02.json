@@ -1,0 +1,33 @@
+{
+  "kode": "S02",
+  "nama": "NusaX dan NusaTranslation",
+  "sidik": "313d7007bf2fdc867f90d02c1e238e783af82503a4dc1a1537f7babaa27dcdc8",
+  "waktu": "2026-11-16T08:13:27+00:00",
+  "parameter": {
+    "kolom_nusax": "toba_batak"
+  },
+  "masukan": {
+    "nusax_mt_train.csv": "cf4276730de04f0cb3369c48b67d454f4aae52646315f19eb71b908f5dfaae0e",
+    "nusax_mt_valid.csv": "fd148ce931676460bb89ce94205f5cea3fb0fbd1fc4b561a016dc25ceb8e049a",
+    "nusax_mt_test.csv": "0082161de28a0a17a85fc6e02fc07a2e2514d8dd7f344ead95a88aa86dc706cc",
+    "nusatranslation_btk_train.csv": "f43906510713372d9a21c86392fdf68f9ca1630ffd1fa594aff4ef077b17f0fc",
+    "nusatranslation_btk_valid.csv": "f35fe053671ea58231fae314cd90edf9b8e37c7acdd60febd02da0807c9dfe43",
+    "nusatranslation_btk_test.csv": "2e272da7f3b247770ab07bbb33e62043426a89333b143e56255c237a27b189ec"
+  },
+  "keluaran": {
+    "s02_nusax.csv": "32c53913db68fb64e10b8a416ec85087f912e7834eaed30f7f4590ab47821218",
+    "s02_nusatranslation.csv": "2876a8b2821530ccdc41e73b2245797f7a55f01c290ec2ec5fee79b7084e8131"
+  },
+  "ringkasan": {
+    "nusax": {
+      "latih": 500,
+      "uji": 400,
+      "validasi": 100
+    },
+    "nusatranslation": {
+      "latih": 6600,
+      "uji": 2000,
+      "validasi": 849
+    }
+  }
+}

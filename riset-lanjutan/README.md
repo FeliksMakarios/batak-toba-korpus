@@ -23,10 +23,43 @@ Rincian setiap angka, beserta keluaran asli dan observasinya, ada di notebook.
 |---|---|
 | [`notebooks/eksperimen_mt_batak_toba.ipynb`](notebooks/eksperimen_mt_batak_toba.ipynb) | Rekaman eksekusi lengkap tahap S01 sampai S15: kode, keluaran asli dari empat sesi Colab, dan sel "Hasil dan observasi" setelah setiap tahap |
 | [`metadata/arah_penerjemahan.csv`](metadata/arah_penerjemahan.csv) | Label bahasa asli per dokumen (lihat skema di bawah) |
-| [`metadata/arah_penerjemahan_periksa.xlsx`](metadata/arah_penerjemahan_periksa.xlsx) | Lembar kerja pemeriksaan label bahasa asli |
-| `data/` | Pembagian data latih, validasi, dan uji, serta anotasi ESA tanpa identitas penilai (menyusul) |
-| `prediksi/` | Keluaran 22 sistem untuk semua set uji dan kedua arah (menyusul) |
-| `hasil/` | Tabel skor, uji beda, varietas keluaran, analisis ESA, dan gambar (menyusul) |
+| [`metadata/arah_penerjemahan_periksa.xlsx`](metadata/arah_penerjemahan_periksa.xlsx) | Lembar kerja pemeriksaan label bahasa asli, versi yang sudah diperiksa peneliti |
+| [`data/split_korpus_kami.csv`](data/split_korpus_kami.csv) | Pembagian 1.542 pasangan korpus ini: 1.081 latih, 151 validasi, 310 uji (tingkat dokumen) |
+| [`data/set_uji.csv`](data/set_uji.csv) | Daftar butir keempat set uji beserta label bahasa asli, genre, dan varietas rujukan |
+| [`data/set_validasi.csv`](data/set_validasi.csv) | Daftar butir set validasi yang dipakai selama *fine-tuning* |
+| [`data/esa_anonim.csv`](data/esa_anonim.csv) | 480 butir anotasi ESA dari dua penilai, tanpa identitas penilai dan tanpa catatan bebas |
+| [`prediksi/`](prediksi/) | Keluaran 22 sistem untuk semua set uji dan kedua arah (132 berkas `.jsonl`) |
+| [`hasil/tabel/`](hasil/tabel/) | Tabel hasil setiap tahap (S03 sampai S15), termasuk skor per kalimat |
+| [`hasil/gambar/`](hasil/gambar/) | Gambar audit varietas, skor menurut bahasa asli, dan varietas keluaran |
+| [`hasil/latex/`](hasil/latex/) | Tabel utama dan tabel bahasa asli dalam format LaTeX |
+| [`hasil/_meta/`](hasil/_meta/) | Catatan *checkpoint* setiap tahap (parameter, sidik SHA-256 masukan dan keluaran), versi pustaka, dan manifest |
+
+Teks NusaX dan NusaTranslation **tidak** disalin ke repositori ini. Berkas di `data/` dan `prediksi/` hanya memuat ID butirnya (`nx-...`, `nt-...`), sehingga teks sumber dan rujukannya perlu diambil dari repositori asli masing-masing (tautannya ada di `hasil/_meta/lingkungan.json`). Teks korpus ini sendiri ada di [`../data/btb_parallel_sentence.csv`](../data/btb_parallel_sentence.csv).
+
+### Set uji (`data/set_uji.csv`)
+
+| `set_uji` | Butir | Keterangan |
+|---|---|---|
+| `kami` | 310 | Bagian uji korpus ini |
+| `nusax` | 400 | Seluruh set uji NusaX (`toba_batak`) |
+| `nusatranslation` | 2.000 | Seluruh set uji NusaTranslation `btk` |
+| `nusatranslation_toba` | 400 | Sampel acak set uji NusaTranslation yang rujukannya berlabel `Toba_saja` (ada penanda Toba, tanpa penanda Angkola-Mandailing), dipakai untuk LLM dan juga dinilai untuk sistem lain |
+
+Kolom: `uji_id`, `set_uji`, `arah_asli` (`asli_toba` atau `asli_indonesia`), `genre`, `varietas_rujukan` (`Toba_saja`, `AM`, atau `tak_bertanda`, dari penanda leksikal), dan `validasi_manusia` (khusus set `kami`, sama dengan kolom `validasi_manusia` di korpus utama).
+
+### Prediksi (`prediksi/<sistem>/<set_uji>.<arah>.jsonl`)
+
+Baris pertama adalah *header* berisi `sidik` dan `parameter` (model, benih, pengaturan dekode, atau kondisi *prompt*). Setiap baris berikutnya berisi `uji_id` dan `hipotesis`. Arah `id2bbc` berarti Indonesia ke Batak Toba, sedangkan `bbc2id` sebaliknya. Nama sistem: `copy_source`, `nllb600m_zeroshot`, `nllb1.3b_zeroshot`, `nllb3.3b_zeroshot`, `madlad3b_zeroshot`, `ft_<data>_s<benih>` (NLLB-200 600M yang di-*fine-tune*), dan `llm_<model>_<kondisi>` dengan kondisi `zero_shot`, `few_shot_acak`, atau `few_shot_retrieval`.
+
+### Anotasi ESA (`data/esa_anonim.csv`)
+
+| Kolom | Isi |
+|---|---|
+| `item_id`, `arah`, `uji_id`, `sistem` | Identitas butir. Urutan butir diacak berbeda untuk setiap penilai, dan nama sistem disembunyikan dari penilai |
+| `sumber`, `terjemahan` | Kalimat sumber dari set uji `kami` dan keluaran sistem yang dinilai |
+| `skor_A`, `skor_B` | Skor 0 sampai 100 dari penilai A dan B |
+| `kesalahan_mayor_*`, `kesalahan_minor_*` | Rentang teks yang ditandai salah, dipisah ` \| ` |
+| `variety_*` | Khusus `id2bbc`: 1 bila penilai menilai terjemahan memakai kata yang benar maknanya tetapi bukan Batak Toba, 0 bila tidak |
 
 ## Menjalankan ulang
 
@@ -61,4 +94,4 @@ Satu baris per dokumen multi-genre (104 dokumen). Kolom berakhiran `_otomatis` d
 
 > **Status.** This folder is **not a PDP Phase 1 deliverable**. It holds the work behind a journal manuscript in preparation (target: *Language Resources and Evaluation*) and lives on a separate branch until the manuscript is submitted.
 
-The experiments use the Phase 1 sentence-level parallel corpus (1,542 pairs) to study data quality and variety, the original language of texts, existing models, the value of the corpus as training data and as in-context examples, and the validity of automatic metrics against two native-speaker raters. Key results: only 0.26% of our Batak sentences carry Angkola-Mandailing markers (24.55% in the NusaTranslation test references); into Batak, no zero-shot NLLB-200, MADLAD-400 or Qwen2.5-7B system beats a copy-source baseline, and only GoTo-AI 27B does; adding our 1,081 training pairs to NusaX improves chrF++ on every out-of-domain test set by 1.3 to 3.0 points; retrieved in-context examples beat random ones; and chrF++ agrees only weakly with raters into Batak. The notebook [`notebooks/eksperimen_mt_batak_toba.ipynb`](notebooks/eksperimen_mt_batak_toba.ipynb) records every stage with its original outputs and observations.
+The experiments use the Phase 1 sentence-level parallel corpus (1,542 pairs) to study data quality and variety, the original language of texts, existing models, the value of the corpus as training data and as in-context examples, and the validity of automatic metrics against two native-speaker raters. Key results: only 0.26% of our Batak sentences carry Angkola-Mandailing markers (24.55% in the NusaTranslation test references); into Batak, no zero-shot NLLB-200, MADLAD-400 or Qwen2.5-7B system beats a copy-source baseline, and only GoTo-AI 27B does; adding our 1,081 training pairs to NusaX improves chrF++ on every out-of-domain test set by 1.3 to 3.0 points; retrieved in-context examples beat random ones; and chrF++ agrees only weakly with raters into Batak. The notebook [`notebooks/eksperimen_mt_batak_toba.ipynb`](notebooks/eksperimen_mt_batak_toba.ipynb) records every stage with its original outputs and observations. The folder also releases the data split (`data/split_korpus_kami.csv`), test-set item lists with original-language and reference-variety labels (`data/set_uji.csv`), outputs of all 22 systems (`prediksi/`), result tables, figures and stage checkpoints (`hasil/`), and 480 anonymised ESA judgements from two native-speaker raters (`data/esa_anonim.csv`). NusaX and NusaTranslation texts are not redistributed; only their item IDs are included.

@@ -1,0 +1,36 @@
+{
+  "kode": "S04",
+  "nama": "Pembagian data",
+  "sidik": "682446aa898280dc9e73aad5a83dad461ccd0f7c7a28912fedbe6d19f9c9f724",
+  "waktu": "2026-11-16T08:24:10+00:00",
+  "parameter": {
+    "porsi_uji": 0.2,
+    "porsi_validasi": 0.1,
+    "toleransi_lebih": 1.25,
+    "benih": 42,
+    "ambang_jaccard": 0.9
+  },
+  "masukan": {
+    "s01_korpus.csv": "36c48dc0d72b6fef4ef2b55713051a25276e07c711d5d257d2453089c3d39239",
+    "s02_nusax.csv": "32c53913db68fb64e10b8a416ec85087f912e7834eaed30f7f4590ab47821218",
+    "s02_nusatranslation.csv": "2876a8b2821530ccdc41e73b2245797f7a55f01c290ec2ec5fee79b7084e8131"
+  },
+  "keluaran": {
+    "s04_split_korpus_kami.csv": "d535a89447980a9cdfafb717cf68d271d5f7e355377614d5feca67d7cfcaf32e",
+    "s04_ringkasan_split.csv": "c38b94d6df97294b6d9e86cde20a60faee868ee07c06c6687f39c4ffe2b31131",
+    "s04_tumpang_tindih.csv": "24e66589785b6c2a0cd7eed301f37f8ed07fe94be19da4e7bf0b4a7770b4a87d"
+  },
+  "ringkasan": {
+    "pasangan_per_split": {
+      "latih": 1081,
+      "uji": 310,
+      "validasi": 151
+    },
+    "dokumen_per_split": {
+      "latih": 62,
+      "uji": 23,
+      "validasi": 12
+    },
+    "kalimat_latih_tumpang_tindih": 0
+  }
+}
