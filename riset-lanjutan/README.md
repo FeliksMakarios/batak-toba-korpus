@@ -34,6 +34,8 @@ Rincian setiap angka, beserta keluaran asli dan observasinya, ada di notebook.
 | [`hasil/latex/`](hasil/latex/) | Tabel utama dan tabel bahasa asli dalam format LaTeX |
 | [`hasil/_meta/`](hasil/_meta/) | Catatan *checkpoint* setiap tahap (parameter, sidik SHA-256 masukan dan keluaran), versi pustaka, dan manifest |
 | [`skrip/holm_tabel3.py`](skrip/holm_tabel3.py) | Uji beda berpasangan ulang dengan 10.000 sampel *bootstrap* dan koreksi Holm atas 88 perbandingan (`hasil/tabel/tambahan_perbandingan_holm.csv`), serta selang kepercayaan 95% chrF++ menurut bahasa asli (`hasil/tabel/tambahan_tabel3_ik.csv`). Dijalankan di luar Colab, dari prediksi di `prediksi/` dan `s05_uji.csv` hasil S05 |
+| [`skrip/analisis_revisi.py`](skrip/analisis_revisi.py) | Analisis untuk revisi naskah: statistik per genre, kovariat set uji menurut bahasa asli, rincian kesalahan ESA per penilai, selang kepercayaan alfa dan kappa, BLEU per sistem, dan *validation loss* per epoch (`hasil/tabel/revisi_*.csv`) |
+| [`skrip/buat_lembar.py`](skrip/buat_lembar.py) | Pembuat lembar kerja penutur asli: pemeriksaan acak 100 pasangan, pemecahan tag [VARIETY], presisi penanda, dan pemeriksaan contoh kualitatif |
 
 Teks NusaX dan NusaTranslation **tidak** disalin ke repositori ini. Berkas di `data/` dan `prediksi/` hanya memuat ID butirnya (`nx-...`, `nt-...`), sehingga teks sumber dan rujukannya perlu diambil dari repositori asli masing-masing (tautannya ada di `hasil/_meta/lingkungan.json`). Teks korpus ini sendiri ada di [`../data/btb_parallel_sentence.csv`](../data/btb_parallel_sentence.csv).
 
