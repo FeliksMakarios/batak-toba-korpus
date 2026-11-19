@@ -4,7 +4,7 @@ Yang dimasukkan: pasangan di korpus versi terbaru yang belum dinilai di lembar m
 `pemeriksaan_penutur` kosong) dan tidak ditinjau saat adjudikasi IAA (`review_status` = not_flagged).
 
 Pemakaian (dari akar repo):
-  python riset-lanjutan/skrip/buat_lembar_tahap2.py data/btb_parallel_sentence_v1.1.csv <keluaran.xlsx>
+  python riset-lanjutan/skrip/buat_lembar_tahap2.py riset-lanjutan/data/draf_berbantuan_ai/btb_parallel_sentence_v1.1_draf.csv <keluaran.xlsx>
 """
 import re, sys
 from pathlib import Path
@@ -25,8 +25,8 @@ arah = pd.read_csv(RL / "metadata/arah_penerjemahan.csv").set_index("doc_id").ar
 k["arah_asli"] = k.doc_id.map(arah)
 k = k[(k.pemeriksaan_penutur == "") & (k.review_status == "not_flagged")].copy()
 
-# bantuan untuk anotator: bentuk Angkola-Mandailing dari leksikon terverifikasi
-leks = pd.read_csv(RL / "data/leksikon_am_terverifikasi.csv")
+# bantuan untuk anotator: bentuk Angkola-Mandailing dari leksikon AM (draf)
+leks = pd.read_csv(RL / "data/draf_berbantuan_ai/leksikon_am_draf.csv")
 AM = set(leks[leks.kekuatan_penanda.isin(["kuat", "lemah"])].bentuk)
 tok = lambda s: re.findall(r"\w+", str(s).lower())
 
@@ -123,7 +123,7 @@ isi(wb.create_sheet("B_asli_Toba"), tb, "toba")
 # atau adjudikasi IAA. Dokumen set uji tidak muncul di lembar A dan B (pembagian tingkat dokumen).
 import difflib
 
-C6 = pd.read_csv(RL / "data/set_uji_kami_terkoreksi.csv", keep_default_na=False).set_index("uji_id")
+C6 = pd.read_csv(RL / "data/draf_berbantuan_ai/set_uji_kami_koreksi_draf.csv", keep_default_na=False).set_index("uji_id")
 KV = pd.read_csv(P_KORPUS, keep_default_na=False).set_index("pair_id")
 CONTOH_PERBAIKAN = ["doc_0080_s025", "doc_0091_s000", "doc_0091_s030", "doc_0077_s070", "doc_0091_s012", "doc_0077_s026",
                     "doc_0080_s011_b", "doc_0090_s003", "doc_0069_s002",

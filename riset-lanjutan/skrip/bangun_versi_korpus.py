@@ -1,13 +1,13 @@
 """Bangun versi baru korpus paralel dengan menerapkan penilaian penutur asli.
 
-Setiap berkas penilaian memakai format `data/anotasi_penutur/penilaian_korpus_kami.csv`:
+Setiap berkas penilaian memakai format `data/draf_berbantuan_ai/anotasi/penilaian_korpus_kami.csv`:
 pair_id, lembar, keputusan, teks_bbc_baru, teks_id_baru (kosong bila tidak diubah), catatan.
 Bila satu pasangan dinilai di beberapa lembar, lembar yang lebih belakang di --urutan yang berlaku.
 
 Pemakaian (dari akar repo):
   python riset-lanjutan/skrip/bangun_versi_korpus.py --dasar data/btb_parallel_sentence.csv \
-      --penilaian riset-lanjutan/data/anotasi_penutur/penilaian_korpus_kami.csv \
-      --urutan C1,C6 --versi 1.1 --keluaran data/btb_parallel_sentence_v1.1.csv
+      --penilaian riset-lanjutan/data/draf_berbantuan_ai/anotasi/penilaian_korpus_kami.csv \
+      --urutan C1,C6 --versi 1.1 --keluaran riset-lanjutan/data/draf_berbantuan_ai/btb_parallel_sentence_v1.1_draf.csv
 Untuk versi berikutnya, --dasar adalah versi sebelumnya dan --penilaian berkas penilaian yang baru.
 """
 import argparse
@@ -20,7 +20,7 @@ ap.add_argument("--penilaian", nargs="+", required=True)
 ap.add_argument("--urutan", required=True, help="urutan prioritas lembar, yang terakhir paling kuat, mis. C1,C6")
 ap.add_argument("--versi", required=True)
 ap.add_argument("--keluaran", required=True)
-ap.add_argument("--putusan_am", default="riset-lanjutan/data/anotasi_penutur/putusan_am_korpus_kami.csv")
+ap.add_argument("--putusan_am", default="riset-lanjutan/data/draf_berbantuan_ai/anotasi/putusan_am_korpus_kami.csv")
 a = ap.parse_args()
 
 d = pd.read_csv(a.dasar, keep_default_na=False)

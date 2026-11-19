@@ -91,7 +91,7 @@ nx, nt = pd.concat(nx, ignore_index=True), pd.concat(nt, ignore_index=True)
 korpus = pd.read_csv(AKAR / "data/btb_parallel_sentence.csv")
 split = pd.read_csv(RL / "data/split_korpus_kami.csv")
 meta = pd.read_csv(RL / "data/set_uji.csv", keep_default_na=False)
-kor = pd.read_csv(RL / "data/set_uji_kami_terkoreksi.csv", keep_default_na=False)
+kor = pd.read_csv(RL / "data/draf_berbantuan_ai/set_uji_kami_koreksi_draf.csv", keep_default_na=False)
 
 # set uji kita: teks dari korpus, dicocokkan dengan teks "lama" di berkas koreksi
 k = split[split.split == "uji"].merge(korpus[["pair_id", "toba_final", "indo_final"]], on="pair_id")

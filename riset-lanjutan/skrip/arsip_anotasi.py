@@ -5,7 +5,7 @@ dikaitkan lewat `id_asli` (ID resmi di rilis IndoNLP) dan `uji_id` (ID posisi ya
 
 Pemakaian (dari akar repo):
   python riset-lanjutan/skrip/arsip_anotasi.py <folder_lembar_C1-C6> <s02_nusatranslation.csv>
-Keluaran: riset-lanjutan/data/anotasi_penutur/*.csv
+Keluaran: riset-lanjutan/data/draf_berbantuan_ai/anotasi/*.csv
 """
 import re, sys
 from pathlib import Path
@@ -14,7 +14,7 @@ import pandas as pd
 AKAR = Path(__file__).resolve().parents[2]
 RL = AKAR / "riset-lanjutan"
 L, P_NT = Path(sys.argv[1]), sys.argv[2]
-OUT = RL / "data" / "anotasi_penutur"
+OUT = RL / "data" / "draf_berbantuan_ai" / "anotasi"
 OUT.mkdir(parents=True, exist_ok=True)
 
 korpus = pd.read_csv(AKAR / "data/btb_parallel_sentence.csv")
@@ -28,7 +28,7 @@ p1 = pd.DataFrame({"pair_id": c1.pair_id, "split": c1.split, "lembar": "C1", "ke
                    "teks_bbc_baru": c1.perbaikan_toba.fillna("").astype(str).str.strip(),
                    "teks_id_baru": c1.perbaikan_indonesia.fillna("").astype(str).str.strip(),
                    "catatan": c1.catatan.fillna("")})
-c6 = pd.read_csv(RL / "data/set_uji_kami_terkoreksi.csv", keep_default_na=False)
+c6 = pd.read_csv(RL / "data/draf_berbantuan_ai/set_uji_kami_koreksi_draf.csv", keep_default_na=False)
 c6["pair_id"] = c6.uji_id.str[5:]
 p6 = pd.DataFrame({"pair_id": c6.pair_id, "split": "uji", "lembar": "C6", "keputusan": c6.keputusan,
                    "teks_bbc_baru": [b if b != a else "" for a, b in zip(c6.teks_bbc_lama, c6.teks_bbc_baru)],
@@ -68,7 +68,7 @@ pd.DataFrame({"uji_id": c3.id, "id_asli": c3.id.map(nt.id_asli), "penanda_terdet
 
 # ---------- 4. label varietas otomatis untuk seluruh NusaX dan NusaTranslation ----------
 tok = lambda s: re.findall(r"\w+", str(s).lower())
-leks = pd.read_csv(RL / "data/leksikon_am_terverifikasi.csv")
+leks = pd.read_csv(RL / "data/draf_berbantuan_ai/leksikon_am_draf.csv")
 KUAT, LEMAH = set(leks[leks.kekuatan_penanda == "kuat"].bentuk), set(leks[leks.kekuatan_penanda == "lemah"].bentuk)
 AM32 = set("inda madung kehe akkon angkon anso harana bope giot doma milas mur pade halai adaboru oppot "
            "ngen juo tai sannari soni sattak napedo abope unjung deges sarupo copat satiop manyogot natuari tarimokasih".split())

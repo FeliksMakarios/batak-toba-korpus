@@ -2,7 +2,7 @@
 
 Pemakaian: python analisis_c5.py <repo> <C5.xlsx> <folder_paket_keluaran> <folder_keluaran>
 Keluaran:
-  leksikon_am_terverifikasi.csv  bentuk, jenis, kategori, arti, padanan Toba (tanpa contoh kalimat pihak ketiga)
+  leksikon_am_draf.csv  bentuk, jenis, kategori, arti, padanan Toba (tanpa contoh kalimat pihak ketiga)
   c5_presisi.csv                 sebaran kategori per status (penanda lama, kandidat statistik, dari penutur)
   c5_kepekaan_korpus.csv         persentase kalimat bertanda AM per korpus untuk tiap daftar penanda
   c5_kepekaan_keluaran.csv       persentase keluaran id->bbc bertanda AM per sistem dan set uji
@@ -31,10 +31,10 @@ pres["presisi_AM_termasuk_perbatasan"] = ((pres.get("AM_saja", 0) + pres.get("AM
 pres.to_csv(OUT / "c5_presisi.csv")
 print(pres.to_string())
 
-# ---------- 2. leksikon terverifikasi (dirilis) ----------
+# ---------- 2. leksikon (draf berbantuan AI, belum diverifikasi) ----------
 leks = v[["bentuk", "jenis", "status", "kalimat_AM", "kalimat_Toba", "kategori", "arti_Indonesia", "padanan_Toba", "catatan"]]
 leks = leks.sort_values(["kategori", "jenis", "kalimat_AM"], ascending=[True, False, False])
-leks.to_csv(OUT / "leksikon_am_terverifikasi.csv", index=False)
+leks.to_csv(OUT / "leksikon_am_draf.csv", index=False)
 
 
 # ---------- 3. daftar penanda untuk uji kepekaan ----------
