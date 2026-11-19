@@ -36,6 +36,12 @@ Rincian setiap angka, beserta keluaran asli dan observasinya, ada di notebook.
 | [`skrip/holm_tabel3.py`](skrip/holm_tabel3.py) | Uji beda berpasangan ulang dengan 10.000 sampel *bootstrap* dan koreksi Holm atas 88 perbandingan (`hasil/tabel/tambahan_perbandingan_holm.csv`), serta selang kepercayaan 95% chrF++ menurut bahasa asli (`hasil/tabel/tambahan_tabel3_ik.csv`). Dijalankan di luar Colab, dari prediksi di `prediksi/` dan `s05_uji.csv` hasil S05 |
 | [`skrip/analisis_revisi.py`](skrip/analisis_revisi.py) | Analisis untuk revisi naskah: statistik per genre, kovariat set uji menurut bahasa asli, rincian kesalahan ESA per penilai, selang kepercayaan alfa dan kappa, BLEU per sistem, dan *validation loss* per epoch (`hasil/tabel/revisi_*.csv`) |
 | [`skrip/buat_lembar.py`](skrip/buat_lembar.py) | Pembuat lembar kerja penutur asli: pemeriksaan acak 100 pasangan, pemecahan tag [VARIETY], presisi penanda, dan pemeriksaan contoh kualitatif |
+| [`skrip/buat_c6.py`](skrip/buat_c6.py), [`skrip/nilai_ulang_c6.py`](skrip/nilai_ulang_c6.py) | Lembar kerja perbaikan rujukan set uji (C6) dan penilaian ulang semua sistem dengan rujukan terkoreksi |
+| [`skrip/leksikon_am.py`](skrip/leksikon_am.py), [`skrip/buat_c5.py`](skrip/buat_c5.py) | Kandidat kosakata penanda Angkola-Mandailing (analisis kontrastif kalimat AM dan Toba, diurutkan menurut batas bawah Wilson) dan lembar verifikasinya (C5) |
+| [`data/set_uji_kami_terkoreksi.csv`](data/set_uji_kami_terkoreksi.csv) | Set uji `kami` (310 butir) dengan rujukan lama dan rujukan yang sudah dikoreksi penutur asli: 172 rujukan Toba dan 4 rujukan Indonesia diubah. Kolom `keputusan`: `benar`, `perbaiki_kata`, atau `perbaiki_makna` |
+| [`hasil/v3/`](hasil/v3/) | Keluaran `skrip/jalankan_semua.py`: semua angka evaluasi untuk kedua versi rujukan (`*_lama.csv` dan `*_terkoreksi.csv`), audit varietas dengan daftar penanda 32 dan 26 kata, analisis ESA, statistik korpus, `verifikasi.csv`, dan `ringkasan.json` |
+| [`hasil/tabel/c6_*.csv`](hasil/tabel/) | Penilaian ulang semua sistem dengan rujukan terkoreksi (dibuat oleh `skrip/nilai_ulang_c6.py`; kini juga direproduksi oleh `jalankan_semua.py`) |
+| [`skrip/jalankan_semua.py`](skrip/jalankan_semua.py) | **Jalur reproduksi tanpa GPU.** Mengunduh NusaX dan NusaTranslation, menyusun set uji dalam dua versi rujukan, lalu menghitung ulang skor, selang kepercayaan, uji beda dengan koreksi Holm, Tabel 3, audit varietas, analisis ESA, dan statistik korpus. Angka versi rujukan lama dicocokkan otomatis dengan tabel di `hasil/tabel/` (`hasil/v3/verifikasi.csv`). Sekitar 2,5 menit di CPU |
 
 Teks NusaX dan NusaTranslation **tidak** disalin ke repositori ini. Berkas di `data/` dan `prediksi/` hanya memuat ID butirnya (`nx-...`, `nt-...`), sehingga teks sumber dan rujukannya perlu diambil dari repositori asli masing-masing (tautannya ada di `hasil/_meta/lingkungan.json`). Teks korpus ini sendiri ada di [`../data/btb_parallel_sentence.csv`](../data/btb_parallel_sentence.csv).
 
@@ -65,6 +71,10 @@ Baris pertama adalah *header* berisi `sidik` dan `parameter` (model, benih, peng
 | `variety_*` | Khusus `id2bbc`: 1 bila penilai menilai terjemahan memakai kata yang benar maknanya tetapi bukan Batak Toba, 0 bila tidak |
 
 ## Menjalankan ulang
+
+**Tanpa GPU (semua angka evaluasi):** dari akar repositori, jalankan `pip install pandas numpy scipy openpyxl sacrebleu==2.6.0`, lalu `python riset-lanjutan/skrip/jalankan_semua.py`. Hasilnya ada di `hasil/v3/`; periksa `verifikasi.csv`.
+
+**Dengan GPU (seluruh eksperimen, termasuk pelatihan):**
 
 1. Buka notebook di Google Colab dan pilih runtime GPU. A100 dipakai untuk S06, S07, dan S09; L4 untuk S08.
 2. Bila label bahasa asli sudah diperiksa, unggah `arah_penerjemahan_periksa.xlsx` ke folder `input/` di Drive. Korpus, NusaX, dan NusaTranslation diunduh otomatis.

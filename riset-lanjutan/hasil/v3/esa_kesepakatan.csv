@@ -1,0 +1,10 @@
+arah,ukuran,nilai,ik_bawah,ik_atas
+bbc2id,krippendorff_alpha_interval,0.916,0.885,0.94
+bbc2id,kappa_mayor,0.778,0.686,0.861
+bbc2id,pearson,0.917,,
+bbc2id,spearman,0.921,,
+id2bbc,krippendorff_alpha_interval,0.846,0.801,0.883
+id2bbc,kappa_mayor,0.624,0.523,0.717
+id2bbc,kappa_variety,0.601,0.492,0.704
+id2bbc,pearson,0.884,,
+id2bbc,spearman,0.869,,

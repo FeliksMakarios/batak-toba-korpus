@@ -1,0 +1,17 @@
+rujukan,arah,cakupan,metrik,n_butir,kendall_tau_b,ik_bawah,ik_atas
+lama,bbc2id,semua_sistem,chrf,240,0.633,0.563,0.691
+lama,bbc2id,semua_sistem,bleu,240,0.581,0.508,0.651
+lama,bbc2id,hanya_ft,chrf,120,0.593,0.476,0.689
+lama,bbc2id,hanya_ft,bleu,120,0.519,0.392,0.615
+lama,id2bbc,semua_sistem,chrf,240,0.404,0.302,0.499
+lama,id2bbc,semua_sistem,bleu,240,0.352,0.264,0.44
+lama,id2bbc,hanya_ft,chrf,120,0.269,0.137,0.406
+lama,id2bbc,hanya_ft,bleu,120,0.284,0.174,0.402
+terkoreksi,bbc2id,semua_sistem,chrf,240,0.629,0.56,0.687
+terkoreksi,bbc2id,semua_sistem,bleu,240,0.584,0.511,0.653
+terkoreksi,bbc2id,hanya_ft,chrf,120,0.593,0.48,0.69
+terkoreksi,bbc2id,hanya_ft,bleu,120,0.527,0.412,0.622
+terkoreksi,id2bbc,semua_sistem,chrf,240,0.381,0.268,0.484
+terkoreksi,id2bbc,semua_sistem,bleu,240,0.341,0.245,0.434
+terkoreksi,id2bbc,hanya_ft,chrf,120,0.235,0.101,0.381
+terkoreksi,id2bbc,hanya_ft,bleu,120,0.253,0.129,0.377

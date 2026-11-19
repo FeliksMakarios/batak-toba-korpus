@@ -1,0 +1,158 @@
+{
+ "set_uji": {
+  "nusatranslation": 2000,
+  "nusax": 400,
+  "nusatranslation_toba": 400,
+  "kami": 310
+ },
+ "rujukan_dikoreksi": {
+  "toba": 172,
+  "indonesia": 4,
+  "per_keputusan": {
+   "benar": 134,
+   "perbaiki_makna": 99,
+   "perbaiki_kata": 77
+  }
+ },
+ "signature": {
+  "chrf": "nrefs:1|case:mixed|eff:yes|nc:6|nw:2|space:no|version:2.6.0",
+  "bleu": "nrefs:1|case:mixed|eff:no|tok:13a|smooth:exp|version:2.6.0"
+ },
+ "koreksi_id2bbc": {
+  "naik_min": 1.91,
+  "naik_maks": 3.78,
+  "spearman_peringkat": 0.991
+ },
+ "holm_lama": {
+  "perbandingan": 88,
+  "signifikan": 56,
+  "p_holm_min": 0.0176
+ },
+ "holm_terkoreksi": {
+  "perbandingan": 88,
+  "signifikan": 56,
+  "p_holm_min": 0.0176
+ },
+ "holm_keputusan_berubah": 0,
+ "korpus": {
+  "pasangan": 1542,
+  "dokumen": 97,
+  "kata_bt": 24377,
+  "kata_id": 21486,
+  "kata_bt_terkumpul": 59443,
+  "agenda_hkbp_dokumen": 6,
+  "agenda_hkbp_kata_bt": 35097,
+  "status_tinjauan": {
+   "not_flagged": 1360,
+   "revised": 77,
+   "revised_split": 69,
+   "accepted": 36
+  }
+ },
+ "lembar_penutur": {
+  "C1": {
+   "keputusan": {
+    "revise_translation": 45,
+    "accept": 38,
+    "fragment_policy": 17
+   },
+   "revisi_wilson95": [
+    35.6,
+    54.8
+   ],
+   "per_genre": {
+    "accept": {
+     "Contemporary Media": 24,
+     "Educational": 1,
+     "Historical/Traditional": 6,
+     "Literary": 7
+    },
+    "fragment_policy": {
+     "Contemporary Media": 13,
+     "Educational": 0,
+     "Historical/Traditional": 0,
+     "Literary": 4
+    },
+    "revise_translation": {
+     "Contemporary Media": 27,
+     "Educational": 15,
+     "Historical/Traditional": 1,
+     "Literary": 2
+    }
+   },
+   "per_arah_asli": {
+    "asli_indonesia": {
+     "accept": 25,
+     "fragment_policy": 15,
+     "revise_translation": 43
+    },
+    "asli_toba": {
+     "accept": 13,
+     "fragment_policy": 2,
+     "revise_translation": 2
+    }
+   }
+  },
+  "C2": {
+   "ft_kami+nusatranslation_s42": {
+    "persen_AM_atau_Batak_lain": 13.3,
+    "persen_serapan_Indonesia": 61.7,
+    "butir_bertag": 45,
+    "butir_total": 60
+   },
+   "ft_nusatranslation_s42": {
+    "persen_AM_atau_Batak_lain": 50.0,
+    "persen_serapan_Indonesia": 88.3,
+    "butir_bertag": 55,
+    "butir_total": 60
+   },
+   "llm_gemma3-27b-cpt-gotoai-v3-instruct_few_shot_retrieval": {
+    "persen_AM_atau_Batak_lain": 1.7,
+    "persen_serapan_Indonesia": 61.7,
+    "butir_bertag": 44,
+    "butir_total": 60
+   },
+   "madlad3b_zeroshot": {
+    "persen_AM_atau_Batak_lain": 0.0,
+    "persen_serapan_Indonesia": 58.3,
+    "butir_bertag": 36,
+    "butir_total": 60
+   }
+  },
+  "C3": {
+   "AM": 49,
+   "Toba": 1
+  },
+  "C5": {
+   "per_status": {
+    "dari penutur asli": {
+     "AM_dan_Toba_perbatasan": 0,
+     "AM_saja": 5,
+     "bukan_Batak": 1,
+     "juga_Toba_umum": 0
+    },
+    "kandidat baru (statistik)": {
+     "AM_dan_Toba_perbatasan": 8,
+     "AM_saja": 87,
+     "bukan_Batak": 6,
+     "juga_Toba_umum": 14
+    },
+    "penanda lama": {
+     "AM_dan_Toba_perbatasan": 3,
+     "AM_saja": 26,
+     "bukan_Batak": 0,
+     "juga_Toba_umum": 3
+    }
+   },
+   "penanda_lama_bukan_AM_saja": {
+    "giot": "AM_dan_Toba_perbatasan",
+    "akkon": "AM_dan_Toba_perbatasan",
+    "milas": "AM_dan_Toba_perbatasan",
+    "sarupo": "juga_Toba_umum",
+    "manyogot": "juga_Toba_umum",
+    "natuari": "juga_Toba_umum"
+   }
+  }
+ },
+ "verifikasi_lolos": "26 dari 26"
+}
