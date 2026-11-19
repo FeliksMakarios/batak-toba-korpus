@@ -1,0 +1,9 @@
+kelompok,metrik,rujukan,n,tau,bawah,atas
+semua,chrf,lama,240,0.404,0.314,0.48
+semua,chrf,baru,240,0.381,0.286,0.463
+semua,bleu,lama,240,0.353,0.274,0.429
+semua,bleu,baru,240,0.342,0.263,0.42
+fine_tuned,chrf,lama,120,0.269,0.152,0.383
+fine_tuned,chrf,baru,120,0.235,0.111,0.354
+fine_tuned,bleu,lama,120,0.284,0.174,0.386
+fine_tuned,bleu,baru,120,0.254,0.134,0.36

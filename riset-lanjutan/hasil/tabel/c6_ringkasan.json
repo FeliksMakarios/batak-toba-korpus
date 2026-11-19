@@ -1,0 +1,31 @@
+{
+ "diubah": 172,
+ "dari": 266,
+ "per_keputusan": {
+  "perbaiki_makna": 98,
+  "benar": 94,
+  "perbaiki_kata": 74
+ },
+ "chrf_baru_vs_lama_median": 68.57294709659887,
+ "chrf_baru_vs_lama_korpus": 67.9771116462842,
+ "per_genre": {
+  "benar": {
+   "Contemporary Media": 89,
+   "Educational": 5
+  },
+  "perbaiki_kata": {
+   "Contemporary Media": 53,
+   "Educational": 21
+  },
+  "perbaiki_makna": {
+   "Contemporary Media": 56,
+   "Educational": 42
+  }
+ },
+ "chrf_perbaiki_kata": 72.63059544633482,
+ "chrf_perbaiki_makna": 65.00417735175245,
+ "spearman_rank_semua": 0.9911764705882352,
+ "spearman_rank_asli_indonesia": 0.9911764705882352,
+ "esa_item_ref_diubah": 68,
+ "esa_item_total": 240
+}
