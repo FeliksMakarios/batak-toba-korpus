@@ -1,0 +1,411 @@
+pair_id,split,lembar,keputusan,teks_bbc_baru,teks_id_baru,catatan
+doc_0073_s007,latih,C1,revise_translation,"Marhite i, guru Kristen boi manogu angka sisean laho lam tang di bagasan haporseaon dohot parange, pasirsirhon nasida gabe halak na martanggung jawab dohot marhapantason na patuduhon holong ni Kristus di tongatonga ni natorop.",,"Kalk harfiah ""Dohot songon i"" (Dengan demikian) serta ketidaktepatan leksikal ""mangonjar"" (mendorong, seharusnya lam tang/martumbur = bertumbuh) dan ""marhadomuan"" (berhubungan, seharusnya martanggung jawab)."
+doc_0002_s013,uji,C1,accept,,,Terjemahan sudah tepat dan alami dalam bahasa Batak Toba.
+doc_0096_s045,latih,C1,accept,,,Terjemahan sepadan dan wajar untuk ragam santai/media kontemporer.
+doc_0003_s001,latih,C1,fragment_policy,,,Potongan baris puisi tanpa tanda baca akhir; secara leksikal sudah sepadan.
+doc_0097_s049,latih,C1,revise_translation,"Jala molo nunga ruar karya seni i tu natorop, karya seni i ndang nampuna ni na mambahen seni i be, alai nunga gabe nampuna ni saluhut jolma.",,"Kata ""sining"" bukan kosakata Batak Toba yang baku untuk ""seni"" (bentuk artifisial/hiperkoreksi)."
+doc_0087_s001,latih,C1,revise_translation,"Dirajumi Presiden i, Bandara Internasional Silangit gabe harbangan di angka wisatawan na ro manopot jala harbangan kreativitas pangaradotion ni adat Batak.",,"Kata ""sihabang"" (dari akar habang = terbang) tidak tepat untuk menerjemahkan ""wisatawan""."
+doc_0091_s023_b,uji,C1,revise_translation,"Ringkot do mentoring, coaching, dohot marsiajar na gomos, asa boi dipadomu ibana parasingan ni hatauon di kampus dohot di industri i.",,"Frasa ""dibahen ibana jurang"" berarti ""dibuatnya jurang"", berlawanan makna dengan ""dijembataninya"" (dipadomu/dipasada)."
+doc_0084_s007,latih,C1,revise_translation,"Alai, marganti ni tingki, jabu on gabe jabu ni pangisi ni luat i.",,"Kata ""marsihohot"" berarti bertekun/berpegang teguh, tidak tepat untuk menerjemahkan ""seiring berjalannya waktu"" (marganti ni tingki / lam leleng)."
+doc_0094_s043,latih,C1,accept,,,Terjemahan sudah akurat dan idiomatis.
+doc_0080_s030_b,uji,C1,accept,,,"Terjemahan tepat; memuat serapan adaptasi (manaliti, manerjemahon) yang wajar dalam ragam media."
+doc_0081_s018,latih,C1,revise_translation,"Ala huruf-hurufna marharoroan sian Sanskerta, jadi surat ni hata Batak i dipungka sian hambirang tu siamun.",,"Bentuk morfologi ""diparparjolo"" tidak lazim untuk menerjemahkan ""dimulai"" (seharusnya dipungka)."
+doc_0095_s010,latih,C1,revise_translation,"Di taon paduahon ahu singkola disi, dohot-dohotan ma ahu mangihuthon dongan masuk tu Unit Kesenian Sumatera Utara (UKSU) di kampus.",,"Frasa ""hundul ma ahu"" berarti ""duduklah saya"", tidak tepat untuk menerjemahkan ""saya ikut-ikutan""."
+doc_0060_s032,latih,C1,revise_translation,"Marhite i, boi do taambil ojahan, pangulaon ni sasahalak ndada faktor panentu.",,"Kata ""sipunihonta"" (simpulkan) dan ""panghulaan"" (usaha) merupakan bentukan tidak baku."
+doc_0093_s032,latih,C1,accept,,,Terjemahan sepadan dan alami.
+doc_0061_s027,uji,C1,revise_translation,Pangaturon ni inganan gabe na ringkot situtu didongani pangaradotion ni humaliang dohot pangaturon ni natorop asa boi masiurupan dohot pamarentah.,,"Kata ""pangaloion"" berarti perlawanan (bukan pengelolaan/pangaradotion) dan ""masisalpuan"" berarti saling mendahului/memaafkan (bukan bersinergi/masiurupan)."
+doc_0095_s025,latih,C1,accept,,,Terjemahan sudah tepat dan lancar.
+doc_0097_s036,latih,C1,revise_translation,Adong do pardalananna na ganjang taringot tu na manggambar dohot parsahiton ni tondi.,,"Frasa ""Ditoru panginongosanna"" tidak bermakna ""Ia memiliki perjalanan"" (""ditoru"" = di bawah; ""panginongosanna"" bukan kosakata Toba baku)."
+doc_0095_s040,latih,C1,revise_translation,"Tingki hubahen statushu gabe mahasiswa ITB, angka jolma hira na marpandangan na lobi denggan taringot tu ahu.",,"Frasa ""molo mangalusi"" berarti ""jika menjawab"", salah menerjemahkan ""seolah-olah punya""."
+doc_0082_s005,latih,C1,revise_translation,"Songon bangso na asing, bangso Batak pe marparasingan adat dohot budaya sandiri di ragam ni parngoluon.",,"Kata ""mar-parbadanan"" adalah bentukan tidak baku untuk menerjemahkan ""memiliki kekhasan""."
+doc_0082_s049,latih,C1,fragment_policy,,,Potongan teks berupa butir daftar (list item); secara makna sudah tepat.
+doc_0078_s008,latih,C1,accept,,,Terjemahan sudah tepat dan wajar.
+doc_0002_s005,uji,C1,revise_translation,Ho na marmudumuduhon ahu sian na menek.,,"Baris puisi/lirik; bentuk ""sian ma menek"" tidak tepat secara gramatikal (seharusnya ""sian na menek"")."
+doc_0096_s012,latih,C1,revise_translation,Alana Amonghu sandiri pe ndang olo mamangke marga di pudi ni goarna di ganup tanda dirina.,,"Kata ""Parsulanganna"" bukan kata baku Batak Toba untuk ""alasannya"" (seharusnya Alana/Bonsirna), dan makna ""tidak mau"" perlu diterjemahkan ""ndang olo""."
+doc_0089_s001,uji,C1,revise_translation,"Punguan musik na margoar Toba World na niuluhon ni musisi Viky Sianipar mamboan las ni roha tu angka panonton di Eropa marhite penampilan parjolona di Kota Ljubljana, Slovenia.",,"Kata ""siginjang"" (yang di atas/tinggi) salah menerjemahkan ""penonton"", dan ""mangalasoni"" bukan verba baku."
+doc_0084_s037,latih,C1,fragment_policy,,,Potongan teks berupa subjudul bagian dokumen.
+doc_0078_s097,latih,C1,fragment_policy,,,Potongan teks berupa butir daftar nama minuman tradisional.
+doc_0072_s002,uji,C1,revise_translation,"Di sisi na asing, gareja jotjot mangasahon soara panurirangon laho pasahathon protes tu pamarentah laho mangatasi parungkilon ni hapogoson, alai hurang mamereng peran ni sasahalak dohot pangantusion taringot tu analisa ekonomi na sintong.",,"Frasa ""mangulahon dang sadalan"" (melakukan protes) dan ""marhatigoran parange ni sada-sada"" (memperhatikan peranan individu) tidak idiomatis dan mengaburkan makna."
+doc_0058_s006_a,latih,C1,accept,,,Terjemahan sudah tepat dan sepadan.
+doc_0053_s019,latih,C1,fragment_policy,,,Potongan baris puisi/lirik lagu tanpa tanda baca akhir; terjemahan leksikal sudah tepat.
+doc_0060_s033,latih,C1,revise_translation,"Adong do faktor na asing na manontuhon parbuena di ujungna, i ma faktor tua (hoki) dohot sial (apes).",,"Kata ""hasusorna"" tidak tepat untuk ""hasil akhirnya"" (seharusnya ujungna/parbuena); kata ""hoki"" dan ""apes"" adalah serapan kolokial Indonesia."
+doc_0079_s005,latih,C1,revise_translation,"Parbue ni ulaonna i ma hajongjongan ni sada gareja Protestan na maraliran Lutheran na umbalga di Indonesia di tonga-tonga ni bangso Batak Toba, i ma Huria Kristen Batak Protestan (HKBP).",,"Kata ""Haroro"" berarti ""kedatangan"", kurang tepat untuk menerjemahkan ""berdirinya"" (hajongjongan)."
+doc_0057_s012,latih,C1,accept,,,Terjemahan lirik/kalimat pendek sudah tepat.
+doc_0080_s055,uji,C1,accept,,,Terjemahan sudah tepat dan ekspresif.
+doc_0020_s000,latih,C1,accept,,,"Umpama Batak Toba asli; terdapat salah ketik ringan pada teks Indonesia (""jenih"" -> ""jernih"", ""dibelakang"" -> ""di belakang"")."
+doc_0002_s009,uji,C1,fragment_policy,,,Potongan baris lirik/puisi tanpa subjek eksplisit; secara makna sudah sepadan.
+doc_0082_s022,latih,C1,fragment_policy,,,Kalimat pengantar daftar yang menggantung pada tanda titik dua.
+doc_0000_s003,latih,C1,accept,,,Kalimat sastra klasik Batak Toba yang sepadan dengan terjemahannya.
+doc_0079_s009,latih,C1,revise_translation,"Anak na parjolo digoari Batara Guru na gabe Debata Hatigoran, Soripada na gabe Debata Parasiroha, jala Mangala Bulan na gabe haroroan ni hajahaton jala debata na umgogo di antara ni na tolu on.",,"Kata ""hagaleon"" berarti ""kelemahan"", salah menerjemahkan ""kejahatan"" (hajahaton)."
+doc_0088_s024,validasi,C1,accept,,,Terjemahan sudah tepat.
+doc_0068_s003,uji,C1,revise_translation,Dalan na dipangke laho papunguhon data i ma dalan mananginangi (simak) dohot dalan marhata (cakap).,,"Frasa ""pahombarhon sura-sura"" berarti ""menyelaraskan keinginan/cita-cita"", salah menerjemahkan ""mengumpulkan data"" (papunguhon data)."
+doc_0095_s018,latih,C1,accept,,,"Terjemahan berterima untuk ragam kontemporer (memuat serapan ""paling"")."
+doc_0003_s003,latih,C1,fragment_policy,,,Potongan baris puisi tanpa tanda baca akhir; secara leksikal sudah tepat.
+doc_0071_s000,latih,C1,revise_translation,Hatop ni parheheon ni teknologi dohot digitalisasi nunga mamboan parhepengon digital na ditandai marhite timbo ni parheheon ni usaha dohot transaksi partigatigaan na marojahan tu teknologi.,,"Kata ""Panggabean"" (berkat kemakmuran adat) salah digunakan untuk ""digitalisasi"", dan ""parbungaan"" tidak bermakna ""bisnis""."
+doc_0080_s064,uji,C1,revise_translation,"Dung pitu taon Nommensen mangulahon parjamitaan, halak Batak na masuk Kristen godangna 1.250 halak.",,"Kata ""marragam"" berarti ""bermacam-macam/beragam"", salah menerjemahkan ""berjumlah"" (godangna / marbilangan)."
+doc_0061_s009,uji,C1,revise_translation,"Molo naeng mangulahon pambangunan na manongtong, ingkon marpangunsandean tu Sustainable Development Goals (SDGs) na gabe padan rap laho patupahon portibi na dumenggan.",,"Kata ""pangallanggaran"" tidak bermakna ""pembangunan"" (justru mengarah pada pelanggaran)."
+doc_0082_s034,latih,C1,fragment_policy,,,Kalimat pengantar daftar yang menggantung pada tanda titik dua.
+doc_0097_s031,latih,C1,revise_translation,"Ala tung somal situtu do, seni i mambahen parhorong-horongon ni angka na manghalomohonsa sandiri.",,"Kata ""sining"" tidak baku untuk ""seni"", dan konjungsi ""Alai"" (tetapi) tidak sepadan dengan ""Karena"" (Ala)."
+doc_0086_s008,latih,C1,revise_translation,"""Lapatanna molo nunga boi songgop disi kapal habang na bolon, boi ma takampanyehon pariwisata i tu angka wisatawan sian Hong Kong, China, India, dohot Taiwan asa boi nasida ro tuson, marhitehite kapal habang reguler manang sewaan (carter),"" hata ni Menhub.",,"Kata ""partondian"" berarti kerohanian/spiritualitas (bukan pariwisata) dan ""sihabang"" berarti yang terbang (bukan wisatawan)."
+doc_0000_s024,latih,C1,accept,,,"Terjemahan naratif cerita tradisional; teks Indonesia melakukan eksplisitasi konteks ('pesan mertuanya', 'berburu') yang wajar dalam saduran sastra."
+doc_0078_s077,latih,C1,fragment_policy,,,Potongan teks berupa butir daftar nama makanan tradisional.
+doc_0045_s000,latih,C1,accept,,,Umpama Batak Toba asli dan terjemahannya sudah tepat.
+doc_0084_s041,latih,C1,revise_translation,"Angkup ni i, ruang on pe somalna dipangke gabe ruang tamu manang inganan patupahon ulaon adat.",,"Frasa ""Padahal i"" (padahal itu) tidak tepat untuk menerjemahkan ""Selain itu"" (Angkup ni i / Asing ni i)."
+doc_0091_s025,uji,C1,fragment_policy,,,Potongan teks berupa butir daftar (list item); terjemahan sudah sepadan.
+doc_0063_s011,latih,C1,revise_translation,"Konsep Ikigai i sasintongna mansai maol do antusan, alai natorop di Jepang mangalapathon Ikigai marhite dalan na mura songon ‘sada alana boasa hita dungo di manogot’ manang ‘sada ojahan laho mangolu’.",,"Kata ""lumban"" dalam bahasa Batak Toba berarti ""kampung/dusun"", salah digunakan untuk menerjemahkan ""alasan"" (alana/ojahan)."
+doc_0000_s048,latih,C1,accept,,,Teks naratif klasik Batak Toba dan terjemahannya sudah sepadan.
+doc_0065_s017,latih,C1,revise_translation,"Di sisi na asing, marhite si Fatima, marsiajar ma si Santiago taringot tu holong na sintong na palashon rohana.",,"Frasa ""pasohot rohana"" berarti ""menghentikan/mendiamkan hatinya"", salah menerjemahkan ""menghangatkan hatinya"" (palashon rohana)."
+doc_0075_s034,latih,C1,accept,,,Terjemahan sudah akurat dan lengkap.
+doc_0092_s044_b,validasi,C1,accept,,,Terjemahan sangat alami dan sepadan.
+doc_0078_s039,latih,C1,accept,,,Terjemahan tepat dan idiomatis.
+doc_0001_s003_a,uji,C1,revise_translation,Dung i ditogihon Si Toba ma borua na uli na tudos tu sada dengke i asa marbagas nasida.,,"Kata ""ale"" (hai/tetapi) salah digunakan sebagai kata penghubung relatif ""yang"" (seharusnya ""na""), serta ""i togihon"" seharusnya ""ditogihon""."
+doc_0097_s024,latih,C1,revise_translation,"Seni i, saleleng ndang mangarugihon halak na asing, tongtong dope dirajumi gabe seni.",,"Kata ""sining"" bukan kosakata baku Batak Toba untuk ""seni""."
+doc_0000_s049,latih,C1,accept,,,Teks sastra tradisional Batak Toba dan terjemahannya sudah sepadan.
+doc_0068_s006,uji,C1,revise_translation,Dalan marhata i dipargunahon do nang laho papunguhon data lisan.,,"Kata ""marhusip"" berarti ""berbisik/meminang"", kurang tepat untuk istilah linguistik ""metode cakap"" (dalan marhata), dan ""mangalului parbinotoan na di dok"" tidak tepat untuk ""mengumpulkan data lisan""."
+doc_0002_s017,uji,C1,accept,,,Kalimat lirik/sastra Batak Toba yang tepat.
+doc_0093_s015,latih,C1,revise_translation,Bidang on ma sada bidang naung rame dihatai di dunia startup manang parusahaan na imbaru di Indonesia nang di luat na asing.,,"Frasa ""na so pola leas"" berarti ""yang tidak begitu hina/remeh"", salah menerjemahkan ""yang sedang hangat [dibicarakan]""."
+doc_0091_s006,uji,C1,accept,,,Terjemahan sudah tepat dan komunikatif.
+doc_0077_s028,uji,C1,accept,,,Terjemahan sudah tepat.
+doc_0000_s029_a,latih,C1,accept,,,Teks dialog tradisional Batak Toba yang alami dan sepadan.
+doc_0095_s024,latih,C1,accept,,,Terjemahan sudah tepat dan sepadan.
+doc_0074_s005,validasi,C1,revise_translation,"Simpulan ni panulingkian on i ma tangiang di bagasan hakristenon ingkon diantusi songon parsaoran na sian roha na sintong dohot Debata, patoguhon parsaoran marsasahalak manang rap dohot angka na asing tu Ibana.",,"Kata ""Sasinggangan"" tidak dikenal untuk menerjemahkan ""pribadi"" (seharusnya marsasahalak), dan ""Pangantusion"" berarti pemahaman (bukan kesimpulan/simpulan)."
+doc_0078_s095,latih,C1,fragment_policy,,,Potongan teks berupa butir daftar nama makanan tradisional.
+doc_0084_s048,latih,C1,accept,,,Terjemahan sudah tepat.
+doc_0080_s027,uji,C1,fragment_policy,Parjamita Utusan Rheinische Missionsgesellschaft,,"Potongan teks berupa subjudul bagian; selain itu ""Penginjil"" (pelaku) adalah ""Parjamita"" (bukan ""Parjamitaan"" = penginjilan)."
+doc_0095_s041,latih,C1,revise_translation,Na hucaritahon di ginjang i holan piga-piga tiruan sian pambahenan marhite hata na huadopi hami.,,"Kata ""huarsak"" berasal dari ""arsak"" (sedih/duka), tidak tepat untuk menerjemahkan ""kami alami"" (huadopi hami / hubolus hami)."
+doc_0000_s026_b,latih,C1,accept,,,Teks klasik Batak Toba; kata 'tunggane' tepat berarti saudara laki-laki istri (ipar).
+doc_0075_s024_a,latih,C1,accept,,,Terjemahan sudah akurat dan mengalir dengan baik.
+doc_0092_s013_a,validasi,C1,accept,,,"Terjemahan sudah sepadan; kutipan bahasa Sunda (""Tong eleh ku OB atuh"") dan gaya percakapan dipertahankan sesuai konteks."
+doc_0094_s040,latih,C1,revise_translation,Marsiajar do ahu paboa ringkot tingki dohot roha na sadar asa unang manguhumi.,,"Kata ""Huarsak"" (dari arsak = sedih) salah menerjemahkan ""Aku belajar"" (Marsiajar do ahu), dan ""mangalusi"" berarti ""menjawab"", bukan ""menghakimi"" (manguhumi)."
+doc_0044_s000,uji,C1,accept,,,Umpama Batak Toba asli dan terjemahannya sudah tepat.
+doc_0077_s050,uji,C1,accept,,,Terjemahan sudah akurat dan informatif.
+doc_0049_s000,uji,C1,accept,,,Umpama Batak Toba asli (terdapat variasi ketik 'tinamba' dari 'tinaba') dan terjemahannya tepat.
+doc_0065_s023,latih,C1,revise_translation,"Di tongatonga ni parungkilon na maol i, diingot si Santiago ma pardalananna dohot saluhut poda na pinasahat ni angka halak na bisuk.",,"Kata ""doli-doli"" berarti ""pemuda/jejaka"", salah menerjemahkan ""orang bijak"" (halak na bisuk)."
+doc_0080_s061,uji,C1,fragment_policy,Parheheon ni Hakristenon dung Masuk Barita na Uli di Tano Batak,,"Potongan teks berupa subjudul bagian; kata ""Parhusor"" berarti perputaran/pergeseran (kurang tepat untuk perkembangan)."
+doc_0095_s012,latih,C1,revise_translation,"Di unit on, bebas do ganup ruas mamillit laho mangalehon gogo di musik manang di seni panortoron.",,"Frasa ""gabe masuk ma"" belum menerjemahkan makna ""bebas memilih"" pada kalimat sumber."
+doc_0076_s023,latih,C1,revise_translation,Punguan ni parugamo Malim na mangaradoti ulaon na so marhadomuan tu ugamo dohot administrasi.,,"Masalah variasi bahasa: menggunakan konjungsi Angkola-Mandailing ""dot"" (Toba: dohot) serta banyak kata Indonesia yang tidak diterjemahkan (penganut, mengatur, urusan)."
+doc_0084_s009,latih,C1,fragment_policy,,,Potongan teks berupa subjudul bagian dokumen.
+doc_0082_s026,latih,C1,revise_translation,- Siangkupna: ruas ni daging na humusor i ma holan rungkung.,,"Butir daftar; kata ""mar-rungguan"" berarti berkumpul/bermusyawarah, salah menerjemahkan ""bergerak"" (humusor/mangulmit)."
+doc_0090_s008,uji,C1,revise_translation,"""Aha na niulahon ni Ambroncius Nababan i, i ma pambahenan na mangalo uhum, jala tung mambahen gaor roha ni bangso Batak na mangolu marsidongan dohot natorop sian ragam ni suku na adong di Papua,"" ninna Makmur.",,"Frasa ""marhua-hua"" tidak bermakna ""meresahkan"" (seharusnya mambahen gaor / mangago roha)."
+doc_0058_s039,latih,C1,revise_translation,Buku on ingkon jahaon ni ganup halak na naeng mandalani angka hahomion ni kosmos dohot manjumpangi alus ni angka sungkun-sungkun na bolon taringot tu hangoluan.,,"Kata ""nalomang"" tidak dikenal dalam bahasa Batak Toba untuk menerjemahkan ""misteri"" (seharusnya hahomion)."
+doc_0078_s050,latih,C1,revise_translation,"Hau, bulu, huling-huling ni pinahan, dohot ragam ni suan-suanan na asing i ma bahan dasarna.",,"Kata ""tina-tinaan"" tidak baku untuk ""tumbuhan"" (seharusnya suan-suanan)."
+doc_0003_s010,latih,C1,revise_translation,Di bagasan langit ni andorangku,Di dalam hatiku,"Baris puisi pendek; ketidaksepadanan leksikal antara ""roha ku"" (hatiku) dan ""langit dadaku""."
+doc_0092_s044_a,validasi,C1,fragment_policy,,,"Potongan teks berupa butir daftar; memuat campur kode bahasa Inggris (enjoy, coding) sesuai teks sumber."
+doc_0060_s046_c,latih,C1,revise_translation,"Eahi ma investasi na mangalehon parbue na tuk, na ringkot boi hita mangatur risikona asa unang sega hita molo marharugian.",,"Salah ketik ""Eahii"" (seharusnya Eahi), kata ""marsitaon"" kurang tepat untuk ""mengalami kerugian"" (marharugian), dan ""hancur"" adalah serapan Indonesia (Toba: sega/ripur)."
+doc_0096_s052,latih,C1,accept,,,Ungkapan Batak Toba yang sangat idiomatis dan sepadan.
+doc_0088_s028,validasi,C1,accept,,,Terjemahan sudah tepat.
+doc_0091_s031,uji,C1,accept,,,Terjemahan sudah tepat dan wajar.
+doc_0075_s048,latih,C1,revise_translation,"Sahat tu bulan Desember 2024, nunga adong di HKBP 2.101 halak Pandita, 250 halak Calon Pandita, 244 halak Guru Huria, 50 halak Calon Guru Huria, 491 halak Bibelvrouw, 54 halak Calon Bibelvrouw, 345 halak Diakones, dohot 48 halak Calon Diakones.",,"Kesalahan terjemahan faktual pada teks Toba: ""244 Guru Huria"" ditulis ""calon guru huria"", ""Bibelvrouw"" ditulis ""pandita"", dan ""345 Diakones"" ditulis ""calon diakones""."
+doc_0082_s021,latih,C1,accept,,,Terjemahan sudah tepat.
+doc_0075_s026,latih,C1,accept,,,Terjemahan sangat alami dan akurat.
+doc_0078_s076,latih,C1,fragment_policy,,,Potongan teks berupa butir daftar nama makanan.
+doc_0001_s000,uji,C6,benar,,,Terjemahan bahasa Indonesia sudah tepat dan alami.
+doc_0001_s001,uji,C6,perbaiki_makna,,Kemudian ia mendapatkan seekor ikan mas lalu membawanya pulang ke rumah.,"Frasa keterangan tempat ""tu jabu"" (ke rumah) pada kalimat sumber belum diterjemahkan di rujukan lama."
+doc_0001_s002,uji,C6,perbaiki_kata,,"Saat si Toba sedang tidur, tiba-tiba berubahlah wujud ikan mas itu menjadi seorang perempuan yang sangat cantik dan Si Toba melihat perempuan itu.","Memperjelas makna ""pas modom"" (sedang tidur), ""pittor muba rupa"" (tiba-tiba berubah wujud), dan ""mansai uli"" (sangat cantik)."
+doc_0001_s003_a,uji,C6,benar,,,Rujukan bahasa Indonesia sudah tepat.
+doc_0001_s003_b,uji,C6,benar,,,Rujukan bahasa Indonesia sudah tepat.
+doc_0001_s004,uji,C6,benar,,,Rujukan bahasa Indonesia sudah tepat dan sepadan.
+doc_0001_s005,uji,C6,benar,,,Rujukan bahasa Indonesia sudah tepat.
+doc_0001_s006_a,uji,C6,benar,,,Rujukan bahasa Indonesia sudah tepat dan ekspresif.
+doc_0001_s006_b,uji,C6,benar,,,Rujukan bahasa Indonesia sudah tepat.
+doc_0002_s000,uji,C6,benar,,,Rujukan bahasa Indonesia sudah tepat mewakili makna lirik sumber.
+doc_0002_s001,uji,C6,benar,,,Rujukan bahasa Indonesia sudah tepat menerjemahkan istilah puitis 'damang parsinuan'.
+doc_0002_s002,uji,C6,perbaiki_kata,,"Tetapi Ibu, lebih perih lagi yang kurasakan.","Ungkapan ""humassit do di ahu"" lebih tepat dan alami diterjemahkan ""lebih perih/menyakitkan lagi bagiku (yang kurasakan)"" daripada ""jadi aku""."
+doc_0002_s003,uji,C6,benar,,,Rujukan bahasa Indonesia sudah tepat.
+doc_0002_s004,uji,C6,benar,,,Rujukan bahasa Indonesia sudah tepat.
+doc_0002_s005,uji,C6,benar,,,"Rujukan bahasa Indonesia sudah tepat (catatan: pada teks sumber terdapat salah ketik ""sian ma menek"" untuk ""sian na menek"")."
+doc_0002_s006,uji,C6,benar,,,Rujukan bahasa Indonesia sudah tepat.
+doc_0002_s007,uji,C6,benar,,,Rujukan bahasa Indonesia sudah tepat.
+doc_0002_s008,uji,C6,benar,,,Rujukan bahasa Indonesia sudah tepat.
+doc_0002_s009,uji,C6,benar,,,Rujukan bahasa Indonesia sudah tepat.
+doc_0002_s010,uji,C6,benar,,,Rujukan bahasa Indonesia sudah tepat.
+doc_0002_s011,uji,C6,benar,,,Rujukan bahasa Indonesia sudah tepat.
+doc_0002_s012,uji,C6,benar,,,Rujukan bahasa Indonesia sudah tepat.
+doc_0002_s013,uji,C6,benar,,,Rujukan bahasa Indonesia sudah tepat.
+doc_0002_s014,uji,C6,benar,,,Rujukan bahasa Indonesia sudah tepat.
+doc_0002_s015,uji,C6,benar,,,Rujukan bahasa Indonesia sudah tepat.
+doc_0002_s016,uji,C6,benar,,,Rujukan bahasa Indonesia sudah tepat.
+doc_0002_s017,uji,C6,benar,,,Rujukan bahasa Indonesia sudah tepat.
+doc_0004_s000,uji,C6,benar,,,Terjemahan umpama sudah tepat.
+doc_0013_s000,uji,C6,benar,,,Terjemahan umpama sudah tepat.
+doc_0014_s000,uji,C6,benar,,,Terjemahan umpama sudah tepat.
+doc_0017_s000,uji,C6,benar,,,Terjemahan umpama sudah tepat.
+doc_0019_s000,uji,C6,benar,,,Terjemahan umpama sudah tepat.
+doc_0030_s000,uji,C6,benar,,,Terjemahan umpama sudah tepat.
+doc_0036_s000,uji,C6,benar,,,Terjemahan sampiran umpasa sudah tepat.
+doc_0044_s000,uji,C6,benar,,,Terjemahan umpama sudah tepat.
+doc_0046_s000,uji,C6,benar,,,Terjemahan umpama hukum adat sudah tepat.
+doc_0049_s000,uji,C6,perbaiki_kata,,"Yang ditebang kapak akan bertunas, yang ditebang sumpah mati tak akan berketurunan","Memperbaiki ejaan tidak baku bahasa Indonesia ""kampak"" menjadi ejaan baku KBBI ""kapak""."
+doc_0054_s000,uji,C6,benar,,,Terjemahan baris puisi sudah tepat.
+doc_0054_s002,uji,C6,benar,,,Terjemahan baris puisi sudah tepat.
+doc_0054_s003,uji,C6,benar,,,Terjemahan baris puisi sudah tepat.
+doc_0054_s004,uji,C6,benar,,,Terjemahan baris puisi sudah tepat.
+doc_0054_s005,uji,C6,benar,,,Terjemahan baris puisi sudah tepat.
+doc_0054_s006,uji,C6,benar,,,Terjemahan baris puisi sudah tepat.
+doc_0054_s007,uji,C6,benar,,,Terjemahan baris puisi sudah tepat dan informatif.
+doc_0061_s000,uji,C6,perbaiki_kata,Judul ni Buku: Huta na Pistar jala na Manongtong,,"Frasa ""Goar ni Buku"" diperjelas menjadi ""Judul ni Buku"", dan ""Kota Cerdas Berkelanjutan"" lebih tepat diterjemahkan ""Huta na Pistar jala na Manongtong""."
+doc_0061_s001,uji,C6,benar,,,Rujukan sudah tepat dan jelas.
+doc_0061_s002,uji,C6,benar,,,Rujukan sudah tepat; nama penerbit dipertahankan sesuai aturan.
+doc_0061_s004,uji,C6,perbaiki_makna,"Buku Huta na Pantas Marparbinotoan jala na Manongtong na sinurat ni Nirwono Joga dohot donganna, i ma buku na mangulas parsoalan na ringkot di bagasan na pajongjong huta na pistar jala na manongtong, mamungka sian panangkasion rencana, pangaturon ni inganan, pangaradotion, dohot pambangunan.",,"Pada rujukan lama, kata ""Berkelanjutan"" di judul tertinggal, ""isu strategis"" diterjemahkan ""tudosan"" (perumpamaan), ""perencanaan"" diterjemahkan ""na marparange"" (berkelakuan), dan ""pengelolaan"" diterjemahkan ""pangaloion"" (perlawanan)."
+doc_0061_s005,uji,C6,perbaiki_makna,"Huta gabe pusat ni ulaon ni natorop nang pamarentahan ingkon patujolohon nilai-nilai na denggan tu humaliang, denggan tu parsaoran sosial, dohot na manongtong.",,"Frasa ""parngoluon pardangingan"" berarti kehidupan badaniah/jasmani, tidak tepat untuk menerjemahkan ""sosial"" (parsaoran sosial), dan ""parngoluon tano"" diperbaiki menjadi ""humaliang"" (lingkungan)."
+doc_0061_s006,uji,C6,perbaiki_makna,"Pambangunan ni huta na pantas marparbinotoan jala na manongtong i, ingkon manimbanghon ragam ni aspek, mamungka sian aspek parsaoran dohot budaya, aspek humaliang, aspek pangaturon ni inganan, dohot aspek parhepengon.",,"Kata ""Pangallanggaran"" tidak bermakna ""pembangunan"" (pambangunan/pajongjongon), ""parsiajaran"" berarti pelajaran (bukan aspek), dan ""pardangingan"" berarti jasmani (bukan sosial budaya)."
+doc_0061_s007,uji,C6,perbaiki_kata,"Andorang so diulahon dope pambangunan ni huta na pantas marparbinotoan jala na manongtong i, ingkon ditontuhon jolo angka parsoalan na jotjot masa di huta bolon.",,"Kata ""pangallanggaran"" diganti dengan ""pambangunan"" agar tepat mewakili ""pembangunan"", serta ""tontuon"" diperbaiki menjadi bentuk pasif ""ditontuhon""."
+doc_0061_s008,uji,C6,perbaiki_makna,"Di bagasan buku on, dipatorang do adong onom parsoalan, i ma hasadaon sosial demografis, parsoalan pangaturon ni inganan, humaliang ekologis ni huta bolon, rangkoman ulaon ni huta, parasingan ni huta dohot luat, dohot panghobasion dasar rap dohot inganan parmianan.",,"Pada rujukan lama, ""kohesi sosial demografis"" salah diterjemahkan menjadi ""parsatongkinan ni parngoluon pardangingan dohot parpangarantoan"" (kesementaraan hidup jasmani dan perantauan), dan ""kesenjangan"" diterjemahkan ""paraloan"" (perlawanan)."
+doc_0061_s009,uji,C6,perbaiki_kata,"Molo naeng mangulahon pambangunan na manongtong, ingkon marpangunsandean tu Sustainable Development Goals (SDGs) na gabe padan rap laho patupahon portibi na dumenggan.",,"Menggunakan usulan pemeriksaan sebelumnya: memperbaiki ""pangallanggaran na hot"" menjadi ""pambangunan na manongtong"" dan ""patontu tano"" menjadi ""patupahon portibi""."
+doc_0061_s010,uji,C6,perbaiki_makna,Panangkasion rencana di pambangunan ni huta diulahon sacara marsada di holang-holang ni pamarentah dohot natorop laho rap mandohoti di na patupahon angka haputusan kebijakan.,,"Kata ""Parangean"" (kelakuan) salah menerjemahkan ""Perencanaan"", ""pangallanggaran"" salah menerjemahkan ""pembangunan"", dan ""masisalpuan"" (saling mendahului/memaafkan) salah menerjemahkan ""saling berpartisipasi""."
+doc_0061_s011,uji,C6,perbaiki_makna,Tujuan ni panurat na manurat buku on i ma laho mangalehon barita taringot tu parsoalan na ringkot di pambangunan ni huta dohot ruhut-ruhut laho mangulahon pambangunan ni huta na pantas marparbinotoan jala na manongtong.,,"Kata ""informasi"" (barita) hilang pada rujukan lama, ""isu strategis"" salah diterjemahkan menjadi ""tudosan"" (perumpamaan), ""tata cara"" menjadi ""parange"" (sifat), dan ""pembangunan"" menjadi ""pangallanggaran""."
+doc_0061_s012,uji,C6,perbaiki_makna,"Paradehon inganan pasahathon pandapot tu natorop nang punguan di na patupahon strategi, gabe dalan masiurupan di tingki mangulahon pambangunan nang pangaradotion ni huta na manongtong.",,"Frasa ""marparangehon ulaon"" dan ""pangallanggaran dohot panoranghon"" tidak tepat untuk menerjemahkan ""penyusunan strategi"" dan ""pelaksanaan pembangunan maupun penyelenggaraan""."
+doc_0061_s013,uji,C6,perbaiki_kata,Pajongjongon huta ingkon mangihuthon parheheon ni tingki marhite na pamurahon panghobasion tu natorop songon pamangkeon ni aplikasi.,,"Kata ""panghulaan"" bukan kosakata baku untuk ""penggunaan"" (seharusnya pamangkeon), dan ""layanan publik"" lebih tepat ""panghobasion tu natorop""."
+doc_0061_s014,uji,C6,perbaiki_kata,I ma na gabe partanda ni smart city na mangondolhon peran ni teknologi songon parhitean di pangaradotion ni huta bolon.,,"Kata ""parripe"" berarti warga/keluarga (tidak tepat untuk ""peran""), dan ""panoranghon"" diperbaiki menjadi ""pangaradotion"" (penyelenggaraan)."
+doc_0061_s015,uji,C6,perbaiki_makna,Pariwisata i ma na gabe arta dohot investasi ni huta laho mandapot haroroan ni pandapotan.,,"Kata ""Pardalanan-dalanan"" terlalu sempit untuk ""Pariwisata"", dan ""investasi"" salah diterjemahkan menjadi ""parbinotoan"" (pengetahuan)."
+doc_0061_s016,uji,C6,perbaiki_makna,"Ugasan pusaka dohot arta tading-tadingan sian tingki naung salpu i, boi gabe nilai hadiron (jatidiri) di budaya ni luat i.",,"Frasa ""parngoluon pardangingan"" berarti kehidupan jasmani, salah menerjemahkan ""jatidiri bagi kebudayaan"" (hadiron di budaya)."
+doc_0061_s017,uji,C6,perbaiki_kata,"Di sisi na asing, i boi marpotensi gabe pariwisata na marhadomuan tu parheheon ni parhepengon di humaliangna.",,"Kata ""marpangunsandean"" berarti bersandar (kurang tepat untuk ""berkorelasi"" = marhadomuan), dan ""pangangkatahonon"" tidak baku untuk ""peningkatan"" (parheheon/hatimbulon)."
+doc_0061_s018,uji,C6,perbaiki_makna,Pambangunan ni huta na pantas marparbinotoan jala na manongtong i ingkon manimbanghon potensi sian ganup luat na adong.,,"Kata ""artian"" berarti arti/makna, salah menerjemahkan ""potensi"", dan ""pangallanggaran"" diganti menjadi ""pambangunan""."
+doc_0061_s019,uji,C6,perbaiki_makna,"Di bagasan buku on, diparade do ruhut-ruhut laho pahehehon potensi ni luat na boi gabe na sumurung di sada huta.",,"Kata ""parange"" (kelakuan) salah menerjemahkan ""tata cara"" (ruhut-ruhut), dan ""artian"" (makna) salah menerjemahkan ""potensi""."
+doc_0061_s020,uji,C6,perbaiki_kata,Songon tudosan strategi pajongjong huta kepulauan na manimbanghon faktor humaliang dohot hatop mangadopi mara.,,"Kata ""parngoluon tano"" diperbaiki menjadi ""faktor humaliang"" (faktor lingkungan) dan ""hiras tu mara"" diperjelas menjadi ""hatop mangadopi mara"" (tanggap bencana)."
+doc_0061_s021,uji,C6,perbaiki_makna,Panangkasion rencana green city ingkon dirancang sian julu sahat tu jae asa hot tarjaga humaliang i jala unang mambahen masa mara.,,"Kata ""Parangean"" tidak bermakna ""Perencanaan"", ""hulu hingga hilir"" dalam bahasa Toba asli adalah ""sian julu sahat tu jae"", dan ""marlinting"" tidak bermakna ""ketahanan terjaga""."
+doc_0061_s022,uji,C6,perbaiki_makna,"Songon tudosan pangaturon ni sanitasi dohot pangaradotion ni rapan (sampah) na gaor i, boi gabe parsoalan molo nunga godang jolma na maringanan di huta i.",,"Kata ""pangaloion"" berarti perlawanan (bukan pengelolaan = pangaradotion), dan ""uran"" bukan kata Toba baku untuk ""sampah"" (rapan/rangkoman kotor)."
+doc_0061_s023,uji,C6,perbaiki_kata,"Angkup ni i, parsoalan taringot tu hasosakan dalan (kemacetan), hajahaton (kriminalitas), dohot polusi boi gabe sahit ni huta (urban ills).",,"Kata ""Dungi"" berarti ""kemudian"" (kurang tepat untuk ""Selain itu"" = Angkup ni i), dan ""pangalaon"" diperjelas menjadi ""hajahaton (kriminalitas)""."
+doc_0061_s024,uji,C6,perbaiki_kata,"Prinsip pambangunan ni huta na rata jala na manongtong i, ingkon manimbanghon parhusoron ni huta na boi masa di tingki na naeng ro di sada luat.",,"Kata ""pangallanggaran"" diganti dengan ""pambangunan"", dan ""na rata-rata"" (yang rata-rata) diperbaiki menjadi ""na rata"" (hijau)."
+doc_0061_s025,uji,C6,perbaiki_makna,Panangkasion rencana pambangunan ingkon marnida aspek partanda khas ni luat i laho manjaga hadameon dohot hasadaon sosial budaya.,,"Frasa ""Panarion pangallanggaran"" (tarian pelanggaran) dan ""parsiajaran parngoluon pardangingan"" (pelajaran kehidupan jasmani) salah menerjemahkan ""Perencanaan pembangunan"" dan ""karakteristik wilayah / sosial budaya""."
+doc_0061_s026,uji,C6,perbaiki_kata,Buku on tung mansai lengkap jala bagas di na mangulas pambangunan ni huta asa manongtong.,,"Kata ""balga situtu"" berarti sangat besar secara fisik (kurang tepat untuk ""sangat kompleks""), dan ""pangallanggaran"" diganti menjadi ""pambangunan""."
+doc_0061_s027,uji,C6,perbaiki_makna,Pangaturon ni inganan gabe na ringkot situtu didongani pangaradotion ni humaliang dohot pangaturon ni natorop asa boi masiurupan dohot pamarentah.,,"Menggunakan usulan pemeriksaan sebelumnya: memperbaiki ""pangaloion"" (perlawanan) menjadi ""pangaradotion"" (pengelolaan) dan ""masisalpuan"" menjadi ""masiurupan"" (bersinergi)."
+doc_0061_s028,uji,C6,perbaiki_makna,"Tung mansai suman dipangke gabe pangunsandean ni pamarentah dohot natorop di pambangunan ni luat, tarlumobi ma muse di tingki saonari Indonesia naung mangarangrangi pambangunan ni ibu kota na imbaru.",,"Terdapat salah ketik ""pni"" (seharusnya ni), serta kata ""pangallanggaran"" dan ""marparangehon"" tidak tepat untuk ""pembangunan"" dan ""merencanakan""."
+doc_0061_s029,uji,C6,perbaiki_makna,"Diparsinta do panusunon ni kebijakan tu joloan on mamungka sian Rencana Tata Ruang dan Wilayah (RTRW) sahat tu Rencana Detail Tata Ruang (RDTR) boi manghangkam aspek humaliang, sosial budaya, parhepengon, dohot politik asa tujuan ni pambangunan ni sada luat boi hombar dohot Sustainable Development Goals (SDGs).",,"Memperbaiki ""parangean"" (penyusunan), ""parngoluon pardangingan"" (sosial budaya), ""parpulikuan"" (perpecahan/memisahkan diri, salah untuk politik), dan ""pangallanggaran"" (pembangunan)."
+doc_0066_s000,uji,C6,perbaiki_kata,Panangkasion on martujuan laho manangkasi hatauon ni mahasiswa Fakultas Ilmu Komputer dan Ilmu Informasi (JTIK) Universitas Negeri Makassar (UNM) di bidang kecerdasan buatan (AI).,,"Bentuk verba aktif ""manangkasi"" lebih baku daripada ""manangkasion"", dan istilah teknis ""kecerdasan buatan (AI)"" dipertahankan karena ""Parbinotoan na Binagunan"" tidak lazim."
+doc_0066_s001,uji,C6,perbaiki_kata,"Marhite pendekatan lintas disiplin dohot desain panangkasion kuantitatif, dipapungu ma data marhite kuesioner na manghangkam angka aspek songon pangantusion konsep dasar AI, hatauon mamangke aplikasi AI, dohot hadirion ni roha taringot tu parsoalan etika di pamangkeon ni AI.",,"Kata ""dipahombar"" berarti diselaraskan/dibandingkan, tidak tepat untuk ""dikumpulkan"" (dipapungu)."
+doc_0066_s002,uji,C6,perbaiki_makna,"Hombar tu survei, godangan mahasiswa JTIK UNM marpangantusion na denggan taringot tu AI jala boi mamangke aplikasi AI di ulaon siganup ari, alai ingkon dipature dope sian segi etika.",,"Pada rujukan lama terdapat salah ketik ""panangkasioin"" dan klausa ""dan dapat menggunakan aplikasi AI"" hilang tidak diterjemahkan."
+doc_0066_s003,uji,C6,perbaiki_makna,"Pangantusion on boi mangurupi universitas mangarangrangi program AI na dumenggan, manumpahi parsiajaran AI na efektif, jala mangonjar semangat ni mahasiswa laho mangulahon panangkasion taringot tu AI.",,"Kata ""marparangehon AI"" (berkelakuan AI) salah menerjemahkan ""merancang program AI"", dan ""manghori"" bukan kata baku untuk ""memotivasi""."
+doc_0066_s004,uji,C6,perbaiki_makna,Panangkasion on pe mangalehon pangantusion taringot tu parheheon ni AI di bagasan sains dohot mangalehon tumpak tu,,"Kalimat sumber terpotong pada kata ""terhadap"", sedangkan rujukan lama menambahkan klausa ekstra yang tidak ada di sumber dan memakai ""marsada-sada"" (menyendiri) untuk ""berkontribusi""."
+doc_0066_s005,uji,C6,perbaiki_makna,"Alani i, panangkasion on mangalehon pamaresoan na lobi bagas taringot tu panghorhon ni parbinotoan taringot tu AI tu dalan parkarejoan ni parsiajar dung tamat, panolakon (paraloan) parbinotoan AI di sandok humaliang parsiajaran, dohot na manontuhon pangambati rap dohot parsohotan ni kompetensi AI nang ganggu ni roha taringot tu AI.",,"Kata ""penelitian"" belum diterjemahkan, ""panghori"" seharusnya ""panghorhon"" (pengaruh), dan ""parsatongkinan"" berarti kesementaraan (bukan pemberhentian = parsohotan)."
+doc_0066_s006,uji,C6,perbaiki_makna,Na marguna gabe ujung ni pardalanan ni proyek panangkasion na marhadomuan tusi di kampus.,,"Kata ""ulu"" berarti kepala/awal, berlawanan dengan kata sumber ""ujung"" (ujung/puncak)."
+doc_0068_s000,uji,C6,perbaiki_makna,Panangkasion on martujuan laho manggombarhon kategorisasi metafora konseptual holong ni roha di hata Batak Toba.,,"Istilah linguistik ""metafora konseptual"" salah diterjemahkan menjadi ""hata sipaingot na hombar"" (kata nasihat yang sesuai)."
+doc_0068_s001,uji,C6,perbaiki_makna,Data na dipargunahon i ma data na sinurat dohot data lisan.,,"Kata ""Sura-sura"" dalam bahasa Batak Toba berarti cita-cita/keinginan/maksud, salah digunakan untuk menerjemahkan ""data""."
+doc_0068_s002,uji,C6,perbaiki_makna,"Data na sinurat dapot sian ragam ni haroroan songon puisi, novel, dohot hata ni ende, jala data lisan dapot marhite wawancara dohot informan.",,"Kata ""Sura-sura"" (cita-cita) salah menerjemahkan ""Data"", dan ""suhut"" (tuan rumah adat) kurang tepat untuk ""sumber data"" (haroroan)."
+doc_0068_s003,uji,C6,perbaiki_makna,Dalan na dipangke laho papunguhon data i ma dalan mananginangi (simak) dohot dalan marhata (cakap).,,"Menggunakan usulan pemeriksaan sebelumnya: memperbaiki ""pahombarhon sura-sura"" (menyelaraskan keinginan) menjadi ""papunguhon data"" (mengumpulkan data)."
+doc_0068_s004,uji,C6,perbaiki_makna,"Teknik na dipargunahon i ma teknik udutna, i ma teknik dohot marhata (libat cakap).",,"Rujukan lama menghilangkan makna ""teknik lanjutan"" dan menerjemahkan ""cakap"" menjadi ""marhusip"" (berbisik/meminang)."
+doc_0068_s005,uji,C6,perbaiki_makna,Teknik mananginangi dohot marhata i ditumpahi marhite teknik marekam dohot teknik manurat.,,"Kata ""mambegei"" berarti mendengarkan, tidak tepat untuk menerjemahkan ""teknik rekam"" (teknik marekam)."
+doc_0068_s006,uji,C6,perbaiki_makna,Dalan marhata i dipargunahon do nang laho papunguhon data lisan.,,"Menggunakan usulan pemeriksaan sebelumnya: memperbaiki ""marhusip"" (berbisik) menjadi ""marhata"" (cakap) dan ""mangalului parbinotoan na di dok"" menjadi ""papunguhon data lisan""."
+doc_0068_s007,uji,C6,perbaiki_kata,Dalan marhata pe dipangke do laho mangalului barita taringot tu pangalaman holong ni roha ni angka informan (na mabotosa).,,"Kata ""dipake"" diganti dengan bentuk Batak Toba baku ""dipangke""."
+doc_0068_s008,uji,C6,perbaiki_makna,Dung i data i dipapungu ma hombar tu kategorisasina.,,"Kata ""dipahombar"" berarti dibandingkan/diselaraskan, tidak tepat untuk menerjemahkan ""dikumpulkan"" (dipapungu)."
+doc_0068_s009,uji,C6,perbaiki_makna,Data i dipareso marhite metode padan laho patudoson na masa na tarida di ranah sumber dohot na masa taringot tu emosi di ranah situjuon.,,"Frasa ""dalan mangompashon lahomandumpanghon partalian natarida di angka siboto barita"" mengaburkan makna istilah linguistik ""metode padan"" dan ""ranah sumber"" (bukan siboto barita = informan)."
+doc_0068_s010,uji,C6,benar,,,Rujukan sudah tepat dan berterima.
+doc_0068_s011,uji,C6,benar,,,Rujukan sudah sangat lengkap dan jelas menyertakan padanan istilah kategorinya.
+doc_0068_s012,uji,C6,perbaiki_makna,"Kategori holong ni roha gabe ugasan (benda) i ma kategori metafora holong ni roha na gumodang dipargunahon di hata Batak Toba, laos mar-subkategori na gumodang.",,"Kata ""parbue"" berarti buah/hasil (bukan benda = ugasan, padahal pada baris 48 diterjemahkan ugasan), dan ""metafora"" salah diterjemahkan menjadi ""hata sipaingot"" (nasihat)."
+doc_0069_s000,uji,C6,perbaiki_makna,Panangkasion on mangulas taringot tu panerjemahon ni angka istilah sejarah dohot budaya na dapot di buku parsiajaran.,,"Kata ""pargombaran"" berarti penggambaran/deskripsi, salah menerjemahkan ""penerjemahan"" (panerjemahon / pangalehonon hata)."
+doc_0069_s001,uji,C6,perbaiki_kata,"Angka buku parsiajaran, tarlumobi buku muatan lokal, dirancang laho mangalehon barita taringot tu hata dohot luat na disi.",,"Kata ""diparangehon"" berasal dari ""parange"" (sifat/kelakuan), tidak tepat untuk menerjemahkan ""dirancang""."
+doc_0069_s002,uji,C6,perbaiki_kata,"Alani i, angka buku on ndang holan marsitutu tu sada hatauon sambing, alai adong do topik-topik songon budaya, sosial, politik dohot na asing.",,"Konjungsi ""Asa"" berarti ""agar/supaya"" (tujuan), kurang tepat untuk ""Sehingga"" (akibat = Alani i / Marhite i) di awal kalimat."
+doc_0069_s003,uji,C6,benar,,,Rujukan sudah tepat.
+doc_0069_s004,uji,C6,perbaiki_makna,Ia tujuan ni panangkasion on i ma laho manangkasi angka istilah taringot tu sejarah dohot budaya na dapot di buku parsiajaran Hata dohot Sastra Batak Toba jala manggombarhon angka pamilliton ni hata na dipangke di na manerjemahon angka istilah sejarah dohot budaya na dapot i.,,"Kata ""Lumban"" dalam bahasa Batak Toba berarti kampung/dusun, salah digunakan untuk menerjemahkan ""Adapun tujuan"", serta ""dipake"" diperbaiki menjadi ""dipangke""."
+doc_0069_s005,uji,C6,perbaiki_kata,"Dalan na dipargunahon di panangkasion on i ma deskriptif kualitatif, i ma marhite na mamangke data primer marhite teknik papunguhon data na diulahon marhite pamaresoan dokumen, wawancara dohot narasumber, nang panangkasion pustaha na marhadomuan tusi.",,"Kata ""pahombaron data"" berarti penyelarasan data (seharusnya papunguhon data = pengumpulan data)."
+doc_0069_s006,uji,C6,perbaiki_kata,Data na dipargunahon i ma pitu turiturian (cerita) na marhata Batak na adong di buku muatan lokal Pelajaran Bahasa dan Sastra Batak Toba 3 edisi 1 taon 2011.,,"Kata ""Barita"" berarti berita/informasi; untuk membedakan ""Data"" dan ""tujuh cerita"" sastra, lebih tepat digunakan ""Data"" dan ""pitu turiturian""."
+doc_0069_s007,uji,C6,perbaiki_kata,"Pitu turiturian i diterjemahon sian hata Batak Toba tu hata Indonesia marhite na mamangke kamus hata Batak, panangkasion pustaha, dohot narasumber.",,"Menyelaraskan istilah ""cerita"" menjadi ""turiturian"" dan memperjelas ""dilehon hata"" menjadi ""diterjemahon""."
+doc_0069_s008,uji,C6,perbaiki_makna,Panangkasion on mamangke teori konsep panerjemahon budaya sian Newmark (1988) dohot strategi panerjemahon sian Baker (1992).,,"Tahun ""(1992)"" setelah nama Baker tertinggal pada rujukan lama, dan ""manggunahon"" diperbaiki menjadi ""mamangke""."
+doc_0069_s009,uji,C6,perbaiki_makna,"Sian parbue ni analisis dapot ma kategori organisasi, adat istiadat, dohot ulaon (aktivitas) gabe kategori na gumodang tarida pola 23 (dua pulu tolu) pandohan, dung i kategori budaya sosial godangna 9 (sia) pandohan, kategori ekologi godangna 7 (pitu) pandohan, dohot kategori budaya material godangna 6 (onom) pandohan.",,"Frasa ""budaya na tompu"" berarti ""budaya yang mendadak/tiba-tiba"", salah menerjemahkan ""budaya material"", serta kata ""marombalom"" tidak baku."
+doc_0069_s010,uji,C6,perbaiki_kata,"Strategi na gumodang dipargunahon i ma parafrase (paubahon pandohan), padanan istilah na lobi somal, tambahan barita, dohot pahothon istilah.",,"Salah ketik ""paarubahan"" dan penggunaan ""digunahon"" diperbaiki menjadi bentuk Toba baku ""dipargunahon""."
+doc_0069_s011,uji,C6,perbaiki_kata,"Hata Kunci: Sejarah, Budaya, Panerjemahon, Hata Daerah, Batak Toba",,"Memperjelas padanan kata kunci agar konsisten dengan badan abstrak (Sejarah, Budaya, Panerjemahon)."
+doc_0072_s000,uji,C6,perbaiki_makna,Makalah on martujuan laho pasahathon usulan sikap etis ni halak Kristen maradophon globalisasi ekonomi dohot parungkilon ni hapogoson di tongatonga ni resesi global portibi.,,"Kata ""panggabeon"" berarti berkat keturunan/kemakmuran dalam adat Batak, salah digunakan untuk menerjemahkan ""globalisasi""."
+doc_0072_s001,uji,C6,perbaiki_makna,Usulan on dirajumi ringkot ala halak Kristen jotjot mangulahon privatisasi haporseaon na marorientasi tu haluaon ni tondi.,,"Kata ""didao"" (dijauhi/jauh) salah ketik atau salah arti untuk ""dipandang"" (diida/dirajumi), dan ""na hona sandiri"" mengaburkan istilah ""privatisasi iman""."
+doc_0072_s002,uji,C6,perbaiki_makna,"Di sisi na asing, gareja jotjot mangasahon soara panurirangon laho pasahathon protes tu pamarentah laho mangatasi parungkilon ni hapogoson, alai hurang mamereng peran ni sasahalak dohot pangantusion taringot tu analisa ekonomi na sintong.",,"Menggunakan usulan pemeriksaan sebelumnya: memperbaiki ""mangulahon dang sadalan"" dan ""marhatigoran parange ni sada-sada""."
+doc_0072_s003,uji,C6,perbaiki_makna,Surat on marusaha laho mangungkap hagogoon ni onan kapitalisme di bagasan globalisasi ekonomi laho pasaehon parungkilon ni hapogoson di portibi marhite na pasadahon prinsip hatigoran distributif na boi diulahon halak Kristen marsasahalak di bagasan ngolu parkarejoan nasida.,,"Frasa ""haporseaon na marsibolahan"" berarti ""kepercayaan yang terbelah"", salah menerjemahkan ""keadilan distributif"" (hatigoran distributif)."
+doc_0072_s004,uji,C6,perbaiki_kata,"Di bagasan usahana, panurat mamangke metode kualitatif parsiajaran pustaha marhite na marnida sian sudut pandang ekonomi, panangkasion Bibel, dohot sudut pandang etis ni halak Kristen songon naung diusulhon ni ragam teolog di bagasan sejarah, tarlumobi di bagasan tradisi reformed.",,"Kata ""tudos"" berarti sama/seperti, salah digunakan untuk menerjemahkan ""khususnya"" (tarlumobi)."
+doc_0072_s005_a,uji,C6,perbaiki_makna,"Songon panutup, panurat manjou angka halak Kristen laho mangolu di bagasan na paluahon portibi sian hapogoson dohot ragam ni parange na tigor marhite roha na ias di bagasan onan parhepengon portibi na diimbangi dohot pambahenan na marojahan tu haporseaon na manongtong.",,"Kata ""manggulmit"" berarti bergerak/merayap (bukan mengentaskan), ""giot"" adalah kata AM (ingin, bukan tulus = ias/sintong), dan ""marsibolahan"" berarti terbelah (bukan berkesinambungan = manongtong)."
+doc_0072_s005_b,uji,C6,perbaiki_makna,"Hata Kunci: Parhepengon ni portibi, hapogoson ni portibi, parange na tigor, haporseaon na manongtong.",,"Kata ""marsibolahan"" berarti terbelah/terbagi, salah menerjemahkan ""berkesinambungan"" (manongtong)."
+doc_0077_s000,uji,C6,benar,,,Rujukan sudah tepat.
+doc_0077_s001,uji,C6,perbaiki_kata,"Batak Toba i ma sada horong ni bangso Batak na marharoroan sian Provinsi Sumatera Utara, Indonesia.",,"Kata ""rungu"" kurang lazim untuk ""kelompok etnis"" (lebih baku horong/punguan)."
+doc_0077_s002,uji,C6,perbaiki_kata,"Luat parserahan na umbalga ni horong Batak Toba manghangkam Kabupaten Samosir, Kabupaten Toba, Kabupaten Humbang Hasundutan, Kabupaten Tapanuli Utara, dohot Kabupaten Tapanuli Tengah.",,"Kata ""hasahatan"" berarti tempat tiba/tujuan, kurang tepat untuk ""persebaran"" (parserahan/hararatan), dan ""Wilayah"" diganti ""Luat""."
+doc_0077_s003,uji,C6,perbaiki_kata,"Luat parserahan na umbalga na asing i ma di Kabupaten Dairi, Kabupaten Simalungun, Kota Pematangsiantar, Kota Sibolga, Kabupaten Asahan, dohot Kota Medan.",,"Menyelaraskan ""Daerah persebaran utama"" menjadi ""Luat parserahan na umbalga""."
+doc_0077_s004,uji,C6,perbaiki_makna,Turi-turian Sejarah Harajaon Batak: Pardalanan dohot Parbinotoan taringot tu Ruma Bolon.,,"Kata ""Parsorion"" berarti nasib/kemalangan (salah menerjemahkan ""Perjalanan"" = Pardalanan), serta menghapus glos kurung ""(Kerajaan Batak)"" yang tidak ada di sumber."
+doc_0077_s006,uji,C6,benar,,,Rujukan sudah tepat dan alami.
+doc_0077_s008,uji,C6,benar,,,Nama wilayah sejarah sudah tepat.
+doc_0077_s010,uji,C6,benar,,,Nama wilayah sejarah sudah tepat.
+doc_0077_s012,uji,C6,benar,,,Nama wilayah sejarah sudah tepat.
+doc_0077_s014,uji,C6,benar,,,Nama wilayah sejarah sudah tepat.
+doc_0077_s015,uji,C6,benar,,,Rujukan sudah tepat.
+doc_0077_s016,uji,C6,benar,,,Rujukan sudah tepat.
+doc_0077_s017,uji,C6,benar,,,Rujukan sudah tepat dan sepadan.
+doc_0077_s019,uji,C6,benar,,,Rujukan sudah tepat.
+doc_0077_s021,uji,C6,benar,,,Rujukan sudah tepat.
+doc_0077_s023,uji,C6,benar,,,Rujukan sudah tepat.
+doc_0077_s024,uji,C6,perbaiki_kata,"4. Afdeling Bataklanden, na sadarion nunga gabe Kabupaten Tapanuli Utara, Kabupaten Humbang Hasundutan, Kabupaten Toba, Kabupaten Samosir, Kabupaten Dairi, dohot Kabupaten Pakpak Bharat.",,"Menambahkan spasi setelah penomoran ""4."" agar rapi sesuai sumber."
+doc_0077_s025,uji,C6,benar,,,Rujukan sudah tepat.
+doc_0077_s026,uji,C6,perbaiki_kata,"Di tingki penjajahan ni Jepang, rumang ni pamarentaon di Keresidenan Tapanuli i hira na so muba.",,"Kata ""ndorok"" bukan kosakata Batak Toba baku (melainkan Karo/Pakpak), dan catatan kurung ""(sai)"" dihapus."
+doc_0077_s027,uji,C6,perbaiki_makna,Parmulaan ni Kemerdekaan Republik Indonesia,,"Kata ""Pardimposan"" berarti penyelesaian/akhir, berlawanan makna dengan ""Awal"" (Parmulaan)."
+doc_0077_s028,uji,C6,benar,,,Rujukan sudah tepat.
+doc_0077_s029,uji,C6,benar,,,Rujukan sudah tepat.
+doc_0077_s030,uji,C6,benar,,,Rujukan sudah tepat.
+doc_0077_s031,uji,C6,perbaiki_kata,Alai parbagianan ni luat i sai tongtong do.,,"Menghapus glos bahasa Indonesia ""(pembagian)"" yang tidak ada di sumber dan mengganti ""parsirangan"" (perpisahan/perceraian) menjadi ""parbagianan"" (pembagian)."
+doc_0077_s032,uji,C6,benar,,,Rujukan sudah tepat.
+doc_0077_s033,uji,C6,benar,,,Rujukan sudah tepat.
+doc_0077_s034,uji,C6,benar,,,Rujukan sudah tepat.
+doc_0077_s035,uji,C6,perbaiki_kata,"Marganti ni pardalanan sejarah, pamarentaon di Keresidenan Tapanuli hea dibagi gabe opat kabupaten, i ma:",,"Menghapus glos kurung ""(sejarah)"" yang tidak ada pada kalimat sumber."
+doc_0077_s044,uji,C6,perbaiki_makna,Hasadaon Budaya Batak Toba,,"Frasa ""Asing-asing ni Batak Toba"" berarti perbedaan/keanehan Batak Toba, tidak tepat untuk menerjemahkan subjudul ""Kultural Batak Toba""."
+doc_0077_s045,uji,C6,perbaiki_kata,Batak Toba i ma sada hasadaon kultural.,,"Menghapus glos bahasa Indonesia ""(kesatuan)"" yang tidak ada di kalimat sumber."
+doc_0077_s046,uji,C6,benar,,,Rujukan sudah tepat dan alami.
+doc_0077_s047,uji,C6,perbaiki_makna,"Sarupa dohot angka suku bangso na asing, etnis Batak Toba pe mangaranto (pinda) tu luat-luat na lobi mangalehon panghirimon tu parngoluon na lobi denggan.",,"Kata ""marsiurak"" tidak bermakna ""bermigrasi"" (mangaranto/pinda), serta menghapus glos ""(suku)"" dan ""(bermigrasi)"" yang tidak ada di sumber."
+doc_0077_s048,uji,C6,perbaiki_makna,"Umpamana, godangan pangisi asli ni Silindung i ma marga-marga Hutabarat, Panggabean, Hutagalung, Simorangkir, Hutapea, dohot Lumbantobing.",,"Kata ""parmianan"" berarti tempat tinggal (bukan penduduk asli = pangisi asli), serta menghapus glos kurung ""(mayoritas)"" dan ""(penduduk)""."
+doc_0077_s049,uji,C6,perbaiki_kata,Hape na onom marga i i ma pinompar ni Guru Mangaloksa na gabe anak paduahon ni Raja Hasibuan di luat Toba.,,"Kata ""Padahal"" dalam bahasa Batak Toba adalah ""Hape"" (bukan Haadonganna), serta menghapus glos terjemahan dalam tanda kurung yang tidak ada di sumber."
+doc_0077_s050,uji,C6,perbaiki_kata,"Suang songon i ma marga Nasution na godang maringanan di luat Padangsidimpuan i ma hahadoli/anggidoli ni marga Siahaan na di Balige, tontu pinompar ni ompu na sarupa do nasida na dua.",,"Menghapus glos bahasa Indonesia dalam tanda kurung ""(saudara)"", ""(tentu)"", ""(leluhur)"" yang tidak ada pada kalimat sumber agar bersih sebagai rujukan uji."
+doc_0077_s051__r01,uji,C6,perbaiki_kata,Batak Toba gabe hasadaon kultural tontu boi marserak tu sandok luat manalpui batas-batas geografis ni haroroan ni ompu nasida,,"Menghapus glos kurung ""(menyebar)"" dan ""(melintasi)"", serta memperbaiki ""marsarak-sarak"" (bercerai-berai) menjadi ""marserak"" (menyebar)."
+doc_0077_s051__r02,uji,C6,perbaiki_makna,"Si Raja Batak i ma luat Toba na tontu di Huta Sianjur Mulamula na maringanan di lambung ni Dolok Pusuk Buhit, hira-hira 45 minit mardalan marhite kenderaan sian Pangururan, Ibu kota Kabupaten Samosir, saonari on.",,"Kata ""manjamita"" berarti berkhotbah (salah menerjemahkan ""berkendara""), serta menghapus glos bahasa Indonesia dalam tanda kurung."
+doc_0077_s052,uji,C6,perbaiki_makna,Pasahathon Kedaulatan di Parmulaan ni Taon 1950,,"Kata ""Panolopan"" berarti persetujuan/pengiyakan (dari olop), kurang tepat untuk ""Penyerahan"" (Pasahathon), dan ""Awal"" diterjemahkan ""Parmulaan""."
+doc_0077_s053,uji,C6,perbaiki_makna,"Di tingki pasahathon kedaulatan di parmulaan ni taon 1950, Keresidenan Tapanuli naung dipasada di bagasan Provinsi Sumatera Utara dibagi gabe opat kabupaten na imbaru, i ma:",,"Kata ""panolopan"" (persetujuan) diperbaiki menjadi ""pasahathon"" (penyerahan)."
+doc_0077_s055,uji,C6,benar,,,Rujukan sudah tepat.
+doc_0077_s057,uji,C6,benar,,,Rujukan sudah tepat.
+doc_0077_s059,uji,C6,benar,,,Rujukan sudah tepat.
+doc_0077_s063,uji,C6,perbaiki_kata,"Tading-tadingan Inganan Parsidangan ni angka Raja, na adong di Tomok, Samosir.",,"Menghapus glos ""(Peninggalan)"" yang tidak ada di sumber dan menambahkan ""Inganan"" (Tempat)."
+doc_0077_s064,uji,C6,benar,,,Rujukan sudah tepat.
+doc_0077_s065__r01,uji,C6,perbaiki_kata,Luat Toba sadarion masuk tu bagasan luat ni Kabupaten Toba na mar-ibu kota di Balige,,"Mengganti serapan ""wilayah"" kedua dengan ""luat"" agar konsisten dengan awal kalimat."
+doc_0077_s065__r02,uji,C6,perbaiki_kata,"(Asalna: Kabupaten Toba Samosir na dipajongjong marhite Undang-Undang No. 12 Taon 1998 taringot tu pajongjongon ni Kabupaten Daerah Tingkat II Toba Samosir dohot Kabupaten Mandailing Natal, di Daerah Tingkat I Provinsi Sumatera Utara).",,"Menjaga tanda kurung pembuka/penutup sesuai sumber dan mengganti ""dibentuk"" menjadi ""dipajongjong""."
+doc_0077_s066,uji,C6,perbaiki_makna,Kabupaten Toba Samosir on i ma pamekaran (parbolakon) sian Daerah Tingkat II Kabupaten Tapanuli Utara.,,"Kata ""pinahan"" berarti hewan ternak, salah besar untuk menerjemahkan ""pemekaran"", serta menghapus kurung tutup berlebih di akhir kalimat."
+doc_0077_s068,uji,C6,benar,,,Rujukan sudah tepat.
+doc_0077_s069,uji,C6,perbaiki_makna,Halak Batak sai tongtong do margoar marga na didok di pudi ni goarna.,,"Kata ""disungkun"" berarti ditanyakan, salah menerjemahkan ""disebutkan"" (didok/disurathon)."
+doc_0077_s070,uji,C6,perbaiki_kata,Goar marga on dapot sian garis pinompar ni ama gabe garis pinompar patrilineal na muse dipasahat tu angka pinomparna torus.,,"Kata ""ayah"" lebih tepat diterjemahkan ""ama"" daripada ""baoa"" (laki-laki)."
+doc_0077_s071,uji,C6,perbaiki_makna,"Godang do marga ni Halak Batak Toba, jala ganup marga adong do turi-turian tarombona be.",,"Kata ""silsilahnya"" (tarombona) hilang pada rujukan lama."
+doc_0080_s000,uji,C6,perbaiki_makna,Haroro ni Parjamita tu Tano Batak,,"Kata sumber adalah ""penginjil"" (pelaku = Parjamita), sedangkan ""Barita Nauli"" berarti Injil."
+doc_0080_s001,uji,C6,perbaiki_makna,Parjamita na Sinuru ni Punguan Parbarita Nauli Baptis Inggris,,"Frasa ""Partangiangan"" berarti persekutuan doa, kurang tepat untuk menerjemahkan ""Pekabaran Injil"" (Parbarita Nauli)."
+doc_0080_s002,uji,C6,benar,,,Rujukan sudah tepat.
+doc_0080_s003,uji,C6,perbaiki_kata,"Andorang so i, nasida na tolu mangulahon ulaonna di Sumatera di tolu inganan na marasing.",,"Frasa ""na muba-uba"" berarti berubah-ubah, kurang tepat untuk ""tiga tempat berbeda"" (tolu inganan na marasing)."
+doc_0080_s004,uji,C6,benar,,,Rujukan sudah tepat.
+doc_0080_s005,uji,C6,benar,,,Rujukan sudah tepat dan alami.
+doc_0080_s006,uji,C6,perbaiki_kata,Borhat ma nasida di tanggal 30 April 1824 jala mangulahon pardalanan di topi laut (pasisir) ni Tapanuli.,,"Kata ""sisik"" berarti sisik ikan; untuk ""pesisir"" lebih tepat ""topi laut / pasisir""."
+doc_0080_s007,uji,C6,perbaiki_kata,"Dung dua jam manalpui adaran duhut-duhut, sahat ma nasida di huta Parik Debata na masuk tu luat ni Pagaran Lambung.",,"Frasa ""natong jujuran"" tidak lazim untuk ""dataran rerumputan"" (adaran duhut-duhut)."
+doc_0080_s008,uji,C6,benar,,,Rujukan sudah tepat.
+doc_0080_s009,uji,C6,perbaiki_kata,"Dijalo do nasida dohot denggan ni raja na disi jala dipersilahon mondok saborngin di jabu ni Pangulu Huta i, jala mandapot tanda pasangaphon di manogotna.",,"Kata ""samalam"" adalah serapan Indonesia (Toba: saborngin) dan ""dipasombu"" berarti dibiarkan/ditelantarkan (kurang tepat untuk dipersilakan)."
+doc_0080_s010,uji,C6,perbaiki_makna,Diuduti nasida ma pardalananna jala mandalani dalan i saleleng 6 jam pardalanan andorang so maradian di huta na maringanan di parsitongaan ni Pagaran Lambung.,,"Kata ""Dipasolhot"" berarti didekatkan (bukan melanjutkan = Diuduti/Dipatulus) dan ""manangali"" berarti mencangkul/menggali (bukan menyusuri = mandalani)."
+doc_0080_s011_a,uji,C6,benar,,,Rujukan sudah tepat.
+doc_0080_s011_b,uji,C6,perbaiki_kata,"Pardalanan on i ma parenta sian Raffles asa laho tu utara, i ma Silindung.",,"Memperbaiki repetisi ""laho laho"" menjadi ""asa laho"" dan merapikan spasi sebelum tanda titik."
+doc_0080_s012,uji,C6,perbaiki_makna,Diuduti nasida ma 5 jam pardalanan sian Huta Tinggi jala mondok di sada sopo andorang so diuduti muse pardalanan di ari Selasa manogot manang di tanggal 4 Mei jala sahat ma nasida di Silindung.,,"Kata ""Dipasolhot"" berarti didekatkan, salah menerjemahkan ""melanjutkan"" (Diuduti/Dipatulus)."
+doc_0080_s013_a,uji,C6,perbaiki_makna,"Di parmulaan, sangkap ni pardalanan i dipatujolo sahat tu Tao Toba, alai marsundat do pardalanan i ala adong sahit kolera na rarat na ingkon diambati ni Ward.",,"Kata ""pangidion"" dan ""ditarami"" tidak baku untuk menerjemahkan ""wabah"" (sahit na rarat) dan ""dicegah"" (diambati)."
+doc_0080_s013_b,uji,C6,perbaiki_makna,Ward i ma sahalak parubat (tenaga kesehatan) na marulaon mamareso sahit na rarat di luat i.,,"Frasa ""sintua pangidion"" tidak bermakna ""tenaga kesehatan"" (parubat / pande hahipason)."
+doc_0080_s014,uji,C6,benar,,,Rujukan sudah tepat.
+doc_0080_s015,uji,C6,perbaiki_kata,"Di tingki sahat nasida di Silindung, dijalo do nasida dohot denggan ni roha ni raja na disi, alai marsundat do pardalanan parjamitaan nasida di tingki masa salah antus dohot pangisi ni huta.",,"Kata ""parmianan"" berarti tempat tinggal; untuk ""penduduk"" seharusnya ""pangisi ni huta / parhuta""."
+doc_0080_s016,uji,C6,perbaiki_kata,"Pangisi ni huta i salah mangantusi jamita ni parjamita i na mandok ingkon gabe gelleng harajaon nasida, songon dakdanak na gelleng.",,"Kata ""Parmianan"" berarti tempat tinggal, diperbaiki menjadi ""Pangisi ni huta"" (penduduk)."
+doc_0080_s017,uji,C6,perbaiki_kata,"Pangisi ni huta i ndang lomo rohana tusi, alani i ma angka parjamita i dipabali di taon i.",,"Kata ""Parmianan"" diperbaiki menjadi ""Pangisi ni huta"" (penduduk)."
+doc_0080_s018,uji,C6,perbaiki_makna,Angka misionaris i pe manerjemahon bindu sada sian Bibel tu bagasan hata Batak Toba.,,"Kata ""manabunon"" (dari tabuni = menyembunyikan) salah besar untuk menerjemahkan ""menerjemahkan"" (manerjemahon)."
+doc_0080_s019,uji,C6,perbaiki_kata,Parjamita Utusan American Board of Commissioners for Foreign Mission,,"Kata ""Penginjil"" (pelaku) adalah ""Parjamita"", sedangkan ""Parjamitaan"" berarti penginjilan/khotbah."
+doc_0080_s020,uji,C6,benar,,,Rujukan sudah tepat.
+doc_0080_s021,uji,C6,benar,,,Rujukan sudah tepat dan lancar.
+doc_0080_s022,uji,C6,benar,,,Rujukan sudah tepat.
+doc_0080_s023_a,uji,C6,benar,,,Rujukan sudah tepat.
+doc_0080_s023_b,uji,C6,benar,,,Rujukan sudah tepat.
+doc_0080_s024,uji,C6,perbaiki_makna,"Di pardalanan, di tingki sahat di topi ni Rura Silindung, di borngin 28 Juni 1834, nasida diambati, ditangkup, jala dipamate di lambung ni Lobu Pining.",,"Kata ""tombak"" berarti hutan (bukan pinggir = topi), dan ""diligi"" berarti dilihat/dijenguk (bukan dihadang = diambati)."
+doc_0080_s025,uji,C6,perbaiki_kata,"Na mamamate i ma Raja Panggalamei, na gabe Raja di Pintubosi na mian di Singkak.",,"Bentuk nomina pelaku ""Pembunuhnya"" adalah ""Na mamamate / Pamunu"", bukan ""Pamatehon""."
+doc_0080_s026,uji,C6,benar,,,Rujukan sudah tepat.
+doc_0080_s027,uji,C6,perbaiki_kata,Parjamita Utusan Rheinische Missionsgesellschaft,,"Kata ""Penginjil"" (pelaku) adalah ""Parjamita"", bukan ""Parjamitaan"" (penginjilan)."
+doc_0080_s028,uji,C6,benar,,,Rujukan sudah tepat.
+doc_0080_s029,uji,C6,perbaiki_kata,"Di taon 1840, sahalak parbinoto na marbangso Jerman, i ma Franz Wilhelm Junghuhn mangulahon pardalanan tu luat Batak jala dung i patupa karangan taringot tu bangso Batak.",,"Memperbaiki ""sada parbinoto"" menjadi ""sahalak parbinoto"" (untuk manusia) dan ""suku"" menjadi ""bangso/marga""."
+doc_0080_s030_a,uji,C6,perbaiki_makna,Di bagasan buku i dipodai Junghuhn ma pamarenta kolonial i asa manuru zending Kristen laho mangambati hararat ni ugamo Islam di bagian utara ni Pulo Sumatera.,,"Kata ""mangalogo"" (dari alogo = angin) salah untuk ""menyuruh"" (manuru), dan ""pangarejoan Islam"" (pekerjaan Islam) salah untuk ""penyebaran Islam"" (hararat ni ugamo Islam)."
+doc_0080_s030_b,uji,C6,benar,,,Rujukan sudah tepat.
+doc_0080_s031,uji,C6,benar,,,Rujukan sudah tepat.
+doc_0080_s032,uji,C6,perbaiki_kata,Ibana pe Halak Eropa na parjolo na mamereng Tao Toba jala pajumpang dohot Si Singamangaraja.,,"Memperbaiki ejaan ""mamareng"" menjadi ""mamereng"" dan ""manjumpang dohot"" menjadi ""pajumpang dohot""."
+doc_0080_s033,uji,C6,perbaiki_makna,Las do rohana manghatai (marsaor) jala manjalo Halak Batak di jabuna.,,"Kata ""marsiulangan"" tidak bermakna ""berkomunikasi"" (manghatai / marsaor)."
+doc_0080_s034,uji,C6,perbaiki_kata,"Van der Tuuk mangalehon poda (saran) asa lembaga zending manuru angka parjamita tu Tapanuli, langsung tu luat na di bagasan.",,"Mengganti kata Indonesia ""penginjil"" menjadi ""parjamita""."
+doc_0080_s035,uji,C6,perbaiki_kata,"Taon 1857, parjamita G.",,"Mengganti frasa Indonesia ""pekabar Injil"" menjadi ""parjamita"" (atau parbarita nauli)."
+doc_0080_s036,uji,C6,benar,,,Rujukan sudah tepat.
+doc_0080_s037,uji,C6,perbaiki_makna,Ditolbus (dipalua) ibana ma pigapiga naposo jala dilehon pangajaran Hakristenon tu nasida.,,"Dalam konteks sejarah G. van Asselt di Tapanuli Selatan, ia menebus (membeli kebebasan) beberapa pemuda budak; kata ""Ditembus"" diperbaiki ke istilah Toba ""Ditolbus / Dipalua""."
+doc_0080_s038,uji,C6,perbaiki_kata,"Di 31 Maret 1861, dua halak Batak na parjolo tardidi (dibaptis), i ma: Jakobus Tampubolon dohot Simon Siregar.",,"Kata ""diurbasi"" tidak dikenal untuk ""dibaptis""; istilah baku gereja Batak Toba adalah ""tardidi"" (atau dibaptis)."
+doc_0080_s039,uji,C6,benar,,,Rujukan sudah tepat.
+doc_0080_s040,uji,C6,benar,,,Rujukan sudah tepat.
+doc_0080_s041,uji,C6,benar,,,Rujukan sudah tepat.
+doc_0080_s042,uji,C6,benar,,,Rujukan sudah tepat.
+doc_0080_s044,uji,C6,benar,,,Rujukan sudah tepat.
+doc_0080_s045,uji,C6,perbaiki_kata,Ari i dirajumi ma gabe ari hajongjongan ni Huria Kristen Batak Protestan (HKBP).,,"Kata ""dirimpu"" berarti dikira/disangka secara keliru, sedangkan untuk ""dianggap/dipandang"" yang benar adalah ""dirajumi""."
+doc_0080_s046,uji,C6,benar,,,Rujukan sudah tepat.
+doc_0080_s047,uji,C6,benar,,,Rujukan sudah tepat.
+doc_0080_s048,uji,C6,benar,,,Rujukan sudah tepat.
+doc_0080_s049,uji,C6,perbaiki_makna,"Dung i, di taon 1864, masuk ma ibana tu luat Silindung, parjolo di Huta Dame, dung i di Pearaja (nuaeng gabe kantor pusat ni HKBP).",,"Keterangan dalam kurung ""(kini menjadi kantor pusat HKBP)"" hilang pada rujukan lama."
+doc_0080_s050,uji,C6,perbaiki_makna,"Di bagasan na pasahathon Barita Nauli, Ludwig Ingwer Nommensen diurupi ni Raja Pontas Lumbantobing (Raja Batak na parjolo tardidi) laho pataruhon ibana sian Barus tu Silindung dohot surat hatorangan na mandok ibana ndang martanggung jawab taringot tu hahipasonna.",,"Keterangan ""(Raja Batak pertama yang dibaptis)"" hilang pada rujukan lama, ""mangolohon"" berarti mengiyakan (bukan mengantar = pataruhon), dan ""so maralus"" berarti tidak menjawab (bukan tidak bertanggung jawab)."
+doc_0080_s051,uji,C6,perbaiki_makna,"Di parmulaan ndang dijalo Nommensen dohot denggan ni pangisi ni huta, ala mabiar nasida hona bala ala manjalo halak na asing na so mangaradoti adat.",,"Kata ""parmianan"" berarti tempat tinggal (bukan penduduk = pangisi ni huta), dan ""mamparsinta"" berarti mencita-citakan (bukan memelihara = mangaradoti)."
+doc_0080_s052,uji,C6,perbaiki_kata,"Di sada tingki, dipatupa ma pesta ompu Siatas Barita, somalna diseat do pelean (korban).",,"Kata ""disihi"" tidak baku untuk ""disembelih"" (diseat)."
+doc_0080_s053_a,uji,C6,benar,,,Rujukan sudah sepadan dengan potongan kalimat sumber.
+doc_0080_s053_b,uji,C6,benar,,,Rujukan sudah sepadan dengan kalimat sumber.
+doc_0080_s053_c,uji,C6,benar,,,Rujukan sudah sangat tepat dan idiomatis.
+doc_0080_s054,uji,C6,perbaiki_makna,"Ndada tondi ni Siatas Barita, ompumuna i, alai tondi na jahat do.",,"Kata ""hagaleon"" berarti kelemahan, salah menerjemahkan ""jahat"" (na jahat)."
+doc_0080_s055,uji,C6,benar,,,Rujukan sudah tepat dan ekspresif.
+doc_0080_s056,uji,C6,perbaiki_kata,Mamintor madabu ma Sibaso i tu tano.,,"Kata ""Tarsongot"" (terkejut) kurang tepat untuk menerjemahkan ""Segera"" (Mamintor / Satongkin i)."
+doc_0080_s057,uji,C6,benar,,,Atribusi nama tokoh sudah tepat.
+doc_0080_s058,uji,C6,perbaiki_makna,"Mangadopi parungkilon na manosak, Nommensen sai tongtong basa dohot lambok marroha, sahat tu na lam leleng mambahen halak sungkan jala maila mangulahon na so denggan tu ibana.",,"Frasa ""na lombo"" tidak baku untuk ""lama-kelamaan"" (lam leleng), dan ""mago rohana"" berarti hilang akal/putus asa (bukan enggan = sungkan)."
+doc_0080_s059,uji,C6,perbaiki_makna,"Di sada borngin di tingki angka raja i mian di jabuna sahat tu larut borngin jala tarpodom renge, dibuat Nommensen ma ulos panrungkup (selimut) jala dirungkuphon tu pamatang nasida, sahat tu manogotna dungo ma nasida jala maila rohanasida, mamereng pambahenan ni Nommensen na denggan i.",,"Kata ""pupun"" tidak bermakna ""terbangun"" (dungo), dan ""modom marsidomdom"" diperbaiki menjadi ""tarpodom renge""."
+doc_0080_s060,uji,C6,benar,,,Rujukan sudah tepat.
+doc_0080_s061,uji,C6,perbaiki_kata,Parheheon ni Hakristenon dung Masuk Barita na Uli di Tano Batak,,"Kata ""Parhusor"" berarti perputaran/pergeseran; untuk ""Perkembangan"" lebih tepat ""Parheheon / Hararat""."
+doc_0080_s062,uji,C6,benar,,,Rujukan sudah tepat dan alami.
+doc_0080_s063,uji,C6,perbaiki_makna,"Haadongan na songon on mamaksa nasida marpungu di sada huta hapunjungan, i ma Huta Dame.",,"Kata ""mangalului"" berarti mencari, salah menerjemahkan ""memaksa"" (mamaksa / mangonjar)."
+doc_0080_s064,uji,C6,perbaiki_makna,"Dung pitu taon Nommensen mangulahon parjamitaan, halak Batak na masuk Kristen godangna 1.250 halak.",,"Menggunakan usulan pemeriksaan sebelumnya: memperbaiki ""marragam"" (bermacam-macam) menjadi ""godangna"" (berjumlah)."
+doc_0080_s065,uji,C6,perbaiki_makna,"Sampulu taon dung i di taon 1881, manaek ma toropna lima lompit, sahat tu na torop ni Halak Batak na masuk Kristen i ma hira-hira 6.250 halak.",,"Kata ""ragamna / ragam ni"" berarti macamnya/jenisnya, salah menerjemahkan ""jumlahnya / jumlah"" (toropna / godangna)."
+doc_0080_s066,uji,C6,benar,,,Rujukan sudah tepat.
+doc_0080_s067,uji,C6,perbaiki_makna,"Di taon 1881, Ludwig Ingwer Nommensen diangkat gabe Ephorus marhite RMG.",,"Nama lengkap ""Ludwig Ingwer"" tertinggal pada rujukan lama."
+doc_0080_s068,uji,C6,perbaiki_makna,Tohonan (jabatan) i ditiop ibana sahat tu na monding ibana di 23 Mei 1918.,,"Kata ""diparguruhon"" berarti dipelajari, salah menerjemahkan ""dipegangnya"" (ditiop ibana)."
+doc_0080_s069,uji,C6,benar,,,Rujukan sudah tepat.
+doc_0080_s070,uji,C6,benar,,,Rujukan sudah tepat.
+doc_0080_s071,uji,C6,perbaiki_makna,Kristen Katolik dipatandahon di taon 1934 marhite Misionaris Katolik Belanda na margoar Sybrandus Van Rossum.,,"Kata ""dipasolhot"" berarti didekatkan, salah menerjemahkan ""diperkenalkan"" (dipatandahon)."
+doc_0080_s072,uji,C6,perbaiki_kata,"Kristen Katolik lam rarat di parmulaan ni taon 1950-an, luat Batak Toba na marpangisi Kristen Katolik na cukup godang i ma di humaliang ni Pulo Samosir dohot Tao Toba jala di humaliang ni Kecamatan Andam Dewi di luat Tapanuli Tengah.",,"Frasa ""tarida bagak"" berarti terlihat cantik (kurang tepat untuk ""bertumbuh signifikan"" = lam rarat / martamba godang)."
+doc_0080_s073,uji,C6,perbaiki_kata,"Sadarion, hira-hira ±11% torop ni halak Batak Toba i ma ruas (pangihut) ni Gareja Katolik Roma.",,"Kata ""sianuduran"" tidak baku; untuk ""pengikut/jemaat"" lebih tepat ""ruas"" atau ""pangihut""."
+doc_0080_s074,uji,C6,perbaiki_makna,"Rap dohot Komunitas Protestan na maraliran Lutheran, Katolik Roma mangaradoti Adat Batak di bagasan komunitas parugamoon.",,"Kata ""mamparsinta"" berarti mencita-citakan/menginginkan, salah menerjemahkan ""memelihara"" (mangaradoti)."
+doc_0089_s000,uji,C6,perbaiki_makna,Punguan Musik Toba World Mamboan Las ni Roha tu Panonton di Eropa,,"Kata ""Siginjang"" berarti yang di atas/tinggi, salah menerjemahkan ""Penonton"" (Panonton)."
+doc_0089_s001,uji,C6,perbaiki_makna,"Punguan musik na margoar Toba World na niuluhon ni musisi Viky Sianipar mamboan las ni roha tu angka panonton di Eropa marhite penampilan parjolona di Kota Ljubljana, Slovenia.",,"Menggunakan usulan pemeriksaan sebelumnya: memperbaiki ""mangalasoni siginjang"" menjadi ""mamboan las ni roha tu angka panonton""."
+doc_0089_s002,uji,C6,perbaiki_makna,"Marmeam musik di ulaon “Nights in Old Ljubljana Town International Festival”, pardohoton ni Toba World pe martujuan do laho patandahon seni budaya Batak tu natorop di Eropa.",,"Kata ""partondian"" berarti kerohanian (bukan keikutsertaan = pardohoton), ""manangkasi"" berarti memeriksa (bukan memperkenalkan = patandahon), dan ""parbinotoan"" berarti pengetahuan (bukan budaya)."
+doc_0089_s003,uji,C6,perbaiki_makna,"Ulaon ""Nights in Old Ljubljana Town International Festival"" i dipatupa ni Imago Slovenia di luat pusat ni Kota Ljubljana, songon na pinasahat ni Fungsi Pensosbud – KBRI Wina, Wina Retnosari tu Antara London, Senen (29/8/2016).",,"Kata ""rura"" berarti lembah/jurang, salah menerjemahkan ""kawasan"" (luat)."
+doc_0089_s004,uji,C6,benar,,,Rujukan sudah tepat dan alami.
+doc_0089_s005,uji,C6,perbaiki_makna,"Di parmulaan ni penampilanna, marhata do Viky Sianipar taringot tu hamoraon dohot hasurungan ni Indonesia na marragam suku bangso dohot budaya, na Batak i ma sada sian i.",,"Kata ""hahomangon"" (dari homang = makhluk halus hutan) salah untuk ""keunikan"" (hasurungan/hakhason), dan ""parbinotoan"" berarti pengetahuan (bukan budaya)."
+doc_0089_s006,uji,C6,perbaiki_kata,"Dipatorang Viky do muse lapatan ni ganup ende dohot tortor (pangalaho) na pinatudu ni dua parende (vokalis) Toba World, Louise dohot Alsant.",,"Kata ""parhata"" berarti pembicara/orator adat, kurang tepat untuk ""vokalis"" (parende/vokalis)."
+doc_0089_s007,uji,C6,perbaiki_makna,"Ulaon borngin budaya i pe lam marlas ni roha do marhite haroro ni Dubes RI tu Republik Austria dohot Republik Slovenia, Rachmat Budiman, na mamboan Macek Muri, ende ni dakdanak khas Slovenia.",,"Kata ""parbinotoan"" berarti pengetahuan, salah menerjemahkan ""budaya""."
+doc_0089_s008,uji,C6,perbaiki_makna,Nights in Old Ljubljana Town International Festival i ma sada sian festival seni budaya na bolon di Slovenia na dipatupa di musim las ni ari (musim panas).,,"Kata ""parbinotoan"" berarti pengetahuan (bukan budaya), dan ""tingki ro di ari"" tidak bermakna ""musim panas"" (musim las ni ari)."
+doc_0089_s009,uji,C6,perbaiki_makna,"Ganup taon, marratus seniman lokal dohot internasional mandohoti festival na mardalan saleleng tolu ari i jala tampil di inganan na strategis di luat huta na robi (kota tua) Slovenia, na gabe pusat daya tarik di angka wisatawan.",,"Kata ""marpartondian"" berarti berurusan dengan roh (bukan berpartisipasi = mandohoti), ""huta na balga"" berarti kota besar (bukan kota tua = huta na robi), dan ""sihabang"" berarti yang terbang (bukan wisatawan)."
+doc_0089_s010,uji,C6,perbaiki_makna,"“Angkup ni na mangaradoti seni budaya Batak, pardohoton ni Toba World di ulaon i pe martujuan do laho patandahon seni budaya Batak tu natorop di Eropa, tarlumobi di Slovenia,” ninna Viky Sianipar di holang-holang ni pertunjukan i.",,"Memperbaiki serapan mentah ""Di samping"", serta salah arti pada ""parbinotoan"" (budaya), ""partondian"" (partisipasi), ""manangkasi"" (memperkenalkan), dan ""tudosan"" (khususnya = tarlumobi)."
+doc_0089_s011,uji,C6,perbaiki_makna,"Marhite i, dihirim roha do pertunjukan musik na binoan ni Toba World boi manarik roha ni wisatawan Slovenia laho ro manopot Indonesia, tarlumobi tu Tao Toba di Sumatera Utara.",,"Kata ""sihabang"" (yang terbang) salah menerjemahkan ""wisatawan"", dan ""tudosan"" (contoh) salah menerjemahkan ""khususnya"" (tarlumobi)."
+doc_0089_s012,uji,C6,benar,,,Rujukan sudah tepat dan dapat dipahami dengan baik.
+doc_0089_s013,uji,C6,perbaiki_makna,"Angkup ni na tampil di Nights in Old Ljubljana Town International Festival, Toba World pe tampil do di Huta Landeck, Austria dohot di Jabu Joglo di porlak wisata bunga Arboretum, Slovenia.",,"Kata ""Sian"" berarti ""Dari"" (bukan ""Selain"" = Angkup ni / Asing sian), dan ""rura"" berarti lembah (bukan taman wisata = porlak wisata)."
+doc_0089_s014,uji,C6,benar,,,Rujukan sudah tepat.
+doc_0089_s015,uji,C6,perbaiki_makna,"Pajongjongon ni Jabu Joglo di Porlak Wisata Bunga Arboretum, na dipungka ni KBRI/PTRI Wina di taon 2013 i, sada sian tujuanna i ma gabe parhitean promosi Indonesia di Slovenia.",,"Kata ""Parruas"" berarti ruas/keanggotaan (bukan Pendirian = Pajongjongon), ""Rura"" berarti lembah (bukan Taman = Porlak), dan ""dipasada"" berarti disatukan (bukan diprakarsai = dipungka)."
+doc_0089_s016,uji,C6,perbaiki_kata,Sude ulaon ni Toba World di Austria dohot Slovenia gabe bagian sian udutan Toba World Europe Tour 2016 na ditumpahi ni Kementerian Pariwisata RI di bagasan rangka promosi pariwisata Wonderful Indonesia di luat Eropa.,,"Kata ""rura"" berarti lembah/jurang, diganti menjadi ""luat"" untuk menerjemahkan ""kawasan Eropa""."
+doc_0090_s000,uji,C6,perbaiki_makna,Bangso Batak di Papua Manginsahi (Manulak Keras) Hata Rasisme ni Ambroncius,,"Kata ""Manimbil"" berarti menyimpang/menjauh, salah menerjemahkan ""Mengecam"" (Manginsahi / Manulak keras)."
+doc_0090_s001,uji,C6,benar,,,Rujukan sudah tepat dan alami.
+doc_0090_s002,uji,C6,perbaiki_kata,"“Parulaon ni dongan Ambroncius Nababan i nunga manegai arga ni bangso Batak di Indonesia, tarlumobi di Tano Papua, lumobi muse hatana i boi do mambahen salah antus di holang-holang ni bangso Batak dohot suku-suku na asing na adong di Tano Papua,” ninna Kenan Sipayung marhite hatorangan na sinurat, Selasa (26/1/2021).",,"Kata ""tudosan"" berarti perumpamaan/contoh, salah digunakan untuk menerjemahkan ""khususnya"" (tarlumobi)."
+doc_0090_s003,uji,C6,perbaiki_kata,"""Parsadaan Bangso Batak Provinsi Papua mangido tu pihak kepolisian Republik Indonesia asa diusut tuntas jala diproses hombar tu aturan undang-undang na marlaku,"" udut ni hatana.",,"Kata ""na manggogo"" berarti yang menguat (kurang tepat untuk ""yang berlaku"" = na marlaku / na mardalan), dan ""lanju"" diperbaiki menjadi ""udut""."
+doc_0090_s004,uji,C6,benar,,,Rujukan sudah tepat.
+doc_0090_s005,uji,C6,perbaiki_makna,Alani i ndang manggombarhon (mewakili) bangso Batak na di Tano Papua.,,"Kata ""manghatindangkon"" berarti menyaksikan/mengimani, kurang tepat untuk menerjemahkan ""mewakili""."
+doc_0090_s006,uji,C6,benar,,,Rujukan sudah tepat dan dapat dipahami.
+doc_0090_s007,uji,C6,benar,,,Rujukan sudah tepat.
+doc_0090_s008,uji,C6,perbaiki_makna,"""Aha na niulahon ni Ambroncius Nababan i, i ma pambahenan na mangalo uhum, jala tung mambahen gaor roha ni bangso Batak na mangolu marsidongan dohot natorop sian ragam ni suku na adong di Papua,"" ninna Makmur.",,"Menggunakan usulan pemeriksaan sebelumnya: memperbaiki ""marhua-hua"" menjadi ""mambahen gaor roha"" (meresahkan)."
+doc_0090_s009,uji,C6,perbaiki_kata,"Diida do Ambroncius Nababan mangulahon parulaon na manegai hadameon di holang-holang ni sude punguan na adong di Tano Papua, tarlumobi ma ibana songon halak Batak.",,"Kata ""tudosan"" berarti contoh/perumpamaan, tidak tepat untuk menerjemahkan ""terlebih"" (tarlumobi)."
+doc_0091_s000,uji,C6,perbaiki_kata,Lulusan Ilmu Komputer na So Boi Mamrogram,,"Kata penghubung relatif ""Yang"" pada judul lebih tepat diterjemahkan ""na"" (bukan ""alai"" = tetapi)."
+doc_0091_s001_a,uji,C6,benar,,,Rujukan sudah tepat dan alami.
+doc_0091_s001_b,uji,C6,benar,,,Rujukan sudah tepat dan idiomatis.
+doc_0091_s002,uji,C6,benar,,,Rujukan sudah tepat.
+doc_0091_s003,uji,C6,perbaiki_kata,"Hape, lulus sian jurusan na sarupa dohot au do ibana.",,"Kata ""Padahal"" memiliki padanan Batak Toba yang sangat lazim, yaitu ""Hape""."
+doc_0091_s004,uji,C6,perbaiki_kata,"Na manarik, jolma on ndada na mapitung taringot tu coding babar (sama sekali), songon na hea dipaboa donganhu dison.",,"Kata ""samase"" adalah potongan tidak baku dari ""sama sekali"", dan ""Na longangna"" berarti yang mengherankan (kurang tepat untuk ""Menariknya"")."
+doc_0091_s005,uji,C6,benar,,,Rujukan sudah tepat.
+doc_0091_s006,uji,C6,benar,,,Rujukan sudah tepat.
+doc_0091_s008_a,uji,C6,perbaiki_kata,"Boi do ibana mamrogram, alai hurang togu jala gaor (rundut) situtu angka kodena i.",,"Kata Indonesia ""berantakan"" memiliki padanan Batak Toba yang lazim, yaitu ""gaor"" atau ""rundut""."
+doc_0091_s008_b,uji,C6,benar,,,Rujukan sudah tepat.
+doc_0091_s009,uji,C6,perbaiki_kata,Hape laho manimpan request dohot response ni HTTP do i.,,"Mengganti ""Padahal"" dengan padanan Toba ""Hape"" dan memperbaiki ""manyimpan"" menjadi ""manimpan""."
+doc_0091_s011,uji,C6,benar,,,Rujukan sudah tepat.
+doc_0091_s012,uji,C6,perbaiki_kata,"Hape, nuaeng hira sude do bahasa pemrograman dohot framework i dipatupa marhite paradigma pemrograman berorientasi objek.",,"Mengganti ""Padahal"" dengan ""Hape"" dan memperbaiki ""naeng sude"" (hendak semua) menjadi ""hira sude"" (hampir semua)."
+doc_0091_s014,uji,C6,benar,,,Rujukan sudah tepat.
+doc_0091_s016_a,uji,C6,benar,,,Rujukan sudah tepat.
+doc_0091_s016_b,uji,C6,perbaiki_kata,"Dibahen i, diulahon ibana ma skripsi taringot tu aplikasi penjadwalan na marsitutu (marfokus) tu platform Android.",,"Kata ""rumingkat"" tidak lazim untuk ""berfokus"" (marsitutu / marfokus)."
+doc_0091_s018,uji,C6,perbaiki_makna,"Sayangna, nang pe alana didok gumodang marsiajar teori, parbinotoanna taringot tu komunikasi data dohot protokol jaringan pe hurang situtu.",,"Kata awal ""Sayangnya, walaupun..."" tertinggal pada rujukan lama."
+doc_0091_s019,uji,C6,benar,,,Rujukan sudah tepat.
+doc_0091_s020_a,uji,C6,benar,,,Rujukan sudah tepat dan alami.
+doc_0091_s020_b,uji,C6,perbaiki_kata,"Jala, tarida do hurang lomo ni rohana (passionate) taringot tu programming.",,"Mengganti serapan ""nampakna"" menjadi ""tarida do""."
+doc_0091_s021,uji,C6,perbaiki_makna,Na pinarsinta ni rohana holan naeng hatop lulus jala gabe developer Android di startup/parusahaan na sangap (bergengsi) dohot pandapotan (gaji) na timbo.,,"Kata ""doli-doli"" dalam bahasa Batak Toba berarti pemuda/jejaka, salah digunakan untuk menerjemahkan ""pendapatan"" (pandapotan/parbue)."
+doc_0091_s022,uji,C6,perbaiki_kata,"Hudok ma, ndang mungkin i, jala ingkon gumodang marsiajar dope ibana.",,"Memperbaiki ejaan verba pasif orang pertama ""Huidok"" menjadi bentuk baku ""Hudok""."
+doc_0091_s023_a,uji,C6,benar,,,Rujukan sudah tepat.
+doc_0091_s023_b,uji,C6,perbaiki_makna,"Ringkot do mentoring, coaching, dohot marsiajar na gomos, asa boi dipadomu ibana parasingan ni hatauon di kampus dohot di industri i.",,"Menggunakan usulan pemeriksaan sebelumnya: memperbaiki ""dibahen ibana jurang"" (dibuatnya jurang) menjadi ""dipadomu ibana parasingan"" (dijembataninya kesenjangan)."
+doc_0091_s024,uji,C6,benar,,,Rujukan sudah tepat.
+doc_0091_s025,uji,C6,benar,,,Rujukan sudah tepat dan idiomatis.
+doc_0091_s026,uji,C6,benar,,,Rujukan sudah tepat.
+doc_0091_s027,uji,C6,perbaiki_makna,"- Unang marnipi langsung gabe bos ni pengembang, asing ni molo usaha nampunam sandiri do i.",,"Konjungsi ""alai molo"" berarti ""tetapi jika"", belum tepat menerjemahkan ""kecuali memang"" (asing ni molo)."
+doc_0091_s028,uji,C6,benar,,,Rujukan sudah tepat.
+doc_0091_s029,uji,C6,perbaiki_makna,"Molo naeng gabe uluan (atasan) ni pengembang, ingkon boi jala togu ibana ditogihon sparring (marsitontangan taringot tu masalah) asa dipasangap.",,"Kata ""doli-doli"" berarti pemuda/jejaka, salah menerjemahkan ""atasan"" (uluan/induk), serta memperbaiki salah ketik ""didiajak""."
+doc_0091_s030,uji,C6,perbaiki_kata,- Molo ndang lomo roha gabe pengembang jala naeng mangaradoti infrastruktur.,,"Mengganti kata Indonesia ""tertarik"" dengan ungkapan Toba ""lomo roha""."
+doc_0091_s031,uji,C6,benar,,,Rujukan sudah tepat.
+doc_0091_s032,uji,C6,benar,,,Rujukan sudah tepat.
+doc_0091_s033_a,uji,C6,benar,,,Rujukan sudah tepat.
+doc_0091_s033_b,uji,C6,benar,,,Rujukan sudah tepat.
+doc_0091_s034,uji,C6,benar,,,Rujukan sudah tepat.
+doc_0091_s035,uji,C6,perbaiki_makna,Nuaeng pemasar pe nunga ditogu marhite parbue sian pangaradotion dohot pangembangan data laho mangoptimisasi haruar ni hepeng (pengeluaran).,,"Kata ""patimbulhon"" berarti membesarkan/meningkatkan, salah menerjemahkan ""mengoptimisasi [pengeluaran]""."
+doc_0091_s036,uji,C6,perbaiki_kata,"Tim pemasar di parusahaan teknologi nuaeng, minimal ingkon boi mangulahon query sian basis data jala manganalisis marhite bahasa pemrograman songon R manang Python.",,"Mengganti preposisi ""dohot bahasa"" menjadi ""marhite bahasa pemrograman"" agar lebih alami."
+doc_0091_s037,uji,C6,benar,,,Rujukan sudah tepat.
+doc_0091_s038,uji,C6,benar,,,Rujukan sudah tepat dan alami.
