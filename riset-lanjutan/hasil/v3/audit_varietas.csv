@@ -1,9 +1,0 @@
-himpunan,daftar,n,persen_AM,persen_Toba_saja,persen_tak_bertanda,jumlah_AM
-korpus_kami,am32,1542,0.26,44.1,55.64,4
-korpus_kami,am26_ketat,1542,0.19,44.1,55.71,3
-nusax,am32,1000,0.0,60.8,39.2,0
-nusax,am26_ketat,1000,0.0,60.8,39.2,0
-nusatranslation,am32,9449,23.27,46.99,29.74,2199
-nusatranslation,am26_ketat,9449,22.17,47.05,30.78,2095
-nusatranslation_uji,am32,2000,24.55,45.25,30.2,491
-nusatranslation_uji,am26_ketat,2000,23.3,45.3,31.4,466

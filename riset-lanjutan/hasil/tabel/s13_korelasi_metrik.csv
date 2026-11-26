@@ -1,9 +1,0 @@
-arah,cakupan,metrik,n_butir,kendall_tau_b,ik_bawah,ik_atas
-bbc2id,semua_sistem,chrf,240,0.633,0.563,0.692
-bbc2id,semua_sistem,bleu,240,0.581,0.508,0.651
-bbc2id,hanya_ft,chrf,120,0.593,0.476,0.689
-bbc2id,hanya_ft,bleu,120,0.519,0.392,0.615
-id2bbc,semua_sistem,chrf,240,0.404,0.302,0.499
-id2bbc,semua_sistem,bleu,240,0.352,0.264,0.44
-id2bbc,hanya_ft,chrf,120,0.269,0.137,0.406
-id2bbc,hanya_ft,bleu,120,0.284,0.174,0.402
