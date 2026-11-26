@@ -1,0 +1,401 @@
+{"sidik": "ec34a004e016aa2d9ae70142429fd48dad991445cdd0dac02bf55daa33773304", "parameter": {"run": "ft_kami_s2", "fine_tuning": {"model_dasar": "facebook/nllb-200-distilled-600M", "dua_arah": true, "epoch": 5, "laju_belajar": 0.0001, "porsi_warmup": 0.1, "ukuran_batch": 16, "akumulasi_gradien": 1, "panjang_maks": 128, "simpan_tiap_langkah": 1000, "hapus_bobot_setelah_selesai": true}, "benih": 2, "dekode": {"beam": 5, "ukuran_batch": 32, "panjang_maks_sumber": 128, "faktor_panjang_keluaran": 1.5, "tambahan_panjang": 10, "panjang_maks_keluaran": 256}, "kode_bbc": "bjn_Latn", "data_latih": {"kami": "350beae755f9b1e0d00d61cccb443cc877bd9d2ae29e0435715edf71ee766428"}}}
+{"uji_id": "nx-test-0066", "hipotesis": "Kami diajak berburu ke lembah yang sangat lezat namun masih muda, disamping tidur bersama di belakang pintor untuk melihat kami pergi makan, kami diajak berburu di tingkat 2 agar bisa menikmati hidangan rumah, kami ingin tahu daging panggang yang sudah digoreng dengan topeng, gurame goreng crispy, jeruk nipis dan dua jenis tahu yang tidak tahu namanya, semua yang kami inginkan biasanya tidak ada yang tersisa"}
+{"uji_id": "nx-test-0297", "hipotesis": "Saya dari Bali, ketika sedang berlibur ke kota Bandung, ketika didatangi kantor gubernur Jawa Barat atau didatangi oleh beberapa tamu, kami disarankan makan di pondok karena tidak tahu. Setelah masuk diizinkan kami makan piring dari kaleng naung sega (yang tidak enak juga) seperti yang kami makan tadi."}
+{"uji_id": "nx-test-0151", "hipotesis": "Percakapan kafe ini sangat menarik bagi saya, karena rasa syukur-syukur saya jadi tertarik untuk berburu-buru seolah-olah memberikan makanan. Ada tempat tersembunyi dan banyak barang dari tempat tidur dan tempat tidur. Terkadang pandangan masyarakat tentang tempat tidur lebih rendah. Di sekitarnya juga terdapat banyak bangku-bangku yang dari tempat tidur dan dari batu."}
+{"uji_id": "nx-test-0022", "hipotesis": "Restoran ini merupakan salah satu tempat kuliner yang harus dinikmati ketika berkunjung ke Bandung. Selain hidangan yang jarang disajikan di tempat makan sunnah, restoran ini juga didukung dengan konsep makan yang santai di dalam ruangan yang dikelilingi alam terbuka dan tempat-tempat yang dihiasi dengan warna-warna merah dan lembut karena suara adik iparnya akan membentuk perampokan kliner yang cukup mengesankan bagi keluarga."}
+{"uji_id": "nx-test-0025", "hipotesis": "Masakan di alam semesta ini memiliki campuran makanan laut yang beragam dengan jumlah yang cukup untuk dibawa ke alam semesta untuk dijelajahi. Berbagai hidangan yang lembut dan lebat yang memberikan ciri khasnya kadang-kadang membuat kita tidak memiliki pola makan yang lebih baik. Makanan seperti kerbau kasarnya juga terasa dingin dan gurih, lama muse dilapisi dengan ikan segar dope."}
+{"uji_id": "nx-test-0281", "hipotesis": "Perabot makan terasa doraemon. Harga makanan murah dan banyak sifilliton. Ruangan yang tidak memiliki pola bidang melainkan tempat tinggal. Di lantai 2 dibangun sebagai kamar si Nobita renta dengan meja belajar, mesin waktu dan pintu dimana saja. Banyak boneka doraemon dan komik-komik yang dapat dibawa saat memberikan makanan. Selain menikmati makanan, anda juga bisa menonton film doraemon."}
+{"uji_id": "nx-test-0200", "hipotesis": "Ketika kenyang dengan ole-ole khas Bandung yang masih adung, roti bakar bakar bakar boe menjadi sifilliton. Saya kadang menikmati roti marie disesuaikan dengan daie na tabo, muse roti disesuaikan dengan daini keju atau coklat. Biasanya saya makan di lapo roti bakar bakar di paskal hyper square."}
+{"uji_id": "nx-test-0108", "hipotesis": "Terkadang ada geram mafia yang ada di jalan setiabudi haami pillit karena kami masih mencari makanan yang lezat. Ditambah lagi karena salah satu kuliner yang harus dicari di bandung. Saya suka masakan goreng yang disukai di sini yaitu masakan goreng bandit sampai ke tingkat kehancuran di level 3. Makanan di parade cukup lezat, tapi sayang masakan goreng yang lebih nikmat adalah pir, bumbu permasakan yang terasa."}
+{"uji_id": "nx-test-0062", "hipotesis": "Seperti tempat lain, tempat makan juga jarang, ragam makanan juga jarang, tetapi tempat lain tempat ini juga membuat orang lain tertarik, kalau ingin menikmati perburuan yang harus dihormati ogung. Saya sampai ke sana tengah malam, dan hujan pun terus menerus sampai ke sana-sini, saya cuma butuh waktu 15 menit untuk mendapatkan makanan, karena waktu yang dibutuhkan sangat terbatas. Jadi kalau ingin ke sana mending sehari saja."}
+{"uji_id": "nx-test-0262", "hipotesis": "Keanekaragaman makanan yang ditawarkan sangat luas dan kenyamanan juga tersedia, banyak penggunaannya dan waktu pemberianannya juga baik, membuat kita merasa senang makan sehari-hari di sana. Hanya karena turun-temurun rumah makan harus lebih banyak dikunjungi oleh orang tua dan anak-anak, sehingga konsumsi dan keanekaragaman makanan dapat meningkat seiring berjalannya waktu."}
+{"uji_id": "nx-test-0091", "hipotesis": "Berikan waktu untuk menikmati hidangan santun karena tetap berdomisili di hotel ini. Kalau saya yang baru dan orang lain juga merasa senang dengan suasana makan di rumah santun ini dipantulkan dengan penataan dari berbagai sisi timur, karena di beberapa sisi terdapat bangunan rumah banyak hotel beserta kolam renang."}
+{"uji_id": "nx-test-0305", "hipotesis": "Saya seorang yang setia pada kampung halaman ketika mulai meruntuhkan pada tahun 2003 ketika tidak ada yang salah, makanan saya mulai terlalu banyak, tapi setelah mulai tersesat hingga kini saya jadi semakin kenyang dan kegembiraannya juga mengalami perubahan, terlebih dahulu saya ingin beberapa jenis makanan yang baru saja saya konsumsi jadi tidak terlalu mahal untuk mereka, tapi saya mau pakai lagi."}
+{"uji_id": "nx-test-0126", "hipotesis": "Setelah puas berburu, makanlah kami di pondok sana di pinggiran jalan. Pada waktu perjalanan pulang ke hotel, kami melewati jalan yang gelap untuk berburu maccet, dan berjalan-jalan di warteg ini."}
+{"uji_id": "nx-test-0295", "hipotesis": "Saya rela bergaul dengan keluarga makan malam di tempat ini karena selalu ada makanan utama yang ada makanan lain. Saya hanya makan 2 makanan tapi akhirnya hanya dalam waktu 45 menit, itulah yang saya rasa paling disukai. Kalau dari sini ada beberapa makanan yang bagus buat orang dewasa."}
+{"uji_id": "nx-test-0122", "hipotesis": "Keindahan lapangan dan ketika dipinggirkan oleh teman-teman sangat dekat, dan hanya kita saja yang bisa menikmati, seperti pondok, hutan, dan kota Bandung jika dilihat dari kejauhan."}
+{"uji_id": "nx-test-0112", "hipotesis": "Kami mengunjungi tempat ini karena tempat tinggal kami dekat dengan tempat berburu. Kami menikmati tempat makan yang ditutupi dengan pasta. Tempat letaknya dekat, banyak sipilliton, jalan tidak jauh, pulang ke kampung untuk anak-anak. Tapi ternyata cuma ada samsam saja, tapi makanan juga tersedia. Harga makanan juga mahal dan berat untuk makanan yang ditawarkan 30 ribu. Di tempat ini juga tersedia wifi gratis."}
+{"uji_id": "nx-test-0397", "hipotesis": "Aksesnya bagus, tempat parkir pun dekat loteng, kubun stroberi pun terbuka dan banyak strawberries yang agak merah untuk diputik. Makanan di rumah mak saya ini sangat beragam, kaya juga tabung, sabung stroberina pun berwarna kehijauan dan tabung. Cukup sedikit stroberi saja yang akan ada di dalam loteng."}
+{"uji_id": "nx-test-0003", "hipotesis": "Berada di tengah kota berjalan kaki yang penuh dengan keindahan alam dan fave hotel, tempat ini sangat mencolok bagi wisatawan. Kopi di cappur baru pertama kali menguji hati hati hati hati agar tetap tenang, di dalam ruangan dengan latar belakang tempat memasak menjadi hiburan menikmati pernikahan. Tempat yang indah menjadi tempat wisata untuk menikmati hidangan khas keluarga yang memasuki mall ini."}
+{"uji_id": "nx-test-0011", "hipotesis": "The peak terletak di tengah hutan, letaknya di hutan yang lebat dengan airnya cukup padat namun jalan menuju pulau tersebut terkadang terasa dingin namun tidak dalam kondisi ingin merasakan hujan dan sunrise. Di puncak terdapat kuliner dan tempat wisata kota bandung yang padat dengan airnya yang dingin, nilai sialan sangat tinggi dengan airnya yang lembut."}
+{"uji_id": "nx-test-0156", "hipotesis": "Sampai kampung saya dari Bogor 7 jam cuma makan sop buntut yang saya terima sejak jam 8.30 bukan karena bukka dope. Gabe itu saya jam 10.00. Meningkatkan sop buntut nggak usah dibilang takut rame jadi penyelamat berantakan. Wow betapa pentingnya itu? Kadang-kadang waktu saya makan 1 tahun ke depan. Tempat yang semakin dorong seolah-olah tidak ada yang berantakan."}
+{"uji_id": "nx-test-0266", "hipotesis": "Tidak seperti kebanyakan rumah makan dan kafe lainnya, tempat ini dibangun dengan bentuk khas dari biasanya, banyak lampu, lukisan/gambar antik, makanan dan minuman, yang membuat terkadang hanya sedikit daftar makanan yang tersedia saat masuk ke dalam kantong bayi. Dan kalau juga murah, makanan tidak akan pernah habis habis."}
+{"uji_id": "nx-test-0261", "hipotesis": "Resto ini memiliki keunikan seperti kota kuno, namun kebersamaan botari sampai ke dalam hati kita terlihat karena terang orbang dan api unggun membuat situasi/ambien menjadi romantis."}
+{"uji_id": "nx-test-0171", "hipotesis": "Kamu yang mencari makanan yang memiliki suasana romantis tidak akan pernah ketinggalan. Dan kalau kamu pulang pesan makan makanan yang mura-mura. Jangan lupa ambil gambar di buku makanan agar tidak tersesat. Makan pakaian terpendam tapi jangan sampai tua-tua tersesat untuk hanya menjelajahi. Di kota tidak cocok. Pandangan Jogja tentang anak laki-laki yang maniop."}
+{"uji_id": "nx-test-0206", "hipotesis": "Parkode hidangan yang sudah lama ada dan tetap menjadi sebuah turiturian, kini hera tunggal membuka cabang. Ternyata karena sudah hangat dari tahun ke tahun, masih banyak yang benar-benar tinggal di pagi hari namun hasil lautnya tidak lagi terjaga dan hangatnya sulit untuk dijaga."}
+{"uji_id": "nx-test-0282", "hipotesis": "Saya pergi ke parminuman dipenuhi dengan makanan ringan, perasaannya baik-baik saja. Makanannya juga tabung-tabo. Saya pergi bersantai menikmati acara pernikahan dan peresmian dipakar sampai habis-habisnya. Kami pulang setiap hari minggu, kami melihat meja."}
+{"uji_id": "nx-test-0009", "hipotesis": "Berkunjung ke puncak gunung sangat dekat dari kota bandung, letaknya agak gelap dan jalannya agak jempek dan berputar-putar. tapi jangan heran kalau berkunjung ke sini karena setiap kaki memiliki signage untuk menuju ke puncak. ujung kanan kanan kanan kanan kanan kanan kanan kanan kanan kanan kanan kanan kanan kanan kanan kanan kanan kanan kanan kanan kanan kanan kanan kanan kanan kanan kanan kanan kanan kanan kanan kanan kanan kanan kanan kanan kanan kanan kanan kanan kanan kanan kanan kanan kanan kanan kanan kanan kanan kanan kanan kanan kanan kanan kanan kanan kanan kanan kanan kanan kanan kanan kanan kanan kanan kanan kanan kanan kanan kanan kanan kanan kanan kanan kanan kanan kanan kanan kanan kanan kanan kanan kanan kanan kanan kanan kanan kanan kanan kanan kanan kanan kanan kanan kanan kanan kanan kanan kanan kanan kanan kanan kanan kanan kanan kanan kanan kanan kanan kanan kanan kanan kanan kanan kanan kanan kanan kanan kanan kanan kanan kanan kanan kanan kanan kanan kanan kanan kanan kanan kanan kanan kanan kanan kanan kanan kanan kanan kanan kanan kanan kanan kanan kanan kanan kanan kanan kanan kanan kanan"}
+{"uji_id": "nx-test-0174", "hipotesis": "Awalnya saya coba-coba untuk mencerminkan keindahan pondokku, tempat tinggalnya, keren mbak. Desainnya juga unik, keren, menarik, dan menarik untuk makan bareng dengan teman-teman, hallet, haha anggi, dan teman-teman, penampilan keren, hidangan tabung."}
+{"uji_id": "nx-test-0212", "hipotesis": "Siapa yang makan sambil menikmati atmosfer parisi? Unang pola dao-dao ke perancis, sae ma ke paris van java alias bandung."}
+{"uji_id": "nx-test-0074", "hipotesis": "Ada satu ruang makan berpenduduk yang sangat dekat dengan rumah tetapi sayang jalanan. Angka makanan yang disisi ini juga sangat dekat dengan lompa-lompa orang sunda. Tempat ini juga sangat indah dan hanya mata yang tergeletak juga sangat dekat dengan kita. Bila kutitipkan pintu ingin melihat siapa yang sedang tidur di tempat yang sama."}
+{"uji_id": "nx-test-0114", "hipotesis": "Rope i ke resto pagi ini karena hea do hujaha di internet, denggan dan uli do tempat ini dan tempat makan yang pas di saba jadi lasma rohaku ro tuson. padahal udah sampe sini jadi males banget rasanya, mulai dari tempat parkir yang dititip ini ada juga jalan masuk yang sempit dan sangat sempit."}
+{"uji_id": "nx-test-0165", "hipotesis": "Masakan bergaya seperti dulu. Ada yang dijuluki kue-kue, ekrim pe. Menak ma tahe. Panganannya khas rumah. Baik untuk keluarga maupun keluarga. Panganannya tabung. Indahnya ikan tabung. Indahnya tempat makan juga tabung. Perbedaan Eropa, Asia, Nusantara ada di sini. Sangat menarik. Anak laki-laki bercita-cita ingin eksim di sini."}
+{"uji_id": "nx-test-0229", "hipotesis": "Suara rumah dan suasana di kota ini sangat luar biasa. Masakan dibuat dengan gaya tradisional dan khas yang menarik bagi masyarakat setempat."}
+{"uji_id": "nx-test-0050", "hipotesis": "Bila malam minggu di san antaraku berdua diberi tempat yang cukup, karena waktu lewat orang di san kami cuma-cuma, ketika masih banyak orang di atas jalan."}
+{"uji_id": "nx-test-0290", "hipotesis": "Tempat ini sangat indah dan indah. Banyak sekali tempat bercerita-cerita. Tempat berbelanja dan kafe yang juga bagus. Sanga-sanga kami berbelanja di supermarket."}
+{"uji_id": "nx-test-0037", "hipotesis": "Ada acara makan malam dimana, es krim yang belum dicopot dari espresona jadi tidak bisa diminum sesuai selera orang. Salmon steak memiliki rasa yang bagus, ujung-ujungnya kelapa, jika sudah dipadamkan dalam kulkas atau freezer, maka itu adalah makanan yang paling disukai oleh semua orang."}
+{"uji_id": "nx-test-0249", "hipotesis": "Tempat makan dan tempat bermegah ditandai dengan gunung-gunung yang sangat tebal. Tempat yang cukup dekat jika dari kota, dan aksesnya cukup sampai ke bawah tanpa ada jalan menjelajahi."}
+{"uji_id": "nx-test-0162", "hipotesis": "Tempat ini merupakan tempat yang paling menarik bagi saya untuk menghabiskan waktu bersama keluarga, suasana yang menyenangkan dengan makan-makanan dan minuman serta hiburan yang tak terhitung jumlahnya. Tempat wisata kota yang sangat baik bisa dilihat dari sini. Tempat ini sangat direkomendasikan untuk menghabiskan waktu bersama dengan keluarga, keluarga atau teman-teman."}
+{"uji_id": "nx-test-0070", "hipotesis": "Tanggal 12 Februari adalah ulang tahun si adik saya, dan saya mengajaknya untuk makan di sebuah restoran terkenal di Surabaya. Saya ingin memberikan kado ulang tahunnya untuk makanan yang tersedia di sana."}
+{"uji_id": "nx-test-0041", "hipotesis": "Mencari tempat untuk buka puasa di sana. Dengan harga yang cukup murah dari hotel dengan harga setara. Dimana di belakang rumah membuat orang lain bercerita. Pasti tidak ada makanan lain selain mardai. Rumah lain pun sama dengan biasa dibuat. Bahkan pengeboran juga jarang terjadi ketika ingin membeli kartu kredit."}
+{"uji_id": "nx-test-0177", "hipotesis": "Bandung terkenal sebagai tempat pembuat tahu lokal yang sangat padat, seorang pembuat boe ditanam di danau. Rakyat memiliki pabrik sendiri di jalan Jenderal Sudirman, namun memulai bisnis sebagai pembuat makanan."}
+{"uji_id": "nx-test-0253", "hipotesis": "Ayah saya juga sering berkunjung ke Bandung setelah disuruh makan malam di kota Kembang ini sampai menyadari kami menikmati makanan khas kedua nama: Bakso tahu goreng, siomay goreng dengan kuah batagor, ayam kremes, dan es cendol dan kami juga harus membungkus mulak tahu ini buat cerita akhir."}
+{"uji_id": "nx-test-0218", "hipotesis": "Mencari tempat makan seperti dulu di Jogja, tempat ini adalah tempat makan yang menarik! Rupa-rupa masakan banyak dianggap khas masakan orang Belanda. Yang membuat saya terharu adalah steak sirloin. Di restoran ini juga terdapat toko roti dengan berbagai jenis sirliton sebagai roti seperti dulu."}
+{"uji_id": "nx-test-0078", "hipotesis": "Restoran lapik daun menyediakan hidangan khas sunda dengan pola makan yang berbeda dari masakan khas sunda lainnya, namun yang membuatnya asing adalah tidak menggunakan piring, dan hanya memberikan tumbuhan pisang yang dipasang di meja ganti piring."}
+{"uji_id": "nx-test-0085", "hipotesis": "Saya datang ke ruang makan ini bukan ketika waktu makan tiba-tiba, tapi terlalu banyak orang yang datang ke ruang makan ini untuk melihat pintunya sampai kami mendapat ratusan. Saya hanya mampir ke pintu untuk makan dan minum. Karena rata-rata saya tidak diajak makan, tapi tetap makan dalam hati dan hati."}
+{"uji_id": "nx-test-0140", "hipotesis": "Untuk menemukan tempat tidur yang bagus, anda tidak perlu pergi jauh untuk mencari rumah, bisa saja pergi ke jalan djunjunjun, kita bisa menemukan tempat tidur yang bagus dengan tempat yang lezat."}
+{"uji_id": "nx-test-0160", "hipotesis": "Tempat letaknya di jalan utama makannya menjadi tempat kita untuk mencari nama. kalau nggak punya mobil sendiri kita bisa bermotor sewa. menu makanannya banyak lho dan ada beberapa menu yang lebih dulu selain yang tersedia di kode ini, selain itu juga tersedia dengan alasan yang juga standar, namanya juga tersedia di sini."}
+{"uji_id": "nx-test-0189", "hipotesis": "Dari banyaknya masakan sunda di bandung, rasa syukuri ciganea itu satu-satunya yang menyenangkan hati saya. saya suka ciganea karena saya suka makan khas, digoreng dan pola makan. muse sambalna pun bukan tiga tabona. masakan lain pun tabo. namanya hera rumah, bukan pola lebih besar tapi pas ma, dan ias muse."}
+{"uji_id": "nx-test-0084", "hipotesis": "Ketika berkunjung ke hotel sensa, saya ingin menabung menggunakan aplikasi gofood/gojek. Permintaan tersebut ditandai dengan waktu yang lama karena saya punya paket batagor dan keluarga yang tinggal di bukung di dalam wadah plastik vakum. Harga yang ditawarkan di aplikasi gojek/gojek tidak termasuk pajak sebesar 10%."}
+{"uji_id": "nx-test-0395", "hipotesis": "Saya juga sering menikmati makanan di rumah orang tua. Jadi saya tertarik untuk makan bersama keluarga. Saat ini saya selalu menikmati musik live. Makanannya juga beragam, termasuk masakan tradisional, asia, hingga kulon."}
+{"uji_id": "nx-test-0342", "hipotesis": "Menyesatkan juga, saya pembeli tiket dan saya tidak keberatan, padahal waktu itu saya nggak lewat dope pas saya transfer, tapi sampai sekarang saya nggak lewat dope kode bookingnya, jadi saya diizinkan pulang-pergi lewat, setelah uangnya jadi kabur, dititipkan saya hubungi lewat email saja dalam arti singkat."}
+{"uji_id": "nx-test-0077", "hipotesis": "Rumah makan ini berbeda dengan cara pembuatannya. Piring hidangan digantikan dengan bulu pisang. Rupa-rupa hidangan masyarakat Sunda yang berada di daerah tersebut. Sian arganape suman. Tempat makan bidang dan meja sipilliton juga banyak, dan parkiringan antar bidang juga."}
+{"uji_id": "nx-test-0368", "hipotesis": "Saya tertarik dengan hal tersebut, rasanya seperti bidang dan ada muse di dalamnya dan di dalamnya. Saya juga tertarik dengan tempat di dalamnya yang ada penataannya untuk duduk, jadi ada jendela kaca. Makanannya sabas sabas. Sian argana dos ada hubungan dengan apa yang ada di parade."}
+{"uji_id": "nx-test-0144", "hipotesis": "Makanan yang mendukung konsep tradisional atau kuno ini akan menjadi milik anda. Selain makanan yang pas, lapo ini juga memiliki beberapa fitur unik seperti piring yang digunakan oleh para pembuat piring kuno seperti juga kerajinan."}
+{"uji_id": "nx-test-0131", "hipotesis": "Hal ini juga terlihat dari latar belakang, ketika kita bertemu dengan orang-orang yang kurang pola pikir, menjadi tontonan di antara kita sambil mencari penamaan di luar."}
+{"uji_id": "nx-test-0309", "hipotesis": "Namun, saya minta maaf karena saya mampir ke aplikasi ini. mungkin tidak ada e-ticket yang telah dikeluarkan. dan proses konfirmasinya panjang. sekarang saya masih belum bisa sepadan dengan yang di aplikasi dibariba. tapi permasalahannya sampai sekarang sudah ada solusinya."}
+{"uji_id": "nx-test-0344", "hipotesis": "Saya juga ikut-ikutan di renovasi rumah tangga hotel bintang empat ini. Saat saya menginap di hotel ini, saya diberitahu bahwa saya sangat senang dengan fasilitas yang tersedia. Ditambah lagi dengan kamar mandi yang dilengkapi dengan kain tenun. Hape bahannya cukup mahal. Hape tidak sesuai dengan renovasi rumah tangga."}
+{"uji_id": "nx-test-0068", "hipotesis": "Ketika pertama kali masuk rumah, meja makan terasa buruk dan wajah sifilliton tidak terlalu beragam. Akan tetapi jika bahannya tidak bisa terlihat lebih murah, karena jika dibandingkan dengan bahan lain maka akan terlihat lebih baik. Lamma ditarik ke kamar mandi lainnya, rontok dan bau."}
+{"uji_id": "nx-test-0153", "hipotesis": "Sekitar jam tujuh malam, klien ditunjuk ke tempat makan ini untuk makan makanan tradisional yang sudah digoreng seperti helai manuk, cabai, urat, rusa namun hasil panen saya masih sedikit, dan menikmati hidangan yang lezat. Namun cukup banyak ragamnya."}
+{"uji_id": "nx-test-0061", "hipotesis": "Keberagaman empat hambing hae-hae yang sangat lembut dengan atasan besar pada wajah sedang, tepatnya untuk menantu, makan tanpa memakai pakaian, dan es asom. Torhis wajahnya cuma menantu, layaknya namanya juga hambing yang dibungkus hehe."}
+{"uji_id": "nx-test-0258", "hipotesis": "Rumah makan ini berdiri tinggi, hanya ingin berbaur dengan teman-teman, berdiri atau diajak berburu disana. Kamu akan makan juga dengan tenang, padahal saya tidak hanya makan, karena sangat senang hati hati saya melihat botarina menemukan buah-buahan"}
+{"uji_id": "nx-test-0076", "hipotesis": "Rupa-rupanya makanan di tempat kita makan sederhana namun rasanya sangat lebat. Kami napinarade, roti dan hidangan penutupnya dicampur dengan ragam sifilliton."}
+{"uji_id": "nx-test-0373", "hipotesis": "Berada di festival city link mal, masakan ini menghadirkan hidangan khas cina seperti carte dan dimsum."}
+{"uji_id": "nx-test-0101", "hipotesis": "Steak murah, seringkali disukai oleh pembeli yang ingin menikmati makanan yang murah namun ringan. Selain steak makanan lainnya juga tersedia dan murah, dan ribur biasanya banyak dikunjungi oleh keluarga dan teman sekelas."}
+{"uji_id": "nx-test-0158", "hipotesis": "Akan diubah untuk bersantai atau makan malam pada tanggal 18 ini, penataan yang diterima dengan baik dan yang membuatnya lebih nyaman pada tanggal 18 ini ada lantai kaca. Walaupun harganya agak murah karena yang ditawarkan di trans hotel ini, namun ada juga tempat tinggal yang tersedia di sini."}
+{"uji_id": "nx-test-0319", "hipotesis": "Terlepas dari kearifannya mengenai makanan ini, karena terkadang saya coba-coba ikut-ikutan. Tapi sayangnya, kalau dipikir-pikir, bukan seperti yang saya ceritakan sebelumnya. Diana juga biasa sih. Tidak sesuai dengan harapan saya. Sama seperti anak muda yang baru belajar"}
+{"uji_id": "nx-test-0383", "hipotesis": "Nasi uduk ini terdapat di jalan rajiman dan bukka yang melonjak dari botari hingga borgin. Sipillitona pun agak kecil, hanya nasi uduk dengan latar belakang/dengarannya."}
+{"uji_id": "nx-test-0271", "hipotesis": "pertama masuk live di acara dan acara pernikahan yang membuat teman-teman lama memberikan 4 lagu marcell. setelah itu lama juga nggak jadi apa-apa. nggak usah ragu-ragu deh kalo nggak tau kalau temen-temen yang baru menikah nggak usah ragu-ragu lagi."}
+{"uji_id": "nx-test-0371", "hipotesis": "Padahal sekarang saya masih belum bisa makan, tapi saya yakin kalau dipengini saya akan membuat padang bungkus di Singgalang biar banyak teman. Sampai sekarang tempat ini nggak pernah jadi satu tempat untuk menikmati padang rumput hatiku."}
+{"uji_id": "nx-test-0019", "hipotesis": "Saya juga ke restoran itu dekat dengan pondokku. Danau saya banyak tersonggok memasak persembahan selama makan malam. Saya coba ambil steak impornya, apalagi kalau masak."}
+{"uji_id": "nx-test-0388", "hipotesis": "Memberikan pengalaman tahun ini kita cobalah untuk anak. Kita berdua suka masakan sushi. Silahkan minum susu teh dengan eskrim vanilla dan dasar masakan. Kalau masakan sushi memang bagus tapi rasanya kaya gitu. Tapi tidak terlalu mahal. Harganya juga murah."}
+{"uji_id": "nx-test-0176", "hipotesis": "Wow, sangat tersungkur di pengeboran pengaman bkpn bromo malang. Sangat meringankan hati lho, Kalo cuma mau pakai produknya ya, nggak di antaranya kita, satu sama lain di rumah, dan sedikit juga perasaan kalian!"}
+{"uji_id": "nx-test-0238", "hipotesis": "kalau nak masak ayam pasti nak masak ketiaw siramanya, kalau biner hera yang kecil, padahal baru dimakan, banyak lagi kalo di saya, ketiaw siramna I dobo dope dari tempat lain, betul-betul sambal juga pashian buat dibikin."}
+{"uji_id": "nx-test-0033", "hipotesis": "Sangat mudah untuk menjelajahi tempat ini, hanya mengesankan segala latar belakang kota. Dimana di seberang jalan terdapat tempat parkir motor yang agak luas, disambut hangatnya kafe ini."}
+{"uji_id": "nx-test-0293", "hipotesis": "Satu bangunan baru adalah rumah adat di Bajawa, Flores. Ukuran besar masa tersebut diperkirakan mencapai 13/8 botari yang menyempurnakan seluruh kampung halaman."}
+{"uji_id": "nx-test-0026", "hipotesis": "Seperti biasa kami selalu mencari kuliner yang berbeda-beda dari yang lain, akhirnya kami diajak berdomisili di restoran padma hotel. Kami memesan makanan yang bagus. Ada juga yang berasal dari Indonesia, Eropa, dan China, semua masakan memang tersedia."}
+{"uji_id": "nx-test-0120", "hipotesis": "Makan siang bersama keluarga pada hari lahir pernikahan menjadi hal yang sangat menyenangkan dan menyenangkan untuk menginap di hotel. Penghiburannya sangat menyenangkan dibandingkan dengan pagi hari. Jangan terlalu lama memberikan makanan dan minuman yang anda inginkan."}
+{"uji_id": "nx-test-0021", "hipotesis": "Masakan oke sama dengan xo suki lainnya. Tapi kalau hari libur jarang seperti lebaran ini bukan jadi hari libur kekhawatiran dan penutupan minuman, dan lain sebagainya harus diresapi beberapa hal."}
+{"uji_id": "nx-test-0350", "hipotesis": "Masakan dan empat jenis ikan membuat percakapan terasa lantang, Tung Massai Tarian Lainnya Terinspirasi dari Masakan dan Banyak juga Jenis Makanan Lainnya, Tung Massai Tarian Lainnya Terinspirasi dan Bercerita Tentang Dongan."}
+{"uji_id": "nx-test-0053", "hipotesis": "Soto kudus ini terletak di kaki lima, terlebih dahulu untuk makan seperti yang sudah dibakar. Karena yang paling dikenal adalah hati kudus ba dai ma jolo."}
+{"uji_id": "nx-test-0237", "hipotesis": "Siapa yang tidak tahu itu engkau! Belajarlah memeluk bukan untuk hidup bahagia! Tetapi untuk menjaga diri sendirilah engkau pergi! Guru juga dipercayakan kepada engkau lama ke kampung halamanmu! Sehatlah engkau, hidup dibakar hidup! Kau berhutang satu hidup! Dan siapa yang menjadi geram itu!?"}
+{"uji_id": "nx-test-0396", "hipotesis": "Banyak orang yang sakit hati pergi ke dokter. Selain uang yang agak mahal pada orang, pergi ke dokter tidak terlalu mahal untuk dimengerti. Banyak dokter yang gagal perawatan."}
+{"uji_id": "nx-test-0020", "hipotesis": "Perjalanan ke kota Bambu bisa dilakukan dalam waktu kurang lebih 1-2 jam menggunakan motor pribadi. Melalui kota Bambu kita dijelajahi selama beberapa hari karena kita selalu memperhatikan batas penataan yang ada dan waktu yang tepat untuk makan siang."}
+{"uji_id": "nx-test-0145", "hipotesis": "KFC Palembang Square kadang-kadang menjadi penyelembaga waktu tamu ketika saya tinggal di sekitar hotel di tempat ini. Banyak orang yang suka kfc So. Kfc di tempat ini membuat kamu penari yang ingin memesan waktu tamu di dalam hotel."}
+{"uji_id": "nx-test-0322", "hipotesis": "Apakah Pak Boasa selalu tidur bersama-sama dengan teman-teman peribadatan? Iya Pak, saya mau pakai lem untuk berburu, lambat, lambat, dan dihatai, karena saya punya anak yang baru lahir, geram-geram yang tidak jelas dan retak otak dan hati."}
+{"uji_id": "nx-test-0377", "hipotesis": "Masakan ini memiliki masakan yang beragam namun kaya masakan Cina dan halal. Kami memiliki ayam jamur dengan hidangan yang lembut dan direkomendasikan. Makanan ini juga tersedia. Masakan ini kini memiliki cabang di Istana Plaza."}
+{"uji_id": "nx-test-0392", "hipotesis": "Burung manuk yang terkenal terkenal di kampung bandung, namanya agak mura di hutan, alasan juga bukan untuk berhenti, apalagi banyak yang dibicarakan orang setiap hari kerja akhir pekan karena masih muda."}
+{"uji_id": "nx-test-0080", "hipotesis": "Saya menghabiskan waktu makan ini untuk makan daging sapi dan dongan. Saya ingin steak manuk yang sebenarnya saya lupa namanya. Dainnya sangat lembut, tidak pedas. Masakan berbentuk persegi panjang dengan coring hian. Dangan yang spesial."}
+{"uji_id": "nx-test-0260", "hipotesis": "Setelah menikah, Lota menemukan tempat tinggal hundul, Lota hundul. Jadi orang-orang punya waktu yang lama untuk tinggal bersama laki-laki, untuk menjaga kesehatan. Saya sadar ketika menjalani aktivitas makan di kedai-kedai di sekitar sini agak tenang dan tenang juga."}
+{"uji_id": "nx-test-0147", "hipotesis": "Pada tanggal 10 Maret 2015, saya diberitahu anak saya untuk makan Arian. Hupang udang cremes dan sayur asom. Sangat cocok. Dan yang spesial di sini adalah sambalnya, saya sih enggak pernah ketagihan lainnya. Jus Blackberry juga cocok."}
+{"uji_id": "nx-test-0027", "hipotesis": "Itulah yang membuat saya tenang. bukan kesalahan orang yang mencari pekerjaan tapi jelas 100 % kesalahan para pemimpin tidak mengetahui bagaimana mereka mengatur hal ini. Jadi hati saya tenang di sana juga saat ini pada teman-teman saya yang sedang merantau."}
+{"uji_id": "nx-test-0008", "hipotesis": "Pesantren tersebut berjumlah sekitar 120 ribu jiwa. Padahal sebenarnya lebih banyak dari itu. Ia membuat makanan sehabis hatinya, namun jangan sampai tersesat, apalagi untuk mengakomodasi dirinya. Kalau hasil panennya lebih besar maka akan terasa lebih tenang."}
+{"uji_id": "nx-test-0087", "hipotesis": "Awal mula saya makan lewat hite delivery order. anak saya sih suka nih perkedel spiritnya yang kaya jagal. makanan jaman dulu yang saya ceritakan tadi, alasannya juga bagus buat saya sih mbak dan rasanya juga lumayan mahal."}
+{"uji_id": "nx-test-0136", "hipotesis": "Restoran ini memiliki hidangan yang prima di tempat yang ramah lingkungan dan penataan yang ramah lingkungan sehingga mereka bisa menikmati makanan khas pulau-pulau tersebut."}
+{"uji_id": "nx-test-0224", "hipotesis": "kalau menurut saya sih saya sih baru makan sambal dua. sambal yang di goreng dipadukan dengan sambal dua, tabo. makanan lain pun tabo tapi kalau saya sama temen-temennya dison juga menikmati masakan dan minum kopi."}
+{"uji_id": "nx-test-0017", "hipotesis": "Tidak ketinggalan rumah makan ini memelihara hampir 12 hektar dari kuliner abad ke-18 yang ada di Jakarta."}
+{"uji_id": "nx-test-0254", "hipotesis": "Selain mencari makanan yang baru di gading resto, taboni masakan pun agak tabuni, karena juga mura muse. Rekomendasi jika ada makanan ringan atau yang hanya untuk makan malam bersama keluarga."}
+{"uji_id": "nx-test-0179", "hipotesis": "Salah satu makanan yang paling menyenangkan bagi saya adalah mcflurry yang memiliki beragam hidangan lainnya dari paket dua kepingnya."}
+{"uji_id": "nx-test-0321", "hipotesis": "Kalau kita cuma punya uang untuk memelihara komik tapi enggak mau makmur, itu sih buat anak. Ga ada lagi komiknya. Makanan dan minuman yang cuma menambah fasilitas, tapi lumayan juga. Harganya juga murah untuk disukai mahasiswa."}
+{"uji_id": "nx-test-0273", "hipotesis": "Mempersiapkan soto dengan bahan bakar, ditambahi suasana yang hangat. Danau yang sudah terbakar dan dibakar dengan cuka khasnya yaitu Diah, tisna, echa."}
+{"uji_id": "nx-test-0327", "hipotesis": "Saya memulai lomba blog cinta rupiah bank indonesia-net media dengan tujuan untuk mengirimkan artikel pada tanggal 22 desember 2017 namun sampai hari ini saya masih belum terdaftar."}
+{"uji_id": "nx-test-0376", "hipotesis": "Ikanannya cukup tebal, ada di jalan sudirman yang dekat dengan keluarga tempat berbelanja, dari resto juga cukup dekat dengan tempat ini."}
+{"uji_id": "nx-test-0107", "hipotesis": "Makanan dan minuman ringan membuatnya terasa lebih nyaman dengan semua fasilitas yang tersedia. Ruangan yang besar, hidangan yang cukup tebal dan beragam ciri khasnya. Dan penataan dan suasana yang menyenangkan."}
+{"uji_id": "nx-test-0198", "hipotesis": "Mempercayai bahwa GBK akan menjadi tempat konser teal-teal oleh teman-teman muda. Orang yang berada di lapangan itu hanya berhadapan ketika uang dari konser habis habis. Tidak ada kerosakan yang lebih besar yang dibuat oleh pemain sepak bola."}
+{"uji_id": "nx-test-0244", "hipotesis": "Di kafe ini, terdapat beberapa tumbuhan yang mirip dengan gunung, tahu dilumbuhkan dengan vulkanik risols namanya. Sensa lain dari rupa dan suara membuatnya terlihat lebih lembut. bagi yang ingin tahu bisa melihat di dalamnya."}
+{"uji_id": "nx-test-0259", "hipotesis": "Makanan yang kami pesan udang, sapi, jika sudah masak, siap dipotong, masak pas, tambah-tambah kualitasnya. Makanan yang halus, pengeboran yang baik. Makanan yang lembut dan seperti yang saya alami."}
+{"uji_id": "nx-test-0204", "hipotesis": "Penghayatannya baik-baik saja, seakan-akan bebas dari kebingungan, karena sekarang saya ingin melihat penataan kota di masa depan dari makanan, makanan, dan sebagainya."}
+{"uji_id": "nx-test-0029", "hipotesis": "Makanan di sini beragam dan beragam. Sudena juga memiliki tata letak yang luas. Pakaian yang maksimal dari Ito Diah dan Gina mulai dari yang kaya hingga yang kaya, disukai dengan baik."}
+{"uji_id": "nx-test-0042", "hipotesis": "Saya juga bingung kenapa, pendukung seseorang hampir sama saja dengan pembunuh, pemfitnah, pembicaraan kasar, menyebarkan berita yang buruk, menilai emosi, pikirannya tidak pernah dimanfaatkan."}
+{"uji_id": "nx-test-0193", "hipotesis": "Pembuatan batik air kelas bisnis di Halim sangat merugikan, terlihat busuk dan berbau, tidak ada TV. Hal ini disebabkan pesawat baru, sehingga jika turun dari pesawat juga tidak ada lagi."}
+{"uji_id": "nx-test-0094", "hipotesis": "Saya senang dan senang bekerja sama dengan teman-teman untuk bisa makan arion dison, karena rasa takutnya akan terasa ketika berada di loteng ginjang. Saat ini menantu didatangi dison sangat direkomendasikan dengan sambal mangga."}
+{"uji_id": "nx-test-0223", "hipotesis": "Ikanannya unik. Sehat makan dipenuhi dengan cita-cita makan yang unik. Banyak hiburan dan galerina. Itulah anak laki-laki yang punya pola kebimbangan. Ada rasa takut anak perempuan saya. Kalau makan jadi lebih santai."}
+{"uji_id": "nx-test-0348", "hipotesis": "Sangat sedih dan sedih hati saya mulai pada bulan Februari karena setiap hari saya mendapat telepon dari par mnc tv."}
+{"uji_id": "nx-test-0357", "hipotesis": "Kami sebagai keluarga selalu makan di tempat perlengkapan seperti rumah kaca yang ditutup untuk beberapa detail. Uli, unik, tebal dan makanan yang juga tebal."}
+{"uji_id": "nx-test-0100", "hipotesis": "Kami ke kafe ini untuk menikmati makanan. Kami juga berburu di pondok kami yang ditebang. Banyak teman mengenakan topeng sipilliton yang menjadi ciri khas keluarga kami."}
+{"uji_id": "nx-test-0381", "hipotesis": "Tempat parkirnya agak jauh. Dan seringkali saya merasa kalau waktu makan saya disuruh pindah motor karena ada orang yang malas makan dan enggak mau keluar motor."}
+{"uji_id": "nx-test-0139", "hipotesis": "Salah satu makanan laut yang populer di kota ini. Terutama ketika sedang berlibur pada hari Sabtu, makanan yang bagus baru saja tersedia. Karena beragam, tidak sembarangan maupun tidak terlalu mahal."}
+{"uji_id": "nx-test-0111", "hipotesis": "Penampilan yang tepat di sky lounge grandia ini juga bisa membuat anda terpesona. Bahkan, kamu bisa juga menemukan tempat ini lebih dulu ketimbang beristirahat di kamar."}
+{"uji_id": "nx-test-0028", "hipotesis": "Penyimpanan seperti yang lama, tetapi atmosfer yang diberikan tebal dan kutus, dan memberikan hidangan dapat menyerupai atmosfer di resto ini, beragam hidangan yang memiliki ragam yang beragam dan tabung."}
+{"uji_id": "nx-test-0367", "hipotesis": "Burung-burung si ahong ini selalu dijaga untuk dikunjungi oleh orang tua. Banyak makanan lain yang tersedia di luar burung. Makanan ini sangat beragam bagi orang maupun bidang. Burung juga tersedia."}
+{"uji_id": "nx-test-0345", "hipotesis": "Sian nabodari boasa tidak bisa dipegang, boasa seperti pemberian obat. Daftar tambahan 2 gb 10 ribu tidak berarti, tidak guna pulsa saya jadi habis nggak bisa dipakai atau ditipu."}
+{"uji_id": "nx-test-0394", "hipotesis": "Tidak ada lagi alasan untuk memperbarui nomor handphone kami yang baru untuk membebaskan para pengguna taksi untuk tidak menyimpan data di dalam nomor handpone yang sudah lama, itulah kekecewaan orang-orang!"}
+{"uji_id": "nx-test-0399", "hipotesis": "Memberikan hidangan yang cukup lama, pelayanannya garang, menikmati hidangan yang lebih ringan pizza tetapi yang memiliki kasir yang juga tidak melonjak ketika membayar orang lain, pemberian tidak sembarangan."}
+{"uji_id": "nx-test-0052", "hipotesis": "Keberagaman sangat besar. Jadi orang-orang ini sedang diperlakukan. Mertuanya berusaha meminta maaf karena menangis-nangis setelah didatangi anaknya sudah disukai kalau pembinaan itu tidak ada di depan umum."}
+{"uji_id": "nx-test-0059", "hipotesis": "Kopi yang ramah lingkungan, ramah lingkungan dan terjangkau di warung kopi ini jauh dari yang lain membuat betah. Makanan ramah lingkungan dan kopi juga tersedia dengan wifi yang aman dan tv kabel juga bagus"}
+{"uji_id": "nx-test-0230", "hipotesis": "Oleh karenanya, masakan tersebut merupakan salah satu masakan khas Indonesia. Masakan ini juga tersedia di tempat lain dengan harga murah. Masakan kuliner dison arga hian!"}
+{"uji_id": "nx-test-0285", "hipotesis": "Saya suka makan disana karena ragam masakannya banyak dan lembut, apalagi pas di lapangan dan suasana restoran juga bagus. Selain itu, pergaulan pun bagus dan tidak ada pola makan."}
+{"uji_id": "nx-test-0362", "hipotesis": "Di sini, boe menarik stroberi seorang laki-laki dan seorang pelukis di gerbang ketika hasil-hasilnya terlihat lebih tinggi dibandingkan stroberina dan memiliki hidangan yang dihasilkan oleh boe di tempat lain."}
+{"uji_id": "nx-test-0161", "hipotesis": "Tempat ini tidak sesuai dengan keluarga yang memiliki pes pese pese. Dalan narahis. Perbedaan lukisan di luar hanya 10 orang yang bisa dipercaya oleh banyak orang yang masih ingin melukis"}
+{"uji_id": "nx-test-0106", "hipotesis": "Sebentar lagi, seluruh pekerjaannya pun berburu-buru, dan ekspektasinya pun malas, tapi kalau makanan yang cukup mahal, mahal kalau dikonsumsi, harus lebih mahal."}
+{"uji_id": "nx-test-0188", "hipotesis": "Sate kambing H. Ihsan ini cukup ditandai di Tegal. Kalau tidak bisa ke tempat pusatnya. Kamu bisa menemukan sate kambing H. Ihsan di beberapa tempat makan di kota Tegal."}
+{"uji_id": "nx-test-0209", "hipotesis": "Kalau sampai ke tempat ini, jalannya sangat layu dan jauh dari pusat kota. Malah ada pondok khusus yang menggerakkan jalan-jalan dekat sana."}
+{"uji_id": "nx-test-0287", "hipotesis": "Reunion house ini direkomendasikan untuk makan arion di bandung. tempat yang paling cocok untuk bersantai dengan teman atau juga teman-teman."}
+{"uji_id": "nx-test-0113", "hipotesis": "Untuk mendapatkan pandangan yang indah dan terang dari lampu yang berwarna-warni, anda harus mengunjungi pondok tersebut karena di pondok tersebut terdapat pandangan jembatan Pasupati yang merupakan landmark kota."}
+{"uji_id": "nx-test-0118", "hipotesis": "Ruangan makan tersebut memiliki ciri khasnya, tempat makan seolah-olah sangat banyak mulai dari toru naik sahat ke ginjang, hingga ginjang lam mereka menabung."}
+{"uji_id": "nx-test-0148", "hipotesis": "Jika ada makanan saya akan makan turke ale ini dengan cepat meratap ke tempat kerja rumah makan saya bisa disarankan agar saya ada rusa madu di dalam minuman karena saya alergi terhadap madu."}
+{"uji_id": "nx-test-0166", "hipotesis": "Salah satu rumah bagi wisatawan yang populer di Bandung yaitu Daina Toba, dengan nilai sekitar Rp. 10 ribu."}
+{"uji_id": "nx-test-0103", "hipotesis": "Terlebih tempat ini, tempat peribadatan juga indah, karena ada tempat mermaid di luar keluarga apalagi yang membawa anak-anak. Makanan juga halal dan beragam."}
+{"uji_id": "nx-test-0251", "hipotesis": "Buatlah ayam goreng yang sudah masak masak dan buat saja yang lain jadi kenyang, apalagi kalau masak masakan lam tabok dengan adonan hangat dan es teh manis."}
+{"uji_id": "nx-test-0323", "hipotesis": "Rekomendasi tempat tidur. Cita-cita hiburan, tempat duduk murah, dan tempat parkir ramah lingkungan. Oleh karenanya, waktu luang juga bisa membuat suasana terasa lebih hangat."}
+{"uji_id": "nx-test-0222", "hipotesis": "Dimana makan di poolside hotel miltom? Daena dan argana nggak sembarangan, Sipanganonya kurang bagus, hampir 20 orang ikut karena tinggi hatinya nggak terlalu mahal."}
+{"uji_id": "nx-test-0104", "hipotesis": "Hotel yang ingin check-in pun sulit, Paimahan karena membeli kamar yang cukup lama membuat saya tersesat. Ini pertama kalinya saya mampir ke sini."}
+{"uji_id": "nx-test-0221", "hipotesis": "Di Indonesia, hampir semua merek ponsel memiliki banyaknya. Kalau tidak suka meramaikan xiaomi maka mereka akan melanjutkan kariernya lewat merek lain."}
+{"uji_id": "nx-test-0279", "hipotesis": "Makanan yang tersedia, dan ekspektasi yang baik, cukup untuk menuju Lawangwangi yang gelap karena tidak semua orang menyadari bahwa ada pintu masuk di sekitar orang-orang lewat."}
+{"uji_id": "nx-test-0039", "hipotesis": "Buffet memiliki hidangan yang cukup. Harga yang tepat untuk yang ditawarkan. Semua makanan memiliki ciri khas. Jika dikombinasikan dengan yang lain ada diskaun yang ditawarkan."}
+{"uji_id": "nx-test-0181", "hipotesis": "Satena besar-besaran. Parmasakna di tempat pulang. Dibagikan seatan oranye merah dan cabe rawit di atas kukus, banyak lontong dan hidangannya juga pas. pokoknya suka banget rohaku."}
+{"uji_id": "nx-test-0196", "hipotesis": "Ruangan dan interpretasi tempat ini sangat bagus, tetapi tempat makan dan minuman tidak memiliki pola pola pola. Tempat untuk berburu dan berburu juga tersedia."}
+{"uji_id": "nx-test-0235", "hipotesis": "Apakah dia sudah lama dikonfirmasi? Ayah saya di garda, saya juga sudah mengirim tanda transfer, tapi e-ticket belum habis? Saya kecewa, sampai saya digantung seperti ini."}
+{"uji_id": "nx-test-0299", "hipotesis": "Saya suka meramaikan roti. Sipilliton yang banyak tapi bukan sopala. Rotina horing hera tadung berhari-hari. dang sogar. Panghobasionnya yang juga panjang. marsak lainnya."}
+{"uji_id": "nx-test-0283", "hipotesis": "Tidak salah juga kalau kafe modern yang disukai oleh orang-orang cenderung ke tempat perjamuan jika berdomisili untuk menghibur orang-orang yang suka juga dengan senang hati."}
+{"uji_id": "nx-test-0316", "hipotesis": "Saya minta maaf, bukan hanya nomor saya yang satu ini, saya juga bertanya-tanya siapa pengguna yang ada di lapangan, sama pendapatnya, tapi saya enggak berani mengaku kalau ada sinyal yang salah."}
+{"uji_id": "nx-test-0002", "hipotesis": "Kayu ini bisa dimakan tetapi saus tomat yang sudah dimasak juga bisa dimakan, dibiarkan saja di dalam wadah yang tidak mengandung agar tidak dimakan kami dan kemudian dipadamkan."}
+{"uji_id": "nx-test-0064", "hipotesis": "Tidak hanya melihat wajahnya meratap di film Indonesia, tidak berarti dia tidak bagus, tetapi jika pemain itu hanya terus bertumbuh maka orang lain pun ikut."}
+{"uji_id": "nx-test-0134", "hipotesis": "Saya senang sekali kalau sampai disana, karena tempat letaknya, panorama juga bagus, ada museum sipilliton yang ada di luar maupun di dalam. Makanannya agak tebal."}
+{"uji_id": "nx-test-0190", "hipotesis": "Hotel ini berdiri sejak tiga puluh tahun silam, belum pernah saya bangun. Tempat perbelanjaan pertama di kota ini. Sekarang masih banyak yang berdiri di sini."}
+{"uji_id": "nx-test-0038", "hipotesis": "Setelah mengetahui detailnya. Sangat lembut dan higienis, fungsinya juga sangat baik, maka kita bisa lebih memahami ciri khas rumah yang ada di sana."}
+{"uji_id": "nx-test-0095", "hipotesis": "Saya sangat prihatin dengan perjalanannya. Baru-baru ini saya mendapat pesan untuk mengambil makanan tetapi pesan saya tidak ditaruh melainkan dijemput. Mungkin itu saja yang saya pikir dipillit parkiranya."}
+{"uji_id": "nx-test-0157", "hipotesis": "Jika pendirian Mandiri verified by visa (vbv) tidak bisa lewat mobile mobile call 14000, maka bisa lewat email dan kantor cabang bank Mandiri saja."}
+{"uji_id": "nx-test-0164", "hipotesis": "Ada banyak ciri khas untuk hiburan dan hiburan. Selain bidang, diantaranya dibagi menjadi beberapa bagian dan konsep."}
+{"uji_id": "nx-test-0138", "hipotesis": "Tempat yang membuat bahagia. Dahulu juga tenang, tak apa-apa arga. Juhat hambing juga tidak marah. Tungsung pas ini ikut-ikutan sial jagal hambing."}
+{"uji_id": "nx-test-0183", "hipotesis": "Terkadang, saya juga merasa kurang percaya diri karena internet rumah saya tidak terlalu baik. Kalau saya sih masih ragu, saya juga merasa kurang percaya diri sebagai pengembang."}
+{"uji_id": "nx-test-0055", "hipotesis": "Restoran seafood. Makanan khasnya adalah gurappang yang dimakan dengan kulitnya. Molo di au hurang tabo. Kulit yang cukup keras. Panghobasion yang biasa saja."}
+{"uji_id": "nx-test-0304", "hipotesis": "Restonya bagus dan besar. Waktu untuk makan arien dan hari minggu sibuk oleh orang kaya. Makanan tabuni, gurame goreng dan sambal yang kokoh."}
+{"uji_id": "nx-test-0338", "hipotesis": "Ayah kandung dari anak perempuan yang sudah menikah tidak pernah menikah lagi, seperti sekarang dan sekarang."}
+{"uji_id": "nx-test-0379", "hipotesis": "Kalau ada yang salah di percakapan atau percakapan yang saya pelajari langsung saja kepada saya, sebelum berbicara langsung di depan umum, jangan sampai seperti ini. perbarakan!"}
+{"uji_id": "nx-test-0032", "hipotesis": "Akan tetapi, ternyata, bukan hal yang pernah dikatakan oleh orang tua kami, tidak ada makanan yang halal bagi kita, melainkan alasan untuk menghinanya."}
+{"uji_id": "nx-test-0268", "hipotesis": "Saya dan teman-teman saya kembali ke Jakarta. Saya sempat berkunjung ke restoran ini. Penampilannya bagus dan hidangan yang juga mura-ura. Rekomendasi kami."}
+{"uji_id": "nx-test-0175", "hipotesis": "Untuk memahami situasi ini semua orang berbeda-beda, ada yang sulit untuk dijelaskan, ada juga yang harus diulang-ulang agar tercapai."}
+{"uji_id": "nx-test-0236", "hipotesis": "Menonton film Indonesia di tv ini membuat saya terengah-engah. Karena saya masih punya masalah di Indonesia, karena saya masih berkunjung ke luar negeri."}
+{"uji_id": "nx-test-0102", "hipotesis": "Pertemuan par bank BRI, BPBAT binang Gelam-Jambi, dengan anak muda yang tinggal di kota Pudak, akan menjelaskan bagaimana dia mengelola dana CSR dari bank BRI."}
+{"uji_id": "nx-test-0169", "hipotesis": "Terpisah dengan latar belakang dan latar belakangnya, pulsa dimulai dari awal hingga akhir untuk menantu tim, tim yang kini dikenal dengan banyaknya pulsa terpendam."}
+{"uji_id": "nx-test-0277", "hipotesis": "Usahakan untuk mencari nama orang-orang ini. Kita akan melihat perbedaan seperti laki-laki berjenis kelamin laki-laki. Padahal dia perempuan yang sangat ramah dan sopan santun."}
+{"uji_id": "nx-test-0286", "hipotesis": "Saya hidup dengan senang hati. kadang-kadang teman saya juga membuat paket dengan memesan dan memesan dari penghantaran lainnya. Saya tersesat karena tidak tahu berapa banyak hasil."}
+{"uji_id": "nx-test-0133", "hipotesis": "Makanannya tetap saja bagus, tetapi karena kekurangan karosi yang ringan, terkadang lebih banyak menjadi tidak mencolok, bahkan terasa dingin dan keras juga ringan."}
+{"uji_id": "nx-test-0385", "hipotesis": "Setidaknya kartu internet saya tidak bisa dipakai lagi kalau ada kuota lokal. Dan saya dilokasi aktifitas dan kartu saya juga sudah diregitalisasi/daftar."}
+{"uji_id": "nx-test-0195", "hipotesis": "Makanan yang sangat sederhana, tapi bukan kejujuran. Parmasak yang digunakan adalah keju yang pas dan jumlahnya tidak terlalu banyak."}
+{"uji_id": "nx-test-0311", "hipotesis": "Setelah melakukan 5 transaksi pada tanggal 22 Juni, jumlah debit turun dari akun hampir 7 juta, dari transaksi terakhir 3 transaksi dibatalkan."}
+{"uji_id": "nx-test-0276", "hipotesis": "Makanannya agak khas di daerah yang lebat dengan banyak massamnya yaitu pemakanan hewan peliharaan, sopo prasari dan tempat makanannya."}
+{"uji_id": "nx-test-0390", "hipotesis": "Sangat disayangkan kami melihat pemberian pekerjaan untuk anak laki-laki di gerbang A6 Bandara Cengkareng."}
+{"uji_id": "nx-test-0075", "hipotesis": "Kemungkinan besar puluhan juta orang akan terjebak dan kalian akan terjatuh sampai ke lubang kiri juga!"}
+{"uji_id": "nx-test-0213", "hipotesis": "Yogyakarta ini berada di tengah jalan banyak hotel. Ale seang ma. Itu kelas 3 bintang juga karena penggunaannya dan perasaannya tidak sesuai."}
+{"uji_id": "nx-test-0184", "hipotesis": "driver/supir tidak mau ke tempat yang tepat, tapi di aplikasi sudah pola naik, dan gopay sudah terputus, padahal saya nggak tau kenapa pengguna gojek,"}
+{"uji_id": "nx-test-0119", "hipotesis": "Peraihannya ramah. Membangun menjadi lebih ramah. Terkadang juga berdomisili di sana, hotelnya nyaman dengan penjelajahan dari sekitar hotel besar."}
+{"uji_id": "nx-test-0272", "hipotesis": "Karena penduduknya sangat miskin, saya juga ingin belajar lebih lanjut, saya melanjutkan kuliah di universitas parahyangan."}
+{"uji_id": "nx-test-0294", "hipotesis": "Tiba-tiba acara kattor. Ada musik live. Sipilliton massam. Ketika tiba-tiba orang-orang melihat bahwa hatinya hancur berkeping-keping."}
+{"uji_id": "nx-test-0000", "hipotesis": "Berkunjung ke hotel saya berburu, hanya berjalan kaki saja, di sana banyak hiburan yang melibatkan hiburan, hiburan, dan hiburan."}
+{"uji_id": "nx-test-0137", "hipotesis": "Ayahku yang tidak punya pola kasih sayang yang baik, kalau sampai sore ini katanya sudah tua. Sudah tentu dia sudah kenyang untuk dimasak setelah makan malam."}
+{"uji_id": "nx-test-0370", "hipotesis": "Makanan tetap tidak seperti yang dulu. Masih seperti orang kaya. Pasti ada di pondok makanan. Cukuplah minum sedikit saja cuma minuman ringan."}
+{"uji_id": "nx-test-0005", "hipotesis": "Ini adalah salah satu alasan mengapa kita harus bekerja. Tidak ada yang berguna bagi bangsa tapi menjadi satu hal untuk bangsa!"}
+{"uji_id": "nx-test-0240", "hipotesis": "Perut dan berceritalah kepadaku yang sedang bersedih, kalau saya aparat jadi partai, sekarang jadi tidak adil dan sekarang jadi tidak adil"}
+{"uji_id": "nx-test-0256", "hipotesis": "Terjadinya kerusuhan di akhir debat kedua Pilgub Jabar tanggal 14 Mei 2018 berakhir, menyebabkan percepatan dan pendapat para pendukung berdebat."}
+{"uji_id": "nx-test-0382", "hipotesis": "Sama seperti itu, kemampuan mahasiswa untuk membuat keputusan yang baik saat ini juga sulit. Banyak yang tidak terlalu sopan dengan keputusan yang saya ambil sebagai pekerjaan."}
+{"uji_id": "nx-test-0375", "hipotesis": "Kalau dilihatnya akan ada di tengah-tengah terongnya, ingat juga kalau ada yang kenyang, apalagi kalau makan siang kalau dilihat oleh orang banyak."}
+{"uji_id": "nx-test-0083", "hipotesis": "The Richeese Factory adalah sebuah restoran waralaba yang menjual ikan lele dengan beragam jenis ikan."}
+{"uji_id": "nx-test-0185", "hipotesis": "Masakan di sini kalau pendapat saya kurang logat, karena saya orang miskin, saya nggak punya pola lebih rendah hati untuk menghormati orang yang lebih tua."}
+{"uji_id": "nx-test-0267", "hipotesis": "di lantai 1 hotel ima lantai ung timbo, ada penerapan n apar bagak ke tempat duduk yang bagus untuk anda. Mermer, ias, tabo dan uar biasa saja lho."}
+{"uji_id": "nx-test-0159", "hipotesis": "Salah satunya dari pusat perbelanjaan dengan ruang lingkup yang agak kurung."}
+{"uji_id": "nx-test-0340", "hipotesis": "kuliner untuk makan, tempat lain sebagai tempat makan kuliner yang kita alami seperti lainnya. Masih banyak kuliner yang tersedia."}
+{"uji_id": "nx-test-0088", "hipotesis": "Parkirannya sangat sulit sampai berputar-putar 3 kali."}
+{"uji_id": "nx-test-0246", "hipotesis": "Karena penerbangan di Indonesia memang mahal untuk penerbangan, maka penggunaannya pun kurang konsisten."}
+{"uji_id": "nx-test-0325", "hipotesis": "Makanan dan atmosfer alam sangat cocok untuk acara dengan hallet atau keluarga."}
+{"uji_id": "nx-test-0210", "hipotesis": "Ini adalah roti taboo. Rupa-rupa roti dan karupuk yang digoreng banyak. Hargana biasa saja. Yang paling kutitipkan adalah roti tawarna. Lomo roha."}
+{"uji_id": "nx-test-0330", "hipotesis": "Makanan yang lezat dan lembut. Makanan yang juga tersedia dan terdapat juga beragam hidangan lain di tempat ini, bukan hanya sate."}
+{"uji_id": "nx-test-0337", "hipotesis": "membuatku tertarik untuk masuk ke jurusan film. kalau masuk ke seni rupa sih memang begitu. tapi aku nggak tau apa yang saya punya."}
+{"uji_id": "nx-test-0036", "hipotesis": "Dan dititipkanlah kepadaku iman itu sampai sekarang, supaya tidak terjadi acara ini. Saya bersukacita kepada iman itu, sungguh! Saya yakin bahwa hati saya tidak lelah kepada iman itu."}
+{"uji_id": "nx-test-0043", "hipotesis": "Makanan nusa indah suatu hari akan mengecewakan bah. Seringkali, orang di pasif merasa kenyang dalam makanannya, makanannya terasa lelah."}
+{"uji_id": "nx-test-0089", "hipotesis": "Selain telkomsel ini juga heran, modalnya banyak tapi hampir habis, padahal belum banyak hubuka aplikasi naborat."}
+{"uji_id": "nx-test-0328", "hipotesis": "Kopi ini merupakan hidangan khas masakan tradisional seperti cafe naposo. Selain memiliki ciri khas, juga memiliki rasa ringan dan lembut."}
+{"uji_id": "nx-test-0391", "hipotesis": "Yang paling mengecewakan adalah ketika seorang pemimpin tidak bisa membedakan dan tidak saling menghormati seorang negarawan dan seorang politisi yang kasar."}
+{"uji_id": "nx-test-0014", "hipotesis": "Saya tidak ragu-ragu melihat anak perempuan seperti ini. Karena sampai ke akhir pekan tidak ada lagi yang bisa saya lakukan. Hanya yang saya janjikan saja."}
+{"uji_id": "nx-test-0124", "hipotesis": "Mulai dari pondok pesantren, saya hanya ingin makan, kalau di pondok saya baru tau, rasanya sedikit-sedikit kurang sopan."}
+{"uji_id": "nx-test-0275", "hipotesis": "Hujan yang tiba-tiba akan membuat kita terbawa angin, hancur berkeping-keping dan mahalnya air juga akan membuat kita tersesat."}
+{"uji_id": "nx-test-0346", "hipotesis": "Percakapan antar tempat tinggal, tempat parkir yang baik juga diatur, seperti tempat lain selain tempat makan makanan ringan Mie Nasi Harusiak, Hm."}
+{"uji_id": "nx-test-0366", "hipotesis": "Kayu yang sudah dipadamkan dengan sambalnya. Jagal yang lembut. Harganya yang bagus dan apa yang anda inginkan. Ikanannya juga murah didapat. Ok pokona."}
+{"uji_id": "nx-test-0045", "hipotesis": "101 Dalmatians : The series is an animation television series produced by disney television animation and jumbo pictures."}
+{"uji_id": "nx-test-0117", "hipotesis": "Soup dari gurame yang sudah masak, pengeboran yang sudah masak, tuturnya. Restorannya bagus. Karena sedikit airnya, orang yang bisa makan pun akan merasa kenyang."}
+{"uji_id": "nx-test-0214", "hipotesis": "Bakmina tabo. Ditemukan saja kaya-kayaannya menjadi teguh hian. Kalo bukan kaya-kaya tapi tabo. Seharusnya ada satu keluarga yang kaya."}
+{"uji_id": "nx-test-0378", "hipotesis": "Pergi ke Bandung Mencari Ramen. Yang saya maksudkan hari ini, Argana dos ke depannya. Kalau ke Bandung kita harus pergi."}
+{"uji_id": "nx-test-0030", "hipotesis": "Pada piala dunia 2018 nanti, telkomsel juga mendukung untuk memantau dan merantau pertandingan sepak bola dunia."}
+{"uji_id": "nx-test-0135", "hipotesis": "Kejarlah Pak Rocky menjelaskan bahwa tidak ada alasan atau alasan mengapa dia tidak bisa menjadi seorang profesor."}
+{"uji_id": "nx-test-0207", "hipotesis": "Memberi inspirasi kepada orang-orang yang kaya akan sipalessem dengan senang hati. Lamma harus diperbaharui. Maafkan aku ya."}
+{"uji_id": "nx-test-0278", "hipotesis": "Tempat untuk minum kopi baru di kampus UI, kopi Vietnamese sudah tersedia, teman-teman sedang belajar, bisa belajar sambil mengerjakan tesis"}
+{"uji_id": "nx-test-0329", "hipotesis": "Stasiun tv naso bagus, nggak hot, marsak yang menyajikan persepsi-persiba, nggak berantakan!Denggak bagus, dan nggak berantakan!"}
+{"uji_id": "nx-test-0247", "hipotesis": "Bila pembentukan bank pada hari minggu yang berlaku di Bekasi, bapak bisa berkunjung ke kantor cabang bank mandiri bekasi juanda."}
+{"uji_id": "nx-test-0307", "hipotesis": "Bang, jalan di muara uluan baru, baru sebulan dope ditebang, itulah sega muse. Sama sekali tidak serius yang memperbaharui hal tersebut."}
+{"uji_id": "nx-test-0092", "hipotesis": "Telekomunikasi tidak hanya ke kota-kota besar, tetapi juga ke kota-kota dan perbatasan negara cc: Telkomsel"}
+{"uji_id": "nx-test-0393", "hipotesis": "Mempersiapkan tempat untuk bersantai ketika sedang dalam perjalanan, makanannya baik-baik saja, tapi kue-kueannya tetap hangat, jadi tergesa-gesa."}
+{"uji_id": "nx-test-0170", "hipotesis": "Tempat makan di luar sangat menyenangkan. Ikan yang baik, tidak apa-apa. Jus orang dengan stroberi yang baik. Harga yang juga baik."}
+{"uji_id": "nx-test-0199", "hipotesis": "Narik ke atas. News mix platter dapat berlangsung lebih dari 30 menit. Menolak keburukan namun berlari. Tidak sama sekali. Langsung"}
+{"uji_id": "nx-test-0208", "hipotesis": "Tempat makan yang biasa adalah rumah bagi para gembala. Tempat makan juga biasa. Tempat makan juga saya dapatkan dari pusat kota."}
+{"uji_id": "nx-test-0015", "hipotesis": "Harganya sangat bagus tapi sampai saat ini saya nggak pernah janji kalau saya akan pulang dua kali. Lumpahnya nggak jauh berbeda dari ibu!"}
+{"uji_id": "nx-test-0056", "hipotesis": "Lumayan tebal, tapi warna merah karena bentuknya agak gelap. Ada sifilliton infused kangen air nasae ke 4 orang."}
+{"uji_id": "nx-test-0141", "hipotesis": "Kayu yang lembut, dingin yang lembut. Saya akan memberikan cukup lama agar makanan, makanan yang juga lembut lembut."}
+{"uji_id": "nx-test-0339", "hipotesis": "Secara eksplisit, saya makan Mie Goreng Khas dan Dimana kalau dikonsumsi seperti biasa dan tidak pas di hidangan."}
+{"uji_id": "nx-test-0351", "hipotesis": "Xiaomi, samsung, percayalah kamu sudah punya tipe aha dan dos ke uangmu, terus-menerus ke tempat penyimpanan ponsel."}
+{"uji_id": "nx-test-0356", "hipotesis": "Masyarakat asli setempat juga tidak merumuskan lagi, karena keluarga saya juga sangat antusias dengan pola pemberian remas/muruk."}
+{"uji_id": "nx-test-0220", "hipotesis": "Mengelola gaji perusahaannya sendiri juga tidak terlalu mengandalkan kemampuan untuk mengelola rumah tangga."}
+{"uji_id": "nx-test-0353", "hipotesis": "Karena taman skate ini dikelilingi oleh tempat perjumpaan yang sangat bagus, maka tidak ada yang kurang menarik bagi wisatawan"}
+{"uji_id": "nx-test-0386", "hipotesis": "Hypermart hanya memberikan diskon 20% pada produk yang mahal setiap hari Senin-Kemis menggunakan kartu hypermart."}
+{"uji_id": "nx-test-0302", "hipotesis": "Menurut Grab, si mertuanya sedang bercerita tentang seekor ular berbatu di jalan, saat mertuanya sedang berburu."}
+{"uji_id": "nx-test-0096", "hipotesis": "Nunga ini juga merupakan hp xiomi redmi note 5 warna gold 64/4 di daerah Duri Sleatan, Jembaran Lima, Tambora, Jakarta Barat."}
+{"uji_id": "nx-test-0163", "hipotesis": "Melalui proses penandatanganan tiket, butuh waktu 43 hari tetapi tidak ada lagi transfer."}
+{"uji_id": "nx-test-0343", "hipotesis": "Bahwa bisa saja, dan sebagainya! Jangan lewatkan telepon, jangan lewatkan tweet, jangan lewatkan email, jangan lewatkan pesan, jangan lewatkan pesan!"}
+{"uji_id": "nx-test-0116", "hipotesis": "Seiring berjalannya waktu dan berjalannya waktu, persiapan makanan pun cukup."}
+{"uji_id": "nx-test-0125", "hipotesis": "Setidaknya biaya operasional 11 bulan yang dikenakan pada refund 12 bulan tersebut tidak masuk ke dalam rekening saya."}
+{"uji_id": "nx-test-0349", "hipotesis": "Seperti yang telah dijelaskan sebelumnya, engkau akan mati. Jangan sekali-kali engkau menolak untuk memberikannya kepadaku. Engkaulah yang bisa juga memberikannya kepadaku."}
+{"uji_id": "nx-test-0352", "hipotesis": "Tempat parkirnya segera, yakni di atas motor juga harus dititipkan ke tempat parkir yang ada di luar hotel."}
+{"uji_id": "nx-test-0389", "hipotesis": "Yang kutitip tidak bisa kutitipkan. Lomos uangku tidak dibalik, hape pulsa dan kuotaku pun begitu."}
+{"uji_id": "nx-test-0071", "hipotesis": "Jangan heran kalau anak SMA baru-baru ini, kalau memakai jilbab wajahnya tar di tengah malam nanti, apa maksudnya?"}
+{"uji_id": "nx-test-0380", "hipotesis": "Memberitahulah layang ke alamat si penjual terlebih dahulu hari ini atau hari Sabtu pagi kalau mau pulang."}
+{"uji_id": "nx-test-0226", "hipotesis": "Cara terbaik sehari-sehari untuk membuat daging tidak berlebihan dan bahkan kita bisa menikmati makanan sehari-hari."}
+{"uji_id": "nx-test-0243", "hipotesis": "Mengapa engkau tidak diberitahu? Ima yang menutup-nutupi pintu harapan iman, iman membuka pintu gerbang yang terbuka."}
+{"uji_id": "nx-test-0257", "hipotesis": "Hal ini membuat saya enggak tergesa-gesa mengundurkan helm si pembalap setelah turun dari kereta karena menaiki motor."}
+{"uji_id": "nx-test-0047", "hipotesis": "Berbagi-bagikan pesan-pesan singkat! Ada 50 paket umroh setiap hari dengan harga paling sedikit Rp. 15.000 di alfamart."}
+{"uji_id": "nx-test-0128", "hipotesis": "Setidaknya ada tiga rumah yang rusak, beberapa rumah rusak, hingga tidak ada barang di depannya."}
+{"uji_id": "nx-test-0186", "hipotesis": "Pajak, adik, yang ingin nomor efin, sebelumnya sudah diaktifkan, tapi lupa password akun djp online."}
+{"uji_id": "nx-test-0317", "hipotesis": "Jangkauan sinarannya terbatas, karena banyak wilayah yang bisa menikmati siaran net."}
+{"uji_id": "nx-test-0331", "hipotesis": "Terjemahan asli adalah gambar, alogona lembab, makanan yang sudah tersedia. Harganya juga murah. Mantap."}
+{"uji_id": "nx-test-0334", "hipotesis": "Minimal internet kita hampir hancur, selain menggunakan simpati sangat seolah-olah kita tidak bisa terhubung ke internet."}
+{"uji_id": "nx-test-0034", "hipotesis": "Berceritalah saya menaiki provider ini, sampai pada yang terbawa perasaan, emosi, saya keluar, karena sinyalnya kurang."}
+{"uji_id": "nx-test-0048", "hipotesis": "Mencari kaus, tahuluk atau jam di ruang monoton roomstore menggunakan aplikasi hape tokeku"}
+{"uji_id": "nx-test-0060", "hipotesis": "Selama sebulan lebih tidak menikmati indomie, malah makan pintor dua gelas indomie goreng jumbo."}
+{"uji_id": "nx-test-0172", "hipotesis": "Daina hera mirip dengan resto lainnya yang memiliki tiga jenis seafood. aman dan lezat dengan rasa bebasnya cukup."}
+{"uji_id": "nx-test-0320", "hipotesis": "Iphone ini memiliki kamera belakang yang aman untuk dibawa pulang jika ingin membawa kamera."}
+{"uji_id": "nx-test-0197", "hipotesis": "Masakan saat ini biasanya ringan dengan suasana yang tidak khusus jika sudah cukup untuk dimakan."}
+{"uji_id": "nx-test-0318", "hipotesis": "Boasa bisa di pondok bangunan di atas pohon, di jalan rumah sakit menemukan si Ciroyom, orang lain."}
+{"uji_id": "nx-test-0192", "hipotesis": "Bohama tidak marah ke atas, hakanya php indosat do torus neih."}
+{"uji_id": "nx-test-0228", "hipotesis": "Setelah menikah, teringatlah hasil perbankan bank mandiri apa yang harus kita lakukan?"}
+{"uji_id": "nx-test-0105", "hipotesis": "Karena kartu oktrip sehari-hari dari BNI, isi ulang bisa di bagi pasangan yang bekerja sama dengan BNI."}
+{"uji_id": "nx-test-0150", "hipotesis": "Menghilangkan narkoba adalah salah satu cara yang dapat digunakan untuk meningkatkan kualitas anak-anak suku ini"}
+{"uji_id": "nx-test-0359", "hipotesis": "Selain pola makan, juga masakan, banyak sekali jenis masakan yang berasal dari Banjar."}
+{"uji_id": "nx-test-0152", "hipotesis": "Saya pernah bilang penolongnya, bank di pusat kota pada waktu saya menikah, uang Rp 1 miliar suda."}
+{"uji_id": "nx-test-0216", "hipotesis": "Anti pengguna power bank mulai bocorkan baterai handphone samsung setelah saya pakai siswanya."}
+{"uji_id": "nx-test-0269", "hipotesis": "Keindahan alam semesta inilah yang membuat kita bisa menikmati alam semesta yang indah seperti itu."}
+{"uji_id": "nx-test-0298", "hipotesis": "Menonton sinetron juga mulai menggerogoti lama untuk melihat bagaimana kabar buruk yang telah diprediksi."}
+{"uji_id": "nx-test-0347", "hipotesis": "Sungguh terkejut melihat hal itu, bahwa di bus ini ada yang lebih dari seketika, tetapi tidak bersantai."}
+{"uji_id": "nx-test-0016", "hipotesis": "Baru saja ada, 5 bagian makan siang kotak kotak makan lagi kotak bekal anti bocor 590."}
+{"uji_id": "nx-test-0242", "hipotesis": "Berhentilah jika kau bosan dengan rap halletmu dan marhallet tidak ada gunanya pada dirimu."}
+{"uji_id": "nx-test-0191", "hipotesis": "Masakan dison mirip dengan kfc lainnya. Burung yang digorengnya krispy, gurih dan tabung."}
+{"uji_id": "nx-test-0292", "hipotesis": "Menggambar rapi dengan orang tidak lebih baik dari bang Doni. Selalulah menggambar dengan orang."}
+{"uji_id": "nx-test-0296", "hipotesis": "Paket kami di sini. Mencari sedikit alasan mengapa penikmat warna biru memilih warna unik."}
+{"uji_id": "nx-test-0067", "hipotesis": "Mendapatkan bonus tcash 12.500 namun tidak bisa pengguna menaikkan pulsa sebesar 10 ribu h saja"}
+{"uji_id": "nx-test-0099", "hipotesis": "Dunia adalah tempat yang indah untuk beristirahat, tidak terlepas dari isi dan kearifannya."}
+{"uji_id": "nx-test-0123", "hipotesis": "BCA mengadakan acara ulang tahun dan menggunakan seluruh fungsinya untuk memantau acara tersebut."}
+{"uji_id": "nx-test-0248", "hipotesis": "Air terjun laut yang rusak ini hancur berkeping-keping menjadi tempat pembuangan sampah."}
+{"uji_id": "nx-test-0312", "hipotesis": "Keberagaman untuk berbicara dalam pembicaraan gubernur hanya ada beberapa hal yang disengaja."}
+{"uji_id": "nx-test-0173", "hipotesis": "Hasil hitungan cepat terlihat berbeda dengan hasil layanan membuat saya pusing-pusing."}
+{"uji_id": "nx-test-0006", "hipotesis": "Sore-sore saja, saat ini tidak lagi dilakukan pengamatan sebagai aplikasi untuk anak laki-laki di bukka."}
+{"uji_id": "nx-test-0035", "hipotesis": "Sarung bantal, seprei dan salamutna tidak botar juga, jika dindingnya juga banyak cacing."}
+{"uji_id": "nx-test-0072", "hipotesis": "Calon pemimpin di negara ini seolah-olah bisa membuka jalan menuju kemenangannya."}
+{"uji_id": "nx-test-0215", "hipotesis": "Aplikasi mobile banking BNI dibantu oleh pengguna karena diaktifkan akun tidak bisa."}
+{"uji_id": "nx-test-0308", "hipotesis": "Ini bukan soal tergesa-gesa, tapi soal yang belum tergesa-gesa di masa sulit."}
+{"uji_id": "nx-test-0121", "hipotesis": "Terus terang, ribek-ribeklah persamaan dan kesetaraan Indonesia dengan retorikam"}
+{"uji_id": "nx-test-0231", "hipotesis": "di dalam akun mycare saya yang sudah terblokir inilah yang saya mau tambahkan di sini nomor Im3 saya yang baru"}
+{"uji_id": "nx-test-0263", "hipotesis": "Sebut saja dua hal logat karena promo saya kurang ramah-tolerant, bukan terlalu."}
+{"uji_id": "nx-test-0274", "hipotesis": "Youtube memiliki banyak kegunaan. Saya menonton film, membuat logat, dan sebagainya untuk belajar."}
+{"uji_id": "nx-test-0201", "hipotesis": "Rampak pergi bersama keluarga makan borngin, argana timbo dan daina yang kadang-kadang juga kaya."}
+{"uji_id": "nx-test-0301", "hipotesis": "Kayu yang kokoh di ujung gerbang rumah, bisa membuat kota terlihat indah dari kejauhan."}
+{"uji_id": "nx-test-0303", "hipotesis": "Punguan mahasiswa yang baru. Mauliate saya bukan mahasiswa dari luar negeri."}
+{"uji_id": "nx-test-0364", "hipotesis": "Saya juga sering melihat tempat sampah di pinggiran jalan kota kaya."}
+{"uji_id": "nx-test-0132", "hipotesis": "Saya hanya membeli 20 tiket untuk pertandingan Persebaya vs Arema marsogot."}
+{"uji_id": "nx-test-0154", "hipotesis": "Saya kira, untuk penerbitan tiket keberlangsungan jadwal akan segera digarisbawahi."}
+{"uji_id": "nx-test-0232", "hipotesis": "120 peserta yang lulus ujian ini dibagi menjadi 4 kelas besar masing-masing 30 siswa."}
+{"uji_id": "nx-test-0234", "hipotesis": "Saya berkenalan dengan dia di asrama tempat kami tinggal saat mahasiswa dulu."}
+{"uji_id": "nx-test-0004", "hipotesis": "Baru-baru ini belanja bantuan sosial (penghasilan) tahun 2018 mencapai 44,9 miliar rupiah"}
+{"uji_id": "nx-test-0057", "hipotesis": "Keindahan alam semesta dengan perjalanannya yang tulus dan penuh kasih sayang, selalu ditegakkan dengan baik."}
+{"uji_id": "nx-test-0079", "hipotesis": "inilah rasanya aku yang kenyang. minuman yang mermer dan es lelina juga terasa"}
+{"uji_id": "nx-test-0127", "hipotesis": "Berbahasa tidak baik dan tidak mengajar. Gok haringkot dengan dua rupa."}
+{"uji_id": "nx-test-0146", "hipotesis": "Seneng sekali minuman yang tersedia mulai dari jus sahat hingga ragam teh."}
+{"uji_id": "nx-test-0361", "hipotesis": "Sopir berangkat dari luar kota ke Jakarta untuk mencari sewa agar dapat mendapatkan poin."}
+{"uji_id": "nx-test-0023", "hipotesis": "Tidak mau membuat paket data indosat karena boE di buka youtube unlimited."}
+{"uji_id": "nx-test-0063", "hipotesis": "Pada Pilkada 2018, pihak kepolisian diminta untuk meningkatkan keamanan di sekitar TPS."}
+{"uji_id": "nx-test-0086", "hipotesis": "Kita sering berburu merampok margait dan mertua, tapi kita nggak pernah."}
+{"uji_id": "nx-test-0194", "hipotesis": "Pakeknya laurier double tingki terhadap modom ditinaki menstruasi agar tidak boccor."}
+{"uji_id": "nx-test-0202", "hipotesis": "Setelah Arian meninggal, uang administrasi diperkirakan mencapai 5.500 rupiah per bulan."}
+{"uji_id": "nx-test-0018", "hipotesis": "Nampaknya aksi pemerkosaan di Afghanistan menewaskan sekitar 68 orang."}
+{"uji_id": "nx-test-0180", "hipotesis": "Saya merasa terganggu melihat tempat parkir motor orang mengendarai jalan umum."}
+{"uji_id": "nx-test-0315", "hipotesis": "Mempersiapkan ornamen yang akan berturut-turut maka akan diputar, didilat, disornophon."}
+{"uji_id": "nx-test-0288", "hipotesis": "Untuk mengetahui promo-promo yang tersedia di tokopedia anda bisa kunjungi di halaman ini."}
+{"uji_id": "nx-test-0051", "hipotesis": "Makanan yang kami sediakan sangat beragam dan wajib disukai oleh semua orang."}
+{"uji_id": "nx-test-0239", "hipotesis": "Para atlet kaya dari suku ini memilih Serpong Run 2018 untuk melakukan uji coba."}
+{"uji_id": "nx-test-0336", "hipotesis": "Itulah yang akan kusimpan dalam hatiku ketika akan terjadi pemilu, apakah itu benar"}
+{"uji_id": "nx-test-0054", "hipotesis": "olahraga dititipkan akhir-akhir ini bisa menjadi satu tingkatan setelah hari-hari kosong"}
+{"uji_id": "nx-test-0130", "hipotesis": "Kami dan 12 bank telah menandatangani pembiayaan dari LRT Jabodetabek."}
+{"uji_id": "nx-test-0211", "hipotesis": "apakah itu dia? karena isi berita nya bagus. apa yang sudah kita rasakan sekarang ini?"}
+{"uji_id": "nx-test-0142", "hipotesis": "Kue ulang tahin khusus menggunakan sapir tolor tabba mozarella untuk dimakan."}
+{"uji_id": "nx-test-0203", "hipotesis": "Tempat yang indah dan indah, dulu dijadikan tempat foto pre-wedding."}
+{"uji_id": "nx-test-0365", "hipotesis": "Tempat letak restoran di Kemang. Mahal dan tidak terlalu mahal."}
+{"uji_id": "nx-test-0324", "hipotesis": "oke bos, kalau handphone pintor tutup aja udah sampe pagi hari."}
+{"uji_id": "nx-test-0227", "hipotesis": "restoran ini penuh dengan cita-cita dan cita-cita untuk selalu di tempat lahir hari ini"}
+{"uji_id": "nx-test-0372", "hipotesis": "Kekhasannya tebal, tebal, sambalna tebal. Kayuannya lembut dan cukup tebal."}
+{"uji_id": "nx-test-0384", "hipotesis": "Saya punya pengalaman pertama di tahun 2018 yang sangat luar biasa."}
+{"uji_id": "nx-test-0187", "hipotesis": "Musim hujan seperti ini asal hujan tidak akan tenang karena banjir."}
+{"uji_id": "nx-test-0310", "hipotesis": "Sekarang saya mau tau kabarnya yah, tolong dong sama si penari di pareso"}
+{"uji_id": "nx-test-0182", "hipotesis": "kalau di antara mereka, satu satu dan nadiem makarim suman banyak."}
+{"uji_id": "nx-test-0335", "hipotesis": "Kaskus ini selalu memberikan kabar yang menarik dan baru."}
+{"uji_id": "nx-test-0149", "hipotesis": "Saya juga ingin mengganti kartu yang sega, tapi hot enggak ada sinyalnya."}
+{"uji_id": "nx-test-0219", "hipotesis": "Kedua orang tersebut kemudian mendirikan pondok serbaguna yang berupa pondok dan pondok."}
+{"uji_id": "nx-test-0289", "hipotesis": "Dilihatlah jam ini anti air, tetapi hanya dipakai untuk beristirahat."}
+{"uji_id": "nx-test-0049", "hipotesis": "Aplikasi google maps sangat berguna, saya bebas membuat itu!"}
+{"uji_id": "nx-test-0065", "hipotesis": "Nantuari Dian menghadirkan fitur terbaru dari aplikasi Lazada."}
+{"uji_id": "nx-test-0167", "hipotesis": "Hea porsea kalau body lotion citra bikin lebih kenyang"}
+{"uji_id": "nx-test-0178", "hipotesis": "Bila kutitipkan kepada mertuaku tembakau bulan purnama itu."}
+{"uji_id": "nx-test-0264", "hipotesis": "Mencari informasi tentang daftar warna pakaian baru yang dimiliki oleh seorang gadis."}
+{"uji_id": "nx-test-0265", "hipotesis": "saya sangat terbawa angin ke sini karena pengirimannya sangat lambat."}
+{"uji_id": "nx-test-0284", "hipotesis": "Merasa sakit hati karena perbedaannya dengan kondisi lainnya."}
+{"uji_id": "nx-test-0098", "hipotesis": "Youtube semakin banyak iklan, jadi kita akan merasa senang."}
+{"uji_id": "nx-test-0217", "hipotesis": "Botol uc 1000 lebih mahal jika dibuka, pakai tangan tangan."}
+{"uji_id": "nx-test-0069", "hipotesis": "Kalau minum ada orang lain yang akan meminumnya. Dimana juga yang lain."}
+{"uji_id": "nx-test-0143", "hipotesis": "Jangan marah-marah kepada Indosat! Boasa saja yang memberikan sinyal itu."}
+{"uji_id": "nx-test-0313", "hipotesis": "Biarlah aku terima dan tetaplah dia anak perempuan yang baik. Kalau begitu marahlah aku."}
+{"uji_id": "nx-test-0058", "hipotesis": "Meratap ke tempat menertawakan yang sangat mencolok ketika melihat kebohongan"}
+{"uji_id": "nx-test-0093", "hipotesis": "Kebersihan lebih baik jika bisa tidur sejenak setinggi lima jam"}
+{"uji_id": "nx-test-0306", "hipotesis": "Belanja di Giant diskaun 20% jika menggunakan kartu kredit BCA."}
+{"uji_id": "nx-test-0314", "hipotesis": "Spotify memang sulit, ada juga administrasi harian setiap bulan"}
+{"uji_id": "nx-test-0129", "hipotesis": "Jangan lupa dapatkan diskon langsung hingga Rp 10 juta saja!"}
+{"uji_id": "nx-test-0369", "hipotesis": "Meminta gubernur atau jabatannya itu semua orang"}
+{"uji_id": "nx-test-0010", "hipotesis": "Kebun raya Bogor bisa dijadikan tujuan wisata."}
+{"uji_id": "nx-test-0341", "hipotesis": "Pelaku pertama diberikan kepada seorang polisi."}
+{"uji_id": "nx-test-0013", "hipotesis": "Banyak yang saya lakukan untuk memakai tikki yang longgar."}
+{"uji_id": "nx-test-0024", "hipotesis": "Saya baru saja menikah dengan teman-teman yang bekerja di Trans TV."}
+{"uji_id": "nx-test-0252", "hipotesis": "Saya menelpon menantunya tapi tidak menerima sms dari 5111."}
+{"uji_id": "nx-test-0280", "hipotesis": "Saya memberikan pembinaan dan tidak pernah mengalami kesulitan."}
+{"uji_id": "nx-test-0326", "hipotesis": "Mengapa itu berasal dari hati? Hati yang lembut? Atau tidak?"}
+{"uji_id": "nx-test-0044", "hipotesis": "Nadia menemukan kostum untuk pergi ke tempat tidurnya di uniqlo"}
+{"uji_id": "nx-test-0046", "hipotesis": "Kantor komunikasi korsel-korut dibuka minggu ini."}
+{"uji_id": "nx-test-0090", "hipotesis": "Anak laki-laki satu hari baru dewasa sudah merasa kenyang."}
+{"uji_id": "nx-test-0398", "hipotesis": "Demi apa saja hasil tes cpns buat makcet, sial nai."}
+{"uji_id": "nx-test-0110", "hipotesis": "Jadilah admin bergabung dan membagi-bagikan hasil yang diperoleh."}
+{"uji_id": "nx-test-0245", "hipotesis": "2018 KPK Hadiri Peresmian JEE-KTP dan BBB"}
+{"uji_id": "nx-test-0300", "hipotesis": "Jangan lupa untuk minum air mineral 8 - 10 gelas sehari."}
+{"uji_id": "nx-test-0081", "hipotesis": "Kita akan merasakan kegembiraan dari 4 tahun terakhir."}
+{"uji_id": "nx-test-0155", "hipotesis": "Iya, saya bawa aja iphone 8 untuk upgrade ps5."}
+{"uji_id": "nx-test-0007", "hipotesis": "Memang memang kita juga harus lebih memilih satu sama lain."}
+{"uji_id": "nx-test-0073", "hipotesis": "Ayahku sedang menonton harry potter di trans tv"}
+{"uji_id": "nx-test-0225", "hipotesis": "Panggilan wajahnya tidak terlihat pada pandangan pertama pada laki-laki."}
+{"uji_id": "nx-test-0241", "hipotesis": "harapan kita lebih tinggi dari yang lain"}
+{"uji_id": "nx-test-0332", "hipotesis": "Ayahku sangat suka dengan warna merah yang prima."}
+{"uji_id": "nx-test-0374", "hipotesis": "Makanan di rumah sakit tetap saja tidak halal."}
+{"uji_id": "nx-test-0109", "hipotesis": "Ini adalah sopo stengkel yang tumbuh di Aceh Tamiang"}
+{"uji_id": "nx-test-0233", "hipotesis": "Ya sudah, anak laki-laki, perasaannya buruk!"}
+{"uji_id": "nx-test-0333", "hipotesis": "Ada banyak tempat wisata di Matahari Mall."}
+{"uji_id": "nx-test-0363", "hipotesis": "Baru saja mengambil cukup barangnya, bagak saja."}
+{"uji_id": "nx-test-0354", "hipotesis": "Silahkan buka e-mail ke mandiricare.co.id"}
+{"uji_id": "nx-test-0082", "hipotesis": "Kami orang somal yang memakai sepatu kiwi simir"}
+{"uji_id": "nx-test-0270", "hipotesis": "Sial sih namanya yang ada di sisi kiri."}
+{"uji_id": "nx-test-0358", "hipotesis": "Saya berburu tapi tidak bisa atau berburu."}
+{"uji_id": "nx-test-0012", "hipotesis": "Bahwa sekarang aku memaknai jasa si Air Lion."}
+{"uji_id": "nx-test-0168", "hipotesis": "Masakan atau didengar ketika sedang berburu."}
+{"uji_id": "nx-test-0255", "hipotesis": "Ok. Nanti saya kirim dari pesan langsung"}
+{"uji_id": "nx-test-0360", "hipotesis": "Segel yang berbicara juga memiliki sedikit sega."}
+{"uji_id": "nx-test-0205", "hipotesis": "Arif mengenakan jaket berbentuk billabong yang baru."}
+{"uji_id": "nx-test-0355", "hipotesis": "Padahal saya punya kode akses dan pin."}
+{"uji_id": "nx-test-0097", "hipotesis": "Saya tidak setuju dengan produk apple."}
+{"uji_id": "nx-test-0031", "hipotesis": "Dia selalu menitipkan tissu passeo"}
+{"uji_id": "nx-test-0250", "hipotesis": "On the spot tagan tayang di trans7"}
+{"uji_id": "nx-test-0001", "hipotesis": "Itu saja, dia menjaga kode"}
+{"uji_id": "nx-test-0115", "hipotesis": "Karena laki-laki, saya menghormati Indonesia."}
+{"uji_id": "nx-test-0291", "hipotesis": "menantu-menantu sial ini aku."}
+{"uji_id": "nx-test-0387", "hipotesis": "Engkaulah yang marah kepadaku"}
+{"uji_id": "nx-test-0040", "hipotesis": "ingatannya saja"}

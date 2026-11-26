@@ -152,6 +152,10 @@ Versi awal ini memiliki beberapa keterbatasan yang disengaja dicatat secara terb
 3. Korpus belum dilengkapi anotasi linguistik lanjutan (tokenisasi baku, POS tagging, morfologi, dependency parsing). Pengayaan anotasi direncanakan untuk menjadikannya sumber daya gold-standard. Penelitian berikutnya akan berfokus pada pedoman anotasi awal dengan Universal Dependencies versi 2.
 4. Pada korpus paralel tingkat kalimat, hanya 182 dari 1.542 pasangan yang divalidasi manusia, dan kesepakatan antaranotator tergolong sangat lemah (kappa 0,170). Korpus ini tidak dapat dianggap gold-standard secara keseluruhan dan bukan luaran yang dijanjikan pada tahap ini.
 
+### Riset lanjutan (di luar luaran PDP Tahap 1)
+
+Folder [`riset-lanjutan/`](riset-lanjutan/) berisi pengembangan setelah PDP Tahap 1 untuk naskah jurnal: audit varietas, label bahasa asli per dokumen, eksperimen terjemahan mesin pada 22 sistem, evaluasi manusia oleh dua penilai, serta seluruh prediksi dan tabel hasilnya. Bagian ini bukan luaran yang dijanjikan pada PDP Tahap 1. Ringkasan dan cara menjalankannya ada di [`riset-lanjutan/README.md`](riset-lanjutan/README.md).
+
 ### Lisensi
 
 Data korpus berada di bawah lisensi Creative Commons Attribution 4.0 International (CC BY 4.0). Skrip dan notebook berada di bawah lisensi MIT. Lihat [LICENSE](LICENSE) dan [LICENSE-CODE](LICENSE-CODE).
@@ -317,6 +321,10 @@ This initial version has several limitations that are recorded openly:
 2. The Bible sub-corpus in this version contains only one chapter per book, and its file is not yet included. Its Indonesian side uses the Terjemahan Baru (1974) translation, so redistribution permission must be confirmed first. A full-chapter version is being prepared as a future update.
 3. The corpus is not yet enriched with advanced linguistic annotation (standardised tokenisation, POS tagging, morphology, dependency parsing). Annotation enrichment is planned to develop it into a gold-standard resource. The next research will focus on the initial annotation guidelines with Universal Dependencies version 2.
 4. In the sentence-level parallel corpus, only 182 of 1,542 pairs are human-validated, and inter-annotator agreement is slight (kappa 0.170). It cannot be treated as gold-standard as a whole and is not a promised deliverable of this phase.
+
+### Follow-up research (beyond the PDP Phase 1 deliverables)
+
+The [`riset-lanjutan/`](riset-lanjutan/) folder holds work done after PDP Phase 1 for a journal manuscript: a variety audit, document-level original-language labels, machine translation experiments with 22 systems, a two-rater human evaluation, and all predictions and result tables. It is not a promised deliverable of PDP Phase 1. See [`riset-lanjutan/README.md`](riset-lanjutan/README.md).
 
 ### License
 

@@ -1,0 +1,3 @@
+arah,n,pearson,spearman,krippendorff_alpha_interval,kappa_mayor,kappa_variety
+bbc2id,240,0.917,0.921,0.916,0.778,
+id2bbc,240,0.884,0.869,0.846,0.624,0.601

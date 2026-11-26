@@ -1,0 +1,41 @@
+{
+  "kode": "S09",
+  "nama": "LLM zero-shot dan few-shot",
+  "sidik": "21325e2e43bd911d9e6af39c3bf21448b85b9bf6d0173cbc53bc90477dd3c55f",
+  "waktu": "2026-11-17T01:42:08+00:00",
+  "parameter": {
+    "llm": {
+      "model": [
+        "Qwen/Qwen2.5-7B-Instruct",
+        "GoToCompany/gemma3-27b-cpt-gotoai-v3-instruct"
+      ],
+      "kondisi": [
+        "zero_shot",
+        "few_shot_acak",
+        "few_shot_retrieval"
+      ],
+      "k_contoh": 5,
+      "set_uji": [
+        "kami",
+        "nusax",
+        "nusatranslation_toba"
+      ],
+      "sampel_nusatranslation_toba": 400,
+      "ukuran_batch": 16,
+      "token_baru_maks": 200
+    }
+  },
+  "masukan": {
+    "s05_uji.csv": "27d05122b2e2bcc6c01d76f24e873b7b38c872463d84ba758ff13dbacaa99939",
+    "s05_latih_kami.csv": "350beae755f9b1e0d00d61cccb443cc877bd9d2ae29e0435715edf71ee766428"
+  },
+  "keluaran": {
+    "s09_ringkasan.json": "5d51a6a1b7bc48e19415affc636af4ef84ec29d85104930b147784156c79ee01"
+  },
+  "ringkasan": {
+    "catatan": {
+      "Qwen/Qwen2.5-7B-Instruct": "lengkap",
+      "GoToCompany/gemma3-27b-cpt-gotoai-v3-instruct": "lengkap"
+    }
+  }
+}

@@ -1,0 +1,25 @@
+{
+  "kode": "S13",
+  "nama": "Analisis ESA",
+  "sidik": "72f255a5a7296e816b27af6d5ae484c038d20f2c6d8d710023b29d1d76a3a723",
+  "waktu": "2026-11-17T08:41:55+00:00",
+  "parameter": {},
+  "masukan": {
+    "kunci_esa.csv": "cffde63be210c0824e4f9df5ad2406110114910c97182c26a1972e054c80aea1",
+    "s10_skor_kalimat.csv": "6dfa3ba28912af840449d073fa4f07a8974eb8172b71b72eb01a728275fc687a",
+    "esa_penilai_A.xlsx": "a27ce58214e91725182a961391c4f147a658e36aa322ba0236bf19415a13a87c",
+    "esa_penilai_B.xlsx": "ebdeb276f576648d89e0da72bd9278db50254bd7b86850611d9acfaf537652ca"
+  },
+  "keluaran": {
+    "s13_skor_manusia.csv": "6cf8fbc83df24c5b833e4f3c6a52de10d780e1a9dd91ad7f9f5dee6c6497d605",
+    "s13_wilcoxon.csv": "b02eb863d7dc716e0e2bf266573a6bf6f0168ca07345f985e20d7232ae9e689f",
+    "s13_kesepakatan.csv": "4049c9dc9f4c33ec4c25e22875a1264f12be19ca1b539b1904ff94db05331d5e",
+    "s13_korelasi_metrik.csv": "fad2176b3717d4b799f207d41de5640f98b6c5eccedcea501221786887904521",
+    "s13_variety.csv": "3285455692cc52adbb4b6591a8cd2d9e2e7766edaaab165a211cd6279416c7d8"
+  },
+  "ringkasan": {
+    "butir": 480,
+    "alpha_id2bbc": 0.846,
+    "alpha_bbc2id": 0.916
+  }
+}

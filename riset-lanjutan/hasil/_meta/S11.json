@@ -1,0 +1,22 @@
+{
+  "kode": "S11",
+  "nama": "Analisis",
+  "sidik": "e1977eb1d576acb4edd818a27fe1eb726dd028617874d1411775ba7447fe1daf",
+  "waktu": "2026-11-17T01:47:37+00:00",
+  "parameter": {},
+  "masukan": {
+    "s10_skor.csv": "c7abbb245c87d33aaedc18c3308ab6b0d2808c8f0bd68c7b83819858c4b99865",
+    "s10_varietas_keluaran.csv": "7bf2904975569c6c49c6d305dd343d8b1693e4f7de24eb3c8d4be8ce835e7ba7",
+    "s05_uji.csv": "27d05122b2e2bcc6c01d76f24e873b7b38c872463d84ba758ff13dbacaa99939"
+  },
+  "keluaran": {
+    "s11_tabel_utama.csv": "6252763f041b07e48cd7c8f237d8412936676c17cbf13f1fa222deade0d21fd4",
+    "s11_arah_asli.csv": "dead2807f11d970ae052e963f839824f6de1aa23db0bf6181d3613ff7cce649b",
+    "s11_genre.csv": "aeff033afedac76612e296927d285d53013d4bc80bd3e43e43e92af5d0f5c553",
+    "s11_arah_asli.png": "2008434d81852595a8fdf109cffc2979222eb4399f31339d0bc7a4a7334b2911",
+    "s11_varietas_keluaran.png": "889ba9550f22c92b75da13fae58fe06dfa93528310e5635a7ca380eaacb78e42"
+  },
+  "ringkasan": {
+    "sistem_di_tabel_utama": 22
+  }
+}

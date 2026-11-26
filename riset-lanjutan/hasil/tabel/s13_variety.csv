@@ -1,0 +1,5 @@
+sistem,variety_A,variety_B
+ft_kami+nusatranslation_s42,56.7,65.0
+ft_nusatranslation_s42,91.7,85.0
+llm_gemma3-27b-cpt-gotoai-v3-instruct_few_shot_retrieval,58.3,66.7
+madlad3b_zeroshot,50.0,55.0

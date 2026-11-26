@@ -1,0 +1,73 @@
+{
+  "kode": "S08",
+  "nama": "Fine-tuning NLLB",
+  "sidik": "3dcf9ac28722378fa0e31efe0f1c1a5bda50a78347f6aecb3860e19ce743652a",
+  "waktu": "2026-11-16T14:31:53+00:00",
+  "parameter": {
+    "fine_tuning": {
+      "model_dasar": "facebook/nllb-200-distilled-600M",
+      "konfigurasi_data": [
+        "nusax",
+        "nusatranslation",
+        "kami",
+        "kami+nusax",
+        "kami+nusatranslation"
+      ],
+      "benih": {
+        "nusax": [
+          42,
+          1,
+          2
+        ],
+        "kami": [
+          42,
+          1,
+          2
+        ],
+        "kami+nusax": [
+          42,
+          1,
+          2
+        ],
+        "nusatranslation": [
+          42
+        ],
+        "kami+nusatranslation": [
+          42
+        ]
+      },
+      "dua_arah": true,
+      "epoch": 5,
+      "laju_belajar": 0.0001,
+      "porsi_warmup": 0.1,
+      "ukuran_batch": 16,
+      "akumulasi_gradien": 1,
+      "panjang_maks": 128,
+      "simpan_tiap_langkah": 1000,
+      "hapus_bobot_setelah_selesai": true
+    },
+    "dekode": {
+      "beam": 5,
+      "ukuran_batch": 32,
+      "panjang_maks_sumber": 128,
+      "faktor_panjang_keluaran": 1.5,
+      "tambahan_panjang": 10,
+      "panjang_maks_keluaran": 256
+    },
+    "kode_bbc": "bjn_Latn"
+  },
+  "masukan": {
+    "s05_uji.csv": "27d05122b2e2bcc6c01d76f24e873b7b38c872463d84ba758ff13dbacaa99939",
+    "s05_validasi.csv": "27dd39042975ace865a5d7c0b7433640d2ad77fd8e8ff46b3e9a3c2cbc57daae",
+    "s05_latih_nusax.csv": "29ece63f11354c49d7712e38717c8b1f03a8de3afc8c2369f59aa23981d02fd4",
+    "s05_latih_nusatranslation.csv": "007303e3a596f6684831ce816d4e781b7c88a1b10b8904d7e48c6f8af4d62c29",
+    "s05_latih_kami.csv": "350beae755f9b1e0d00d61cccb443cc877bd9d2ae29e0435715edf71ee766428"
+  },
+  "keluaran": {
+    "s08_ringkasan.json": "f01cd521d11913c6f3904135298b2b3fb22c47992afea4713735505d79d000ad",
+    "s08_log_pelatihan.csv": "bd632ab1f194b2243dfa35949bd77b192ad640ba50ae889109af8a4d8656a62e"
+  },
+  "ringkasan": {
+    "run": 11
+  }
+}

@@ -1,0 +1,23 @@
+sistem,bbc2id|Contemporary Media,bbc2id|Educational,bbc2id|Historical/Traditional,bbc2id|Literary,id2bbc|Contemporary Media,id2bbc|Educational,id2bbc|Historical/Traditional,id2bbc|Literary
+copy_source,42.78,24.66,21.11,11.74,42.68,23.01,21.64,13.73
+ft_kami+nusatranslation_s42,64.84,44.76,42.75,27.54,60.71,38.85,38.62,27.78
+ft_kami+nusax_s1,62.58,41.69,36.01,23.82,58.49,40.29,29.8,25.67
+ft_kami+nusax_s2,62.46,40.95,35.22,22.35,59.15,39.59,29.21,24.7
+ft_kami+nusax_s42,61.72,41.76,34.9,23.84,58.55,39.97,29.47,25.47
+ft_kami_s1,60.78,42.37,33.24,22.77,57.69,39.88,28.66,23.25
+ft_kami_s2,61.28,41.86,29.35,22.3,57.99,39.52,29.4,23.18
+ft_kami_s42,61.27,41.02,34.17,22.3,57.5,40.59,28.88,23.3
+ft_nusatranslation_s42,60.68,39.67,40.44,25.76,49.87,27.39,31.18,23.78
+ft_nusax_s1,51.67,31.47,29.38,17.77,50.89,31.21,27.83,20.18
+ft_nusax_s2,50.43,32.09,28.21,18.56,50.47,31.54,27.32,21.01
+ft_nusax_s42,51.74,31.94,28.33,17.44,50.79,31.22,27.49,20.24
+llm_gemma3-27b-cpt-gotoai-v3-instruct_few_shot_acak,66.36,47.57,39.73,23.52,54.35,33.01,27.7,23.11
+llm_gemma3-27b-cpt-gotoai-v3-instruct_few_shot_retrieval,67.71,49.93,43.1,27.96,58.11,38.75,29.72,27.02
+llm_gemma3-27b-cpt-gotoai-v3-instruct_zero_shot,65.49,44.67,35.25,22.64,52.35,32.17,24.2,22.75
+llm_qwen2.5-7b-instruct_few_shot_acak,44.6,26.49,20.97,13.04,39.86,23.1,17.97,13.34
+llm_qwen2.5-7b-instruct_few_shot_retrieval,48.08,28.74,21.89,17.51,43.86,27.72,20.16,18.36
+llm_qwen2.5-7b-instruct_zero_shot,43.17,26.27,19.44,12.61,36.9,19.36,15.58,12.68
+madlad3b_zeroshot,58.25,39.41,23.94,15.69,36.77,22.52,17.22,13.78
+nllb1.3b_zeroshot,48.18,30.53,20.85,12.66,40.63,22.83,17.61,13.55
+nllb3.3b_zeroshot,49.51,28.68,21.18,11.79,40.54,23.38,19.24,12.96
+nllb600m_zeroshot,47.84,28.07,23.61,13.63,40.16,23.29,18.54,13.58

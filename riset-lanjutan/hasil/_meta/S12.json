@@ -1,0 +1,41 @@
+{
+  "kode": "S12",
+  "nama": "Lembar ESA",
+  "sidik": "e549dc6c92b612e27835ed0fd408080ade9dbc1a69f66d603936a63ed28d8a0b",
+  "waktu": "2026-11-17T01:52:18+00:00",
+  "parameter": {
+    "esa": {
+      "n_kalimat": 60,
+      "sistem": [
+        "madlad3b_zeroshot",
+        "ft_nusatranslation_s42",
+        "ft_kami+nusatranslation_s42",
+        "LLM_TERBAIK"
+      ],
+      "penilai": [
+        "A",
+        "B"
+      ]
+    },
+    "benih": 42
+  },
+  "masukan": {
+    "s05_uji.csv": "27d05122b2e2bcc6c01d76f24e873b7b38c872463d84ba758ff13dbacaa99939",
+    "s10_skor.csv": "c7abbb245c87d33aaedc18c3308ab6b0d2808c8f0bd68c7b83819858c4b99865"
+  },
+  "keluaran": {
+    "kunci_esa.csv": "cffde63be210c0824e4f9df5ad2406110114910c97182c26a1972e054c80aea1",
+    "esa_penilai_A.xlsx": "4ef9da9c5acad482087292a0dd04d4e93a1f9a733c93910a7c4285bb16c2de0f",
+    "esa_penilai_B.xlsx": "3ae9b58d4e27f4d930a77e605a59c2445b6da6662a60e05ee2da12ad665be656"
+  },
+  "ringkasan": {
+    "kalimat": 60,
+    "sistem": [
+      "madlad3b_zeroshot",
+      "ft_nusatranslation_s42",
+      "ft_kami+nusatranslation_s42",
+      "llm_gemma3-27b-cpt-gotoai-v3-instruct_few_shot_retrieval"
+    ],
+    "butir_per_penilai": 480
+  }
+}

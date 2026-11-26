@@ -1,0 +1,56 @@
+{
+  "kode": "S10",
+  "nama": "Evaluasi otomatis",
+  "sidik": "78d2bda75c450a9aeb0a0e9a7ef893c5c5bc3ef201d6a012b6a83213eb6975d5",
+  "waktu": "2026-11-17T01:47:33+00:00",
+  "parameter": {
+    "evaluasi": {
+      "n_bootstrap": 1000,
+      "hitung_comet": false,
+      "model_comet": "Unbabel/wmt22-comet-da"
+    },
+    "perbandingan": [
+      [
+        "ft_kami+nusatranslation_s42",
+        "ft_nusatranslation_s42"
+      ],
+      [
+        "ft_kami+nusax_s42",
+        "ft_nusax_s42"
+      ],
+      [
+        "ft_kami_s42",
+        "ft_nusax_s42"
+      ],
+      [
+        "ft_kami_s42",
+        "ft_nusatranslation_s42"
+      ]
+    ]
+  },
+  "masukan": {
+    "s05_uji.csv": "27d05122b2e2bcc6c01d76f24e873b7b38c872463d84ba758ff13dbacaa99939",
+    "kami.bbc2id.jsonl": "42d5656b17513f7a7f4c0d940b936045401109ba33d0c3d860e0ca970d7568da",
+    "kami.id2bbc.jsonl": "70ee9fd93cd7e589c4d2c6754eb05c2a20e174025e1817eb52405163f342b9b5",
+    "nusatranslation.bbc2id.jsonl": "1f1e440c03ba01d8d4b68ab4cb18db9f7024d2001ee634bb2f2727e857a7505c",
+    "nusatranslation.id2bbc.jsonl": "75cf7383332d90fbf342117441611138051bde17fd2833a5bfe8951847e4f9f3",
+    "nusax.bbc2id.jsonl": "2780327689e9e7b2cb2ec332de051e58765b0f70989146e0a858995e9ae44dd1",
+    "nusax.id2bbc.jsonl": "e9b054388b2a4b1c0cb0d13092052e5ae3f9794b2d1569fd06e93e13f49e8124",
+    "nusatranslation_toba.bbc2id.jsonl": "f3263854cb571588f4f7c2e670a1bf461afe90baee8176d105dd3da4f8d3d86c",
+    "nusatranslation_toba.id2bbc.jsonl": "3253ce01e275ade962147742d59a4916fcd54c5f9f8b009708bc294edb6f95c1"
+  },
+  "keluaran": {
+    "s10_skor.csv": "c7abbb245c87d33aaedc18c3308ab6b0d2808c8f0bd68c7b83819858c4b99865",
+    "s10_perbandingan.csv": "30653e02ea4c93f70a9cf7f702b51f68634c2535a3a3a586f394d574a4e86776",
+    "s10_rata_benih.csv": "8fda5bf77ffb70f21018ec06993e49523d4c342389f235962f8c95498d99b697",
+    "s10_varietas_keluaran.csv": "7bf2904975569c6c49c6d305dd343d8b1693e4f7de24eb3c8d4be8ce835e7ba7",
+    "s10_skor_kalimat.csv": "6dfa3ba28912af840449d073fa4f07a8974eb8172b71b72eb01a728275fc687a",
+    "s10_unit_belum_lengkap.csv": "d5176546e7bbecc93c75f9e1a4ebf11b3aca401aba49ac74e0aeeaac06ee740a"
+  },
+  "ringkasan": {
+    "sistem": 22,
+    "baris_skor": 612,
+    "unit_belum_lengkap": 0,
+    "perbandingan": 88
+  }
+}

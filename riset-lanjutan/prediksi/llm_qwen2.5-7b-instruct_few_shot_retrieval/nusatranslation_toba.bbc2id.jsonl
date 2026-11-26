@@ -1,0 +1,401 @@
+{"sidik": "f6ab148d0aef84bcbb0ec5fa52eb0fcd045ff6ccccc543c4b0ba7c0fb528e115", "parameter": {"model": "Qwen/Qwen2.5-7B-Instruct", "k": 5, "token_baru_maks": 200, "data_latih": "350beae755f9b1e0d00d61cccb443cc877bd9d2ae29e0435715edf71ee766428", "versi_prompt": 1, "kondisi": "few_shot_retrieval"}}
+{"uji_id": "nt-test-1803", "hipotesis": "Kamar bersih, tiket sudah di kamar tidak ada noda berwarna cokelat serta bantalnya tidak ada bekas kotoran biru, bersihlah sebelum check-out, tiketnya sudah dibalik, check-out hanya makan makanan baru saja tidak ada keluhan, dan juga deposit sudah dibuat, jadi jika kamar ada noda kotoran langsung komplain. Check-in baru boleh pukul 2, sarapan sudah nasi goreng pake telur, kamar mandi bau tidak enak karena ada masalah saluran air, tapi tidak ada perbaikan di hotel."}
+{"uji_id": "nt-test-1853", "hipotesis": "Kamar dengan fasilitas lengkap dan puas lainnya 1. Wi-Fi dan bisa masuk ke kamar 2. Pintu kamar mandi dan boleh ditutup serta dikunci dengan aman 3. AC yang bekerja dengan baik 4. Shower yang berfungsi dengan baik dan boleh dipanaskan sesuai kebutuhan 5. Terdapat arus listrik di kamar, jadi tidak perlu khawatir kehabisan pulsa karena ada sambungan listrik."}
+{"uji_id": "nt-test-1839", "hipotesis": "Salimutna orang gemar makan dan orang tidak gemar makan, televisi menayangkan dua hal ini, kadang orang menonton, kadang tidak, sampah itu hampir selalu ada di kamar, tapi saat tidur, sampah itu biasanya dibuang di luar, tidak dihancurkan atau dibakar, sehingga sampah itu masih ada di pikiran tentang kebersihan kamar."}
+{"uji_id": "nt-test-1514", "hipotesis": "Pelayanan diberikan dengan baik, stafnya ramah, pemandangannya indah, kamarannya nyaman, selalu ada yang bisa dipakai di kamar, selain itu tersedia air hangat. Menu sarapannya beragam. Check-in dilakukan 15 menit sebelumnya, sehingga bisa langsung masuk ke kamar, lantainya bersih dan baru di bersihkan, serta terdapat pengharum ruangan yang segar."}
+{"uji_id": "nt-test-1981", "hipotesis": "Airy Progo memiliki bangunan serupa hotel Progo. Sedang dibuka untuk ibuhamil. Sarapan pukul 07.00, dan ada fasilitas minum kopi atau teh setelah sarapan. Termasuk juga fasilitas mandi pukul 06.00 sebelum sarapan. Kamar bersih, AC, TV, WC, dan air panas serta dingin tersedia. Saat sampai di sana, dapat langsung ditempati."}
+{"uji_id": "nt-test-1365", "hipotesis": "Untuk hubungan diplomatik dan bisnis internasional, pembangunan internasional, ekonomi internasional. Harapannya para dosen, terutama yang berkeahlian dalam pariwisata dan ekopembangunan dapat membantu. Ini akan sangat membantu dan diharapkan oleh Anda. Untuk pertumbuhan GDP, indeks kesejahteraan, dan asing."}
+{"uji_id": "nt-test-1887", "hipotesis": "Hotel tersebut memulai operasionalnya untuk menyediakan sahur (sebelum fajar) selama bulan Ramadhan. Untuk biaya tambahan, plafon dical dan diberi cat warna hijau, serta lampu dipasang di langit-langit untuk penggunaan non-AC. Harga lebih mahal."}
+{"uji_id": "nt-test-0467", "hipotesis": "Ruang tamu... Ruang yang di foto, televisi tabung yang sering gugur layar, remote TV yang sering rusak, AC yang sering mati, kulkas yang sering rusak, toilet sudah, pintu kamar mandi sudah, juga kamar mandi pocket sudah, lemari sudah, dan dipasang di belakang toilet, tissue toilet yang sering habis. POSA!!!"}
+{"uji_id": "nt-test-1001", "hipotesis": "Karena tidak semua orang mengetahui cara membuatnya..., jadi sekarang orang sering mengabaikan tradisi tersebut... alat musik ini sering hilang, jadi pasrahlah pada usaha sendiri, tetapi tetaplah mencoba untuk menambahkan nilai positif dalam setiap masalah yang kita hadapi... dan teruslah berdoa untuk membimbing kita."}
+{"uji_id": "nt-test-1067", "hipotesis": "Hubungan dengan orang asing sering membuat kita merasa cemas.. tapi sebenarnya itu normal.. jangan takut.. malah bisa jadi peluang untuk mengendalikan diri dan bersikap tenang.. biarkan saja dan fokus pada hal-hal penting. Ini tantangan yang harus kita hadapi dengan bijaksana."}
+{"uji_id": "nt-test-0670", "hipotesis": "Penjualan di mal hari ini mulai pukul 4 sore, dan penjualannya berlangsung hingga larut malam. Selama 30 menit itu, saya menelpon beberapa kali. Namun, penjual tersebut tidak menjawab. Dalam pikiran saya, penjual tersebut sibuk dengan urusan lainnya. Seperti gambaran di internet, penjual tersebut tampak sibuk dengan hal lain."}
+{"uji_id": "nt-test-1600", "hipotesis": "Namun, sebagian Youtuber, tidak melakukan review produk dengan netral, sehingga sering kali menimbulkan kontroversi hehehe Namun, sering kali dikatakan \"dan netral, jadi pertimbangkan pribadi terlebih dahulu\" Jadi sering kali diulang \"silakan menilai sendiri, namun sebaiknya berhati-hati (atau ada manfaatnya)"}
+{"uji_id": "nt-test-1988", "hipotesis": "Karena ada beberapa frasa yang sensitif, terjemahan akan fokus pada bagian yang tidak sensitif:"}
+{"uji_id": "nt-test-1321", "hipotesis": "Tamunya sangat puas dengan layanan di restoran tersebut, mereka bilang restoran tersebut bagus karena memiliki banyak pilihan makanan di luar, termasuk makanan cepat saji yang bisa naik turun hingga lantai 3. Mereka hanya menggunakan satu telepon seluler untuk memesan selama 3 kali atau lebih saat makan di sana..."}
+{"uji_id": "nt-test-1879", "hipotesis": "Ketika kita mau mengakui kesalahan kita, maka kita dapat menerima ampunan dari Tuhan. Tuhan memberikan ujian untuk meningkatkan harapan dan keyakinan kita. Pasti akan ada cobaan, tetapi Tuhan selalu hadir. Jangan biarkan dosa kita menghalangi langkah kita. Mulailah dengan memaafkan diri sendiri."}
+{"uji_id": "nt-test-1654", "hipotesis": "Namun setelah dia menunggu selama 12 tahun tidak ada balasan... Sering kali di chat ditolak, telepon di tolak, disuruh pergi tanpa alasan... Akhirnya dia putuskan tinggal sendiri saja, dan begitu... Cerita klasik yang sering terjadi"}
+{"uji_id": "nt-test-0251", "hipotesis": "Saat ini kita membagi hadiah rasa suka dalam doyan saudara kita menjalankan puasa Ramadhan, sehingga penampilan seperti JNE Idol dan Freestyle bola menjadi hiburan bagi kita saat berada di lampu merah [URL]"}
+{"uji_id": "nt-test-0737", "hipotesis": "Dalam hubungan baru, ia menghindari topik seksual karena takut terlihat berbeda secara rohani. Lebih baik diam daripada merasa tidak nyaman, dan agar tidak terlihat rendah diri, ia menjauhkan diri jika sudah begini."}
+{"uji_id": "nt-test-0161", "hipotesis": "Bagaimana jika kita mencoba sesuatu yang baru dan berbeda? Tanpa ragu, mari kita berjuang dengan semangat, tanpa ragu, kita harus berjuang dengan semangat karena itu adalah bagian dari perjuangan kita. Sederhananya, hal itu tidak selalu sesuai dengan rencana Tuhan jadi kita harus tetap fleksibel."}
+{"uji_id": "nt-test-0976", "hipotesis": "Tapi sering kali orang tua menyarankan anaknya untuk berhati-hati dalam memilih pasangan, tidak hanya karena keinginan sendiri, tetapi karena mereka sadar bagaimana pentingnya persetujuan orang tua, sehingga orang tua merasa hal itu tidak hanya tentang nafsu sendiri #OrangTuaDangPengaruh."}
+{"uji_id": "nt-test-1265", "hipotesis": "Positif: lokasi perdagangan bagus, ruangan cukup luas, pelayanan baik cepat tanggap. Sirkulasi udara baik, tidak ada masalah dengan kamar mandi. Suasana cukup tenang. fasilitas sesuai tawaran. Negatif: kasur, selimut, penutup枕巾dothias tidak nyaman. Bantal bau."}
+{"uji_id": "nt-test-0567", "hipotesis": "Mulak rumah di dekat GI mangan suka ngobrol rapat mengenai mulak borgil, alai lumobi suka maradi diparkir di samping pom bensin Sency, rap manatap mulak baru martono naeng suka ngobrol, sada cara sederhana"}
+{"uji_id": "nt-test-1141", "hipotesis": "Kamar sudah penuh, bangunan tersebut sudah tua dan hanya digunakan sebagai penginapan sementara. Terdapat shower, tempat tidur, dan kunci untuk lemari. Saat menginap sana, Anda harus membayar. Semoga hotel tersebut selalu penuh."}
+{"uji_id": "nt-test-0460", "hipotesis": "[USERNAME] [USERNAME] Ini adalah klarifikasi dari Ustaz Zulfkifli M.Ali bahwa hadits-hadits tentang usia di balik nama hanya lemah menurut ilmu hadits dan tidak halal islam. Jadi tidak boleh dianggap remeh. Lakukan amal shaleh. Ini berasal dari laman maul berda."}
+{"uji_id": "nt-test-1899", "hipotesis": "Sadarilah bahwa kehidupan adalah perjalanan. Lihatlah waktu sebagai peluang untuk belajar dan menghargai apa yang kita miliki serta apa yang kita butuhkan, bukan untuk merencanakan masa depan tanpa menghargai saat ini dan pemahaman diri sendiri? Itulah intinya."}
+{"uji_id": "nt-test-1353", "hipotesis": "Sering ingin lebih membuat sulit menutup hal tersebut! Namun tetaplah sabar! sebenarnya mudah, hanya perlu ketekunan dan konsistensi serta selalu berdoa dan percaya pada kemampuan diri sendiri..."}
+{"uji_id": "nt-test-0825", "hipotesis": "[USERNAME] lapor bahwa dompetnya hilang sekitar 2 bulan dan baru diinformasikan ke Polisi oleh pihak Bukalapak setelah ditemukan beberapa bukti yang membuktikan bahwa hilangnya dompet tersebut."}
+{"uji_id": "nt-test-0811", "hipotesis": "Pas hian ma, aturan tentang penggunaan listrik, tol, dan bahan bakar minyak diatur dengan baik, bolehkah saya mengetahui lebih lanjut tentang peraturan-peraturan tersebut? Rittik hianma si rezim yang berlaku saat ini adalah [URL]."}
+{"uji_id": "nt-test-1275", "hipotesis": "Karena akses komunikasi berbasis internet sangat penting, ada banyak cara informasi diambil dalam bentuk digital yang mudah diakses tanpa mempertimbangkan jumlah kuota. Bagaimana pendapatmu? Mohon berikan solusi yang lebih murah untuk..."}
+{"uji_id": "nt-test-1178", "hipotesis": "Seringkali karena beberapa orang memiliki motivasi dan tujuan yang jelas sejak dini, sementara orang lain sulit menentukan jadwal dan prioritas mereka, sehingga seringkali menghubungi nasibnya saat deadline mendekati."}
+{"uji_id": "nt-test-1570", "hipotesis": "Udut...@bankmandiri telah menutup layanan di kantor cabang Sabang, silakan cari solusi lainnya. Terima kasih kepada nasabah, harap hubungi call center atau kantor lainnya. Terkait solusi."}
+{"uji_id": "nt-test-0287", "hipotesis": "Cek-in cek-out mudah. Ada dispenser di gang belakang. Parkiran depan. Bilik tidak ada gambar. Tidak ada meja. Tidak ada lemari. Saluran TV tidak aktif. Lift tidak berfungsi. Jendela perlu ditinggikan agar terang."}
+{"uji_id": "nt-test-1222", "hipotesis": "[NAMA PENGGUNA] HYUNMIN JOOO! PENDAPAT MEREKA SANGAT NEGATIF! SELALU MENGUCAPKAN KATA-KATA TIDAK MENGHARGAI, SELALU MENGUCAPKAN KATA-KATA NEGATIF TENTANG ORANG LAIN, MOMENTNYA SELALU MEMBANTUTIKAN DAN MENGHINA ORANG LAIN, TAPI AKHIRNYA SELALU MENJADI ORANG YANG SEMPIT DIRI DISINDIR SINDIRAN MEREKA TIDAK MENGHARGAI ORANG LAIN I WQWQWQ~ AKHIRNYA MEREKA SENDIRI YANG SEMPIT DIRI"}
+{"uji_id": "nt-test-1588", "hipotesis": "Pendamping 1 dan 2 di grup WA menyapa: Pendamping 1 : Hallow, latar belakangmu sudah cukup, tak lagi banyak yang perlu ditambahkan. Pendamping 2 : Benar, latar belakangmu sudah baik, hanya pada bagian \"Tujuan penulisan\" yang perlu ditambahkan. Oh ya: Mohon sensei untuk memperbaiki bab 1."}
+{"uji_id": "nt-test-0795", "hipotesis": "Ada fasilitas gratis sarapan/sahur pada bulan Ramadhan. Lokasinya strategis dekat Stasiun Cirebon. Perlu didukung dengan jaringan WiFi kuat, view kamar dan taman indah, serta koneksi TV berkualitas baik."}
+{"uji_id": "nt-test-1768", "hipotesis": "Dengan pola tersebut seharusnya bijaksana dalam memandang hal yang jelas terkait urusan ini berkaitan dengan ekonomi, namun sayangnya dan karena patokan tersebut tidak sesuai dengan hal yang baik seperti yang dianjurkan oleh Gusdur maupun Bung Karno, beliau diuji melalui sejarah [URL]"}
+{"uji_id": "nt-test-1244", "hipotesis": "[TUSERNAME] [USERNAME] [USERNAME] sering menghabiskan waktu bersama, menikmati sensasi bermain, tapi selalu berhati-hati, juga menjaga reputasi, jadi tidak terlalu ekstrim, tapi tetap menikmati permainan dan suasana."}
+{"uji_id": "nt-test-0333", "hipotesis": "Terkadang terjadi di mana wajahnya sudah memenuhi status \"bang\", namun diklaim bukan miliknya, kan ada yang bertanya \"Apakah 'bang' itu?\" dan jika kata \"bang\" itu adalah hak cipta milik seseorang dan karyamu digunakan oleh orang lain tanpa izin, apa hakmu?"}
+{"uji_id": "nt-test-0166", "hipotesis": "[USERNAME] Hahaha saya sedang memperbaiki diri dan tidak lagi mudah tersinggung, & sudah tidak takut lagi, jadi tidak mudah marah, emosi saya sekarang lebih tenang dan tidak cepat marah pada mantan (saudaraku yang telah lama), emosi saya sekarang lebih terkontrol."}
+{"uji_id": "nt-test-1604", "hipotesis": "Namahua do kantor pusat on? Ikön pala di data medsos kantor vertikal jala disuru muse manfollow akun medsos kampus. Hape molo jam karejo dang boi hami mambuka medsos sian jaringan ni kantor. Disuru mambahen akun medsos (fb, ig, yutub, twiter) kantor molo dang adong."}
+{"uji_id": "nt-test-1270", "hipotesis": "Tipe orang seperti itu di daerah kami yang tinggal di luar kota sering menggunakan koar-koat di media sosial, jadi mereka tetap teguh pada pendapatnya dan sering menginspirasi teman-teman mereka untuk berpikir sama. Namun sebenarnya koar-koat tersebut kadang tidak tepat."}
+{"uji_id": "nt-test-1142", "hipotesis": "[USERNAME] [USERNAME] terhubung jaringan 4G, di bawah harga Rp49.000, dengan kapasitas kuota 12 GB seharga Rp95.000,- dan hampir tidak ada perbedaan sinyal, terutama di daerah Sariwates, Kiaracondong, Kota Bandung cc:[USERNAME] [URL]"}
+{"uji_id": "nt-test-1329", "hipotesis": "Juga dengan keyakinan diri yang tinggi, hati orang tersebut juga masih bisa berubah jika dia mau. Dia harus merenungkan lagi dirinya sendiri dengan jujur."}
+{"uji_id": "nt-test-1194", "hipotesis": "Karena orang tua tidak banyak yang memiliki waktu luang untuk merawat cucu mereka, atau sadar, sehingga mereka punya waktu untuk menyelesaikan skripsi mereka, Para nenek pada mengurus halak-halak mereka, sehingga mereka bisa fokus menyelesaikan tugasnya."}
+{"uji_id": "nt-test-0160", "hipotesis": "Saatnya ganti jabatan menjadi GM Hotel, jalan pintu karirku mulai lancar sehingga anak buahku pun menjadi lebih baik, sehingga aku minta maaf, namun sudah terlanjur dua kali dan lain-lain, apakah masih dianggap baik?"}
+{"uji_id": "nt-test-1893", "hipotesis": "[USERNAME] memang memiliki beberapa jenis masalah kepercayaan..., terutama pada orang tertentu, dan dia lebih suka berbicara dengan orang lain daripada menghadapi masalah yang sebenarnya."}
+{"uji_id": "nt-test-1511", "hipotesis": "Kain handuk tersebut dan beberapa di antaranya tidak sesuai ukurannya, toilet memiliki sedikit tissue, ada pantun rohani yang tersebar online dan dikirim bersama kiriman lainnya. Namun semoga saja tidak menjadi masalah besar."}
+{"uji_id": "nt-test-0629", "hipotesis": "Hilangkan intensitas berbicara, hanya katakan apa yang perlu, jika perlu hanya berkomunikasi melalui video call di kantor. \"Untuk keberhasilan pertempuran kita,\" kata dia, terus berjuang dengan sabar, dan jangan terburu-buru."}
+{"uji_id": "nt-test-1793", "hipotesis": "Username Username Username Username Benar kan begitu? Benar malo? Benar pendidikanmu S3 di Amerika dengan nilai oke? Benar kan begitu jadi rektor OT? Benar kan kontribusimu untuk negara sudah banyak?"}
+{"uji_id": "nt-test-0953", "hipotesis": "Ada yang suka menggunakan Tinder jadi pacar, tapi jarang yang unduhannya. Saat unduhannya bermasalah, mereka malah ngeluhin aplikasi itu aja :') tapi sebenarnya masalahnya di unduhannya, bukan di aplikasi itu sendiri."}
+{"uji_id": "nt-test-0747", "hipotesis": "[USERNAME] terkesan hebat selalu berpijak pada perjuangan sejak tahun 2015 capres dan cawapresnya Prabowo Gatot sampai 2018 berubah menjadi pendukung sepenuhnya betul nafsu akunya ho"}
+{"uji_id": "nt-test-1629", "hipotesis": "Sadari pada jadwal presentasi proker di LPPM, praktikum dilakukan oleh pak ketua, sedangkan penanggung jawab oleh sekretaris 1. Alami karena posisi sekretaris 2 bertanggung jawab atas itu. Bismillah pak ketua (BTW saya upload gambar pak ketua saja)."}
+{"uji_id": "nt-test-0470", "hipotesis": "Bagian rumah tersebut dihiasi dengan tarian tradisional saat acara pernikahan ini hampir selesai (dengan nada musik yang berhenti saat diputar) dan ini adalah jawaban jenaka sambil tersenyum, karena biasanya ditutup dengan ungkapan \"dan urusannya i\" namun kali ini ditutup dengan \"songoni\" atau \"sundat meseng\"."}
+{"uji_id": "nt-test-0718", "hipotesis": "[USERNAME] Hai pak [USERNAME], Asian Games tinggal beberapa hari saja di Jakarta dan sudah mendekati akhir, naso maila doho? Palembang sekitar 95% pakarejoan hampir sidung. Dohot hamu pak Anies urusan ni trotoar i pe dang sidung-sidung. Hamu nai Gubernur"}
+{"uji_id": "nt-test-0755", "hipotesis": "Seperti orang kebanyakan. Dia juga memiliki tanggapan terhadap situasi yang buruk, tetapi lebih baik daripada banyak orang lain, karena dia masih memiliki sisi positif. Orang asing atau luar biasa, juga dapat mempengaruhi tanggapan Anda terhadap diri sendiri."}
+{"uji_id": "nt-test-1320", "hipotesis": "Pada saat mengajar RT, jangan memaksakan hal-hal sendiri... tetapi jika warganya sudah mampu, orang-orang tersebut harus diperingati tentang kewajiban mereka. Horkhon jolma laho harus diberikan THR keamanan."}
+{"uji_id": "nt-test-1404", "hipotesis": "Pasca dilahirkan dengan jiwa yang kaya (budaya, adat istiadat, jalan hidup), orang tersebut tidak pernah merasa kurang (dengan segala kemewahan) lagi, karena segala sesuatu yang dimiliki sudah sangat baik."}
+{"uji_id": "nt-test-0153", "hipotesis": "Saya sangat bahagia dengan ayah saya dan kehadirannya. Ayah selalu ada saat saya membutuhkan dan selalu menambahkan cinta dalam hidup saya. Terima kasih atas seg切分词："}
+{"uji_id": "nt-test-0733", "hipotesis": "Mereka langsung memiliki rumah... ini adalah orang-orang yang seringkali memiliki banyak harta bersama keluarganya... mereka biasanya sudah dewasa dan memiliki pasangan, serta memiliki anak-anak."}
+{"uji_id": "nt-test-1380", "hipotesis": "[USERNAME] yang menjadi wali kota bekerja sama dengan meningkatkan kualitas hidup warganya untuk membangun kota yang aman dari korupsi dan asing sehingga masyarakat dapat hidup sejahtera di wilayahnya serta mendorong investasi asing."}
+{"uji_id": "nt-test-1517", "hipotesis": "Dibersihkan rumah dan sekitarnya dari sampah, terutama di dekat sungai, membersihkan jala ikan (seperti jaring untuk sprei) agar dapat digunakan lagi, mandi menggunakan air yang bersih dan mencuci tangan, barang tersebut dijual di pasar lokal."}
+{"uji_id": "nt-test-1326", "hipotesis": "ruangan tersebut dilengkapi dengan snack yang ditambahkan roti dan kopi dengan harga mulai Rp5-10 ribu saja, meskipun sudah lengkap dengan ruang tamu dan kamar mandi, namun tetap perlu diperhatikan kebersihan dan perilaku sopan."}
+{"uji_id": "nt-test-1371", "hipotesis": "Mendirikan keuangan secara mandiri artinya memiliki kontrol. Mungkin kamu bisa melihatnya sebagai langkah awal, mulailah dari mengatur pulsa handphonemu sendiri. Kemudian teruslah belajar dari pengalamanmu sendiri."}
+{"uji_id": "nt-test-1032", "hipotesis": "Hindari menggunakan plastik karena alasan mendukung kampanye dan seremoni.Sehingga nanti,gunakan plastik di pasar i. Saya sarankan memulai dari produsen tersebut yang memiliki potensi menjadi \"donor\" politik."}
+{"uji_id": "nt-test-1571", "hipotesis": "Inti sian thread on sasintongna ima naeng mandok selamat tanggal 25 na pa7hon tu ho na naung olo berbagi holong dohot torus sabar mangadopi au, dohot au baru sadar ho do tong hape kado natal na hu jalo sian Tuhan na ujui."}
+{"uji_id": "nt-test-1284", "hipotesis": "Hubungan ini tergantung pada [USERNAME]. namun karena itu dipertahankan, maka hubungan ini masih baik. dengan demikian teruslah menjaga dan tidak ada yang lain. Harusnya"}
+{"uji_id": "nt-test-0226", "hipotesis": "Dua kamar, memiliki balkon, tetapi salah satu tidak memiliki AC, meski standar kamar masih cukup baik, dengan kasur yang nyaman, namun harga terjangkau dan dekat dengan pusat hiburan."}
+{"uji_id": "nt-test-0731", "hipotesis": "Karena sadar, dengan ikhlas dalam menghadapi fitnah, kebencian... kita harus berhati-hati dalam menanggapi. Oleh karena itu, urusan sehari-hari hanya Tuhan yang menentukan."}
+{"uji_id": "nt-test-1064", "hipotesis": "Akun tersebut dianggap ilegal karena melakukan hal yang tidak masuk akal dan melanggar aturan."}
+{"uji_id": "nt-test-1216", "hipotesis": "Bohama ate. Dengan tekad dan motivasi sendiri. Jotjot manjua. Ido ra na mambahen parbogasonku ndang hea leleng :/ ndang hea sahat sabulan. Eee e e moli di imvu paling piga leleng ate. Na tu agun i 3 bulan dohot 2 bulan. Hmmm"}
+{"uji_id": "nt-test-0453", "hipotesis": "Namun dia sendiri, [USERNAME] yang mulai mempraktekkan agama lain. Dia membangun mushola di belakang rumahnya yang dulunya tempat beribadah umat Kristen. Karena itu ia sering dicemooh. Tetapi ia tetap berkeyakinan pada ALLAH."}
+{"uji_id": "nt-test-0019", "hipotesis": "Satu kali ini apa? Tidak ada maafkan hal itu karena masalahnya khusus. Begitu begitu aja, seperti apa aslinya. Semua sudah selesai, yang penting aslinya."}
+{"uji_id": "nt-test-1876", "hipotesis": "Minggu, 8 Juli 2018 \"Dukak ni Dolok Krakatau\" kembali menulis kembali perjuangannya mencapai impian. Dalam setiap petualangannya, ia belajar banyak di setiap langkah yang diambilnya."}
+{"uji_id": "nt-test-1497", "hipotesis": "Karena memiliki sifat toleran terhadap perbedaan, cenderung melakukan investasi sosial... tanpa terlalu memikirkan 'rasional'nya... Jadi meskipun begitu, masih banyak yang dilakukan berdasarkan keyakinan... melakukan hal tersebut berdasarkan anjuran Rasulullah."}
+{"uji_id": "nt-test-0135", "hipotesis": "dan awalnya di perdebatan, di ketidaksetujuan, di kemarahan. Setelah tenang, maka dari segi mental sudah bisa diandalkan lagi untuk melanjutkan pendidikan sendiri. Dengan hati yang tenang, maka sudah siap untuk maju."}
+{"uji_id": "nt-test-0417", "hipotesis": "Jika mobil asing serobot parkiran saat sedang kosong, maka akan ada mobil lain yang dapat memanfaatkannya. Ternyata, ketika sudah terparkir, ada tujuh mobil yang masuk dan menghalangi parkiran."}
+{"uji_id": "nt-test-1970", "hipotesis": "Username ... itu asing untuk Username ... Karena Username ... tweet yang buruk dan mengomentari tweet muna membuat emosi..., akhirnya tweet tersebut dihapus menjadi normal lagi menjadi asing untuk normal."}
+{"uji_id": "nt-test-1340", "hipotesis": "Kamar bersih dan nyaman, ini paling memuaskan penginapan di area lambok adduk dan angur. Namun catatan, bantalnya agak keras dan harga cukup mahal. Rekomendasi ini tergantung pada budget Anda."}
+{"uji_id": "nt-test-1804", "hipotesis": "Akibatnya perkaryawannya buruk, keamanan dan staf hotel tidak profesional serta layanan buruk, tamu merasa tidak nyaman, bahkan teleponnya diamkan... Hanya saja ini disebabkan oleh masalah pelayanan."}
+{"uji_id": "nt-test-1786", "hipotesis": "[USERNAME] tolong petugas [USERNAME] yang polisi di tol Cipularang km 101 dekat Jakarta, karena ada yang ingin mengecek kendaraan yang bermasalah. tolong cepat!!"}
+{"uji_id": "nt-test-1454", "hipotesis": "1. Lampu ini untuk cahaya 2. Lampu di ruang tamu untuk mencahaya 3. Ini adalah sabun mandi 4. AC dengan suhu yang bisa diatur (ini memiliki rasa yang enak ketika digunakan) 5. Kursi ini dapat lipat dan dilipat kembali"}
+{"uji_id": "nt-test-0868", "hipotesis": "Kembali lagi ke aslinya. Anak-anak : bang, standar namun : itulah yang dia lakukan. Anak-anak: itu standar namun. aku tidak setuju. membuat nasihat jadi sia-sia. ya, ini benar."}
+{"uji_id": "nt-test-0575", "hipotesis": "Burju marmeam, pese-pese on nakkin video call naeng dituhorhon pesawat robot. Dung edisi mobil robot, ibana hatagian. Lului andigannnn.. saonari sajo rapat sahat Rabu, Jumar nungga mulak. Marsigigi naeng Neng na manuhor"}
+{"uji_id": "nt-test-1407", "hipotesis": "Pelecehan verbal terhadap Via Vallen bukan hanya tentang keucokan namun juga mengarah kekerasan seksual? Makanya kita harus menentangnya, harus dipikirkan oleh pelakunya."}
+{"uji_id": "nt-test-0144", "hipotesis": "Saya rasa semua gerakan memiliki makna yang berbeda, tergantung pada konteksnya. Namun, biasanya simbol-simbol tersebut mengandung empati dan kebaikan, bukan keburukan. Maka kata-kata positiflah yang harus digunakan!"}
+{"uji_id": "nt-test-1006", "hipotesis": "Akun tersebut diblokir atau akunnya dihapus karena penggunaannya tidak sesuai dengan panduan komunitas. Anda telah dilaporkan oleh seseorang atau grup dan kita tidak dapat mempertahankan akun tersebut."}
+{"uji_id": "nt-test-1947", "hipotesis": "Dia lebih suka berbelanja di pasar tradisional, tidak suka belanja di mega mall, bentuknya seperti hotel itu bagus, tapi bentuknya itu tidak cocok untuk penjualan dan distribusi barang."}
+{"uji_id": "nt-test-1735", "hipotesis": "Perubahan pola waktu iya biasa setiap minggu ketika seseorang menangis, selalu bersama, dan biasanya digunakan untuk menghibur. Selamat datang di Debata."}
+{"uji_id": "nt-test-0702", "hipotesis": "[USERNAME] [USERNAME] [USERNAME] Tidak lagi seperti itu. Sekarang mereka hanya menggunakan bangunan tersebut untuk kegiatan lain (seperti gereja). Atau dilindungi oleh Allah SWT dari segala ancaman spiritual yang terkait."}
+{"uji_id": "nt-test-0190", "hipotesis": "Rencana dan motivasi untuk menggarap proyek, hilang sama sekali.. berubah sepenuhnya.. hmm, pelajaran Ramadhan: mungkin memang perlu melewati masa-masa sulit, baik untuk belajar ma."}
+{"uji_id": "nt-test-0237", "hipotesis": "Karena ingatan tentang masa lalu dan masa kini, serta pengalaman hidup. jadi kata hati saya \" aku akan pulang\" dan mencoba atau malah memilih untuk kembali ketika mulai bertemu dengan orang-orang pada #HonorIndonesia"}
+{"uji_id": "nt-test-1253", "hipotesis": "Harusnya mendapatkan terima kasih dari Anies-Sandi. Karena hari ini tidak lagi menerima ide-ide dari program Ahok. Mungkin saja mereka sudah merencanakan sesuatu tanpa melibatkan kita."}
+{"uji_id": "nt-test-0253", "hipotesis": "Seringkali dia tidak peduli, selalu meremehkan orang lain, tidak mau membantu, begitu sombong, hedonis, serta memiliki sifat-sifat buruk lainnya, seperti... bisa dikatakan memiliki masalah psikologis dan sering bertingkah laku aneh."}
+{"uji_id": "nt-test-1375", "hipotesis": "Di perpustakaan UIN, saya mencari-cari buku tersebut. Tahu kan! Mungkin ada saja yang tidak tahu bahkan untuk mengajar kerangka teori tersebut selama 2 bulan dan selesai ditangani hanya dalam seminggu. Hehe"}
+{"uji_id": "nt-test-1668", "hipotesis": "USERNAME berusia 5 tahun, 2 bulan dan beberapa hari. Ibuanya mempunyai 3 anak di rumah. Orangtuanya sering mengajaknya ke rumah. Ibu其翻译成中文是："}
+{"uji_id": "nt-test-1279", "hipotesis": "[USERNAME] hidup pada masa ketika membunuh Soekarno, dan membunuh Sayyidina Ali saat sholat subuh, adalah orang yang menghafal Al-Quran dan ahli fiqih, ibnu Muljam. Saat itu konflik sudah meletus, bro?"}
+{"uji_id": "nt-test-1640", "hipotesis": "Kamar mandi ada, shower dan bak ada juga untuk kamu. Di sini ada dua kamar mandi dan satu kamar mandi lainnya bisa digunakan untukmu beserta fasilitas diskon khusus mandi atau mandi setelah itu."}
+{"uji_id": "nt-test-1774", "hipotesis": "Pelan-pelan hati anak muda itu terbuka, setelah beberapa kali dia diajarkan bagaimana harus berperilaku dengan baik. Seiring waktu, dia belajar menjadi baik secara perlahan."}
+{"uji_id": "nt-test-0367", "hipotesis": "Pitti ini pagar torus do tarkutci asa lao haluar manang masuk attar maol haru i pe dang kos2an na ikkon di paima dua puluh opat jom dohot parkarejona na manjaga jabu nai dang saor, pangadopion na pe dang denggan."}
+{"uji_id": "nt-test-1907", "hipotesis": "Dia jarang menggunakan BBM. Namun, dia sering memperhatikan harga bensin. Harga bensin sering berubah sesuai dengan pola cuaca. Dia berharap suatu saat harga akan stabil. Informasi lebih lanjut di [URL]."}
+{"uji_id": "nt-test-0392", "hipotesis": "Pada awalnya, saya memiliki dua halak hape, namun setelah membeli dua lagi, totalnya menjadi empat halak, jala ada desain airyroom di kamar, dan saya dapat snack, namun masih sering dikomplain soal kualitas marbornya."}
+{"uji_id": "nt-test-0176", "hipotesis": "Mengejutkan melihat trailer tersebut. Ide menampilkan film lagu nasional dengan tema barat liar sangat unik. Benar-benar kreatif. Maknanya sangat menarik dan menantang untuk menawarkan sajian yang spesial."}
+{"uji_id": "nt-test-0815", "hipotesis": "Saat berpuasa selama bulan Ramadhan, eh sering terdengar... ada tetangga yang sedang menggoreng telur ati. Apakah itu membuat Anda merindukan makanan tersebut?"}
+{"uji_id": "nt-test-0306", "hipotesis": "Kita harus bersabar, jadi tolong berpati-pati. Anda harus menunggu sampai bukti-bukti itu terkumpul. Tunggu saja hingga benar-benar waktunya, baru kemudian berusaha untuk dipahami."}
+{"uji_id": "nt-test-1117", "hipotesis": "Bung [USERNAME] telah mengakui bahwa dia hebat sebagai komentator dan analis, dan dia adalah yang terbaik di sektor tersebut. Terkait masalah harrasment terhadap Via Vallen, pikirannya logis dan bijaksana."}
+{"uji_id": "nt-test-0862", "hipotesis": "200 orang mendengarkan versi Menteri Agama, tidak terlalu banyak. Materi ceramah untuk pertama kali. luangkanlah waktu. Ceramah terkendali hanya memiliki sekitar 200 peserta saat Menteri Agama berbicara. oleh karena itu, [USERNAME] merasa harga dirinya [URL]"}
+{"uji_id": "nt-test-0664", "hipotesis": "Maaf, apakah maksud rotap/bohado dan lend*r dalam konteks ini? Harap clarifikasi untuk kata-kata tersebut."}
+{"uji_id": "nt-test-1683", "hipotesis": "1. bilik 209, sudah lama toiletnya rusak dan plafonnya berlubang. 2. air minum ada di lantai 1 kolong jalan dan sahaja di belakang toilet. plafonnya harus diperbaiki dan perlu diperiksa."}
+{"uji_id": "nt-test-0015", "hipotesis": "Selama hidup di kota besar mereka mengurus angka begu. Selama di rumah mereka sering bermain, bergembira, dan sering menonton #memetwit."}
+{"uji_id": "nt-test-1451", "hipotesis": "Di kantor baru ditantang membuat marketing plan untuk produk baru bersama bank biru. Namun, karena strateginnya, akhirnya dia memutuskan resign dari kantor tersebut."}
+{"uji_id": "nt-test-1109", "hipotesis": "[USERNAME] mengajar matematika dan fisika. Kimia juga. Dia mulai belajar itu ketika remaja. Sering berbicara dengan teman-temannya tentang topik-topik tersebut. HMMMMMMM. Masa lalu."}
+{"uji_id": "nt-test-0059", "hipotesis": "#OldMoneyTidakMerasakanPanikSaatBarangDibagikanGuruPadaAnakDidik.MerekaRelaDanSeringKeKantinUntukKeWCNamunAlhasilMerekaTidakMemilikiUangAlhasilTergantungTuOrangLain."}
+{"uji_id": "nt-test-1975", "hipotesis": "Tidak ada data pasti tentang negara yang transparan ini hanya angka-angka saja. Karena sulit untuk dipercaya oleh orang-orang miskin. Jurnal di sana sering kali tidak objektif. Karena sulit untuk mempercayai laporan-laporannya, bang!"}
+{"uji_id": "nt-test-0736", "hipotesis": "Masuk dengan harga cukup murah, kita bisa mendapatkan kamar dengan AC dan sekaligus ruang tamu yang sebelumnya digunakan sebagai tempat cat diubah menjadi meja makan. Pelayanan sana cukup ramah meskipun sedikit sederhana."}
+{"uji_id": "nt-test-0195", "hipotesis": "Masih banyak lagi yang bisa ditambahkan pada akun Indosat [USERNAME], handphone sudah tidak bisa menambahkan lagi karena diblokir oleh bapak/ibu karena tweet yang terlalu banyak SMS-nya pada tanggal 11 bulan lalu."}
+{"uji_id": "nt-test-1268", "hipotesis": "Secara umum, bagaimana cara menulis atau mengungkapkan ide? Cobalah, apakah alasannya, Ketika kita merasa tidak nyaman dengan sesuatu, Kadang-kadang kita mengekspresikannya melalui perasaan dan pikiran kita."}
+{"uji_id": "nt-test-0637", "hipotesis": "Tidak seperti sebelumnya, ini adalah perubahan untuk lebih baik. Harapannya seperti ini, semua perbedaan dapat menjadi transisi yang positif. Misalnya, seperti perubahan dalam jobdesk. Selama bulan puasa, kita berada dalam kondisi tidak adil."}
+{"uji_id": "nt-test-0301", "hipotesis": "Tung mansai dang puas !!! ... Mertua mertua tu orang tua, dang sopan laho pelayanannya, ruang layanan dang kamar BAU, mamaksa mengganti kamar laho pindah kamar. Terkecewa ... !!!"}
+{"uji_id": "nt-test-0449", "hipotesis": "Tetapi, obatnya sudah tersedia sekarang, cukup sprayskan saja di dirimu.. rasanya itu, kamu akan merasa lebih segar. terutama, setelah menggunakan yang terbaik."}
+{"uji_id": "nt-test-0800", "hipotesis": "Di Instagram gemar banget, handphone saja punya, mantap juga mainin, mengubah status menjadi buruan, tapi kalau mau serius, harus fokus pada satu topik saja."}
+{"uji_id": "nt-test-0910", "hipotesis": "Tidak semua orang dapat menangis seperti itu...saya hanya menutup mata saja...kemudian saya tidur...teruslah tidur hingga pagi...TT TT TT [URL]"}
+{"uji_id": "nt-test-0012", "hipotesis": "Baru persiapan yang cukup untuk ketika harus menghadapi tantangan, 6 bulan dari latihan militer. Naik outbound pun sering membuat hati berdebar."}
+{"uji_id": "nt-test-0693", "hipotesis": "Kedua belas pegawai di lingkungan Kementerian Perhubungan tersebut terlibat dalam insiden kecelakaan, dan api pun meledak, menewaskan beberapa rekan kami."}
+{"uji_id": "nt-test-0812", "hipotesis": "Pertama-tama, mereka merencanakan langkah-langkah di ingatan mereka, kemudian melaksanakannya dengan baik! Hape... sejarahnya na ngecewindak. Sungguh heran orang bisa merencanakan dengan baik tanpa kesalahan. Lagi pula, siapa yang sempurna?"}
+{"uji_id": "nt-test-0057", "hipotesis": "kamar tersebut argananya... pencahayaannya ni parkarejona tung mansai denggan. adong aek las. alai sipre kuning sude andukna coklat bau dang koring dope. dang adong  lift alai ahu menak disan"}
+{"uji_id": "nt-test-0647", "hipotesis": "ruangan tersebut kosong, hanya ada lubang untuk memasukkan dan mengambil barang. meja yang kosong menandakan keheningan. ruangan itu sendiri memberikan rasa tenang."}
+{"uji_id": "nt-test-1867", "hipotesis": "Saat sudah lulus dua gelombang sarjana, saya pun pergi tanpa meninggalkan aspirasi belajar. Jika berbicara, akan menambah dosa dan mengurangi rohani yang sehat. Hatinya sudah tidak lagi seperti orang biasa."}
+{"uji_id": "nt-test-1891", "hipotesis": "food test rendang bebek lulusss, sian amang Uyul tokke kuliner napunasa Warung Kopi [USERNAME] ... Alhamdulillah lulus uji, i dokkon cociiiks, dan i anjurhon langsung dimasak."}
+{"uji_id": "nt-test-0401", "hipotesis": "Teman-teman telah lakukan perjalanan dan telah merasakan penderitaan hati, ibu. (Anonim)"}
+{"uji_id": "nt-test-1701", "hipotesis": "Dia akan selalu menyertai, meski dia telah pergi dulu, di mana pun dia berada pasti akan menyertai, meski dia telah berada dulu, dia akan selalu menyertai."}
+{"uji_id": "nt-test-1000", "hipotesis": "Dia menghabiskan waktu menulis novel, menonton video tambahan, antusias membaca isi buku Sunsi Al-Qur'an. Akhirnya apa yang dia capai? ......... I M A. [URL]"}
+{"uji_id": "nt-test-0241", "hipotesis": "Namun, saya cukup yakin bisa melakukan itu... tetapi dengan hati-hati, semoga berhasil dengan usaha ini."}
+{"uji_id": "nt-test-0058", "hipotesis": "Foto profilnya agak kurang oke, karena foto itu buram, terlihat sedikit kabur di bagian atas dan hampir tak jelas di bagian bawah... di kirim via WhatsApp."}
+{"uji_id": "nt-test-1405", "hipotesis": "Wah na na marnipi dra au ate.../apakah masalahnya atau alasanmu tiba-tiba menarik lenganku di meja/huhutkan dagumu/saya sayang tapi kenapa kamu menolak?Ayo kita bicara tentang ini."}
+{"uji_id": "nt-test-1878", "hipotesis": "[USERNAME] Hanya orang itu sendiri yang dapat menentukan. Dia harus mencari solusi sendiri tanpa bantuan lain. Memang benar begitu."}
+{"uji_id": "nt-test-1824", "hipotesis": "Kamar mandi dan tempat bersih-bersih, di kamar mandi tersebut ada shower yang sering digunakan untuk mandi. Biasanya pekerja rumah tangga yang mengurusnya."}
+{"uji_id": "nt-test-1042", "hipotesis": "Beberapa orang enggan berbagi pendapat di media sosial. Masalahnya, mereka takut dikritik, takut mendapat balasan negatif. Namun, jika diam..."}
+{"uji_id": "nt-test-1924", "hipotesis": "Penjual tersebut baik, kamarnya rapi dan bersih, serta adanya ventilasi yang cukup untuk menjaga kesegaran dan kelembaban udara...."}
+{"uji_id": "nt-test-0174", "hipotesis": "Ninna menunggu selama 6 bulan baru dapat membeli mobil tersebut, laju kreditnya. Jika di luar kota, biayanya lebih mahal. Biasanya saat lebaran juga habis kuotanya."}
+{"uji_id": "nt-test-0595", "hipotesis": "Mi tidak keras ma, pas kuliti ma, dan sega, lamot di ngatngat, ale halus di giling, pas masak ma, dan ma gila, pas jumpa di ari naso pas."}
+{"uji_id": "nt-test-1277", "hipotesis": "lebih merasa tidak terlihat, sehingga merasa tidak nyata. Tapi tetap ada dalam diri dan berwujud."}
+{"uji_id": "nt-test-1272", "hipotesis": "Karena saya doyan dibaca dan karena iman saya tidak mudah berubah. Tetapi masih banyak hal lain yang ditulis. Dan apa yang membuat Anda tertarik? Mungkin itu."}
+{"uji_id": "nt-test-0400", "hipotesis": "Ada juga yang ditegur oleh orangtua untuk S2, namun setelah siap menghadapinya, apakah dia sudah dapat lulus S2? Sampai kapan orangtua akan menunggu hingga dia lulus S2?"}
+{"uji_id": "nt-test-1034", "hipotesis": "Tahun 2018 tanggal 10 jam 07:06 WIB, mereka bersosialisasi sambil sarapan. Sarapan enak di TBS di Kelapa Gading #Liburan#Sarapan#Enak#PizzaHut#Juanda#Jakarta#Indonesia#Selasa"}
+{"uji_id": "nt-test-0898", "hipotesis": "Maafkan saya, selama bulan puasa - sebagian besar waktu digunakan untuk berdoa di bulan puasa. Namun saya sabar setiap tahun dengan keadaan ini di tengah keramaian shalat."}
+{"uji_id": "nt-test-1608", "hipotesis": "Jika diajak masuk, duduk saja. Dapat DB songonon: kalaupun nggak niatin aja diambil, nggak apa-apa lah, anna namanya dan nakkin jadi i wkwkwk biasane wkwkwk sidung i lomom ma"}
+{"uji_id": "nt-test-0732", "hipotesis": "USERNAME Masih, mau biar tidak malas balas pesannya. Saya mau mendaftar untuk Teknik alian loh kimia alai dan masuk. Untungnya karena ada opsi Farmasi, fisika dan lain-lain tersedia."}
+{"uji_id": "nt-test-0127", "hipotesis": "Apakah korelasi antara bulan puasa dan parkiran kosong? Terkadang saat bisa parkir, emosi menjadi lebih baik.. jadi banyak orang membawa motornya, parkiran kosong banget #LYFE"}
+{"uji_id": "nt-test-0991", "hipotesis": "Namun, dia sudah mandeg karena sudah lama tidak berolahraga, sehingga tubuhnya lemah, dan hanya dengan hati-hati dia mengikuti latihan tersebut."}
+{"uji_id": "nt-test-1030", "hipotesis": "Hallet na burju ima hallet na torus pansingot hon ho jala dang hea manonggahi ho, alai dohot lambok ni roha dohot holong ni roha huhut mengel suping dohot manatap simalolong mu, hati yang tenang dan damai akan lebih mudah menerima kebenaran dan pandangan baru."}
+{"uji_id": "nt-test-1736", "hipotesis": "Ternyata untuk menulis skripsi, lamma baru menyadari bahwa itu adalah salah satu bagian yang sulit untuk ditulis, sehingga dibandingkan dengan yang lainnya."}
+{"uji_id": "nt-test-1259", "hipotesis": "Bostra mayoritas caleg ada di tempat nongkrong masyarakat seperti cafe/restoran mewah dan kafe di kota."}
+{"uji_id": "nt-test-0551", "hipotesis": "Terkait topik tersebut, dianggap lebih longgar dan toleran, namun seiring waktu mulai disadari dan dianggap penting oleh banyak orang lainnya. KHANMAEN [URL]"}
+{"uji_id": "nt-test-1753", "hipotesis": "Pendapat sudah terbentuk tidak mudah untuk diubah. Seringkali perasaan kuat membuat seseorang sulit untuk menerima pendapat baru dari orang lain, terutama anak-anak di usia dini. Namun, perasaan itu dapat berubah."}
+{"uji_id": "nt-test-1094", "hipotesis": "Anda adong saotik mengejar cita-cita tanpa mempertimbangkan realitas, wipi adong lao mempertahankannya. Siallahi, adong hanya dua, lao dapatkan dengan usaha."}
+{"uji_id": "nt-test-0968", "hipotesis": "Yang lebih kaya perlahan, sering dihina oleh orang lain karena cara mereka berbicara, keras, dan mudah marah. Orangtuanya tidak setuju dengan hal itu."}
+{"uji_id": "nt-test-1337", "hipotesis": "Dia memiliki hati lembut, tapi kadang tidak mudah untuk mengerti dia. Jika begitu, janganlah memblokir dia tanpa komunikasi terlebih dahulu."}
+{"uji_id": "nt-test-0099", "hipotesis": "Saat aku baru pertama kali datang, orang-orang heran mengapa aku datang, namun setelah aku datang, apa yang aku cari di sini? akhirnya aku merasa damai dan tenang."}
+{"uji_id": "nt-test-0094", "hipotesis": "Berbagai macam. Ada kamar mandi yang toiletnya masih menggunakan flash tapi tidak kotor lagi karena sudah dibersihkan. Depositnya 50 ribu rupiah untuk penggunaan."}
+{"uji_id": "nt-test-0038", "hipotesis": "Umur tidak menjadi kriteria terbaik untuk lucu, tetapi tampan dan lucu. Jadi definisi lucu tidak selalu tentang tampan. Coba pahami ini..."}
+{"uji_id": "nt-test-0621", "hipotesis": "Otto [USERNAME] keluar dari ajang debat secara spontan, pada sesi debat yang dilakukan oleh Anis sering kali mendukung kubu Prabowo dan menyangkal tuduhan tersebut dari [URL]."}
+{"uji_id": "nt-test-0399", "hipotesis": "Harus sadar dan ikhlas memiliki apa yang kita miliki tanpa terlalu yakin akan hasil yang pasti. Jangan usaha maximal hanya untuk mendapatkan keberhasilan yang instan."}
+{"uji_id": "nt-test-0789", "hipotesis": "Muliase ma angka na nungga ro sparing football sadarion. #bersatuindonesia #bersama #uici #bersatuindramayu #babadindonesiachapterindramayu @KabupatenIndramayu [URL]"}
+{"uji_id": "nt-test-0205", "hipotesis": "Anak-anak seringkali memberikan ulasan tanpa menunggu seminggu dan bahkan mencantumkan URL :(( sambil mempertimbangkan match atau no match diKinders #RecehkanTwitter"}
+{"uji_id": "nt-test-0645", "hipotesis": "Santiago pun mendapatkan keuntungan yang signifikan... setelah itu atau ketika panitia memutuskan untuk membayar, agianya ada beberapa pola hidup yang dia lakukan selama lamanya lamun untung tersebut [URL]"}
+{"uji_id": "nt-test-0505", "hipotesis": "Dia mencoba mengingat apa yang baru saja disampaikan. Namun... beberapa suara mulai mengganggu... freestyle-freestyle-kamfreestyle, nada mengejek, dia terdengar pesan singkat."}
+{"uji_id": "nt-test-1260", "hipotesis": "Luat na pe denggan, ale parabotan na songon ac dang denggan boccor, aek na las pe dang adong guna  na  na tolu ari on au marborngin dang ma hea di pais, terhirim rohaku - Luat na pe denggan, ale parabotan na songon ac dang denggan boccor, aek na las pe dang adong guna  na  na tolu ari on au marborngin dang ma hea di pais, terhirim rohaku."}
+{"uji_id": "nt-test-1589", "hipotesis": "Mempunyai kepribadian ideal di Islam malah sering kali dianggap tidak pantas. Kenapa? karena beberapa nilai dasar dirinya sendiri tidak sesuai dengan standar calon."}
+{"uji_id": "nt-test-0533", "hipotesis": "Dan mereka mendapatkan koalisi dengan syarat mendapatkan jatah menteri. ~ sehingga partai-partai yang awalnya tidak koalisi harus menyerah terhadap jumlah menteri."}
+{"uji_id": "nt-test-0934", "hipotesis": "Wahana tersebut sudah lama hilang, namun ingatan kakek menunjukkan rute perjalanan, Hakak (baoa-baoa) menggambarkan jalur, sementara orang lain mengingat jalan lain."}
+{"uji_id": "nt-test-0750", "hipotesis": "Jangan lupa pilihannyamu kalau nanti menyesal. Jangan lupa pilihannyamu kalau nanti ingin positif di setiap momennya saja harus selalu bersemangat hehe"}
+{"uji_id": "nt-test-0783", "hipotesis": "Namun, wajahmu berbeda saat melihat foto tersebut, mungkin karena rasa malu saat menatap tubuh sendiri yang kurus itu. #ARMYSelcaDay [USERNAME]"}
+{"uji_id": "nt-test-1361", "hipotesis": "Aliran ini mudah dipahami tetapi tidak seperti berbicara langsung, tapi bukan karena tidak mampu, bahkan lebih [URL]"}
+{"uji_id": "nt-test-1801", "hipotesis": "Accit sis [USERNAME], leptophu perlu dilakukan update atau restart karena terjadi masalah dengan layar hitam. Restore perlu dilakukan agar bisa login kembali."}
+{"uji_id": "nt-test-0561", "hipotesis": "Diharapkan agar saling mengasihi dan tidak pernah menghitung keburukan satu sama lainnya, karena jika saling menghitung keburukan maka akan hilang cinta antar sesama."}
+{"uji_id": "nt-test-0564", "hipotesis": "USERNAME sudah login! Selamat datang. #Rakyat_nya #Pendukung . Nasib #Indonesia_dan_anggota_tokoh #elit_serta #Partai_alihnya_didukung_Rakyat"}
+{"uji_id": "nt-test-1884", "hipotesis": "Kamar tidur anak-anak masih baik untuk kondensasi dan WiFi, tetapi sinyal telepon di area hotel baik saja sementara bagian lainnya masih oke."}
+{"uji_id": "nt-test-1628", "hipotesis": "Ketika pertama memiliki HP baru di 2015? Pas! #andigan_cool_dengan_Lumia_pasti_mahal_3_HP_baru. Sudah_pernah_mengalaminya>> http://kplg.co/C5fA Beta #MakeltHappen nipimu!"}
+{"uji_id": "nt-test-0385", "hipotesis": "Karena niat awal berbelanja online, namun sering mengalami overload sistem sehingga pasti akan lemah hati batal dari tiap kali akan memesan."}
+{"uji_id": "nt-test-0236", "hipotesis": "10 hari terakhir Ramadhan, aku ingin mengucapkan selamat Lailatul Qadar, semoga kamu menemukan kebaikan dalam setiap doamu..."}
+{"uji_id": "nt-test-0446", "hipotesis": "Masalahnya adalah karena sulit untuk diatasi tanpa bantuan."}
+{"uji_id": "nt-test-0172", "hipotesis": "Katherine Sofia merasakan kebebasan untuk beristirahat minimal seminggu untuk dirinya sendiri. dia membutuhkan waktu santai untuk dirinya."}
+{"uji_id": "nt-test-0116", "hipotesis": "Apakah unggahannya radikalisme? Ada orang yang menafsirkannya sebagai kriminalisasi ajaran Islam, yaitu radikalisme Sekuler."}
+{"uji_id": "nt-test-1614", "hipotesis": "Tidak ada retweet itu angka acak saja. Cukup begitu. Setelah itu, di wayang itu didengar suara halak aju tidak menutup simalolong."}
+{"uji_id": "nt-test-1553", "hipotesis": "Masalah antara logika dan realitas. Logika mengatakan \"Jika A maka B\" namun realitas mengatakan \"Tidak selalu demikian\"."}
+{"uji_id": "nt-test-1412", "hipotesis": "Tabrakan di Toljago KM32 antara motor tiga roda hitam cokelat dengan penumpang dua orang, satu laki-laki berpakaian merah dan satu lagi wanita. via: @skylersaurusrex"}
+{"uji_id": "nt-test-0325", "hipotesis": "Tahi nian holan manitip bamer molo pajuppang panggadis sayur. Alai ala ia manuhor sian pasar sahalian ma titip na asing.. Hahaha bagus-baguslah kau."}
+{"uji_id": "nt-test-0371", "hipotesis": "Agar tidak bosan. Karena jika ingin menambah saluran channel TV, orang tersebut bisa mencari yang lain namun harus sesuai dengan kebutuhan."}
+{"uji_id": "nt-test-1022", "hipotesis": "Siswa kelas 4 SD: masih rendah diri sambil menonton video musik + lagu di YouTube. Siswa kelas 4 SD: sudah mulai menulis nama lengkap dan alamat. Ini adalah pinjaman buku tersebut."}
+{"uji_id": "nt-test-1649", "hipotesis": "yang telah kembali dari kantor, yang telah kembali dari kuliah, namun masih rusak ujung-ujungnya pada TA ??? qaqa loja ro?"}
+{"uji_id": "nt-test-0069", "hipotesis": "[USERNAME] telah mengajukan permohonan ini untuk dana ini disetujui pada tanggal 28/05. alih-alih, dia mendapatkan voucher gift card. detail lebih lanjut dapat dilihat di email dan di [URL]."}
+{"uji_id": "nt-test-0794", "hipotesis": "Selama liburan Lebaran, biasanya tamu datang untuk makan bersama saat mereka kembali dari kota Okey ke rumah di Giliran."}
+{"uji_id": "nt-test-1802", "hipotesis": "Tapi, senang sekali mendapatkan voucher pizza Hut. [USERNAME] Yeayy. Voucher gratis ini benar-benar membantu [USERNAME]. Senang sekali."}
+{"uji_id": "nt-test-1228", "hipotesis": "Terkadang suka makan di motor, terkadang tidak ada noda di joknya, jadi meminta tips tentang membersihkan jok mobil untuk menghindari noda."}
+{"uji_id": "nt-test-0715", "hipotesis": "Dia tersenyum ketika melihat kakaknya :\") dan tertawa saat mendengar cerita lucu yang baru peka."}
+{"uji_id": "nt-test-0805", "hipotesis": "Mendengar bunyi ledakan bom itu, semua orang menjadi takut dan bergegas mencari tempat aman."}
+{"uji_id": "nt-test-1011", "hipotesis": "Sebagian besar tidak tampak sakit, sehingga tampak sehat dan bugar tanpa assist: http://goo.gl/UKa0Er Nama saya Chelsea dari sini."}
+{"uji_id": "nt-test-0523", "hipotesis": "Cinta sejati tidak berarti hanya soal fisik, cinta lebih dalam, tidak hanya tentang keinginan semata."}
+{"uji_id": "nt-test-1762", "hipotesis": "Kamar ini bagus, karena hangat dan mudah menemukan arah kiblat untuk memudahkan Muslim melakukan sholat. Layanan baik... terima kasih banyak."}
+{"uji_id": "nt-test-0798", "hipotesis": "Username Username memesan dan memesan lagi, tapi saya malas untuk membeli bentuknya seperti itu hahahaha, tapi akhirnya saya membeli sabun marmer itu."}
+{"uji_id": "nt-test-1153", "hipotesis": "Aku sudah menulis ulasan film tersebut, intinya isi ulasan ini tentang Dewi Persik hehehe, soalnya bagus banget dan aku rekomendasikan, atau klik [URL]"}
+{"uji_id": "nt-test-1973", "hipotesis": "[USERNAME] [USERNAME] itu sendiri jomblo. Tidak pernah dibooto Oce Dn Dp 0% sama sekali, karena kata dia sendiri, dan dia orang yang rasional."}
+{"uji_id": "nt-test-1882", "hipotesis": "[USERNAME] [USERNAME] merasa sedih, ingin meminta maaf pada ibu karena terlalu cepat menyerah. benar saja, mungkin harus pergi ke dokter kali ini dan tidak seperti sebelumnya begitu saja."}
+{"uji_id": "nt-test-0871", "hipotesis": "CUTE HIAN. Senang hati melihat rohanku diterima, gemas. Sudah lama tidak seperti ini, hebat! Tapi jangan lupa bagi-bagi kebahagiaan ini, terima kasih terima kasih."}
+{"uji_id": "nt-test-0706", "hipotesis": "Syahrini kembali memenuhi panggilan menjadi penyidik Bareskrim: http://tinyurl.com/l6hdqcn"}
+{"uji_id": "nt-test-1354", "hipotesis": "30) Selain Warren Buffett, orang biasa di rumahnya tetap biasa saja, namun kendaraannya yang mewah menjadikannya tycoon kaya raya."}
+{"uji_id": "nt-test-1993", "hipotesis": "Salah satu tujuan shalat duha, karena memperoleh rezeki. Ketika demikian, ya!!! Ketika demikian baik, selalu ya!!! Semoga berkah..."}
+{"uji_id": "nt-test-0102", "hipotesis": "Sementara itu, mereka mencoba memperbaiki komunikasinya dengan fokus pada empat jalan yang harus dilalui agar dapat lebih beradaptasi dengan lingkungan baru."}
+{"uji_id": "nt-test-1770", "hipotesis": "Pastilah doa kamu akan terdengar, saya akan selalu mendengarkanmu, hatiku terbuka untukmu......"}
+{"uji_id": "nt-test-1045", "hipotesis": "Jadi nattuari, hu rekap, ale ima nungga hubahen usaha karejo ale ima zero samsek... Presentasi pukul 16.00, ale au ipe puas pais pukul 13:23."}
+{"uji_id": "nt-test-0090", "hipotesis": "Nangroe Aceh Darussalam memang Khusus ditandai dengan salam hormat kepada keluarga Teuku Markam dari hati rakyat Indonesia [URL]"}
+{"uji_id": "nt-test-1201", "hipotesis": "[USERNAME] [USERNAME] [USERNAME][USERNAME] gagal di dudukkan sebagai mahasiswa baru atau ditransfer ke prodi lain? Mungkin jawabannya tergantung pada situasi."}
+{"uji_id": "nt-test-1617", "hipotesis": "Anggo satingki di kantor ghaib Jakarta! Borngin pada jam 23.30 WIB di channel @whatsonANTV!"}
+{"uji_id": "nt-test-0024", "hipotesis": "Dokter ahli operasi dengan cepat dan akurat, meskipun lupa membawa tinggi badan pasien saat pertama kali bertemu, kuliah, dan praktikum."}
+{"uji_id": "nt-test-0483", "hipotesis": "Jokowi Uji Coba Kader PDIP dengan Tes Urine di Pusat Hiburan Siborong-Borong"}
+{"uji_id": "nt-test-1431", "hipotesis": "Tidak semua hatiku titipkan pada kamu. Ada bagian hatiku yang tetap sendiri. Itu bagaimana perasaanku, begitu saja."}
+{"uji_id": "nt-test-0653", "hipotesis": "Saya sering lupa 2 arah mobil, disimpan lagi di laundry, dari 2 unit disimpan lagi jompo karena lupa. Harusnya dijaga."}
+{"uji_id": "nt-test-1220", "hipotesis": "Apakah cinta sendiri yang ditampilkan dalam lagu \"Cinta Sendirian\" oleh Syahrini & Maruli?"}
+{"uji_id": "nt-test-0628", "hipotesis": "Mereka sadar bahwa Pak Seno dan Bu Tutu menerima mereka dengan ikhlas, dan merasa ikhlas juga saat diterima oleh mereka."}
+{"uji_id": "nt-test-1987", "hipotesis": "Ada kebaikan yang timbul saat kita mengeksplorasi imajinasi kita di media sosial, dan mendapatkan likes/retweets di aplikasi hp tersebut."}
+{"uji_id": "nt-test-1921", "hipotesis": "Tidak memiliki kemampuan untuk bekerja atau belajar dengan baik karena masih sangat muda dan belum paham banyak hal tentang hidup."}
+{"uji_id": "nt-test-1333", "hipotesis": "benda paling mengganggu waktu ditonton sobatnya menonton TV top up keluar iklan lagu \"UTC\" saja doang tidak sesuai dengan apa yang diharapkan"}
+{"uji_id": "nt-test-1331", "hipotesis": "Terima kasih Allah SWT telah berjamaah dzuhur di Masjid Seribu Tiang ontel, uniknya banyaknya tiang dan dindingnya, subhanallah."}
+{"uji_id": "nt-test-0366", "hipotesis": "Sedikit jauhnya, tapi saya senang :') semoga Tuhan... saya peka dengan itu, terus berdoa. Harapan itu di dalam hati saya."}
+{"uji_id": "nt-test-1348", "hipotesis": "Pada pukul 06.20, terjadi kecelakaan mobil Box B 9233 KU di Bunderan Air Mancur BSD, Serpong Tangsel. Hati-hati saat melewati lokasi tersebut. | (P. Wahyudin)"}
+{"uji_id": "nt-test-1765", "hipotesis": "Terima kasih ya Tuhan atas kesempatan ini untuk memperbaiki diri, teruskanlah perjuangan kita dalam memperbaiki roh kita #menurutaunian"}
+{"uji_id": "nt-test-1226", "hipotesis": "Mulai belajar, sebentar lagi tidur, mandi, makan. Segera pergi ke sekolah!!! [pic] ?"}
+{"uji_id": "nt-test-1219", "hipotesis": "Rasa dingin dari AC tersebut ditambah dengan adanya ventilasi ini membuatku merasa lebih sejuk dan nyaman sehingga membuatku merasa lebih tenang."}
+{"uji_id": "nt-test-0046", "hipotesis": "kalau nanti kamu chat, tetapi umumnya sendiri, karena gangguan sosial sering membuat kesal ngechat di grup saja. hahahaah"}
+{"uji_id": "nt-test-0396", "hipotesis": "Mereka sering sakit dan kurang sehat sehingga sulit melakukan aktivitas sehari-hari."}
+{"uji_id": "nt-test-0687", "hipotesis": "Tetapi, kadang-kadang membuat saya senang, sebelumnya saya tidak pernah merasa begitu, sampai akhirnya saya mulai merasa lebih baik dan bahagia."}
+{"uji_id": "nt-test-1482", "hipotesis": "Syahrini Mendapatkan Izin untuk Mengambil Gambar Video Klip di Tempat Umum: Diperlukan hanya 6 persyaratan. Sude torus naeng? http://dlvr.it/8g2FDQ"}
+{"uji_id": "nt-test-1813", "hipotesis": "hadiah ulang tahun AXA..?? apakah yang dimaksud dengan hadiah kantor ini untuk ibu..? (dengan Petronella di @kotakasablanka) [foto] ?"}
+{"uji_id": "nt-test-0345", "hipotesis": "Pak [USERNAME] sudah dipastikan akan kembali berpartisipasi dalam pilpres 2019,... semoga proses demokrasi ini dapat dilakukan dengan tenang dan aman."}
+{"uji_id": "nt-test-0454", "hipotesis": "Halo, Liburan Idul Fitri....Karena terus kerja, Lebaran pe ON terus liburan Sikkola nungga naeng sah abis. #kapanliburanlagi #kerjaterus"}
+{"uji_id": "nt-test-1794", "hipotesis": "Inisiatif tersebut memfasilitasi akses air yang baik, layanan umum, dan snack sambil memperhatikan kebutuhan tambahan. Terlihat lebih baik dari biasanya."}
+{"uji_id": "nt-test-0027", "hipotesis": "[USERNAME] [USERNAME] berarti Yusufk09 sering menonton penyanyi dangdut yang memiliki gerakan dan penampilan seksi serta suara yang merdu."}
+{"uji_id": "nt-test-0079", "hipotesis": "Sering kirim pesan di WhatsApp jadi risih.. sebaiknya kurangi. kalau sudah sadar itu bukan baik, berhentilah. teruskan, ya."}
+{"uji_id": "nt-test-0316", "hipotesis": "Otak koruptor jelas dan mungkin dipikirkan seperti orang gila artha, sementara ide positifnya jarang dipikirkan."}
+{"uji_id": "nt-test-0162", "hipotesis": "[USERNAME] Saya sedih banget. Melihatnya membuat saya trisula dan tidak ada rasa senang sama sekali, malah saya merasa sangat sedih."}
+{"uji_id": "nt-test-0496", "hipotesis": "Halong imanya anugerah Nabalga diwujudkan dalam membawa kebahagiaan yang sincera dan tulus bagi Muna."}
+{"uji_id": "nt-test-0634", "hipotesis": "Sakit dan demam, tetapi masih ingin makan es krim di malam hari. Meski sakit flu bersin-bersin, anak kampus tetap keluar kampus malam itu."}
+{"uji_id": "nt-test-0199", "hipotesis": "Adong habiaron tu anak baru na nungga di tadikkon bayoa na, di bogasan roha Marahua ma numaen imana i he ? Dohot ise ? Jagai imana Debata."}
+{"uji_id": "nt-test-1180", "hipotesis": "Tak ada kunci yang tepat untuk pintu mandi. tampak sedikit rusak. karena itu tidak cocok lagi."}
+{"uji_id": "nt-test-0618", "hipotesis": "Menonton 4 episode saja... 25 menit untuk menonton satu episode dan untuk berdiskusi setelahnya membutuhkan waktu.."}
+{"uji_id": "nt-test-0696", "hipotesis": "[USERNAME] sedang belajar membuat sabun, hahahaha hasilnya seperti apa ya, mungkin hasilnya lucu-lucunya di YouTube"}
+{"uji_id": "nt-test-0350", "hipotesis": "Ketua PDIP Gianyar, Bali dikatakan telah dpecat: Pencapecatan tersebut, Purbaya dilakukan menjelang Pilkada i...."}
+{"uji_id": "nt-test-0297", "hipotesis": "Anda bertanya atau menyalin tautan berita, bukan kalimat Batak Toba yang perlu diterjemahkan. Jika Anda ingin terjemahan dari teks berita tersebut, silakan berikan teksnya dalam bahasa Batak Toba."}
+{"uji_id": "nt-test-1227", "hipotesis": "Tidak ada tempat untuk sholat, jadi tidak ada masjid. Rakyatnya masih beribadah di rumah. Dan karena itu, mereka masih membawa jenazah."}
+{"uji_id": "nt-test-0314", "hipotesis": "Terima kasih khusus untukmu... dianggap sebagai teman sejati, selalu mendukung dan menghargai aku setiap saat."}
+{"uji_id": "nt-test-1110", "hipotesis": "Namun, terkadang karena sibuk/terganggu, hasilnya malah menjadi semakin buruk."}
+{"uji_id": "nt-test-1477", "hipotesis": ":M.Natsir Demokrat @M_NatsirU   :\"\"@republikaonline :Syafli Maarif : sudah mengaku tidak hadiri haputusan ni Presiden htt....http://goo.gl/eHpuER"}
+{"uji_id": "nt-test-1132", "hipotesis": "Karena itu, pasti dia akan mendapatkan penghargaan | tentu saja, karena dia telah berkontribusi banyak. #Konyol"}
+{"uji_id": "nt-test-1121", "hipotesis": "[ldm] dia tidak bisa mandok tu karena toxic? Mabiar nanti pergi berburu ke hutan. #TeenChoiceFandom #BTSARMY [USERNAME]"}
+{"uji_id": "nt-test-1197", "hipotesis": "Semua orang tua dan anak-anak serta orang-orang lainnya harus ingatlah untuk selalu berdoa kepada Tuhan setiap hari agar... ini adalah perasaan."}
+{"uji_id": "nt-test-0681", "hipotesis": "On ma goar na sahalak, dang habaranion mandok nai ?? Sahalak sian syahrini & Maruli ?"}
+{"uji_id": "nt-test-0047", "hipotesis": "Karena tidak tahu harus membantunya apa. kamu mau membantunya apa? sama seperti dia yang butuh bantuan."}
+{"uji_id": "nt-test-0920", "hipotesis": "Mengapa ada risiko tersebut? Dan terkait dengan Syahrini (bersama Fitria, Kaneka Putri, dan 2 orang lainnya)?"}
+{"uji_id": "nt-test-1185", "hipotesis": "Apakah [USERNAME] telah melanggar kebijakan privasi [URL] tentang penggunaan media tersebut?"}
+{"uji_id": "nt-test-1177", "hipotesis": "Ini buat orang yang ingin sukses, takut gagal, ragu, dan takut mengambil risiko."}
+{"uji_id": "nt-test-0806", "hipotesis": "身段缓慢，步伐不快，但内心却很快，因此身体变得苗条。"}
+{"uji_id": "nt-test-0944", "hipotesis": "Jadwal Gok Sampe Ndang Sanga Maradi, Syahrini: Saya Gabe Borua Alogo: Sosok Syahrini boi dohon on..."}
+{"uji_id": "nt-test-0995", "hipotesis": "Anda diminum teh tikki agar membantu penyerapan zat besi dari makanan. Ini dapat mencegah anemia pada Anda."}
+{"uji_id": "nt-test-0695", "hipotesis": "Rumor tersebut berupa umpatan saja, sehingga partai oposisi itu mencoba merusak citra Presiden Ir. H. Joko Widodo. Dan jelaslah..."}
+{"uji_id": "nt-test-0233", "hipotesis": "Hmm ya benar... tapi sudahlah nama saja. Oh, sungguh! Tapi sebaiknya kita jangan terlalu memikirkannya. Ingatlah dirimu sendiri!"}
+{"uji_id": "nt-test-1657", "hipotesis": "USERNAME USERNAME USERNAME USERNAME USERNAME Sudah kan... ? Benar begitu langit gelap sudah begini malamnya!"}
+{"uji_id": "nt-test-1847", "hipotesis": "[USERNAME] [USERNAME] [USERNAME] [USERNAME] [USERNAME] sudah lama tidak beraktifitas di sian huta-huta tersebut, hilang #Peak212"}
+{"uji_id": "nt-test-0895", "hipotesis": "Karena mereka tidak yakin, perawatannya sering tertunda dalam riwayat BPJS. Sebaiknya diproses saat sedang sehat untuk mentalnya."}
+{"uji_id": "nt-test-0081", "hipotesis": "Kasarnya ini adalah lagu torus, bukan lagu musik ni Shinhwa. Gabe tidak serius wkwk xD. Ini untuk otoreaksi xD [URL]"}
+{"uji_id": "nt-test-1392", "hipotesis": "@Bellaudya829 mengaku sakit bolos sekolah saat geleng dohat tiki SD karena sempat dan sudah mabuk. @SarahSechan_NET"}
+{"uji_id": "nt-test-1795", "hipotesis": "Oke sih, berbagai fasilitas lainnya yang ada di sini sudah bisa digunakan sekarang, termasuk dispenser air dan toilet."}
+{"uji_id": "nt-test-1673", "hipotesis": "Setuju Pak karena jika korupsi maka akan lebih buruk di semua aspek hidup.[URL]"}
+{"uji_id": "nt-test-0098", "hipotesis": "Dalam masa sulit, kita harus tetap optimis dan percaya bahwa suatu saat nanti akan datang masa mudah."}
+{"uji_id": "nt-test-1699", "hipotesis": "Apakah niatnya pekerjaan ini lebih suka iPhone atau Samsung saja untuk fotografi di dekat kota?"}
+{"uji_id": "nt-test-0312", "hipotesis": "Hai rakyat! Saya pengelola media online ini. Silakan dan jangan melanggar aturan saya."}
+{"uji_id": "nt-test-1968", "hipotesis": "Dia kelihatan seperti mobil di jalanan yang sedang tertutup mata sebelum tabrakan terjadi di Bali."}
+{"uji_id": "nt-test-0018", "hipotesis": "Karena bunga status tersebut sudah layu, minta maaf sudah membawa status tersebut karena memang tidak ada gunanya seperti bunga yang sudah kering."}
+{"uji_id": "nt-test-1835", "hipotesis": "dengan melihat foto @Lady6igi itu HAULIAN NA! ? *suka dan ada tambahan pemanis ya.. ;) @RaffiAhmadMuse"}
+{"uji_id": "nt-test-1148", "hipotesis": "Jadwal acara Sapa Sangad Maradi, Syahrini: Dia adalah... https://bit.ly/1AWvZ9H"}
+{"uji_id": "nt-test-0671", "hipotesis": "Ia itu kamar alat mandi namun ada juga baskom di tempat pembuangan air di bawah adong baskomnya."}
+{"uji_id": "nt-test-1491", "hipotesis": "Saya tetap ingat atau merasa bahwa mereka mungkin mengira saya kaya atau富有。"}
+{"uji_id": "nt-test-1873", "hipotesis": "Agar diterima di hotel asing, harus tersenyum saat masuk."}
+{"uji_id": "nt-test-1688", "hipotesis": "Dua puluh empat jam non停顿地运行 Debata, 无休息。因此 Debata, 永远不眠：("}
+{"uji_id": "nt-test-1927", "hipotesis": "Koneksi WiFi buruk, hampir tiga kali terjadi masalah. Masalah ini sering terjadi, sebaiknya kita perbaiki dulu masalah tersebut."}
+{"uji_id": "nt-test-1926", "hipotesis": "Apakah yang membuat mereka begitu buruk dan tidak stabil? Mungkin karena kesalahan dan kesalanya sendiri??"}
+{"uji_id": "nt-test-0150", "hipotesis": "Karena semangatnya menyebar di antara netizen di IG hingga viral, akun tersebut kemudian diblokir."}
+{"uji_id": "nt-test-1039", "hipotesis": "Karena jika ada menit yang telah lewat, maka tidak ada kembali waktu yang hilang, bagaimana dengan waktu yang telah dua kali lewat, bagaimana bisa dikembalikan?"}
+{"uji_id": "nt-test-1755", "hipotesis": "Siapa yang dihormati oleh Tuhan selain Nabi Afif? Atau pertanyaan dari lagu Afgan."}
+{"uji_id": "nt-test-0408", "hipotesis": "Namun, jasnya bagus banget. Orang Batak juga kadang keren loh! -Lucy (Fairy Tail)"}
+{"uji_id": "nt-test-1154", "hipotesis": "Memasuki kantor baru di karejohon, di rumah juga dapat uang lembur."}
+{"uji_id": "nt-test-0055", "hipotesis": "AC rusak, dan harus diganti dengan pompa parkir yang bisa menampung 5 motor saja. Hal ini perlu segera diperbaiki."}
+{"uji_id": "nt-test-1874", "hipotesis": "Karena mobil angkotnya terparkir di depan toko Serabi-Batagor di Jln Jatiwaringin, Bekasi."}
+{"uji_id": "nt-test-1461", "hipotesis": "Karena sudah lama tidak bagus, akhirnya membaik. \"Lagi tidak baik? Apakah yang dibuat?"}
+{"uji_id": "nt-test-0740", "hipotesis": "Kita semua tahu bahwa orang lain wajar memberikan maaf dengan sopan. Apakah? Mereka juga wajar menyelesaikan masalah dengan peduli."}
+{"uji_id": "nt-test-0525", "hipotesis": "terima kasih banyak! jangan lupa makan sehat! jaga kesehatanmu. harapan hatiku:"}
+{"uji_id": "nt-test-0302", "hipotesis": "Kabel tersebut putus karena ada gangguan alami dan tidak ada sinyal dari pusat."}
+{"uji_id": "nt-test-1313", "hipotesis": "Diperoleh bonus sebesar Raja Rp 384 triliun, orang Arab Saudi membeli HP dan menikah dengan url http://tinyurl.com/oem5tvp"}
+{"uji_id": "nt-test-0379", "hipotesis": "Kain tenun lokal memiliki motif unik dan indah. selain itu, desainnya sering mencerminkan karakteristik alam sekitar, serta mencerminkan warna-warna cerah."}
+{"uji_id": "nt-test-1344", "hipotesis": "Amen. Anda adalah takdirku oleh Raffi Ahmad & Nagita Slavina (dengan tag @darma_atz)."}
+{"uji_id": "nt-test-1769", "hipotesis": "fasilitas oke, tapi spreinya dan kacamatanya. lebih baik lagi jika diisi dengan karat bagudung, 2 buah untuk bantal."}
+{"uji_id": "nt-test-0804", "hipotesis": "[URL] adalah tempat berita tentang kematian internasional. Desainer terkenal Kate Spade meninggal dunia dengan cara menyergap dirinya menggunakan tali-tali."}
+{"uji_id": "nt-test-0076", "hipotesis": "Sobat memakai pakaian santun di kantor. Tidak semua ruangan, terlebih di luar kantor!"}
+{"uji_id": "nt-test-0818", "hipotesis": "#Bahagia adalah sederhana, ketika hp tidak lagi berbunyi mengganggu sendiri<3 -upit"}
+{"uji_id": "nt-test-0180", "hipotesis": "Tetapi, kita harus ingat, \"Saling mengasihilah dan jangan pernah menghitung-hitung di dalam hati.\" :))"}
+{"uji_id": "nt-test-0118", "hipotesis": "Maaf, terjemahan yang diminta tidak lengkap karena kalimat asli dalam Bahasa Batak Toba tampaknya tidak lengkap atau tidak jelas. Kalimat tersebut tampaknya mengacu pada sumbangan untuk olahraga dan tas, tetapi bagian akhirnya kurang jelas."}
+{"uji_id": "nt-test-0855", "hipotesis": "@M_Desy JKT 48 tidak mau jadwal sekolahnya diubah tapi sering biasa diganti ahahah"}
+{"uji_id": "nt-test-1299", "hipotesis": "Ali RA menjawab, \"Ya, benar saya memiliki pakaian besi, karena itu dan uang saya mencapai ratusan dirham."}
+{"uji_id": "nt-test-1444", "hipotesis": "Dia sering mendatangi tempat hiburan itu untuk bersenang-senang dan bersosialisasi dengan teman-temannya."}
+{"uji_id": "nt-test-1021", "hipotesis": "Tempat tidur yang kotor dan berdebu, air hangat dan berfungsi. Lokasi yang strategis untuk beristirahat."}
+{"uji_id": "nt-test-1694", "hipotesis": "Panangko Gondol Rp200 Juta di Kantor Disdik Kota Sukabumi - Metro TV News #Sukabumi"}
+{"uji_id": "nt-test-1946", "hipotesis": "Saya tetap bersemangat hari ini dan akan terus melanjutkan perjalanan hidup saya seperti biasa, meskipun ada rintangan yang menanti saya :(."}
+{"uji_id": "nt-test-0589", "hipotesis": "Berita tentang sekolah yang dikenal. Dana dalam milliaran rupiah disumbang oleh Dewan di link http://dlvr.it/8mTxI3 #Assadiqulhaq"}
+{"uji_id": "nt-test-0685", "hipotesis": "Merokok itu buruk karena dapat menyebabkan bau wc, jadi hindari... atau mungkin lebih baik hindari wc tersebut."}
+{"uji_id": "nt-test-1239", "hipotesis": "Ada banyak hal yang belum dia pelajari.... Cepat saja! Dia sudah menentukan pendirian. :))"}
+{"uji_id": "nt-test-0193", "hipotesis": "Terima kasih donatur, karena sumbangan Anda membantu memenuhi kebutuhan sarana prasarana sekolah #BerbagiSenyum"}
+{"uji_id": "nt-test-1359", "hipotesis": "Kedua pintu terbuka, di kamar ini ada beberapa barang yang belum diorganisir"}
+{"uji_id": "nt-test-0220", "hipotesis": "Sangat sedikit kata-kata yang cukup untuk menjelaskan hidup panjang seperti umur kita, seperti sepotong roti yang kecil."}
+{"uji_id": "nt-test-0954", "hipotesis": "Kamar tersebut baru diperbaiki dan diganti. Wi-Fi tersebut sudah ada dan tersedia."}
+{"uji_id": "nt-test-1090", "hipotesis": "masuk ke kamar, tutup pintu kamar, gunakan kamar mandi, shower dan kemudian keluar."}
+{"uji_id": "nt-test-0410", "hipotesis": "[Nasional] Diskon - Wajah Bebas Sian Jerawat di Pil Paias Bohi Binasyifa Hanya Rp... http://gpon.co/8vbv5"}
+{"uji_id": "nt-test-1345", "hipotesis": "Siapa yang kamu tunggu? Kamu Yang Kutunggu (dari Afgan) oleh Rossa (dari Ryan) ? https://path.com/p/22AYUW"}
+{"uji_id": "nt-test-1989", "hipotesis": "Siapa yang menemui di kantor (Andi Nurabasiah di Kantor PANWASLU)?"}
+{"uji_id": "nt-test-0480", "hipotesis": "Ada yang namanya obutmi?? namun mantul dengan Febby Nathania Elvarette, seperti ini tautannya [URL]"}
+{"uji_id": "nt-test-1304", "hipotesis": "Dia datang sendiri, tidak diundang, tetapi tampak sangat senang dan riang."}
+{"uji_id": "nt-test-0965", "hipotesis": "Tipi ini kabel untuk saluran air, memiliki ukuran panjang dan lebar yang sama."}
+{"uji_id": "nt-test-1356", "hipotesis": "gembala sajo ma memainkan hon coc? ? Sabar ende sian Afgan (dohot Agung Kusumah) ?"}
+{"uji_id": "nt-test-1922", "hipotesis": "Seperti biasa, jika membeli 3 pulsa, Anda akan mendapatkan 1 powerbank gratis untuk HP :)"}
+{"uji_id": "nt-test-1739", "hipotesis": "fasilitas ini perlu dipadankan. sama seperti mandi. Pastikan kamar selalu bersih"}
+{"uji_id": "nt-test-1129", "hipotesis": "Tidak ada data pasti tentang besarnya sumbangan, dan setiap sumbangan itu penting."}
+{"uji_id": "nt-test-1092", "hipotesis": "Di sekolah di Norwegia dan saat belajar bahasa Prancis, ada lobinya yang tinggi untuk keluarganya."}
+{"uji_id": "nt-test-1576", "hipotesis": "Di Nigeria, metode pengajaran tradisional digunakan oleh orang tua, tetapi tidak semua berhasil."}
+{"uji_id": "nt-test-1956", "hipotesis": "#RadjaInfo Sialan, Syahrini Meluncurkan Video Klip dengan Konsep dan Tujuan Jelas http://goo.gl/fb/qOir6d"}
+{"uji_id": "nt-test-0082", "hipotesis": "Ada beberapa kesalahan dalam penulisan, namun terjemahannya bisa diterjemahkan sebagai:"}
+{"uji_id": "nt-test-0023", "hipotesis": "@RaffiAhmadLagi sedang menulis suratmu @Lady69gi menarik perhatian, dengan kata-kata kumbang-kumbang hehe"}
+{"uji_id": "nt-test-0600", "hipotesis": "mego menangani... sesuai aturan agama dan bersama-sama dengan pendampingnya"}
+{"uji_id": "nt-test-0499", "hipotesis": "Pengelola restoran, pemiliknya, atau yang bertanggung jawab atasnya, sering kali merencanakan dan mengatur acara di sana."}
+{"uji_id": "nt-test-0185", "hipotesis": "Awalnya, hatiku lembut, namun kadangkala terpaksa melakukan hal yang tidak senang atau sulit."}
+{"uji_id": "nt-test-0491", "hipotesis": "perasaanku, namun, engkau setuju sahalkan aku menonton konser dan tarian tradisional di pantai karena perasaanku."}
+{"uji_id": "nt-test-1912", "hipotesis": "PDIP geram dengan Budi Gunawan dan menolak pengappointmentannya."}
+{"uji_id": "nt-test-0667", "hipotesis": "Kamar murah, ada snack untuk sarapan. Tapi kamar bau, jadi pakai pewangi kamar"}
+{"uji_id": "nt-test-1534", "hipotesis": "engkau yang pertama kali mendengar ceritaku, dan pada akhirnya engkau mengerti hatiku."}
+{"uji_id": "nt-test-0585", "hipotesis": "nyaman, ramah, tapi bising, sarapan sudah habis, ada bekas lipstick di sana.. #tapi_darah_lipstik"}
+{"uji_id": "nt-test-0833", "hipotesis": "Rumus atau resep ini berlaku untuk semua, baik itu, bidang, pinggiran, atau bagian tubuhnya."}
+{"uji_id": "nt-test-0771", "hipotesis": "Tidak semua orang mau mendengarkan apa yang kita katakan."}
+{"uji_id": "nt-test-1167", "hipotesis": "Dan jika kita mau mendengar pendapat mereka kembali, atau untuk memperbaiki hubungan kita dengan mereka."}
+{"uji_id": "nt-test-1955", "hipotesis": "Kamar itu bersih, tetapi kamar mandinya masih bau. Sudah Oke"}
+{"uji_id": "nt-test-1370", "hipotesis": "Yakin! Semangat hidup! :(( Tidak lucu machine learning-nya di bilut -_-'"}
+{"uji_id": "nt-test-1809", "hipotesis": "Ada kamar yang kosong dan ada yang terisi snack di dalamnya."}
+{"uji_id": "nt-test-0136", "hipotesis": "sisa sedikit saja... sepertinya hanya 5 menit nunggu sudah oke"}
+{"uji_id": "nt-test-0466", "hipotesis": "Tidak ada pintu utama pada dinding pertama, hanya terdapat pintu depan, toilet, dan pintu belakang."}
+{"uji_id": "nt-test-1143", "hipotesis": "seprai kasur baru diganti ketika rusak, bau tidak enak maupun ukurannya terlalu kecil."}
+{"uji_id": "nt-test-1335", "hipotesis": "Rahasia untuk tetap sehat dan bahagia dengan cara yang mudah dan alami."}
+{"uji_id": "nt-test-1506", "hipotesis": "toilet rusak. ada yang mau bilas. orangnya somal di hotel umum"}
+{"uji_id": "nt-test-0384", "hipotesis": "Uluan KPK menuntut SBY Dalam Kas Jokowi, Demokrat Protes"}
+{"uji_id": "nt-test-0148", "hipotesis": "dan seiring waktu, sayang hati dan menjadi indah di dalam ruangan."}
+{"uji_id": "nt-test-0598", "hipotesis": "Politisi PDIP Megawati Akan Dikriminalisasi"}
+{"uji_id": "nt-test-1445", "hipotesis": "Anduk na pe hormuk jala adong gota na... dang bottar be jala maribak pinggir na."}
+{"uji_id": "nt-test-0444", "hipotesis": "Dia memiliki sesuatu yang...dan mendapatkan sanitasi yang baik."}
+{"uji_id": "nt-test-1439", "hipotesis": "Biasanya, tidak ada barang-barang tersebut masuk ke dalam ruangan."}
+{"uji_id": "nt-test-1826", "hipotesis": "Impian tersebut adalah untuk mencuci tangan dengan sabun."}
+{"uji_id": "nt-test-0904", "hipotesis": "Wi-Fi tersebut buruk bahkan tidak bisa digunakan. Pintu lemari itu tidak tertutup."}
+{"uji_id": "nt-test-0203", "hipotesis": "Dengan Rp 125 ribu bisa makan sepuasnya di Shabu Tei! http://ow.ly/JFs7w"}
+{"uji_id": "nt-test-1624", "hipotesis": "tidak ada lelucon, jadwal saya sudah penuh :"}
+{"uji_id": "nt-test-0479", "hipotesis": "Kamar tersebut sempit, dan tidak ada AC. Remote untuk AC tidak ada."}
+{"uji_id": "nt-test-0734", "hipotesis": "Tolonglah aku (dia) dengan ini, supaya bisa (ia)."}
+{"uji_id": "nt-test-1433", "hipotesis": "Dia mengirim pesan tersebut dari rumahnya di Peshawar."}
+{"uji_id": "nt-test-1676", "hipotesis": "orang kota tersebut tidak bisa menangkap ikan dengan jaring yang baru dibuatnya"}
+{"uji_id": "nt-test-0286", "hipotesis": "Dia mendapatkan banyak uang dan memiliki anak perempuan."}
+{"uji_id": "nt-test-1213", "hipotesis": "kasur yang sudah lama, selimut untuk diganti, tidur dan juga perlu disiapkan"}
+{"uji_id": "nt-test-0393", "hipotesis": "5 Hal yang indah di http://bitly.com/1anbCGV"}
+{"uji_id": "nt-test-0078", "hipotesis": "WiFi dan ada juga bagian teras yang dapat digunakan untuk duduk bersantai."}
+{"uji_id": "nt-test-0774", "hipotesis": "Kami dan teman-teman, hewan burung tidak terlalu suka didekati. Menakutkan :("}
+{"uji_id": "nt-test-1089", "hipotesis": "Tidak semua orang punya, jadi WiFi ini gratis... tolong dibagikan"}
+{"uji_id": "nt-test-1840", "hipotesis": "Bila ada kesempatan, orang juga wajar mengejar hal yang baru."}
+{"uji_id": "nt-test-1127", "hipotesis": "pegawai harus sopan. namun harus tegas"}
+{"uji_id": "nt-test-1746", "hipotesis": "kaki panjang, wajah besar, tubuhnya gemuk..."}
+{"uji_id": "nt-test-1193", "hipotesis": "Orang tersebut sakit, kemudian meninggal, duka menimpa keluarganya."}
+{"uji_id": "nt-test-0867", "hipotesis": "Tidak semua orang memiliki otak yang besar dan kompleks."}
+{"uji_id": "nt-test-1120", "hipotesis": "Snack padahal tidak ada malam sampai pagi"}
+{"uji_id": "nt-test-0240", "hipotesis": "Bagaikan memiliki cinta namun tanpa kebaikan."}
+{"uji_id": "nt-test-0949", "hipotesis": "Ornamen ini untuk lemari, tidak ada WiFi."}
+{"uji_id": "nt-test-1747", "hipotesis": "Bagaikan memberikan sesuatu kepada orang yang sudah memiliki banyak hal yang berguna"}
+{"uji_id": "nt-test-0152", "hipotesis": "nomor telepon harus dihubungi, dan dijaga"}
+{"uji_id": "nt-test-0987", "hipotesis": "Tidak ada hubungan antara ukuran kemasan snack dengan rasa其翻译如下："}
+{"uji_id": "nt-test-0125", "hipotesis": "tidak ada yang sempurna dan tidak ada yang sempurna"}
+{"uji_id": "nt-test-0722", "hipotesis": "Natalixia telah memenangkan kontes kecantikan tersebut."}
+{"uji_id": "nt-test-0676", "hipotesis": "Rempahnya, rasanya saya seperti tidak ada masalah"}
+{"uji_id": "nt-test-0045", "hipotesis": "Tak ada Wi-Fi di iklan tersebut.."}
+{"uji_id": "nt-test-1243", "hipotesis": "wajahmu saat tersenyum padaku"}
+{"uji_id": "nt-test-1995", "hipotesis": "Tidak banyak hal yang abadi....cuma pasir."}
+{"uji_id": "nt-test-0937", "hipotesis": "snack yang sudah lengkap saja"}
+{"uji_id": "nt-test-1343", "hipotesis": "suka dan enak yang dimakan langsung"}
+{"uji_id": "nt-test-1038", "hipotesis": "AC di kamar nomor 10 dan nyala"}
+{"uji_id": "nt-test-1844", "hipotesis": "seringkali orang tidak jujur"}
+{"uji_id": "nt-test-1007", "hipotesis": "Tak ada yang panas tersebut"}
+{"uji_id": "nt-test-1495", "hipotesis": "kamar mandi. Terus"}
+{"uji_id": "nt-test-0473", "hipotesis": "Itu adalah kamar mandi"}
+{"uji_id": "nt-test-1441", "hipotesis": "tidak, itu tidak"}
+{"uji_id": "nt-test-0515", "hipotesis": "Tidak ada yang bersalah"}
+{"uji_id": "nt-test-1250", "hipotesis": "Télévisi dan aktor"}

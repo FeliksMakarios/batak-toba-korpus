@@ -1,0 +1,13 @@
+arah,sistem_a,sistem_b,selisih,p_wilcoxon
+bbc2id,ft_kami+nusatranslation_s42,ft_nusatranslation_s42,8.2,0.0005167627287408243
+bbc2id,ft_kami+nusatranslation_s42,llm_gemma3-27b-cpt-gotoai-v3-instruct_few_shot_retrieval,-2.57,0.2513674257191182
+bbc2id,ft_kami+nusatranslation_s42,madlad3b_zeroshot,29.49,4.059073911897852e-09
+bbc2id,ft_nusatranslation_s42,llm_gemma3-27b-cpt-gotoai-v3-instruct_few_shot_retrieval,-10.77,0.0027166060551373486
+bbc2id,ft_nusatranslation_s42,madlad3b_zeroshot,21.29,1.962996073686595e-06
+bbc2id,llm_gemma3-27b-cpt-gotoai-v3-instruct_few_shot_retrieval,madlad3b_zeroshot,32.06,5.397701851754164e-09
+id2bbc,ft_kami+nusatranslation_s42,ft_nusatranslation_s42,7.58,0.009031627448297969
+id2bbc,ft_kami+nusatranslation_s42,llm_gemma3-27b-cpt-gotoai-v3-instruct_few_shot_retrieval,14.97,0.00046383366007299336
+id2bbc,ft_kami+nusatranslation_s42,madlad3b_zeroshot,59.48,6.260110030737277e-11
+id2bbc,ft_nusatranslation_s42,llm_gemma3-27b-cpt-gotoai-v3-instruct_few_shot_retrieval,7.38,0.08421827147469522
+id2bbc,ft_nusatranslation_s42,madlad3b_zeroshot,51.89,1.2972759155844862e-10
+id2bbc,llm_gemma3-27b-cpt-gotoai-v3-instruct_few_shot_retrieval,madlad3b_zeroshot,44.51,9.701640305528524e-11

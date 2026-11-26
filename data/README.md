@@ -18,6 +18,8 @@ Perubahan `btb_multigenre.csv` versi 2 dibanding versi sebelumnya:
 
 Kolom `btb_parallel_sentence.csv`: `pair_id` (akhiran `__rNN` menandai unit hasil pemecahan saat adjudikasi), `doc_id` (sama dengan `btb_multigenre.csv`), `doc_id_v1`, `genre`, `sub_genre`, `method`, `alignment_type` (tipe blok penyelarasan awal), `toba_final`, `indo_final`, `source`, `review_status` (`not_flagged`, `accepted`, `revised`, `revised_split`), `gold_decision`, dan `validasi_manusia`.
 
+Versi resmi korpus paralel adalah 1.0 (`btb_parallel_sentence.csv`). Draf versi 1.1 yang memuat koreksi dari lembar kerja revisi ada di [`../riset-lanjutan/data/draf_berbantuan_ai/`](../riset-lanjutan/data/draf_berbantuan_ai/). Draf itu **belum dirilis**, karena sebagian koreksinya dibuat dengan bantuan AI dan sedang diverifikasi ulang oleh penutur asli.
+
 Definisi kolom dan taksonomi genre ada di [../metadata/skema-kolom.md](../metadata/skema-kolom.md).
 
 ---
@@ -31,3 +33,5 @@ Definisi kolom dan taksonomi genre ada di [../metadata/skema-kolom.md](../metada
 | `experimental/` | Parallel corpus v1 (1,505 pairs) and alignment audit workbook | Frozen input for stage 6 of the full-flow notebook |
 
 Version 2 adds a `doc_id` column, corrects twelve genre or sub-genre labels to match the annotator guide, normalises the `Historical/Traditional` label, removes template placeholder metadata, restores two missing source links, and applies technical text cleanup without changing any words.
+
+The official version of the parallel corpus is 1.0 (`btb_parallel_sentence.csv`). A draft version 1.1 with corrections from the revision worksheets is kept in `../riset-lanjutan/data/draf_berbantuan_ai/`. It is **not released**: part of its corrections were drafted with AI assistance and are being re-verified by a native speaker.

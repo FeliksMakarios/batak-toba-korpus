@@ -1,0 +1,38 @@
+{
+  "kode": "S05",
+  "nama": "Set uji dan data latih",
+  "sidik": "fe37ea79f660a1c0a802e7735a93318cb874458444d33096cddc95de17ee52e7",
+  "waktu": "2026-11-16T08:24:19+00:00",
+  "parameter": {
+    "sampel_nt_toba": 400,
+    "benih": 42
+  },
+  "masukan": {
+    "s01_korpus.csv": "36c48dc0d72b6fef4ef2b55713051a25276e07c711d5d257d2453089c3d39239",
+    "s02_nusax.csv": "32c53913db68fb64e10b8a416ec85087f912e7834eaed30f7f4590ab47821218",
+    "s02_nusatranslation.csv": "2876a8b2821530ccdc41e73b2245797f7a55f01c290ec2ec5fee79b7084e8131",
+    "s04_split_korpus_kami.csv": "d535a89447980a9cdfafb717cf68d271d5f7e355377614d5feca67d7cfcaf32e",
+    "s04_tumpang_tindih.csv": "24e66589785b6c2a0cd7eed301f37f8ed07fe94be19da4e7bf0b4a7770b4a87d"
+  },
+  "keluaran": {
+    "s05_uji.csv": "27d05122b2e2bcc6c01d76f24e873b7b38c872463d84ba758ff13dbacaa99939",
+    "s05_validasi.csv": "27dd39042975ace865a5d7c0b7433640d2ad77fd8e8ff46b3e9a3c2cbc57daae",
+    "s05_latih_nusax.csv": "29ece63f11354c49d7712e38717c8b1f03a8de3afc8c2369f59aa23981d02fd4",
+    "s05_latih_nusatranslation.csv": "007303e3a596f6684831ce816d4e781b7c88a1b10b8904d7e48c6f8af4d62c29",
+    "s05_latih_kami.csv": "350beae755f9b1e0d00d61cccb443cc877bd9d2ae29e0435715edf71ee766428"
+  },
+  "ringkasan": {
+    "uji": {
+      "kami": 310,
+      "nusatranslation": 2000,
+      "nusatranslation_toba": 400,
+      "nusax": 400
+    },
+    "latih": {
+      "kami": 1081,
+      "nusax": 500,
+      "nusatranslation": 6600
+    },
+    "validasi": 251
+  }
+}

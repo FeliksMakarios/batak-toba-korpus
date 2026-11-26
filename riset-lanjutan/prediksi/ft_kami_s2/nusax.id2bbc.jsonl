@@ -1,0 +1,401 @@
+{"sidik": "ec34a004e016aa2d9ae70142429fd48dad991445cdd0dac02bf55daa33773304", "parameter": {"run": "ft_kami_s2", "fine_tuning": {"model_dasar": "facebook/nllb-200-distilled-600M", "dua_arah": true, "epoch": 5, "laju_belajar": 0.0001, "porsi_warmup": 0.1, "ukuran_batch": 16, "akumulasi_gradien": 1, "panjang_maks": 128, "simpan_tiap_langkah": 1000, "hapus_bobot_setelah_selesai": true}, "benih": 2, "dekode": {"beam": 5, "ukuran_batch": 32, "panjang_maks_sumber": 128, "faktor_panjang_keluaran": 1.5, "tambahan_panjang": 10, "panjang_maks_keluaran": 256}, "kode_bbc": "bjn_Latn", "data_latih": {"kami": "350beae755f9b1e0d00d61cccb443cc877bd9d2ae29e0435715edf71ee766428"}}}
+{"uji_id": "nx-test-0200", "hipotesis": "Di tingki sogot dohot ni roha ni natorop ni bangso na adong, gabe roti bakar tunggal boi gabe parmulaan. Jotjot do ahu mambaen roti marie na dibakar dohot rasa na imbaru, dohot roti bakar dohot rasa keju manang coklatna. Somalna ahu mambaen di counter roti bakar tunggal di paskal hyper square."}
+{"uji_id": "nx-test-0022", "hipotesis": "Ristoranton on ma sada tujuan kuliner na wajib diulahon molo laho tu Bandung."}
+{"uji_id": "nx-test-0297", "hipotesis": "Ahu sian Bali, tongtong do roha tu kota Bandung, tingki tingki di tonga-tonga ni kantor ni Gubernur Jawa Barat alias di tonga-tonga ni gedung sate, dirugihon do roha mangan di bancakan ala rap dohot. Dung ro ro ro dibagasmi do piring sian kaleng na so denggan dope, songon mararat. Tung di ujungna, milehon do roha panganan na hatudosanmi, jala ratusan lalat borbangan tu mana alana alani tarlanjur do roha."}
+{"uji_id": "nx-test-0151", "hipotesis": "Kafe on mar-arsitektur bangunan na denggan situtu. Alani marsiajar, ahu manghabishon tingki marsikkola sambil manjumpang panganan. Adong do galeri na pinuh dohot kolleksi-kolleksi kayu jala di luar galeri, tarida panindangon ni bandung sian tudosan. Di sekitar godang do pe kursi na diulahon sian kayu dohot batu. Dari sisi panganan, hargana tarmasuk na so standar sasintong tu kafe-cafe."}
+{"uji_id": "nx-test-0091", "hipotesis": "Hadapan manghalasson santap pagi alana marragam di hotelo on. Songon angka sihabang na imbaru songon ahu jala boi na asing boi manghalasson tu atmosfer santap pagi na marwarna dohot panindangon sian sisi timur, alana sian sisi i adong ragam ni bangunan hotelo sasintong ni kolam renangna."}
+{"uji_id": "nx-test-0066", "hipotesis": "Hombar ro tu lembang di tingki lapar. Di tingki marsitutu saung pangkolan on, dipajongjong do roha ma roha laho mangan. Hombar roha ni roha di tingkat dua asa mandapot panindangon na denggan. Parpesenan ni roha i ma: cumi goreng tepung, gurame goreng crispy, tumis genjer dohot dua menu tahu na salpu-sulpu au goarna. Marhite na so adong na hasusuranna sian panganan i."}
+{"uji_id": "nx-test-0281", "hipotesis": "Logo mangan dohot niasa doraemon. Ragit ni panganan i mura dohot godang parbinotoan. Logo i ndada lobi balga alai denggan. Di tingkat dua diulahon songon kamar ni nobita lkp dohot meja marsiajar mesin tingki dohot pintu tu na asing-asing. Godang do boneka doraemon dohot komik-komik na boi digoari tingki manunggu panganan. Godang do i sambil manghalasson panganan hita boi manonton pilem doraemon. Anakku muse manghalasson mangan."}
+{"uji_id": "nx-test-0282", "hipotesis": "Hami tu kafe dipakar dohot sundut ni sundut, panindangon i do na denggan situtu. Dahar i do na denggan situtu. Laho marsantai manghalasson sipanganon dohot panindangon di dipakar situtu las ni roha. Kami laho i di ari-hari ni siminggu, jala sasintongna jolma. Alai so manunggu na leleng, hita langsung mandapot meja. Laho mangan, dung mandapothon hita ndang parsaoran na leleng, mangan i do na ro. Laho foto-foto i pe denggan situtu."}
+{"uji_id": "nx-test-0003", "hipotesis": "Maringanan di Braga City Walk na sada bangunan dohot Aston dohot Fave Hotel, jabu on sonang situtu manghalasson Kongkow-Kongkow. Kopi campur teh na imbaru parjolo ahu manghalasson i nunga sonang situtu, dipadomu dohot uhu na parjolo gabe parsaoran marhite dongan-dongan. Area na so targoar dohot parrungguan ganup manghalasson sambil manghalasson panindangon jala lalang-lang ni jolma na ro masuk tu mall on."}
+{"uji_id": "nx-test-0108", "hipotesis": "Nasi Goreng Mafia na maringanan di dalan setiabudi i ma kami pilihon ala marsiajar panganan na massai. Ditambahon i ma sada kuliner na ingkon digoari di bandung."}
+{"uji_id": "nx-test-0011", "hipotesis": "The Peak maringanan di dakke lembang, Tano na Taringot di Bandung na sonang dohot lokasi na denggan balga alai dalan laho mangihut tu jabu on sasintongna margoar maringanan tikungan na taringot, ndang disaranhon laho manungkun di tingki udan dohot ari. Di The Peak adong do restoran dohot panindangon ni kota Bandung na denggan sian parbinotoan, ragam ni panganan na sasintongna mahal dohot sasintongna ndang pas."}
+{"uji_id": "nx-test-0062", "hipotesis": "Pangkataion i sasintongna, ragam ni panganan na standar, menu na diulahon pe somal, holan na manggogo pangkataion i dohot parange na, songon na manggogo pelayan i dohot manogot kentongan."}
+{"uji_id": "nx-test-0262", "hipotesis": "Menu masakan na diulahon godang do ragam dohot rasa na denggan na denggan, jumlah pelayan dohot tingki pelayananna i pe godang do songon i hatudosan hami mangan sude ari di i, holan tata letak ni restoran na lantana mansai-mansai i, asa ingkon ekstra hati-hati tu matua dohot anak na bolon, asa boi godang do lobi diulahon ulaon dohot ragam ni menuna i."}
+{"uji_id": "nx-test-0025", "hipotesis": "Ruma makan di dalan anggrek on mar-ragam ni ragam ni ragam ni sipanganon laut jala adong na jolo laho dipilih jala dipanasak di tingki i pe. Ragam ni ragam ni sipanganon i boi dipilih jala tingki pangintaon na ringkot mambuat hita ndang leleng naeng mangantusi."}
+{"uji_id": "nx-test-0305", "hipotesis": "Ahu termasuk sian sada jolma na ringkot situtu tu kampung daun sian parmulaan dibuka di taon 2003 molo ndang sala, hata ni panganan parjolo oke, alai sahat ma na marragam jala na marragam tu on, panganan na diulahon ndang songon na somal jala jotjot do pelayan terkesan marragam, hita mangalehon piga-piga ragam ni panganan alai na ro sai marragam dohot na so marragam, luat na marragam."}
+{"uji_id": "nx-test-0171", "hipotesis": "Hombar hamu na mangalului resto dohot atmosfer na rohansi ndada na sala songon on. Jala molo na ringkot hamu pasa-pasa pesen songon menu na ringkot-ringan. Unang pe torang dohot gambar di buku menu molo ndang mamungka. Menyu ni roha i lobi denggan alai songon aha do i leleng-leleng marmacet ria roha on holan mangalului i. Di kota lobi afdol songon. Panindangon ni Jogja di tingki naeng tutu."}
+{"uji_id": "nx-test-0122", "hipotesis": "Tarida di ujung bukit, luatna balga, leleng dohot denggan. Marnida panindangon na mangalehon mata, songon gunung, parbinotoan, dohot kota Bandung molo dipaulian sian atar. Parpegawayan i denggan dohot ramah. Menu panganan di dominion ni menu steak songon adong do muse do menu nasi goreng, gurame, dohot angka na asing. Restoran na direkomendasi laho digoari tingki ro tu Bandung."}
+{"uji_id": "nx-test-0114", "hipotesis": "Hupauli au tu resto sapulidi on ala parange sian internet na pernah hubaca ia panindangon na denggan situtu dohot luat mangan tepat di saha na mambahen ahu tarsirang laho ro tu luat on."}
+{"uji_id": "nx-test-0295", "hipotesis": "Ahu dohot sundut mangan haporseaon di jabu on ala songon menu parjolo ni Batagor adong do menu na asing. Ahu holan manuruhon dua menu na nunga ro di pudian pudian 45 menit, i ma di pudian pigapiga huringkon. Marhite ragam ni pigapiga menu na uli ahu pernah ahu digoari na denggan na denggan."}
+{"uji_id": "nx-test-0112", "hipotesis": "Hombar do hita tu jabu on ala letakna na situtu dohot jabu na manginjakki. Hombarhon nasi bakar dohot pasta. Nasi bakar i ma na denggan, godang parmulaan, jala ndada pedas, boi do tu anak-anak. Sedengna pasta i adong do sada ragam, alai rap dohot denggan. Hombar ni panganan pe ndang mura dohot terjangkau tu panganan di tonga-tonga ni 30 ribu. Di jabu on pe marhite wifi."}
+{"uji_id": "nx-test-0009", "hipotesis": "Laho mangihuthon tu tontor i tarida las situtu jauh sian pusat kota Bandung, jala aksesna i somal mangalusi dohot dalan na metmet mangalului-lului. Alai boi hamu ndang laho marsesat ala nunga di ganup tikki maringanan adong tanda-tanda na mangihuthon tu tontor i. Tingki i do na denggan sasintongna tu hamu na mangalului sude ni ari na roha, dohot panindangon ni ari na marragam ni kota i."}
+{"uji_id": "nx-test-0206", "hipotesis": "Warung panganan na nunga adong sian na leleng jala gabe sada ragam ni legenda, boi nunga nunga buka sahalak. Tarida alatan konsistensi rasa-na saleleng godang taon, nang pe, nang pe bangunan aslina nunga dipugor, alai aslina sai tongtong dijaga jala sai torus diparkir. Piga-piga tingki na so adong piga-piga parubahan saonari di tingki ibana ni chef na parjolo nunga so tarida leleng."}
+{"uji_id": "nx-test-0156", "hipotesis": "Hombar-hobar au sian Bogor 7 jam laho mangan sip sipuna i, alai diulahon ahu sian jam 8.30 ndang dibukka pe. Tungtungna ahu roha sahat tu jam 10.00. Pesan sipuna i so adong marhite alas ni bosi i marragam sahat tu si chefna so tarpar. Wow alas ni songon aha songon i? Marragam do tingki ahu mangan sadari taon na jolo i. Tingki i sonang situtu songon ndang adong niat usaha."}
+{"uji_id": "nx-test-0126", "hipotesis": "Dung dipatupa roha ni roha, dipatupa roha laho mangan di warung tenda di pinggir dalan. Di bagasan marlumobi laho ro di hotel, dipatupa roha na lambok laho mangalusi macet, jala dipatupa roha ni roha on. Pas ni roha i marragam situtu! Ingkon do roha roha roha. Dipasak roha uduk, ayam bakar madu, ursa, kol goreng. Rasana denggan! Ayam bakar maduna parah mambahen ketagihan situtu!"}
+{"uji_id": "nx-test-0261", "hipotesis": "Resto on mar-ragam na denggan dohot gaya kampung tradisional. Leleng do diulahon di tingki sonten sahat tu sontenna di tingki sontenna di roha lobi roha dohot lampu temaram sian obor dohot api unggun."}
+{"uji_id": "nx-test-0174", "hipotesis": "Parjolo tu on i marragam pardomuan ni dungku, jabu i ma loh, na denggan situtu. Rarancangna pe, na denggan situtu, na denggan situtu, pas situtu laho mangan sude roha dohot keluarga, pasangan, sundut, dohot dongan-dongan, panindangonna pe na denggan situtu, pangananna pe na denggan situtu. Hargana sarupa dohot pangulaonna, ndang marsiulahon tu on. Hita-hata direkomendasi."}
+{"uji_id": "nx-test-0253", "hipotesis": "Mumpung nunga marjalan-jalan tu bandunh, dung dipajongjong do roha ni batagor na tarragam di kota bunga on sahat tu ndada nasida mangurupi godang sian kapasitas mangan ni hita dua: Bakso tahu goreng, siomay goreng dohot batagor kuah, ayam kremes, dohot es cendol jala ingkon do ingkon mangurupi pulang tahu yun yin pesenan ni hita di ujungna."}
+{"uji_id": "nx-test-0397", "hipotesis": "Pelayanan na denggan, parkindian na denggan songon na balga, parbinotoan ni stroberi na balga dohot godang ni stroberi na denggan na denggan na denggan laho dipetik. Roti na diresorasi i ragam na balga, rapot na denggan, sambal ni stroberi na unik dohot na denggan. Nasi liwet stroberi ingkon digoari. Sahat tu sadari on sude menu na ahu manganon ndang adong na mangalusi roha na ringkot tu parbinotoan ni sundut."}
+{"uji_id": "nx-test-0249", "hipotesis": "Salah sada jabu mangan dohot jabu nongkrong na direkomendasihon ni dongan na denggan situtu. Jabu i do na denggan umbalga molo sian kota, jala somal masuk-masuk sahat na so tarida molo sian dalan na parjolo. Alai jabu i do denggan, jabu i na denggan, hargana i do na standar. Masih sarupa dohot hargana i."}
+{"uji_id": "nx-test-0041", "hipotesis": "Mompa laho buka puasa on. Marhite hargo na targolong mahal di tonga-tonga ni hotel na marbintang sian kelasna, rasa na ditaburon i do na mangalusi sasintongna. Pastina humar, panganan na asing pe humar. Marragam sasintongna dohot na somalna ditaburon. jala pangulahon i do na so marprofesional di tingki mangulahon pamayaran marhite kartu kredit."}
+{"uji_id": "nx-test-0160", "hipotesis": "Lompuan i di dalan na parjolo asa gampang ma hita laho sahat tu jabu i, molo ndang adong uhum sandiri, jabu on boi digoari dohot uhum na umum."}
+{"uji_id": "nx-test-0070", "hipotesis": "Tanggal 12 Pebruari i ma ulang taun ni parumahan ni ahu, jala donganku ma ibana laho mangan di sada restoran na tarsaru di surabaya."}
+{"uji_id": "nx-test-0050", "hipotesis": "Dibagasan borngin ni siminggu i, diparsinta pasangan tu jabu na denggan, alana tingki jolma marlilui di situtu jabu na margoyang-goyang, lobi tepatna sarupa songon warung di pinggir dalan."}
+{"uji_id": "nx-test-0140", "hipotesis": "Laho mandapothon batagor na hasusuranna, ndang parlu jauh-jauh mangalului i tu pelosok, cukup ma ulaon tu dalan sian djunjunjunan, boi do hita manghalasson batagor asli na denggan dohot luat na denggan."}
+{"uji_id": "nx-test-0212", "hipotesis": "Hombar mangan sambil manghalasson roha ni Paris? Ndang pe ulah jauh-jauh tu prancis, cukup tu paris van java alias bandung. Braga permai on manurupi sasintongna laho manghalasson-santai."}
+{"uji_id": "nx-test-0162", "hipotesis": "On ma sada jabu na ringkot au laho manonton Bogoar di tingki borngin, dohot suasanana na denggan na dipajongjong dohot ragam ni panganan dohot inuman dohot pangulahonna na denggan."}
+{"uji_id": "nx-test-0229", "hipotesis": "Suasananna di sada jabu on tongatonga i luar biasa. Di tingki i ma kami ro di sude mamungka borngin, jala mandapot ruang na maringanan tu jolma. Gemericik jolma dohot parange ni natorop manambai ragam ni jolma i di tingki i. Roti dipajongjong dohot gaya tradisional jala rap dohot denggan tu hata ni hita."}
+{"uji_id": "nx-test-0266", "hipotesis": "Ndang songon godang ni restoran dohot kafe na asing, konsep ni jabu i diulahon na unik. Godang lampu-lampu, lukisan, semi antik. Roti dohot inuman godang do denggan, na mambahen hata molo maningting daftar menu na."}
+{"uji_id": "nx-test-0177", "hipotesis": "Bandung targoar songon jabu produksi tahu lokal dohot kualitas na denggan, sada na denggan boi digoari di warung talaga. Mar-parusahaan on mar-fabrik sandiri di jalan Jendral Sudirman, alai mangembanghon parbusina gabe sajian kuliner. Adong do ragam ni parbuaton sajian tahu."}
+{"uji_id": "nx-test-0165", "hipotesis": "Ristoranta margaya zaman kuno. Adong do display kue-kue, es krim pe. Suasana na denggan. Mangan khas ni jabu. Manganna boi laho ragam manang dohot dohot keluarga. Manganna denggan. Nasi ulame na denggan. Nasi tutug oncomna pe. Masakan Eropa, Asia, Nusantara na adong di on. Tingki pilihon. Anak-anak lobi mangan es krimna di on."}
+{"uji_id": "nx-test-0344", "hipotesis": "Leleng roha ni ahu marhite ulaon na diulahon ni hotel opat bintang on. Di tingki au maningting di hotel i, diulahon do panghorhon na kurang mamangke sian ulaon na adong. Ditambai do muse dohot kamar mandi na so adong tisuna. Nang pe na ringkot sasintongna. Alai ndang sasintong tu ulaon na diulahon."}
+{"uji_id": "nx-test-0309", "hipotesis": "Sumpah, sori situtu mangulahon ordo marhite aplikasi on. Makanya-makanya e-ticket ndang dipajongjong. Jala proses konfirmna leleng. Andorang pernah marroha hal na nunga sarupa di aplikasi na sadai, alai pangulahonna rap dohot langsung holan solusi. Ndang ingkon sahat tu hape pangulahon ni partondian ni partondian ni partondian."}
+{"uji_id": "nx-test-0342", "hipotesis": "Situtu na mangalusi, ahu mandapot tiket jala nunga ahu pajongjong, padahal tingki i so marujung sahat tu ahu parhataan, alai sahat tu sadarion so dipaulihon kode parhataan i, alai dipaulihon parhataan i so marujung sahat, dung laho roha i, sahat ahu mangontak marhite email holan dipangsungkun lumobi sandiri."}
+{"uji_id": "nx-test-0078", "hipotesis": "Restoran alas daun mangulahon menu khas sunda na so marragam dohot restoran khas sunda na asing, alai na mambahen parsadaan i ma so ndada piring, jala holan dipangke daun pisang na ditaruh di meja gabe pargantian piring. Jadi sarupa dohot jolma di India na mangan marragam daun pisang."}
+{"uji_id": "nx-test-0189", "hipotesis": "Sian godang ni restoran sunda di Bandung, menurutku Ciganea sada sian favoritku. Ugamo ahu alana hayu na hasusuranna, digorengna ndang terlalu garing. Dung i pe sambalna pe ndang kalah denggan. Menu na asing pe denggan pe. Tingki i songon jabu, ndada lobi balga alai cukup, jala na ringgas pe."}
+{"uji_id": "nx-test-0131", "hipotesis": "Baru mandok taringot tu jabu on sian dongan, tingki roha ni hita ndang godang situtu, alai dilehonmi laho manjumpang di tingkat dua sambil manghalasson tontonan di luar."}
+{"uji_id": "nx-test-0019", "hipotesis": "Hupauli au tu restoran i dohot donganku i. Donganku godang marsungkun marnida panindangon na sonang situtu di tingki borngin. Hupauli au laho mansai sitek na masuk, sonang situtu tarlumobi ni roha i. Mmm yummi. Molo adong laho hupauli au muli tu i."}
+{"uji_id": "nx-test-0084", "hipotesis": "Di tingki pajumpang di hotél sensa, diparentahon ma Batagor riri marhite aplikasi gofood/gojek."}
+{"uji_id": "nx-test-0037", "hipotesis": "Adong do ulaon ni roha ni tingki i, ice cream i ndada dipisah dohot espresso, alai ndang boi dipajongjong sasintongna. Salmon steak i pe lambok mura, kulit salmon na togu, umurna leleng di kulkas manang freezer. Alai i ma menu parjolo na ingkon mansai."}
+{"uji_id": "nx-test-0144", "hipotesis": "Rumahan panganan na mangarsongkon konsep tradisional alias jadul on patudosan muse muse muse muse muse muse muse muse muse muse muse muse muse muse muse muse muse muse muse muse muse muse muse muse muse muse muse muse muse muse muse muse muse muse muse muse muse muse muse muse muse muse muse muse muse muse muse muse muse muse muse muse muse muse muse muse muse muse muse muse muse muse muse muse muse muse muse muse muse muse muse muse muse muse muse muse muse muse muse muse muse muse muse muse muse muse muse muse muse muse muse muse muse muse muse muse muse muse muse muse muse muse muse muse muse muse muse muse muse muse muse muse muse muse"}
+{"uji_id": "nx-test-0068", "hipotesis": "Di tingki parjolo laho i, mangantusi meja-meja i jala mangantusi menu panganan na so marragam-ragam. Alai hargana ndang boi dibilang mura, alana ingkon marragam-ragam i boi mandapot na lobi denggan."}
+{"uji_id": "nx-test-0136", "hipotesis": "Ristoranton on mar-location na parjolo di parbukitan na mar-udara na las dohot panindangon na imbaru."}
+{"uji_id": "nx-test-0319", "hipotesis": "Maringanan sian sude tu sude taringot tu restoran on, sian marsiajar, hupauli ma ahu laho manopot. Alai sayang, molo sian ahu, ndada songon na godang digoari ni jolma. Rasana somalna-somalna do, ndada songon dohot hargana. Songon masakan na imbaru marsiajar."}
+{"uji_id": "nx-test-0153", "hipotesis": "Malam sekitar jam tujuan dipangido ni klien tu jabu mangan on, andorang do panganan i lobi godang na di panggoreng i songon ayam, babat, usus, ati ampela, alai menurutku sih terasa somalna, jala oli na di panganan i lobi godang."}
+{"uji_id": "nx-test-0395", "hipotesis": "Ahu nunga jotjot jotjot manghalasson panganan di roemah ni nambura. Ahu do dohot suasanana na denggan laho mangan dohot sundut. Di ari-hari na tinanda adong do hiburan live musik. Ahu do muse mar-ragam na marragam sian na tradisional, Asia, sahat tu panganan kulon."}
+{"uji_id": "nx-test-0085", "hipotesis": "Hombarhon ulaon on ndada tingki jam haporangan. Alai ulaon i do godang situtu jala untungna boi hita gabe situtu. Dung situtu do panganan dohot inuman langsung dipajongjong. Sambal hijoangna so marasa pedas tu hita. Ajian na denggan cukup puas mangan di on."}
+{"uji_id": "nx-test-0074", "hipotesis": "Sada sian restoran favorit ni ahu di Bandung. Lokasina marsiajar, alai so tarjangkau. Menu panganna denggan, sunda sekali. Panindangon na denggan, suasanana nunga mambahen mata dohot hata na saluhut tarpuas. Marhabashon mangan sahat sahat, alai ingkon marragam di saungna."}
+{"uji_id": "nx-test-0238", "hipotesis": "Molo tu mangihuthon hayam i, ingkon manukar situtu situtu, molo digoari songon na somal, alai dung diinum beuh, godang do molo mangulahon porsi ni ahu, situtu situtu situtu masih juara on sian na di luat na asing, sungkun-sungkun. Ragam i pe pas situtu tu selera ni ahu."}
+{"uji_id": "nx-test-0290", "hipotesis": "Suasanena asri. Godang do panjualan panganan. Lomu nongkrong dohot kafe na denggan laho manopot. Kami jotjot marshop di supermarket. Hargana pe ndang mahal pe. Suasan di bagasan pusat perbelanjaan na denggan. Acu na denggan pe. Jala-jalana na margoar situtu situtu dohot godang dison."}
+{"uji_id": "nx-test-0158", "hipotesis": "Ingkon mansai laho marsantai manang mangan haporseaon di angka 18 on, panindangon na mandapot denggan jala na gabe daya tarik di angka 18 on adong pardonganan kaca."}
+{"uji_id": "nx-test-0368", "hipotesis": "Ahu ro di siko songon parange, jabu i somal balga jala adong parbinotoan na ro di luar i. Ahu duduk di jabu na masuk na adong panindangon tu luat, alai adong do tingki kaca. Laho mangan do ahu sasintongna. Dari sisi hargo i do sabanding dohot na diulahon"}
+{"uji_id": "nx-test-0218", "hipotesis": "Mangalului atmosfer nostalgia di jogja, jabu on i ma parmulaan na pas! Menu panganan didominasi panganan-makanan na dipengaruhi gaya panganan Belanda. Favorit ni ahu i ma steak sirloin. Restoran on pe adong do toko roti dohot pilihan roti bergaya zaman dahulu."}
+{"uji_id": "nx-test-0388", "hipotesis": "Alai dipajongjong tingki parubahon taon i, dipajongjong do hita on. Dung mandok dua-dua hita piga-piga sushi. Diinumna i ma milktea sarupa dohot eskrim vanilla dohot botak kelapa. Di susina i somalna denggan alai godang do nasina songon i. Alai marragam. Hargana taringot."}
+{"uji_id": "nx-test-0237", "hipotesis": "Dasar ndada holan diri mu! Parsiajaran beladiri ndada laho dipahombar! Alai laho manjou diri sandiri! Guru mu ingkon muse muse muse muse muse muse muse muse muse matua mu! Dasar iblismu, ngolu dipajongjong ngolu! Adong utangmu ngolu na sada! jala ngolu mu na gabe pajongjongna!"}
+{"uji_id": "nx-test-0396", "hipotesis": "Godang do jolma na so mangalehon laho marobat tu dokto. Molo sian ragam na somal na ringkot tu godang ni godang ni jolma, laho dokto i ndang salelengna boi mansai. Godang do dokto na salah didiagnosis."}
+{"uji_id": "nx-test-0076", "hipotesis": "Menyu di jabu on tongtongna gampang be, alai nampuna i ma parjolo. Nasion Mie, Roti dohot Roti panutupna di campur dohot ragam ni parbuaton."}
+{"uji_id": "nx-test-0293", "hipotesis": "Adong do sada parsoalan na ro di huta adat di bajawa, flores. Bangun na balga na marragam di ari Senin 13 / 8 haporseaon nunga manongsong sada huta."}
+{"uji_id": "nx-test-0077", "hipotesis": "Ristoranti dohot metode panjajian marragam. Piring ni jabu dipajongjong dohot lambaran ni daun pisang. Menu ni panganan khas sunda dohot citarasa na denggan. Dari segi hargana cukup ramah, jabu makan godang dohot godang ni pilihan meja, parkindian godang do."}
+{"uji_id": "nx-test-0053", "hipotesis": "Soto kudus on adong di tongatolu lima, parjolo laho mangan agak ragu pe. Alai ingkon marsiajar rasa kudus i digoari jolo."}
+{"uji_id": "nx-test-0020", "hipotesis": "Akses tu parbinotoan ni bambu boi diulahon kira-kira di tingki 1 - 2 jam mamangke oto sandiri."}
+{"uji_id": "nx-test-0026", "hipotesis": "Songon somalna kami sai sai mangalului masakan na asing sian na asing, dapot do hita di jabu on i ma The Restaurant Padma Hotel."}
+{"uji_id": "nx-test-0260", "hipotesis": "Lapatan mangantor, lapatan mangalului huta, cape mangantor. Molo na so adong tingki na leleng jala nunga kelaperan, mendingan ndang tu on."}
+{"uji_id": "nx-test-0271", "hipotesis": "Parjolo sai digoari dohot las ni pelayan na mambahen hita mangantusi leleng aha opat goar ni Marcell. Dung i ma leleng i ndang gabe hata."}
+{"uji_id": "nx-test-0322", "hipotesis": "Adong do ahu, boasa songon mamangke - manasi kubu sebelah aha? Ndang do ahu, i ma ingkon nasida tambah cemburu, iri, dengki, nyinyir, mangambek songon anak na bolon, mura-mura ndang tarsurat parbinotoan ni ibana jala tambah bodong do utkon dohot roha ni ibana."}
+{"uji_id": "nx-test-0371", "hipotesis": "Nang pe sadarion do hargana nunga marlumbuk, alai ingkon ma pesan nasi padang dibungkus di singgalang jaya porsinya badai abiiis. Sahat tu sadarion on gabe sada tempat na manghalasson masakan padang favoritku."}
+{"uji_id": "nx-test-0021", "hipotesis": "Mangan na denggan sarupa dohot na asing (Xo Suki). Alai nangpe ari ni roha na balga songon lebaran on ndada lapatanna ngolu ni roha dohot sipanganon, jala na asing ingkon sipanganon godang-godang."}
+{"uji_id": "nx-test-0080", "hipotesis": "Hupauli au di ulaon on laho mangan haporseaon dohot dongan. Hupauli steak hayu na ingkon hupausi namanaya. Rasana i sasintongna, hambar. Ayamna na balga jala terasa togu jala garing sekali. Ndang adong na hasusur."}
+{"uji_id": "nx-test-0224", "hipotesis": "Molo tu on sai sai tongtong au mangalehon singkong sambal roa. Singkongna digoar dipajongjong dohot sambal roa, denggan. Dahare na asing pe denggan pe, alai tu ahu dohot sundut na denggan di on i mangan singkong sambil manginum kopi."}
+{"uji_id": "nx-test-0383", "hipotesis": "Nasi uduk on adong di dalan rajiman jala bukana sian sonten sahat tu sonten. Menunya sih cukup sederhana, holan nasi uduk dohot ragam ni parlengkapna."}
+{"uji_id": "nx-test-0392", "hipotesis": "Bubur hayu na denggan do rekomendasi di sekitar Bandung, jumpangna strategis gampang digoari, hargana ndada merogoh kantong, jumpangna sai godang do didatangi ni jolma siganup ari ulaon manang ujung minggu alana marragam."}
+{"uji_id": "nx-test-0145", "hipotesis": "Kfc Palembang Square jotjot gabe panasalam di tingki lapar tingki ahu manjaga di sekitar hotel di lokasi i. Siganup jolma mangalehon kfc. Songon i. Kfc di lokasi on mangalehon hamu laho mangurupi tingki hamu mangurupi di bagasan hotel i."}
+{"uji_id": "nx-test-0033", "hipotesis": "Leleng gampang mangalului lokasi on, tinggal mangurupi dalan tu tonga-tonga kota. Molo di tonga-tonga ni dalan tarida parkinan ni mobil na lobi godang, i ma inganan ni kafe on. Rasana kafe on nunga jarang sepi, godang do pangunjung."}
+{"uji_id": "nx-test-0120", "hipotesis": "Mangan sude roha dohot sude keluarga di ari parngoluan ni sude gabe situtu inganan dohot sude na mangalehon di hotél i. Pelayanan na denggan situtu sian mas tian."}
+{"uji_id": "nx-test-0147", "hipotesis": "Dohot 10 Marsi 2015, digoari ma boru ni ahu mangan sude roha di on. Hombarhon udang kremes dohot sayur na masam. Tongtong-tongtongon denggan. Jala na hasusur di on i ma sambalna, pedas alai sai naeng manamba. Jus blackberryna pe denggan pe."}
+{"uji_id": "nx-test-0008", "hipotesis": "Parjolo tu hanamasa do roha 120 ribu/orang. Alai puasna lobi i. Boasa mamangke panganan sapu-puasna, alai rasa ndada mangalusi, rapot-rapot do hita mamarik sandiri."}
+{"uji_id": "nx-test-0321", "hipotesis": "Molo ndang adong do parhepengon laho mangalehon komik alai naeng mangihuthon mangalehon mangalehon mangalehon mangalehon mangalehon mangalehon mangalehon mangalehon mangalehon mangalehon mangalehon mangalehon mangalehon mangalehon mangalehon mangalehon mangalehon mangalehon mangalehon mangalehon mangalehon mangalehon mangalehon mangalehon mangalehon mangalehon mangalehon mangalehon"}
+{"uji_id": "nx-test-0061", "hipotesis": "Mangihuthon suku ni goat paha na lambok jala lumayam na balga laho balga, pas tu sada jolma, mangihuthon so nasi, dohot las ni lemon tea."}
+{"uji_id": "nx-test-0376", "hipotesis": "Togu na denggan, adong di dalan sudirman na maringanan tu pilihan ni jabu pajumpang, sian resto pe cukup maringanan tu jabu i."}
+{"uji_id": "nx-test-0027", "hipotesis": "Iya i ma na mambahen ahu sai muruk. On ndada hata ni pelamar alai patuduhon sian 100% hata ni pihak na di pudian na jolma songon dia mar-koordinasi. Nasesek ahu i nangpe songon on i do dosaku na di lampung."}
+{"uji_id": "nx-test-0373", "hipotesis": "Tarida di festival city link mal, resto on manasahon panganan cina panganan a la carte dohot dimsum."}
+{"uji_id": "nx-test-0017", "hipotesis": "Ndang hatau boasa resto on maringanan angka 12 sian 1800an resto na adong di Jakarta."}
+{"uji_id": "nx-test-0381", "hipotesis": "Lomu parkindian i so balga. Jala mangurupi sasintongna molo diulahon laho manginjakhon oto ala adong jolma na asing na so marujung mangan jala boi ro sian kandanganna."}
+{"uji_id": "nx-test-0179", "hipotesis": "Sada sian menu favorit ni ahu i ma mcflurry ragam ni rasa songon menu paket dohot dua ayam."}
+{"uji_id": "nx-test-0100", "hipotesis": "Goar kami tu kafe on laho mangan serabi. Sirabi i ma kami leleng situtu di bagian tonga-tonga. Godang do parbinotoan tu topping serabi sahat tu pusing mangulahon i. Taringot do hargana lobi mahal sian warung setiabudi."}
+{"uji_id": "nx-test-0258", "hipotesis": "Ristoranta on sai tongtong na somal. Suasana i denggan situtu laho mar-tongtongtong dohot dongan, parumaen manang parumaen. Dahare na denggan pe. Nang pe ahu somal ndada mangan na tikki. Alai paling somal tu on sahat haporseaon roha."}
+{"uji_id": "nx-test-0176", "hipotesis": "Wow sungkun-sungkun ma parbinotoan ni parbinotoan ni parbinotoan ni roha ni roha ni roha ni roha ni roha ni roha ni roha ni roha ni roha ni roha ni roha ni roha ni roha ni roha ni roha ni roha ni roha ni roha ni roha ni roha ni roha ni roha ni roha ni roha ni roha ni roha ni roha ni roha ni"}
+{"uji_id": "nx-test-0273", "hipotesis": "Parjolohon Soto songon iga bakar, tambah do sude na rarat. Rasana denggan jala diulahon dohot holong songon mbak diah, tisna, echa."}
+{"uji_id": "nx-test-0087", "hipotesis": "Pungkasan ahu mangan pesan via delivery order. Anakku sonang do perkedel isi daging-na. Restoran zaman dahulu na matua targoar. Hargo na denggan na denggan ringkot dohot rasa masakan na denggan na denggan."}
+{"uji_id": "nx-test-0357", "hipotesis": "Hamilia mamungka diri mangihuthon mangan di tongatonga na mangan on songon sarang na saluhut kaca-kacanna ditutupi ni ragam-ragam na marambat."}
+{"uji_id": "nx-test-0204", "hipotesis": "Pelayanan i dohot na denggan, na denggan situtu sian parange ni luat, na denggan situtu boi manampak panindangon ni kota di tingki ari sian panganan, na denggan situtu!"}
+{"uji_id": "nx-test-0327", "hipotesis": "Hupaulihon ni rohaku tu lomba Blog Hinta Rupiah Bank Indoneisa - net media jala nunga ma-submit artikle di 22 Desember 2017 naung, alai sahat tu sadarion status artikle ni ahu so unang dipajongjong."}
+{"uji_id": "nx-test-0101", "hipotesis": "Parjolo ni roha i, pas tu na na gabe parhepengon na ringkot alai ingkon panganan na mura dohot leleng, songon i, parjolo ni roha i dohot panganan na asing na denggan dohot mura."}
+{"uji_id": "nx-test-0230", "hipotesis": "Hombar dohot mahal, alai panganan na dijual mangan Indonesia somalna. Alai laho manghalasson panganan na sarupa di luat na asing lobi lobi lobi mura. Nasi gorga holan on mahal situtu situtu!"}
+{"uji_id": "nx-test-0377", "hipotesis": "Resto on mar-ragam-ragam rupana, alai godang do ragam ni Resto on mar-ragam Cina dohot Halal."}
+{"uji_id": "nx-test-0113", "hipotesis": "Laho mandapot panindangon na denggan dohot taringot ni lampu na marwarna-warna, mending laho manopot di tingki boru. Alai mar-lapatan panindangon ni jembatan Pasupati na gabe simbol ni kota i."}
+{"uji_id": "nx-test-0198", "hipotesis": "Na manulakhon GBK gabe wadah parmusyaar ni songon-songon godang do. Rumput di lapangan saha do naeng pelihara molo ndang adong do parhepengon parmusyaar. Molo gabe kursi na somal dirusuk ni supporter bola. Aduh."}
+{"uji_id": "nx-test-0029", "hipotesis": "Sipanganon di on denggan-denggan dohot godang ragam. Siganup do denggan dohot panindangon na denggan. Pangulahon na maksimal sian mbak diah dohot gina sian parmulaan sahat tu habis, diulahon dohot na denggan."}
+{"uji_id": "nx-test-0244", "hipotesis": "Kafe on, adong piga-piga sipangan na tongtong situtu, tarida di lumboenk na sarupa dohot vulkano risols goarna."}
+{"uji_id": "nx-test-0161", "hipotesis": "Jabu on ndada pas tu sundut na mambahen anak balita. Jalanan i somal situtu. Laho manjongjong foto di luar holan boi diisi angka 10 halak, alai godang do na mangalehon ulu laho mangalehon foto."}
+{"uji_id": "nx-test-0094", "hipotesis": "Hombar roha ni roha ni roha ni roha ni roha ni roha ni roha ni roha ni roha ni roha ni roha ni roha ni roha ni roha ni roha ni roha ni roha ni roha ni roha ni roha ni roha ni roha ni roha ni roha ni roha ni roha ni roha ni ro"}
+{"uji_id": "nx-test-0107", "hipotesis": "Mangan dohot sundut nunga lobi las ni roha dohot saluhut ragam ni fasilitas na adong i. Lompuan na denggan, panganan na denggan dohot ragam ni parmulaan. Jala rupa dohot pardonganan gabe parange."}
+{"uji_id": "nx-test-0166", "hipotesis": "Sada sian goar ni Batagor na tarsimbolon di Bandung. Rasana mansai, laho roha siganup buahna rp. 10 ribu."}
+{"uji_id": "nx-test-0042", "hipotesis": "Hombar do ahu pe, pendukung tokoh i nunga sude situtu bisana holan maki-maki, fitnah, hata-hata kasar, manarang isus bohong, mangulahon haporseaon, parbinotoan na salpu ndang dipangke."}
+{"uji_id": "nx-test-0188", "hipotesis": "Sate ni kandang H. Ihsan on somalna targoar di Talan."}
+{"uji_id": "nx-test-0223", "hipotesis": "Ruangan i marparsimbolon. Dung mangan dipajongjong do muse dohot luat na marparsimbolon. Godang do kayu na holan dohot galereina. Di bagasan anak-anak pe ndang parsoalan. Adong do dolanan ni anak-anakna. Jadi mangan gabe lobi marsansa."}
+{"uji_id": "nx-test-0111", "hipotesis": "Panindangon na parjolo di sky lounge grandia on i nunga boi mangurupi las ni roha."}
+{"uji_id": "nx-test-0139", "hipotesis": "Sada sian restoran seafood na denggan di kota on. Haduhut ro di tano ni ari sabato, kepiting i so denggan na imbaru."}
+{"uji_id": "nx-test-0209", "hipotesis": "Laho laho manuju tu jabu on dalanna tongtong situtu jala jauh sian pusat kota. Saleleng di i ndang adong do hal na hasusur na mambahen pardalanan na leleng tarbayar. Menua i somalna."}
+{"uji_id": "nx-test-0259", "hipotesis": "Menyu na hita mandok udang, sapi, sapo i, sude na denggan, parjolo di masakna, rasa na pas, hatudosan na denggan. Lango na balga, pangulaon i, denggan na denggan. Sude na denggan dohot denggan tu anak-anak."}
+{"uji_id": "nx-test-0104", "hipotesis": "Hotel naeng mar-check-in asa marragam. Mangantusi alani marsiulahon kamar na umbalga las situtu, massai dah. On ma parjolo ahu tu i. Terus langsung digoari parbinotoan na so denggan."}
+{"uji_id": "nx-test-0118", "hipotesis": "Ristorantuna i adong panindangon ni jolma i, jabu mangan marupa saung. Saungna i godang sian na ro sian na ro sahat tu na ro, ganjang tu na ro sahat tarida panindangon ni jolma i."}
+{"uji_id": "nx-test-0254", "hipotesis": "Mandapot mandok habu-habu, menu na imbaru di gading resto."}
+{"uji_id": "nx-test-0399", "hipotesis": "Mangantusi panganan i dohot leleng situtu, waitressna galak, pas panganan i di tingki i mamangke pizza laho eh gosong sahat tu kasir i di tingki i mamoru ndada sonang, pangulahon i marhite."}
+{"uji_id": "nx-test-0103", "hipotesis": "Jabu on tung na denggan situtu, panindangon na denggan, adong do arena dolanan di luar laho manggogo sapanganuhon. Taringot do direkomendasi tu sapanganuhon na mar-anak na bolon. Makanan halal dohot menu marragam."}
+{"uji_id": "nx-test-0028", "hipotesis": "Pelayanan i somalna leleng, alai sude na diulahon i keren dohot unik, gabe sambil manunggu panganan boi manghalasson sude di resto on, menu na diulahon ragam dohot denggan,"}
+{"uji_id": "nx-test-0285", "hipotesis": "Huparsinta au mangan di angka on ala menu hayu na denggan jala lambok, sambal pas di lidah dohot atmosfer ni restoran i pe."}
+{"uji_id": "nx-test-0350", "hipotesis": "Bakso dohot ceker manang suku hayu i ma sensasi na marragam."}
+{"uji_id": "nx-test-0052", "hipotesis": "Parbagi-bagi godang-godang do i. Hagogoon ni jolma i diulahon. Hombar nasida mandalani video i mangido pardalanan jala mangangguhi-mangangguhi jala mangihut tu inang i jala diingot ia pangulaon i ndada sengaja."}
+{"uji_id": "nx-test-0316", "hipotesis": "Molo, ndang angka ahu sandiri na songon i, digoari do ahu do sude na mamangke di luat i, mangucaphon hal na sarupa, sai tongtong do ndang boi mangaku do pe na tongtong do isyaratna na sude"}
+{"uji_id": "nx-test-0367", "hipotesis": "Bubur Ahong on denggan digoari di tingki mangan. Godang do menu na asing na boi digoari songon bubur. Ruma mangan on rame digoari jala cukup luas. Bubur na denggan pe."}
+{"uji_id": "nx-test-0005", "hipotesis": "On ma sada conto ni generasi na so marguna. Ndang molo marguna tu bangso alai molo gabe sada hal na marguna tu bangso!"}
+{"uji_id": "nx-test-0267", "hipotesis": "Tarida di tingkat 1 ni hotél na gabe tingkat na umbalga, marhite panindangon na luar biasa tu arah bukit na ditambuk parbinotoan."}
+{"uji_id": "nx-test-0362", "hipotesis": "Di tonga on boi mangihuthon stroberi sandiri jala langsung dipajongjong molo na balga balga buahna lumayan dohot las ni stroberianna jala adong do kuliner i pe boi mangan na asing di tonga on"}
+{"uji_id": "nx-test-0299", "hipotesis": "Hupauli do sude ragam ni roti i. Pamilion na godang alai marragam siganup. Roti i las ni roha songon naung sude ari. Ndang mura. Pangulahonna pe na leleng. Mangalusi."}
+{"uji_id": "nx-test-0235", "hipotesis": "Dima on ma na jolo pangkonfirmasina? On nunga dipajongjong, nunga dipajongjong buktina transfer, alai e - tiket sai ndang roha?"}
+{"uji_id": "nx-test-0345", "hipotesis": "Sian sude borngin ndang boi dipangke, ulaon ni roha songon on. Daftar tambahan 2 gb 10 ribu ndang boi-bisa, muba-uba do pulsa ni ahu malah habis ndang dipangke aha-aha."}
+{"uji_id": "nx-test-0032", "hipotesis": "Bus i ndada denggan, mbak, ndada sasintongna dohot na diingot tu uluanmu, alai panganan i ndada denggan sasintongna, dope i do tujuan wisata na mangalusi:"}
+{"uji_id": "nx-test-0157", "hipotesis": "Laho pengecekan laden mandiri verified by visa VBV ndang boi marhite laden mandiri call 14000, alai holan boi marhite email dohot kantor cabang ni bangke mandiri."}
+{"uji_id": "nx-test-0311", "hipotesis": "Hupaulihon 5 transaksi di ari 22 Juni, sadari na so targoar targoar sian adong 7 juta, sian 5 transaksi na imbaru, 3 transaksi na dibahen."}
+{"uji_id": "nx-test-0394", "hipotesis": "Dung roha ahu dong update angka telepon genggam na parjolo tu ulaon ni nasabah taksi BNI molo data di BNI i tingki angka telepon na umbalga, aha do ulaon i!"}
+{"uji_id": "nx-test-0286", "hipotesis": "Harupa ma ahu laho muruk-muruk. Alai ahu sandiri laho mangihut hape parhataan i jala ahu mangiring marhite ekspedisi na asing holan."}
+{"uji_id": "nx-test-0279", "hipotesis": "Sipanganon na denggan, jala panindangon i luar biasa, holan na manuju pintuwangna so markurang asa ndang saluhut jolma boi mangantusi adong pintuwangna i, alai jolma na marlilui."}
+{"uji_id": "nx-test-0287", "hipotesis": "Ruma Reunion House on direkomendasikan situtu laho mangan sude ari di Bandung."}
+{"uji_id": "nx-test-0102", "hipotesis": "Rapat ni pihak bank bri, bpbat sungai gelam - jambi, dohot pokdakan na adong di huta pudak. Laho mangihuthon parange ni panjaluran parhepengon ni csr sian bank bri."}
+{"uji_id": "nx-test-0106", "hipotesis": "Secara ringkasan sih bagus. Gabeanna pe na denggan dohot na denggan. Jala rupa na denggan. Alai panganan i dohot mahal. Mahal situtu situtu. Dompet i ingkon balga."}
+{"uji_id": "nx-test-0193", "hipotesis": "Pelayanan Batik Air Bisnis Class di halim mangalusi, gelas bodas, TV ndang adong marhite kapal terbang na imbaru, haporangan sian turun kapal terbang diulahon"}
+{"uji_id": "nx-test-0055", "hipotesis": "Ristorant Seafood. Menu na hasusuranna i ma kepiting na diinum dohot kulitna. Hombar ni ahu so denggan. Parjolo-jolo dipangkeanna."}
+{"uji_id": "nx-test-0221", "hipotesis": "Di Indonesia pigapiga parbinotoan ni parusahaan HP na marragam. Molo ndang somal do parange ni xiaomi laho mangulahon parbuatonanna i, tinggal pigapiga parbinotoan na asing. Dibawa gabe marsansa-sansa."}
+{"uji_id": "nx-test-0195", "hipotesis": "Langoan ni mangan i torus situtu, alai rap dohot juara. Komposisi ni bumbu kacang i pas jala porsinya ndada lobi balga."}
+{"uji_id": "nx-test-0236", "hipotesis": "Marnida sinema Indonesia di TV on, jotjot do mambahen hangoluan. Ala songon Indonesia ndada parsoalan, alana saluhut nunga marjalan-jalan di luar negeri."}
+{"uji_id": "nx-test-0304", "hipotesis": "Ristoranti i denggan jala balga. Wiro tu on di tingki haporangan dohot ari minggu godang do jolma. Ristoranti i mansai denggan, gurame goreng dohot sambal na denggan."}
+{"uji_id": "nx-test-0323", "hipotesis": "Rekomendasi na denggan. Cappuccinona ketagihan, hargana muring, dohot valet parkir i mangalehon sasintongna."}
+{"uji_id": "nx-test-0190", "hipotesis": "Hotel on nunga marujung sian tolu puluh taon naeng ro, andorang ma ahu lahir. Panginapan parjolo di kota on."}
+{"uji_id": "nx-test-0148", "hipotesis": "Punguan ristoranta ingkon marragam rapih tingki on marragam marragam parpajongjong gabe manggombar tingki on dipatupa roha ni roha ni roha on, adong do uhum ni roha ni roha ni roha ni roha ni roha ni roha ni roha ni roha"}
+{"uji_id": "nx-test-0268", "hipotesis": "Andorang au dohot parange maruli tu Jakarta. Hupasahat dohot jolo tu restoran on. Panindangon i na denggan jala panganan i na mura marragam. Rekomendasi sekali."}
+{"uji_id": "nx-test-0039", "hipotesis": "Buffet mangan haporseaon na umbalga. Angka na sarupa dohot na didapot. Rasana denggan do parbinotoan na godang. Angka na jotjot jotjot diskaon molo roha rombongan. Kesuksesan sai tongtong do i."}
+{"uji_id": "nx-test-0137", "hipotesis": "Inongku na so mansai manghalasson ramen, alai di tikki on ma ibana godang jala gurih."}
+{"uji_id": "nx-test-0382", "hipotesis": "Nang pe i, pangalahoon tu partondian ni mahasiswa sadarion i somal situtu. Godang do ndang mar-responsi dohot na nunga gabe ulaon ni i."}
+{"uji_id": "nx-test-0251", "hipotesis": "Tongtong tongtong ma ayam gorga na huruhut jala mambahen ahu huruhut, sambal na pedas mambahen sensasi mangan lobi situtu dohot arsa na lambok dohot helad teh na lambok"}
+{"uji_id": "nx-test-0059", "hipotesis": "Kafe na denggan, denggan jala mura dohot desain kafe na unik jala mambahen betah."}
+{"uji_id": "nx-test-0164", "hipotesis": "Parbinotoan mangan dohot inuman godang laho dipilih. Jala lapatanna balga, dibagi gabe piga-piga bagian dohot konsep. Laho pajongjong do na ringkot di bagas."}
+{"uji_id": "nx-test-0133", "hipotesis": "Makanan i nunga denggan, alai laho panataan jabu manjumpang, tarida godang molo so marhite, hargo na denggan dohot na denggan dohot na denggan."}
+{"uji_id": "nx-test-0375", "hipotesis": "Molo tu on patuduhon na ringkot mambaen tarong-tarongna, jabu i pe denggan do adong na lasen, ulahon jam haporangan molo laho tu on ala tongtong situtu"}
+{"uji_id": "nx-test-0045", "hipotesis": "101 Dalmatians: The Series i ma sada siri animasi televisi na diulahon ni Disney Television Animation, mar-kerjasama dohot Jumbo Pictures."}
+{"uji_id": "nx-test-0083", "hipotesis": "Richeese factory i ma restaurat ni parusahaan na mangulahon hayu na mar-ragam mar-ragam mar-ragam mar-ragam mar-ragam."}
+{"uji_id": "nx-test-0119", "hipotesis": "Pelayanna ramah. Bikin sai do naeng marulih. Alani pe jotjot muse di on, hotelan i rap dohot panindangon sian kamar hotelan na denggan."}
+{"uji_id": "nx-test-0002", "hipotesis": "Kangkungna denggan alai kepiting ni saos padangna mangalusi hita di pangihut ni kepiting na pungkusan hita ndang mangan dagingna jala dibahen."}
+{"uji_id": "nx-test-0134", "hipotesis": "Hombar do ahu manghabong-habong di angka on, alana suasanana i denggan, panoranganna i do denggan, adong do piga-piga boi di luar ruangan manang di bagasan. Dahare na denggan."}
+{"uji_id": "nx-test-0181", "hipotesis": "Satena na balga-balga. Bumi na dipisah-pisahan. Diida sipisan bawang bodas dohot cabe rawit diukus, porsi lontong na sarupa dohot nasina pe."}
+{"uji_id": "nx-test-0325", "hipotesis": "Ruangan mangan dohot pardalanan ni natoralan on leleng pas tu ulaon dohot pasangan manang dohot somalna."}
+{"uji_id": "nx-test-0095", "hipotesis": "Hombar do au tu pangulahonna. Baru-baru ma porsinta ni sipanganon sipanganon sipanganon sipanganon so diulahon alai nunga dipajongjong."}
+{"uji_id": "nx-test-0338", "hipotesis": "Raso ni Bumbu Nasi Gorong i ndada songon na jolo, tarkesan mura dohot lambok."}
+{"uji_id": "nx-test-0196", "hipotesis": "Lompuan dohot parbinotoan ni jabu on denggan situtu, holan molo panganan dohot inuman di on ndada lobi hasusuranna."}
+{"uji_id": "nx-test-0378", "hipotesis": "Mangihuthon tu Bandung. Mangalului Ramen. Na didok i ma kekinian. Hargana satimpal sasintongna tu rasa. Molo tu Bandung sai tongtong mangihuthon hape."}
+{"uji_id": "nx-test-0370", "hipotesis": "Raso i maruba ndang songon na so diulahon. Tarkesan ni roha. Ingkon diulahon rasa ni roha. Di menu ni pinompa i somal do adong godang ni roha."}
+{"uji_id": "nx-test-0277", "hipotesis": "Taringot do nama-nama ni jolma on. Ahu mangalehon dope secara jolo mamangke samurai. I ma ibana na paling huarsak dohot haporseaonku."}
+{"uji_id": "nx-test-0030", "hipotesis": "Di parjolo ni piala portibi 2018 i, telkomsel mambahen parpeak songon pendukung panularan resmi di bagasan haporseaon bola ni portibi on."}
+{"uji_id": "nx-test-0175", "hipotesis": "Hatauon mangantusi parsiajaran ni ganup jolma i marragam-ragam, adong na lumobi marsiajar nunga mangantusi, adong do muse na ringkot-ringkot mangantusi jolo asa mangantusi."}
+{"uji_id": "nx-test-0256", "hipotesis": "Kericuhan na marujung ujung parhataion na dua ni Pilgub Jabar di ari 14 Mei 2018 naeng ro, mambahen parsaoran ni angka parhataion parhataion."}
+{"uji_id": "nx-test-0379", "hipotesis": "Molo adong na sala dohot parange ni ahu boi marhata-hata langsung tu ahu, alai unang marhata-hata di pudian. Ndang asing songon i. Pengecut!"}
+{"uji_id": "nx-test-0064", "hipotesis": "Ndang pola nasida godang i sinema Indonesia na diulahon ni roha i, ndada holan nasida i ndang denggan, alai molo na roha i roha na denggan pe porsea i."}
+{"uji_id": "nx-test-0222", "hipotesis": "Pernah mangan di poolside hotel hilton? Taringot do pangalehon tu rasa dohot hargo. Makanan na so marragam, ahu mangalehon 20 jolma, saluhut nasida."}
+{"uji_id": "nx-test-0278", "hipotesis": "Ruang maminum kopi di dungo kampus UI, kopi Vietnam -na denggan, hargana parjolo, pas laho marsiajar sasintongna mangulahon tieses"}
+{"uji_id": "nx-test-0385", "hipotesis": "Hombar ni kartu internet ahu ndang boi dipangke padahal kuota lokal i, ahu di lokasi aktivasi jala kartu i pe nunga mar-registrasi."}
+{"uji_id": "nx-test-0000", "hipotesis": "Dung tu hotel ni ahu, dipajongjong do, tongtong dijalang jolma, adong do godang do ragam ni panganan i, luat na balga, dohot las ni roha."}
+{"uji_id": "nx-test-0213", "hipotesis": "Yogyakarta on di siganup sude dalan godang do hotel. Alai sayang. Laho kelas bintang 3 sandiri, hargana lobi mahal dohot pangulaon ndang sarupa."}
+{"uji_id": "nx-test-0276", "hipotesis": "Sipanganon i somalna denggan-sunggan di udara na denggan jala godang do ragam i sian parjoloan ni restoran burangrang, saung purbasari dohot area foodcourt na."}
+{"uji_id": "nx-test-0390", "hipotesis": "Hombar situtu roha ni angka ulaon ni leon di pintu a6 Bandar Udara cengkareng."}
+{"uji_id": "nx-test-0183", "hipotesis": "Goar ni ganup sude. Wah massal molo tingki indihome internet ndang kocek leleng. Ahu i bayar mahal. Usah massaluhon hita songon pelanggan"}
+{"uji_id": "nx-test-0117", "hipotesis": "Sopo guramenya na denggan, pelayanan na denggan, ramah. Ristoranton na hurang. Alani porsinya nasi i torus situtu, dipajongjong do i tu na doyan."}
+{"uji_id": "nx-test-0159", "hipotesis": "Sada sian satu mal dohot konsep na denggan. Godang do pilihan ni restoran asa pas laho manghabishon tingki dohot dongan-dongan."}
+{"uji_id": "nx-test-0040", "hipotesis": "Logo na denggan molo digoari di tingki borngin. Sulit na denggan. Angka na denggan. Parsintahu na denggan. Sulit na denggan."}
+{"uji_id": "nx-test-0089", "hipotesis": "Siganup magodang songon telkomsel, kuotanna godang do, alai rap dohot las ni roha, padahal ndang godang buka aplikasi na balga."}
+{"uji_id": "nx-test-0294", "hipotesis": "Lao on tingki acara kantor. Adong do musik live. Menyu marragam. Parjolo molo laho marragam-ragam alai ragamna marragam-ragam. Ramanna denggan."}
+{"uji_id": "nx-test-0328", "hipotesis": "Kafe on mangalehon panganan tradisional na mar-gaya kafe ni na ninna."}
+{"uji_id": "nx-test-0014", "hipotesis": "Godang do apatis mangkorhon hal-hal songon on. Ala sahat tu siminggu naung pauli sai tongtong so diulahon. Alai parjanji-janji do marujung."}
+{"uji_id": "nx-test-0015", "hipotesis": "Parhepeng ni selangit porsinya seiprit ndang parjolo adong au roha tu na parjolo. Masakanna ndada parsadaan na balga dohot inangku dong!"}
+{"uji_id": "nx-test-0043", "hipotesis": "Jabu mangan ni Nusa na Lumayan on nunga manghalasson aha. Kotor, jolma didapot holan mamangke di ruangan na mar-ac, panganan na jolo do roha."}
+{"uji_id": "nx-test-0240", "hipotesis": "Hombar dohot manaranghon bangsoku na nunga marsak, dung oknum aparat gabe sundut, na tigor dipasalahon jala na tigor dipasalehon"}
+{"uji_id": "nx-test-0348", "hipotesis": "Huasu-asu au sian bulan Pebruari digoari siganup ari di hape sian mnc tv."}
+{"uji_id": "nx-test-0393", "hipotesis": "Mangunjung sian jabu on laho marlomo sasintongna cape macet di pardalanan, panganan na denggan, alai kue-kuenya na denggan, gabe dipajongjong."}
+{"uji_id": "nx-test-0169", "hipotesis": "Molo diporsea detail kronologi, pulsa parjolo dohot parjolo dohot ringkot dohot mention tim i manang, tim i diparsidaan transaksi panggunaan ni pulsa i."}
+{"uji_id": "nx-test-0351", "hipotesis": "Xiaomi, samsung, marhitehon do boi mulak jenis aha jala sasintong do ragam na adongmu, pasahat-sahat do tu luat na manjual hp-na"}
+{"uji_id": "nx-test-0366", "hipotesis": "Raso ni las ni roha dipadomu dohot sambelna. Daging rapot. Hargana sarupa dohot na dipajongjong. Lokasi gampang digoari. Sip parjolo."}
+{"uji_id": "nx-test-0036", "hipotesis": "Jala dipajongjongna i, ganup muruk do partondian on. Jijik dohot ahu dohot i, asli!"}
+{"uji_id": "nx-test-0096", "hipotesis": "Adong do handphone xiaomi redmi note 5 warna gold 64/4 di luat duri selatan, jembatan lima, tambora, jakarta barat."}
+{"uji_id": "nx-test-0184", "hipotesis": "Driver ndada ro tu luat tujuanna, alai di aplikasi nunga pinatupa, jala gopay nunga pinatupa, andorang ahu mamangke gojek"}
+{"uji_id": "nx-test-0185", "hipotesis": "Sipanganon di on patuduhon ahu so denggan i, alana ahu halak Minang, ahu ndang leleng manghalasson sipanganon Jawa na songon hehe"}
+{"uji_id": "nx-test-0038", "hipotesis": "Lango i gampang digoari. Rumaih dohot ragam ni roha, pangulahonna na denggan, boi hita manghatai taringot tu masakan na adong. Asik."}
+{"uji_id": "nx-test-0056", "hipotesis": "Na denggan situtu, alai do na mahal ala porsinya somal mura. Adong do pilihan infused kangen water na ringkot tu opat jolma."}
+{"uji_id": "nx-test-0124", "hipotesis": "Sian dibuka cendana bistro ahu nunga digoari panganan, laho ahu kurang pas, panganan i somal-somal ndang adong na hasusor."}
+{"uji_id": "nx-test-0337", "hipotesis": "Adong do haporseaon tu parpeak laho masuk jurusan film, naeng laho masuk seni rupa na tutu. Alai ragu dohot bakat na adong."}
+{"uji_id": "nx-test-0138", "hipotesis": "Ruangan i denggan. Rasana denggan. Hargana pe tigor. Goti i ndang marbau. Tukokna i recomend tu na mangalehon kuliner goti."}
+{"uji_id": "nx-test-0346", "hipotesis": "Panggogo i denggan situtu, parkindian di susun na rapi. Parbinotoan na ganup alai na denggan, steak na dipajongjong mi ndada super pedas. Hm."}
+{"uji_id": "nx-test-0088", "hipotesis": "Parkiron ma na ringkot sahat sahat ma roha 3x. Saran: Parkiron di ditipe hotel so tarsimbolon dalan. Restoran di luat panuhunan."}
+{"uji_id": "nx-test-0214", "hipotesis": "Bakmi na denggan. Ditambai dagingna rica i dohot na denggan. Rasana sih pedas-pedas alai las ni roha. Mangan sada terasa kurang do."}
+{"uji_id": "nx-test-0247", "hipotesis": "Hombar tu ulaon ni bangke di akhir minggu na maringanan di bekasi, boi ma ibana ro tu kantor ni bangke mandiri taksi bekasi juanda."}
+{"uji_id": "nx-test-0283", "hipotesis": "Ndang massai na asing on kafe modern i ma sada favorit ni halak depok laho mangan, marragam situtu inganan na denggan alana."}
+{"uji_id": "nx-test-0339", "hipotesis": "Hombar tu parnidaan, hupaulahon Mie Goreng na Taringot jala rap dohot roha ni roha ni roha ni roha jala kurang pas di hata."}
+{"uji_id": "nx-test-0391", "hipotesis": "Na lumobi mangalusi i ma tingki pamimpin ndang boi mangalusi jala ndang boi mangalusi dongan na paromparon dohot dongan na balga ni paromparon"}
+{"uji_id": "nx-test-0105", "hipotesis": "Ala kartu Oktrip sadarion i ma sian BNI, gabe diisi uli boi diulahon di mitra-mitra na mar-kerjasama dohot BNI."}
+{"uji_id": "nx-test-0199", "hipotesis": "Gila i. Poso ni mix platter i sahat tu leleng 30 menit. Taringot tu pelayan i, alai bocil. Ndang marresponsif. Leleng."}
+{"uji_id": "nx-test-0329", "hipotesis": "Stasion TV na marragam, ndang konsisten, mangalusi sundut ni persib - persiba, ndang mar-prikamanusi! Payah, dohot cupu!"}
+{"uji_id": "nx-test-0141", "hipotesis": "Citarasa somalna do, ndang adong na hasusuranna. Ingkon manunggu na denggan sasintongna laho mangihuthon panganan, parmahan i pe kurang ramah."}
+{"uji_id": "nx-test-0210", "hipotesis": "Raso ni rote i denggan. Variasi ni rote dohot sipangan na dijual godang. Hatauon na parjolo. Lompang do rote na tawar i. Lompang."}
+{"uji_id": "nx-test-0243", "hipotesis": "Huporseaon do hata na roha i? I ma na manutup parsaoran ni parbinotoan ni parbinotoan i, i pe na mambukka hape tabir ni parbinotoan i."}
+{"uji_id": "nx-test-0307", "hipotesis": "Kang, dalan di Muara Bulian na imbaru, baru sada bulan dilehon, nunga marujung do i. Na mangulahon songon ndang parseru"}
+{"uji_id": "nx-test-0092", "hipotesis": "Télékomunikasi ndada holan tu kota na balga, alai pe sahat tu luat pelosok dohot parbinotoan ni bangso cc: Telkomsel"}
+{"uji_id": "nx-test-0170", "hipotesis": "Ruangan mangan di luar i las ni roha. Iganya oke, rap dohot las ni roha. Jus oren tambah stroberi i las ni roha. Hargana pe dohot oke."}
+{"uji_id": "nx-test-0246", "hipotesis": "Alai penerbangan di Indonesia i ndada na so marhabang-habang tingki."}
+{"uji_id": "nx-test-0386", "hipotesis": "Hypermart nunga mangalehon diskon 20% tu parbuaton na imbaru siganup ari senin - kamis marhite mandiri kartu hypermart"}
+{"uji_id": "nx-test-0208", "hipotesis": "Raso ni panganan i somalna jala ragam i mahal. Lomu i pe somalna. Lokasina i pe lambok situtu sian pusat kota."}
+{"uji_id": "nx-test-0075", "hipotesis": "Molo taringot ni kpk? Kasus ecek-ecek godang-godang do hamu tangke sahat tu lubang semut sahat tu! Ugasan do hamu kpk?"}
+{"uji_id": "nx-test-0207", "hipotesis": "Mambahen parhepengon tu halak na marragam laho manggambar do i. Tarlumobi do i tu publikasi. Sonang situtu. Muak ahu."}
+{"uji_id": "nx-test-0330", "hipotesis": "Jabu i ma na denggan jala na tarida denggan. Jabu i pe na denggan jala adong do menu na asing di jabu on, ndada holan sate."}
+{"uji_id": "nx-test-0302", "hipotesis": "Naik rap, adongna taringot na holan taringot tu batu di dalan. Juanda tingki marlibar i ma anak ni donganna"}
+{"uji_id": "nx-test-0034", "hipotesis": "Parsoalan ni ahu dohot provider on, sahat ma nasida, muruk, roha, ahu roha, marga marga marga, parange na so togu."}
+{"uji_id": "nx-test-0331", "hipotesis": "Panampilan i do na denggan tu foto-foto, angin i dingin, ragam ni panganan i denggan. Ragam i pe tarjangkau pe. Mantap."}
+{"uji_id": "nx-test-0343", "hipotesis": "Molo na massai dohot dongan na! Hulihon so diangkat, tweet so dibalga, email so dibalga, hata so dibalga!"}
+{"uji_id": "nx-test-0272", "hipotesis": "Nasi rawonna somalna denggan, hargana tarlumobi. Dungkun parsikkolaan parahyangan. Tingki na unik dohot kayu-kayu."}
+{"uji_id": "nx-test-0317", "hipotesis": "Hombar do ragam ni pangihut i, alani godang daerah na so boi marragam sian pangihut ni net."}
+{"uji_id": "nx-test-0380", "hipotesis": "Taringot do pangkonfirmasi laho manghatai tu alamat ni na mangalehon i diulahon sadarion manang sude arion."}
+{"uji_id": "nx-test-0389", "hipotesis": "Mana lapatan ni ahu ndang di proses-proses. Ragu do uhum diulihon, alai ursa dohot kuota ni ahu las."}
+{"uji_id": "nx-test-0048", "hipotesis": "Mbeli kaos, topi manang jam di lapak monoton roomstore boi digo khusus mamangke aplikasi di hape boskuh."}
+{"uji_id": "nx-test-0071", "hipotesis": "Ndang pola mandok anak SD na sadarion, molo mamangke jilbab ni bulu i dipajongjong ulu, lapatanna aha?"}
+{"uji_id": "nx-test-0123", "hipotesis": "Bca nunga mangulahon ulaon parngoluan dohot mangajuhon sude pangkorhonna laho maringanan ulaon i."}
+{"uji_id": "nx-test-0125", "hipotesis": "Angka na ringkot ni transaksi bulan 11 na ingkon dipajongjong bulan 12 taon naeng so masuk tu parhepengonku on."}
+{"uji_id": "nx-test-0163", "hipotesis": "Marhite proses panuturion ni tiket i, nunga opat puluh opat ari alai ndang ditransfer."}
+{"uji_id": "nx-test-0334", "hipotesis": "Taringot do internet ni ahu muruk tiba-tiba, sada jabu mamangke simpatia sude i pe ndang boi mamungka internet"}
+{"uji_id": "nx-test-0340", "hipotesis": "Baksonya na denggan diulahon di mangan, inganan na gelleng panginjilan panganan bakso na ringkot tu ahu."}
+{"uji_id": "nx-test-0116", "hipotesis": "Sate baoa dohot gulai ni baoa i ma maknyus, panjajian ni panganna pe na ringkot situtu."}
+{"uji_id": "nx-test-0288", "hipotesis": "Laho mangantusi promo-promo na marragam di tokopedia boi mulak kaca na ro."}
+{"uji_id": "nx-test-0353", "hipotesis": "Ala taman skate on dikelilingi parbinotoan na denggan, ahu marsiajar so ndang naeng marsabo."}
+{"uji_id": "nx-test-0060", "hipotesis": "Saleleng salpu bulan so mangan indomie, somalna mangan langsung gabe dua porsi indomie goreng jumbo."}
+{"uji_id": "nx-test-0320", "hipotesis": "Iphone on. Kamera na pogos i somal situtu ndang boi didapot situtu molo malas mambahen kamera."}
+{"uji_id": "nx-test-0079", "hipotesis": "Raso ni roha i menurutku pedas alai huruh. Inum sirup markisa na imbaru songon es lilina na denggan."}
+{"uji_id": "nx-test-0347", "hipotesis": "Songon i pagi on macet situtu i, nunga tur di bus leleng sada jam, alai ndang sahat-sahat pe."}
+{"uji_id": "nx-test-0352", "hipotesis": "Togu parkindian i somal situtu, sahat inganan oto ingkon dititipkon tu luat parkindian na adong di sada hotel."}
+{"uji_id": "nx-test-0047", "hipotesis": "Mambagi-bagi godang dohot sundut! Mandapot 50 paket umroh siganup panuhunan na ringkot rp 15.000 di alfamart."}
+{"uji_id": "nx-test-0356", "hipotesis": "Asli nunga indihome situtu situtu sai sadarion, aha gunana mangalehon mahal mahal gila roha on tongtong do"}
+{"uji_id": "nx-test-0226", "hipotesis": "Toru na ringkot siganup ari boi mambahen badan ndada sogot jala leleng molo tangi di ganup ari."}
+{"uji_id": "nx-test-0172", "hipotesis": "Rasana nunga sarupa dohot resto na asing na manjual panganan laut. Aman i hurang jala pangulahonna rapih."}
+{"uji_id": "nx-test-0242", "hipotesis": "Hombarkon ma molo sai boru dohot parumaenmu jala parsaoran ndang adong do gunana tu ho."}
+{"uji_id": "nx-test-0275", "hipotesis": "Hujan di parjolo sungkun-sungkun balga, macet dohot hargo ni ojol gabe super ndang diulahon pajongjong"}
+{"uji_id": "nx-test-0150", "hipotesis": "Halak ulaon i ma sada dalan na boi dipangke laho pajongjong pardonganan ni anak bangso."}
+{"uji_id": "nx-test-0192", "hipotesis": "Boasa ndada muruk, coba, kena php indosat terus on."}
+{"uji_id": "nx-test-0318", "hipotesis": "Molo boi dibiarkan bangunan di pudian ni ari, di dalan sian rumah sakit laho manuju pasa Ciroyom, rara."}
+{"uji_id": "nx-test-0127", "hipotesis": "Parjoloanna na so mar-kalidad dohot sasintongna so marsiajar."}
+{"uji_id": "nx-test-0186", "hipotesis": "Pajak, nuaeng, naeng mangihut angka efin, jolo nunga diaktifasi, alai lupa sandok ni akun djponline,"}
+{"uji_id": "nx-test-0216", "hipotesis": "Anti mamangke Power Bank sian handphone samsung i bocor batre i dung dipake tutuan."}
+{"uji_id": "nx-test-0035", "hipotesis": "Sarung bantal, seprai dohot selimut i ndang bodas...trus pardalanan i nunga godang lumut."}
+{"uji_id": "nx-test-0067", "hipotesis": "Dibahen bonus tcash 12.500 alai ndang boi dipangke laho mambaen pulsa na marhite 10 ribu h."}
+{"uji_id": "nx-test-0231", "hipotesis": "Di bagasan akun mycare ni ahu na marbokir i nunga ahu manamba angka im3 ni ahu na imbaru."}
+{"uji_id": "nx-test-0232", "hipotesis": "120 partondian na lulus on dibagi gabe opat kelas mar-jumlah sada-sada 30 sisean."}
+{"uji_id": "nx-test-0006", "hipotesis": "Sore sahabat, sadarion on diulahon parpeliharaan asa aplikasi i ndang boi diulahon."}
+{"uji_id": "nx-test-0154", "hipotesis": "Hai angga, laho manarang tiket parubahon jadwal diparlungguhon mangulahon panghataian jolo i."}
+{"uji_id": "nx-test-0263", "hipotesis": "Tagihan marlombak dua ganup ganup-ganup ala promo habis na so kabaritaon, ndang togu on."}
+{"uji_id": "nx-test-0016", "hipotesis": "Baru jala sadia, 5 sekat panganan sore kotak panganan yooyee kotak bekal anti bocor 590"}
+{"uji_id": "nx-test-0197", "hipotesis": "Raso ni panganan somalna dohot atmosfer i ndada na hasusuranna asa dung sahat dope."}
+{"uji_id": "nx-test-0359", "hipotesis": "Hatauon i ndada lobi mahal, rasana pe denggan, godang do parbinotoan ni sipanganon khas ni Banjar na asing."}
+{"uji_id": "nx-test-0135", "hipotesis": "Siganup na diingot dohot si Pak Rocky i ndang mar-lapatan."}
+{"uji_id": "nx-test-0349", "hipotesis": "Taringot roha ni roha ni roha ni roha ni roha ni roha ni roha ni roha ni roha ni roha ni roha ni roha ni roha ni roha ni roha ni ro"}
+{"uji_id": "nx-test-0128", "hipotesis": "Parmaju lambat mangarespon. Adong do kendala na jolo dijaga. Saleleng on barang so targanti"}
+{"uji_id": "nx-test-0220", "hipotesis": "Mangurupi ragam ni ulaon sandiri ndang becus songon naeng mangurupi boru. Mangurupi otak"}
+{"uji_id": "nx-test-0361", "hipotesis": "Supir gocar ro sian luar kota tu Jakarta laho mangalului penumpang asa laho mandapot angka."}
+{"uji_id": "nx-test-0152", "hipotesis": "Manggunahon kunci duplikat, bank bri di pusat kota dibobol pangalahon, doi rp 1 bilyan lenyap."}
+{"uji_id": "nx-test-0228", "hipotesis": "Molo borngin ibana, taringot tu parbuaton perbankan ni bangke mandiri aha boi hita mangurupi?"}
+{"uji_id": "nx-test-0248", "hipotesis": "Sedih sasintongna mandok las ni laut na nunga sude gabe tongatonga ni boru sambarangan"}
+{"uji_id": "nx-test-0072", "hipotesis": "Calon-calon pamimpin ni luat on tung situtu mangandamhon parange laho mandapothon."}
+{"uji_id": "nx-test-0121", "hipotesis": "Taringot ma nasida, pulik-pulik do pardonganon dohot kesatuan ni Indonesia dohot retorika mu."}
+{"uji_id": "nx-test-0274", "hipotesis": "Youtube godang do pangkean i. Molo manonton pilim, denggan songon, jotjot laho marsiajar."}
+{"uji_id": "nx-test-0303", "hipotesis": "Siganup mahasiswa na boru. Untung do ahu ndada mahasiswa daerah i. Malu woy."}
+{"uji_id": "nx-test-0308", "hipotesis": "Taringot do ndang las ni roha, alai lobi ndang las ni roha molo las ni roha"}
+{"uji_id": "nx-test-0173", "hipotesis": "Hasusor ni quick count digoari marragam dohot hasusor ni survei i mambahen au marsungkun-sungkun."}
+{"uji_id": "nx-test-0269", "hipotesis": "Marsihahol dohot sasintongna. Hombar ma laho mangulahon rutinitas na songon i."}
+{"uji_id": "nx-test-0057", "hipotesis": "Molo daerah banda aceh dohot rantau na nunga lancar, ndang adong marhalang sasintongna."}
+{"uji_id": "nx-test-0202", "hipotesis": "Barita ni ari, ragam administrasi rek simpedes rp 5.500, -/bulan."}
+{"uji_id": "nx-test-0257", "hipotesis": "Pagi on ma naeng lomo lepas helma ni abang gojek dung lomo sian motor alana mangihuthon bus"}
+{"uji_id": "nx-test-0296", "hipotesis": "Paket i nunga ditarima. Unang marsitutu ala ordo na marwarna hitam i dihantaran marwarna kuning."}
+{"uji_id": "nx-test-0215", "hipotesis": "Aplikasi ni mobile banking porsea dipajongjong ala naeng ma aktivasi akun ndang boi."}
+{"uji_id": "nx-test-0227", "hipotesis": "Ristoranton on mar-romantik sasintongna dohot panindangon na ringkot di tingki borngin."}
+{"uji_id": "nx-test-0301", "hipotesis": "Pangkataion na denggan di dongan na ro di pudian ni bukit i, boi didok panindangon ni kota sian na ro."}
+{"uji_id": "nx-test-0099", "hipotesis": "I ma indomie sarupa mangkokna nunga marulir, parsadaan pe isi sarupa wadahna."}
+{"uji_id": "nx-test-0191", "hipotesis": "Sipanganon di on sarupa dohot sian KFC na asing. Ayam na dipanggang i rapih, rapih dohot las ni roha."}
+{"uji_id": "nx-test-0201", "hipotesis": "Goar dohot sundut mangan haporseaon, hargana mahal dohot hasusor na hasusor."}
+{"uji_id": "nx-test-0211", "hipotesis": "On ma aha on? Boasa isi barita on sude, alai i ma mantan narapidana i"}
+{"uji_id": "nx-test-0051", "hipotesis": "Menua panganan i ganup ragam jala mambahen na boi dipesan sude. Murah? Pasti!"}
+{"uji_id": "nx-test-0086", "hipotesis": "Las ni roha mangalului doi marlalau dohot boru, alai hita ndang sahalakna"}
+{"uji_id": "nx-test-0336", "hipotesis": "Ahu paling so mangalehon i, molo naeng maringanan parhataian, suasanana sai manggorhot."}
+{"uji_id": "nx-test-0023", "hipotesis": "Goar hape mangaktifkon paket data indosat ala boi akses tu youtube na so hatudosan."}
+{"uji_id": "nx-test-0298", "hipotesis": "Marnida sinetron do mamungka mangihut las ni roha, alai marnida parsoalan bohong na diulahon."}
+{"uji_id": "nx-test-0292", "hipotesis": "Yang foto sama orang i ndada adik bang doni. Jijik ah foto sama orang i."}
+{"uji_id": "nx-test-0312", "hipotesis": "Godang do pangkelehon hak pilion di palo ni gubernur nunga manandahon palo ni i."}
+{"uji_id": "nx-test-0146", "hipotesis": "Godang do ragam ni omben-omben na imbaru na adong sian jus buah sahat tu godang teh."}
+{"uji_id": "nx-test-0234", "hipotesis": "Hupantok dohot ibana di asrama na ro di hita tingki mahasiswa jolo."}
+{"uji_id": "nx-test-0063", "hipotesis": "Di pilkada 2018, diulahon ma polri mangaronjak pangamanan di sekitar tps."}
+{"uji_id": "nx-test-0315", "hipotesis": "Molo mangan orreo i, alai marragam situtu, ingkon diputer-dijilat-dicelup"}
+{"uji_id": "nx-test-0054", "hipotesis": "Ulaon di tingki borngin boi gabe parbinotoan laho mangurupi tingki leleng."}
+{"uji_id": "nx-test-0180", "hipotesis": "Huparsinta au mangihuthon mandalani parkindian ni oto ni jolma na mangalusi dalan umum."}
+{"uji_id": "nx-test-0142", "hipotesis": "Kue ulangan na hasusor mamangke uhu sepiring jala mozzarella tu hamu"}
+{"uji_id": "nx-test-0372", "hipotesis": "Bulu na denggan, lambok, sambel na denggan."}
+{"uji_id": "nx-test-0187", "hipotesis": "Musim udan songon on, ganup udan ingkon ndang togu las ni roha."}
+{"uji_id": "nx-test-0289", "hipotesis": "Dibahen jam on mar-resist air, alai dipangke marliang do dong i mate"}
+{"uji_id": "nx-test-0341", "hipotesis": "Na mangulahon i ndada dipasomba dohot si Pak Polisi."}
+{"uji_id": "nx-test-0365", "hipotesis": "Logoan ni restoran di Kemang. Mahal dohot so denggan. Ndang tu i."}
+{"uji_id": "nx-test-0149", "hipotesis": "Baru-baru do ahu mangganti angka kartu na marrubuh, alai sai ndang adong isyarat."}
+{"uji_id": "nx-test-0194", "hipotesis": "Mangulahon laurier dupli sahat laho mangantuk di tingki hagaleon asa ndang bocor"}
+{"uji_id": "nx-test-0010", "hipotesis": "Kebun Raya Bogor boi gabe sada tujuan tujuan wisata"}
+{"uji_id": "nx-test-0335", "hipotesis": "Kaskus i sai jotjot manghatai informasi na menarik dohot na parjolo."}
+{"uji_id": "nx-test-0049", "hipotesis": "Parhataian ni Google maps i lapatanna, puas do ahu mamangke i!"}
+{"uji_id": "nx-test-0130", "hipotesis": "Pt kami dohot 12 bangke nunga diparsinta parhepengon ni LRT Jabodebek"}
+{"uji_id": "nx-test-0081", "hipotesis": "Hombar do hita sahat tu hita sian opat taon naeng ro."}
+{"uji_id": "nx-test-0203", "hipotesis": "Logo na denggan dohot na denggan, jotjot diulahon laho manggogo foto pra-wedding"}
+{"uji_id": "nx-test-0219", "hipotesis": "Ketua dpr mangaturhon pilkada serentak na marujung marhite dame."}
+{"uji_id": "nx-test-0239", "hipotesis": "Atelet muda Tano Air mangihuthon serpong run 2018 laho mansai pangalahon"}
+{"uji_id": "nx-test-0313", "hipotesis": "Naeng manunggu dohot dope ma ibana roha holan. Hombar ma ahu roha"}
+{"uji_id": "nx-test-0324", "hipotesis": "Okey boas, padahal hape tiba-tiba mangangguk sandiri saleleng sada ari"}
+{"uji_id": "nx-test-0167", "hipotesis": "Naung porsea ma na mambahen bolon na lobi lobi lobi lobi"}
+{"uji_id": "nx-test-0326", "hipotesis": "Atik do i las ni roha? Las ni roha? Ndang do i holan panindangon sandiri i?"}
+{"uji_id": "nx-test-0058", "hipotesis": "Emosi dohot gojek na ganup mangalusi molo laho tu jabu ahu."}
+{"uji_id": "nx-test-0069", "hipotesis": "Ulaon aha do i, alaon ulaon i marragam, terasa marragam pe"}
+{"uji_id": "nx-test-0182", "hipotesis": "Molo dibege-gebe, sandiaga uno sarupa nadiem makarim sarupa do"}
+{"uji_id": "nx-test-0013", "hipotesis": "Godang do na boi hita mangulahon tingki leleng."}
+{"uji_id": "nx-test-0132", "hipotesis": "Hombarhon 20 tiket tu partondion persebaya vs arema holan."}
+{"uji_id": "nx-test-0110", "hipotesis": "Molo adong admin do do doooooonk mangalusi hata na langsung tu ahu"}
+{"uji_id": "nx-test-0241", "hipotesis": "Bus harapan ni jaya lobi lobi denggan molo dibandingkon na asing"}
+{"uji_id": "nx-test-0264", "hipotesis": "Minta parbinotoan taringot tu daftar ragam ni jumba na diuba"}
+{"uji_id": "nx-test-0217", "hipotesis": "Botol uc1000 torus situtu dibukka i, na mambahen tangan marsahat"}
+{"uji_id": "nx-test-0265", "hipotesis": "Hombar ma ahu dope dope ala pangirimanna sai tongtong marlambat"}
+{"uji_id": "nx-test-0364", "hipotesis": "Las ni roha mandalani bongkahan di ruas dalan kota palangkaraya"}
+{"uji_id": "nx-test-0004", "hipotesis": "Gianyar mandapot parhepengon sosial 2018 songon rp 44, 9 bilyan"}
+{"uji_id": "nx-test-0018", "hipotesis": "Ledakan di Partondian Protestan di Afghanistan Matean 68 Jalo"}
+{"uji_id": "nx-test-0024", "hipotesis": "Baru ndang huparsintahon dongan ni ahu na mangulahon di trans tv"}
+{"uji_id": "nx-test-0098", "hipotesis": "Youtube ganup ganup ari ganup adalna, marsahit!"}
+{"uji_id": "nx-test-0129", "hipotesis": "Unang muse diskon langsung sahat tu Rp 10 juta on!"}
+{"uji_id": "nx-test-0284", "hipotesis": "Sesa-sesa ma dohot pangalahona na mangihuthon terus parbinotoan na asing."}
+{"uji_id": "nx-test-0300", "hipotesis": "So tarlupa manginum gogo mineral 8 - 10 gelas siganup ari."}
+{"uji_id": "nx-test-0369", "hipotesis": "Mangilhon gubernur manang ndada i ma uhum ni ganup jolma."}
+{"uji_id": "nx-test-0310", "hipotesis": "Ai ma hupaulihon hata na langsung i, porsea dipajongjong"}
+{"uji_id": "nx-test-0065", "hipotesis": "Ompu Dian mambaen sisean na imbaru marhite aplikasi Lazada"}
+{"uji_id": "nx-test-0384", "hipotesis": "Ulaon na parjolo di taon 2018 ni ahu siganup ari gabe sipanganon"}
+{"uji_id": "nx-test-0252", "hipotesis": "Ahu nunga mar-registrasi alai ndang mandapot sms sian 5111."}
+{"uji_id": "nx-test-0143", "hipotesis": "Mau muruk tu indosat!"}
+{"uji_id": "nx-test-0155", "hipotesis": "Adongku manjual iphone 8 laho manukar ps5"}
+{"uji_id": "nx-test-0306", "hipotesis": "Ulaon di Giant diskaon 20% dohot kartu kredit ni BCA."}
+{"uji_id": "nx-test-0314", "hipotesis": "Spotify marragam, mamangke adong administrasi bulanan sude"}
+{"uji_id": "nx-test-0245", "hipotesis": "2018 KPK marsitutu laho manuntas kasus e-KTP dohot BBB."}
+{"uji_id": "nx-test-0073", "hipotesis": "Adongku marnida harry potter di trans tv"}
+{"uji_id": "nx-test-0333", "hipotesis": "Godang do jumba dohot pantalon na diulahon di sun mall"}
+{"uji_id": "nx-test-0007", "hipotesis": "Taringot do hita i, au do muse panghorhon"}
+{"uji_id": "nx-test-0046", "hipotesis": "Kantor panghubung Korsel - Korut dibuka minggu on"}
+{"uji_id": "nx-test-0109", "hipotesis": "On ma sop stengkel na denggan di aceh tamiang."}
+{"uji_id": "nx-test-0178", "hipotesis": "Molo diurupi hape bilangan ni ahu bulan naeng ro"}
+{"uji_id": "nx-test-0280", "hipotesis": "Au mamungka parhepengon jala so boi mangalusi."}
+{"uji_id": "nx-test-0291", "hipotesis": "Panindangon na ringkot alai tongtong tongtong roha roha ni ahu"}
+{"uji_id": "nx-test-0398", "hipotesis": "Hombar tu sadarion ma tes cpns mambahen macet, sialannnnnnn"}
+{"uji_id": "nx-test-0225", "hipotesis": "Télépon genggamana hurang sahat parjolo dipatupa"}
+{"uji_id": "nx-test-0044", "hipotesis": "Nadea mangalului Kemeja tu adongna di Uniqlo"}
+{"uji_id": "nx-test-0090", "hipotesis": "Anak ni sadarion imbaru godang nunga boi mamaling"}
+{"uji_id": "nx-test-0354", "hipotesis": "Huparsinta au tu email mandiricare.co.id"}
+{"uji_id": "nx-test-0363", "hipotesis": "Baru tung sahat tu barangna, denggan do"}
+{"uji_id": "nx-test-0205", "hipotesis": "Arif mambaen jaket billabong na parjolo"}
+{"uji_id": "nx-test-0255", "hipotesis": "Okey. On ma ahu manghatai marhite hata na langsung"}
+{"uji_id": "nx-test-0374", "hipotesis": "Sipangan di rumah sakit sai ndang denggan"}
+{"uji_id": "nx-test-0082", "hipotesis": "Apu somalna mamangke semir sapatu kiwi"}
+{"uji_id": "nx-test-0270", "hipotesis": "Hombar sandokna na sahat sahat panyok"}
+{"uji_id": "nx-test-0233", "hipotesis": "Aha on, hargo na mahal, parbinotoan minus!"}
+{"uji_id": "nx-test-0093", "hipotesis": "Parjolo do sahat borngin sahat lima jam."}
+{"uji_id": "nx-test-0097", "hipotesis": "Ahu ndada marsiula-siula dohot parbuaton ni hape"}
+{"uji_id": "nx-test-0168", "hipotesis": "Taringot di siganup tingki naeng roha ni roha"}
+{"uji_id": "nx-test-0360", "hipotesis": "Sigel rap dohot kotak piga-piga penyok"}
+{"uji_id": "nx-test-0012", "hipotesis": "Ahu gabe mamangke jasa lion air"}
+{"uji_id": "nx-test-0332", "hipotesis": "Adong do roha ni ahu mar-brownis primasa"}
+{"uji_id": "nx-test-0355", "hipotesis": "Ahu nunga adong kode akses dohot pin."}
+{"uji_id": "nx-test-0358", "hipotesis": "Ahu denggan alai ndang boi aha-aha"}
+{"uji_id": "nx-test-0250", "hipotesis": "On the spot marragam di trans7"}
+{"uji_id": "nx-test-0001", "hipotesis": "Ya tongtong i, i ma na manjaga warung."}
+{"uji_id": "nx-test-0115", "hipotesis": "Ala lapar, ahu mandok indomie."}
+{"uji_id": "nx-test-0031", "hipotesis": "Ibana somalna mambaen Tisu Paseo"}
+{"uji_id": "nx-test-0387", "hipotesis": "Molo muruk do ahu roha roha"}

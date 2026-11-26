@@ -1,0 +1,401 @@
+{"sidik": "a638ea56f531491139f79ae1282d08feec87ec231b2e2f352a0d5a435d0b3fb8", "parameter": {"model": "facebook/nllb-200-distilled-1.3B", "dekode": {"beam": 5, "ukuran_batch": 32, "panjang_maks_sumber": 128, "faktor_panjang_keluaran": 1.5, "tambahan_panjang": 10, "panjang_maks_keluaran": 256}, "kode_id": "ind_Latn", "kode_bbc": "bjn_Latn"}}
+{"uji_id": "nx-test-0200", "hipotesis": "kalo udah kenyang dengan yang khas bandung, jadi roti bakar bisa jadi pilihan. aku sering beli roti bakar marie yg rasanya yummy, juga roti bakar yg rasanya keju atau coklatnya. biasanya aku beli di konter roti bakar di paskal hyper square. harganya agak mahal, tapi rasanya hampir sama dengan makanan kenang-kenangan. jadi ya tidak terlalu mahal. dan rasanya enak."}
+{"uji_id": "nx-test-0022", "hipotesis": "Restoran ini adalah sabuah destinasi kuliner nang wajib dikunjungi bila datang ka Bandung. Salain makanan nang sangat manjaji lidah makanan sunda, restoran ini jua dibangun lawan konsep makan santai di dalam saung nang dikelilingi alam hutan dan gunung nang dihiasi pohon-pohon teduh wan dihibur oleh gemericik banyu sungai sehingga menawarkan pengalaman kuliner nang sangat mengesankan."}
+{"uji_id": "nx-test-0297", "hipotesis": "ulun dari bali, kebetulan lagi liburan ke bandung, pas di dekat kantor gubernur jawa barat alias dekat gedung sate, kami disaranakan makan di bangku karena dekat. pas masuk kami diberi piring kaleng yang sudah kada bagus lagi, sepertinya sudah karat. akhirnya kami memilih makanan yang kami sukai, dan ratusan lalat terbang kemana-mana karena sudah terlanjur kami masih makan. sangat jijik."}
+{"uji_id": "nx-test-0151", "hipotesis": "Kafe ini baisi arsitektur bangunan nang bagus banar. Karena penasaran, aku maambil waktu gasan bajalan-jalan sambil manunggu makanan datang. Ada galeri nang penuh dengan koleksi kayu wan di luar galeri, pandangan bandung matan tingginya. Banyak jua kursi nang diulah matan kayu wan jua batu di sakitarnya. Sacara makanan, harganya relatif dalam standar nang sasuai lawan kafe-kafe. Ulun suka suasana."}
+{"uji_id": "nx-test-0091", "hipotesis": "Peluang menikmati sarapan pagi karena bermalam di hotel ini. sebagai pengunjung baru seperti saya dan mungkin yang lain mungkin akan antusias dengan suasana sarapan pagi yang diwarnai dengan pemandangan dari sisi timur, karena dari sisi itu terdapat keindahan bangunan hotel beserta kolam renangnya. selain itu barisan bukit dan gunung akan menambah keinginan untuk mengambil foto meriah."}
+{"uji_id": "nx-test-0066", "hipotesis": "Kami bajalan ka sungai, lapar banar. Pas malihat wadah bakar ini, kami langsung singgah gasan makan. Kami mamilih lesehan di lantai dua supaya kawa malihat pemandangan nang indah. Kami mamarintah cumi-cumi goreng tepung, gurame goreng crispy, tumis ginger, wan dua menu tahu nang ulun lupakan ngarannya. Sacara umum kadada nang istimewa dari hidangan ngitu. Mungkin pilihan ulun."}
+{"uji_id": "nx-test-0281", "hipotesis": "Dining room dengan nuansa doraemon. Harga makanan murah dan banyak pilihan. Tempatnya tidak terlalu luas tapi nyaman. Di lantai dua dibangun mirip kamar Nobita dll dengan meja belajar mesin waktu dan pintu ke mana-mana. Banyak boneka doraemon dan komik-komik yang bisa dibaca sambil menunggu makan. Selain itu sambil menikmati hidangan kita bisa menonton film doraemon. Anakku suka makan."}
+{"uji_id": "nx-test-0282", "hipotesis": "ulun ke kafe bakari lawan kaluarga ulun, pandangarannya keren banar. makanan jua enak banar. gasan santai menikmati hidangan wan pandangarannya di bakari ini bagus banar. kami ke sana pada hari minggu, wan banyak banar pengunjung. tapi kada lawas, kami langsung dapat meja. gasan makanan, setelah kami memesan kada perlu menunggu lama, makanan sudah datang. gasan foto jua bagus banar."}
+{"uji_id": "nx-test-0003", "hipotesis": "Di Braga City Walk, sabuting bangunan lawan Aston wan Fave Hotel, wadah nang nyaman banar gasan urang-urang nang bapadah. Kopi campur teh nang pamulaan ulun rasakan banar, digabungakan lawan telur setengah matang jadi teman bapandir lawan kawan-kawan. Daerah bebas asap jadi labih nyaman sambil manikmati pemandangan wan banyak urang nang masuk ka mall ini."}
+{"uji_id": "nx-test-0108", "hipotesis": "nasi goreng mafia nang ada di jalan setiabudi kami pilih karna handak mancari makanan nang hancap. ditambah adalah salah satu kuliner nang wajib dikunjungi di bandung. ulun pilih nasi goreng favorit di sini yaitu nasi goreng bandit sampai tingkat pedasnya di level 3. makanan nang dihidangkan cukup hancap, tapi sayangnya nasi goreng nang ulun minta keras, bumbunya ditutupi bumbu-bumbu."}
+{"uji_id": "nx-test-0011", "hipotesis": "The peak terletak di dekat lembah, dataran tinggi di bandung yang dingin dan lokasi yang sangat baik namun jalan menuju tempat ini sangat melengkung disertai tikungan tajam yang curam, tidak disarankan untuk berkendara saat hujan dan malam hari. Di the peak terdapat restoran dengan pemandangan kota bandung yang indah dari perbukitan, harga makanan yang sangat mahal dan sangat tidak pantas."}
+{"uji_id": "nx-test-0062", "hipotesis": "Tempatnya unik banar, rasa makanan standar, menu nang ditawarakan biasa banar, tapi nang manarik wan uniknya, cara manyambat palayan lawan manampar kentang. Aku sampai di sana wayah malam, ditambah hujan, udara dingin banar, harus menunggu kira-kira 15 menit gasan mendapatkan tempat, karena bloknya penuh pada waktu itu. disaranakan handak ke sana sore-sore."}
+{"uji_id": "nx-test-0262", "hipotesis": "Menu masakan nang disajikan cukup bamacam-macam lawan rasa nang lumayan enak, jumlah pelayan wan waktu layanannya jua cukup baik sahingga kami puas makan siang di situ, hanya tata letak restoran nang lantainya bamacam-macam naik turun sahingga harus ekstra hati-hati gasan urang tuha wan kakanakan halus, mudah-mudahan kawa tatambah maningkatakan palayanan wan bamacam-macam menu. sukses selalu gasan boemi mitoha."}
+{"uji_id": "nx-test-0025", "hipotesis": "Restoran di jalan anggrek ini memiliki keunikan jenis makanan laut yang beragam dan ada yang masih hidup untuk dipilih dan dimasak sekaligus. macam-macam masakan dapat dipilih dan waktu tunggu yang singkat membuat kita tidak terlalu lama lapar menunggu. menu kerapuannya sangat lezat dan gurih, apalagi bila dimasak dengan ikan segar. lokasinya cukup dingin, harga murah."}
+{"uji_id": "nx-test-0305", "hipotesis": "Saya adalah salah satu dari orang-orang yang cukup setia dengan kampung daun sejak pertama kali dibuka pada tahun 2003 jika tidak salah, kualitas makanan awalnya baik, tapi sejak semakin ramai dan semakin banyak datang ke sini, makanan yang disajikan tidak seperti biasanya dan kadang-kadang pelayan terkesan sangat malas, kami memesan beberapa jenis makanan tapi yang datang sudah dalam kondisi dingin dan tidak menarik, tempat menarik."}
+{"uji_id": "nx-test-0171", "hipotesis": "kalo kalian yang lagi nyari restoran yang suasana romantis gak ada salahnya ke sini. dan kalo kalian rendah hati, pesan aja menu yang ringan-ringan. jangan bingung dengan gambar di buku menu jika kalian tidak mau menyesal. menu sarapan lebih oke tapi kayaknya kenapa ya jauh-jauh ke sini hanya mencari itu. di kota lebih afdol kayaknya. pemandangan Jogja malamnya tahan."}
+{"uji_id": "nx-test-0122", "hipotesis": "Berlokasi di pinggir bukit, tempatnya luas, menyenangkan dan nyaman. Memiliki pemandangan yang memanjakan mata, seperti gunung, perkebunan, dan kota bandung jika dilihat dari atas. Stafnya cerdik dan ramah. Menu makanan didominasi oleh menu steak meskipun ada juga menu nasi goreng, gurame, dll."}
+{"uji_id": "nx-test-0114", "hipotesis": "Aku datang ke restoran sapulidi ini karena rekomendasi dari internet nang pernah aku baca bahwa pemandangan nang indah dan restoran nang tepat di sawah nang membuat aku tertarik datang ke tempat ini. tapi pas aku sampai semuanya jadi buruk, mulai dari tempat parkir nang sebetulnya tersedia, jalan akses nang rusak dan ruang akses nang halus."}
+{"uji_id": "nx-test-0295", "hipotesis": "Saya makan malam bersama keluarga di tempat ini karena selain menu utama batagor ada menu lain. Saya hanya memesan dua menu yang akhirnya datang dalam waktu 45 menit, dan itu setelah beberapa kali saya bertanya. dari segi rasa beberapa menu yang sudah saya coba sebelumnya cukup enak. saran sebelum memesan lebih baik bertanya berapa lama menu yang dipesan itu dibuat."}
+{"uji_id": "nx-test-0112", "hipotesis": "Kami bakunjang ka wadah ngini karna lokasi parak lawan wadah kami tinggal. Kami mamarintah nasi bakar wan pasta. Nasi bakarnya enak banar, banyak pilihan, wan kada pedas, kawa gasan kakanakan. Sedangkan pasta cuma ada satu macam, tapi rasanya jua enak. Harga makanan jua murah wan terjangkau gasan makanan di bawah 30 ribu. Di wadah ini jua wifi gratis."}
+{"uji_id": "nx-test-0009", "hipotesis": "Untuk menuju puncak memang terasa sangat jauh dari pusat kota Bandung, dan aksesnya agak bingung dan jalanan kecilnya berliku-liku. tapi anda mungkin tidak akan tersesat karena hampir di setiap tikungan ada papan tanda menuju puncak. tempat ini sangat ideal bagi anda yang mencari suasana malam romantis, dengan pemandangan malam kota yang menakjubkan."}
+{"uji_id": "nx-test-0206", "hipotesis": "warung makan nang sudah ada lawas dan sudah jadi semacam legenda, mungkin wahini sudah buka cabang. terkenal karena konsistensi rasanya selama bertahun-tahun, walaupun bangunan aslinya sudah dipulihkan tapi keaslian masih dijaga dan masih sulit parkir. beberapa waktu belakangan ini ada sedikit perubahan ketika ibu koki utama sudah tidak terlihat lagi."}
+{"uji_id": "nx-test-0156", "hipotesis": "aku bela-belain dari bogor 7 jam untuk makan sup ekornya tapi aku tunggu dari jam 8.30 belum buka juga. akhirnya aku sampai jam 10.00. pesanan sup ekornya belum ada karena alasan malam tadi ramai jadi koki masih kenyang. wow alasan macam apa itu? beda banget waktu aku makan 1 tahun lalu ya. tempat ini kotor banget kayak gak ada niat usaha."}
+{"uji_id": "nx-test-0126", "hipotesis": "Habis belanja habis, kami memutuskan makan di warung tenda di pinggir jalan. Di jalan pulang ke hotel, kami melewati jalan kecil untuk menghindari kemacetan, dan bertemu warteg ini. Pas datang sangat ramai! Kami harus menunggu sebentar. Kami memesan nasi uduk, ayam bakar madu, usus, kubis goreng. Rasanya enak! ayam bakar madu itu sangat bikin ketagihan!"}
+{"uji_id": "nx-test-0261", "hipotesis": "Resto ini baisi suasana nang nyaman lawan gaya kampung tradisional. labih pas dikunjungi wayah sore sampai malam di suasana nang labih romantis lawan cahaya temaram matan obor wan api tungku. makanan nang dihidangkan bamacam-macam mulai makanan Indonesia sampai makanan serba ada Eropa. sangat pas gasan mahabisakan waktu lawan kawan atawa kaluarga."}
+{"uji_id": "nx-test-0174", "hipotesis": "pertama kali ke sini adalah merayakan wisuda kakakku, tempatnya keren banget. desainnya unik, keren, nyaman, nyaman, cocok untuk makan malam bersama keluarga, pasangan, saudara, dan teman-teman, pemandangan juga keren, makanannya juga enak. harganya sebanding dengan pelayanannya, tidak akan menyesal datang ke sini. sangat direkomendasikan."}
+{"uji_id": "nx-test-0253", "hipotesis": "Sambil bajalan ka Bandung, kami bausaho mancuba batagor nang paling rancak di kota kambang ngini sampai kada sadar kami mamarintahakan labih dari kapasitas kami badua: bakso tahu goreng, siomay goreng wan batagor kuah, ayam krim, wan es cendol wan kami masih harus mangungkus pulang tahu yun yin pesanan kami akhirnya."}
+{"uji_id": "nx-test-0397", "hipotesis": "pelayanan bagus, tempat parkir cukup luas, kebun stroberi luas dan banyak stroberi merah yang sudah cukup untuk dipetik. makanan di restoran sangat beragam, rasanya enak, sambal stroberi unik dan lezat. nasi pedas stroberi harus dicoba. sejauh ini semua menu yang saya makan tidak ada yang mengecewakan. sangat direkomendasikan untuk perjalanan keluarga"}
+{"uji_id": "nx-test-0249", "hipotesis": "salah satu tempat makan dan tempat nongkrong yg direkomendasikan teman yg oke banget. tempatnya lumayan naik kalo dari kota, dan agak masuk-masuk sampe gak keliatan kalo dari jalan utama. tapi makanannya enak, tempatnya enak, harganya juga standar. masih layak harga ya. boleh kalo ke malang datang lagi ke sini."}
+{"uji_id": "nx-test-0041", "hipotesis": "coba buka puasa di sini. dengan harga termahal di antara hotel bintang kelasnya, rasa yang ditawarkan sangat mengecewakan. pastinya, makanan lainnya juga samar-samar. sangat berbeda dari apa yang biasanya ditawarkan. dan pelayanan juga kurang profesional ketika melakukan pembayaran dengan kartu kredit."}
+{"uji_id": "nx-test-0160", "hipotesis": "Lokasinya di jalan utama jadi nyaman gasan kita sampai ke tempatnya, amun kada baisi kendaraan pribadi tempat ini kawa dicapai lawan kendaraan umum. menu makanannya banyak banar wan ada beberapa menu nang hanyar ulun temukan di warung ini, rasanya jua enak lawan harga standar, tempatnya nyaman banar."}
+{"uji_id": "nx-test-0070", "hipotesis": "Pas tanggal 12 Februari adalah ulang tahun pacar ulun, ulun ajak sidin makan di restoran terkenal di Surabaya. ulun handak mambari hadiah ulang tahun wan makanan nang enak di sana. tapi. wayah itu ulun datang kira-kira jam 3.30 malam. wadahnya penuh jadi kami harus menunggu. daftar tunggu wayah itu kira-kira ampat meja."}
+{"uji_id": "nx-test-0050", "hipotesis": "Pado malam minggu di sinan, pasangan tu dibari tampek nan indak nyaman, karano katiko urang lalu, tampek kami bagonjong-jonjong tu labiah mirip jo sabuah warung pinggir jalan. Indak sasuai jo harga makanan nan disajikan, pasangan tu diharapkan dibari tampek nan baiak bukan hanyo manarimo tamu jo manyuruahnyo ka tampek nan sarupo itu."}
+{"uji_id": "nx-test-0140", "hipotesis": "Untuk mencari batagor asli, anda tidak perlu mencari jauh-jauh ke sudut, hanya mengarahkan kendaraan ke jalan dari djunjununan, anda bisa menikmati batagor asli yang lezat di tempat yang nyaman. rasa batagor yang ditawarkan sangat menggugah selera karena batagor disajikan keringnya dan disiram bubur kacang segar"}
+{"uji_id": "nx-test-0212", "hipotesis": "Mau makan sambil menikmati suasana paris? jangan jauh-jauh ke prancis, cukup ke paris van java alias bandung. braga permai ini rekomendasi banget buat makan sambil santai-santai. makanannya enak, harganya wajar dan suasananya nyaman banget apalagi meja luar. makan sambil menikmati suasana bandung tempo dulu."}
+{"uji_id": "nx-test-0162", "hipotesis": "Ini adalah salah satu tempat favoritku gasan melihat bogor di malam hari, dengan suasananya yang nyaman disertai makanan dan minuman serta pelayanannya yang ramah. cahaya kota yang benar-benar indah dapat dilihat dari sini. tempat yang direkomendasikan untuk menghabiskan waktu bersama pasangan, keluarga atau teman-teman."}
+{"uji_id": "nx-test-0229", "hipotesis": "Suasana di wadah ini luar biasa. Pas kami datang di wayah magrib, kami manamuakan ruang nang manatap ka air terjun. Garamnya air terjun wan suasana pedesaan manambah rasa malam kami wayah itu. Makanan disajikan dalam gaya tradisional wan rasanya cukup manarik gasan lidah kami."}
+{"uji_id": "nx-test-0266", "hipotesis": "Kada kaya kebanyakan restoran wan kafe lainnya, konsep wadahnya diulah unik. Banyak lampu, lukisan, semi antik. Makanan wan minuman lumayan enak, nang mengejutkan pas malihat daftar menu. Harganya wuooow pas banar di kantong. wan pasti harga murah kada mambari rasa nang beda, tetap enak wan berkualitas."}
+{"uji_id": "nx-test-0177", "hipotesis": "Bandung terkenal sabagai tampek produksi tahu lokal jo kualitas premium, salah satu nan paliang baiak dapek dicari di warung danau. Inyo mampunyoi pabrik surang di jalan Jendral sudirman, tapi mangambangkan usahanya manjadi hidangan kuliner juo. Ado babagai pilihan hidangan tahu. Hal iko sangaik disarankan untuak para pecinta kuliner."}
+{"uji_id": "nx-test-0165", "hipotesis": "Restoran bergaya kuno. Ada tampilan kue, es krim jua. Suasana nyaman. Makanan khas rumah. Bisa gasan rombongan atawa lawan keluarga. Makanannya enak. Nasi ulamnya enak. Nasi tutug oncomnya juga oke. Masakan Eropa, Asia, Nusantara tersedia di sini. Tinggal pilih. Anak-anak suka makan es krimnya di sini."}
+{"uji_id": "nx-test-0344", "hipotesis": "Ulun takajut lawan layanan hotel bintang ampat ini. Pas aku nginep di hotel ngitu, aku diurus kurang baik daripada pelayan nang ada. ditambah kamar mandi nang kada baisi tabung. padahal harganya lumayan mahal. tapi kada sesuai lawan layanan nang diberikan."}
+{"uji_id": "nx-test-0309", "hipotesis": "sumpah, maaf kalo pesen lewat aplikasi ini. mungkin e-ticketnya gak terkirim. dan proses konfirmasinya lama. sebelumnya pernah mengalami hal yang hampir sama di aplikasi sebelah, tapi pelayanannya sangat cepat kasih solusi langsung. gak harus sampai panggilan layanan pelanggan 4 kali."}
+{"uji_id": "nx-test-0342", "hipotesis": "Saya kecewa, saya memesan tiket dan sudah bayar, padahal waktu itu belum habis pas saya transfer, tapi sampai sekarang belum kasih kode bookingnya, malah kasih notifikasi sudah kadaluarsa, lalu uangnya kemana, pas saya hubungi lewat email hanya dibalas sekali."}
+{"uji_id": "nx-test-0078", "hipotesis": "Restoran berbasis daun menyajikan menu khas sunda nang kada jauh beda lawan restoran khas sunda lainnya, tapi nang membedakan adalah kadada piringnya, dan hanya diberi daun pisang nang ditaruh di atas meja sebagai pengganti piringnya."}
+{"uji_id": "nx-test-0189", "hipotesis": "Dari banyak restoran sunda di Bandung, menurut ulun Ciganea adalah salah satu favorit ulun. ulun suka karena ayamnya khas, digorengnya kada terlalu kering. lalu sambalnya kada kalah enak jua. menu lainnya jua enak. tempatnya kaya rumah, kada terlalu besar tapi cukup, dan bersih jua."}
+{"uji_id": "nx-test-0131", "hipotesis": "Baru tahu tentang tempat ini dari kawan kami, waktu kami datang, pengunjungnya kada banyak, jadi kami memilih duduk di lantai dua sambil menikmati pemandangan di luar. Malam itu ada pertunjukan musik, aku kada tahu apakah pertunjukan musik ini ada setiap hari atau kada."}
+{"uji_id": "nx-test-0019", "hipotesis": "ulun wan kakawanan ulun bakunjang di restoran itu. kawan ulun banyak nang takajut malihat pemandangan indahnya di malam hari. ulun sempat mencoba steak impornya, enak banar, apalagi sausnya. mmm yummy. amun ada kesempatan ulun handak bakunjang lagi."}
+{"uji_id": "nx-test-0084", "hipotesis": "Pas rapat di hotel sensa, ulun memesan batagor riri pakai aplikasi gofood/gojek. Pesenan datang kada lawas karna ternyata paket batagor wan siomay sudah dikemas dalam plastik vakum. Harga nang ditunjukakan dalam aplikasi gojek/gojek kada termasuk pajak 10%."}
+{"uji_id": "nx-test-0037", "hipotesis": "Kami ada acara makan malam waktu itu, es krimnya kada dipisahakan lawan espresso jadi kada kawa dicampur sesuai selera masing-masing, steak salmonnya kurang segar, kulit salmonnya keras, kelihatan lawas di kulkas atawa freezer, padahal itu menu utama nang seharusnya enak."}
+{"uji_id": "nx-test-0144", "hipotesis": "Restoran nang mangguna'akan konsep tradisional alias jadul ini patut kamu coba. Salain rasa nang pas, warung ini baisi beberapa hal unik nang kaya piring nang dipakai adalah piring seng kuno diikuti cangkir minumnya. macam-macam menu. wan sabarataan enak banar!"}
+{"uji_id": "nx-test-0068", "hipotesis": "pas pertama kali ke sana, meja-meja mulai usang dan menu-menu yang kurang bervariasi. tapi harganya tidak murah, karena dengan harga-harga itu seharusnya bisa mendapatkan yang lebih baik. terutama ketika aku ke toilet, sangat kotor dan berbau busuk:"}
+{"uji_id": "nx-test-0136", "hipotesis": "Restoran ini baisi lokasi nang prima di bukit nang baisi udara dingin wan pemandangan hijau nang menyegarkan. Tentu tujuan utamanya adalah masakan khas nusantara nang nikmat. Singkatnya, kunjungannya di sini kita kawa melakukan wisata lidah, mata, dan jiwa sekaligus."}
+{"uji_id": "nx-test-0319", "hipotesis": "denger dari mulut ke mulut tentang restoran ini, saking penasarannya, aku coba kunjungi. tapi sayangnya, menurutku, tidak seperti yang banyak diceritakan orang. rasanya biasa-biasa saja, tidak sesuai dengan harga. kayak masakan baru yang aku pelajari."}
+{"uji_id": "nx-test-0153", "hipotesis": "Di malam hari sekitar jam tujuan kami mengundang klien ke restoran ini, secara keseluruhan makanan lebih banyak digoreng, seperti ayam, kaldu, usus, hati ampela, tapi menurut saya rasanya biasa, dan minyaknya terlalu banyak. tapi ada banyak variasi:"}
+{"uji_id": "nx-test-0395", "hipotesis": "Ulun rancak datang makan di rumah nini ulun, ulun katuju banar wan suasana nyaman gasan makan basamaan lawan kaluarga, ada hari-hari nang ada musik langsung, wan makanan nang beragam mulai dari makanan tradisional, Asia, sampai makanan barat."}
+{"uji_id": "nx-test-0085", "hipotesis": "ulun kada datang ke restoran ini pas jam makan siang. tapi restoran ini cukup ramai dan untungnya kami bisa duduk sebentar. pas duduk makanan dan minuman langsung disajikan. sambal hijau kurang pedas gasan kami. makanan enak cukup memuaskan gasan makan di sini."}
+{"uji_id": "nx-test-0074", "hipotesis": "salah satu restoran favoritku di bandung. lokasinya terpencil, tapi masih terjangkau. menu makanannya enak, sunda banget. pandangnya indah, suasananya memang membuat mata dan lidah semua puas. habis makan sampai kenyang, jadi pengen tidur di bangku nya."}
+{"uji_id": "nx-test-0238", "hipotesis": "Amun ka mangkuk ayam pasti manukar ketiaw siramnya, bila dilihat kaya kada banyak, tapi bila dimakan habis, banyak banar gasan porsi ulun, ketiaw siramnya masih juara di sini daripada di wadah lain, bujur haja. Sabuknya jua pas banar lawan selera ulun."}
+{"uji_id": "nx-test-0290", "hipotesis": "Suasana nyaman. Banyak makanan nang dijual. Tempat nongkrong wan kafe nang bagus gasan dikunjungi. Kami dapat belanja di supermarket. Harganya murah jua. Suasana di dalam mall nyaman. Panasnya dingin. Barang-barang bermereknya bagus banar wan banyak diskaun."}
+{"uji_id": "nx-test-0158", "hipotesis": "Harus mencoba untuk bersantai atau makan malam di 18th ini, pemandangan yang didapat baik dan yang menjadi daya tarik di 18th ada lantai kaca. Untuk harga cukup mahal karena terletak di trans hotel, tapi sebanding dengan kenyamanan."}
+{"uji_id": "nx-test-0368", "hipotesis": "Saya datang ke sini dengan pacar saya, tempatnya lumayan luas dan ada area dalam ruangan yang sama di luarnya. Saya duduk di ruang dalam ruangan yang memiliki pemandangan ke luar, jadi ada jendela kaca. untuk makanan saya cukup puas. dari segi harga memang sebanding dengan apa yang ditawarkan."}
+{"uji_id": "nx-test-0218", "hipotesis": "mencari suasana nostalgia di jogja, tempat ini adalah pilihan yang tepat! menu makanan didominasi makanan-makanan yang dipengaruhi gaya makanan belanda. favoritku steak sirloin. restoran ini juga memiliki toko roti dengan pilihan roti bergaya kuno."}
+{"uji_id": "nx-test-0388", "hipotesis": "pas nungguin tahun baru, kita coba ke sini. kita berdua pesen sushi. minum teh milk tea sama kayak es krim vanila dengan kelapa sawit. untuk susu lumayan tapi kebanyakan nasi mirip. tapi rasanya enak. harganya terjangkau."}
+{"uji_id": "nx-test-0237", "hipotesis": "dasar bodoh! belajar bela diri bukan untuk sombong! tapi untuk melindungi diri sendiri! jangan pukul gurumu apalagi orang tuamu! dasar setan, nyawa demi nyawa! kau berhutang satu nyawa!"}
+{"uji_id": "nx-test-0396", "hipotesis": "Banyak urang nang kada katuju ka dokter. Salain biaya nang relatif mahal gasan babarapa urang, ka dokter kada kawa salawasnya manulih. Banyak dokter nang salah diagnosis. Penting atau biasa, dokter jua manusia."}
+{"uji_id": "nx-test-0076", "hipotesis": "Menu di wadah ini bujur-bujur sederhana tapi pemiliknya kreatif. Hidangan noodle, roti wan makanan penutup dicampurkan dengan pilihan nang sama. Tempat nang nyaman gasan batamuan lawan kakawanan. Karana haraganya kada mahal banar nang sama kaya rasa."}
+{"uji_id": "nx-test-0293", "hipotesis": "Sebuah musibah baru-baru ini melanda desa adat di bajawa, flores. kebakaran ganal nang terjadi Senin malam 13/8 hampir membakar seluruh desa. total 27 dari 33 rumah adat nang ada habis terbakar beserta kisah dan sejarahnya."}
+{"uji_id": "nx-test-0077", "hipotesis": "Restoran dengan metode penyampaian yang berbeda. piring tempat makan diganti dengan lembaran daun pisang. menu makanan khas sunda dengan citarasa enak. dari segi harga cukup ramah, ruang makan luas dan banyak pilihan meja, parkir cukup luas."}
+{"uji_id": "nx-test-0053", "hipotesis": "Soto suci ini ada di kaki lima, pertama kali mau makan agak ragu-ragu. Karena ingin tahu rasa suci itu dulu. Ee ternyata enak juga, dan ada juga pilihan untuk mencampurnya, buahnya enak banget. Harganya murah banget."}
+{"uji_id": "nx-test-0020", "hipotesis": "Akses ka dusun bambu kawa diumpati dalam kira-kira 1 sampai 2 jam pakai mobil pribadi."}
+{"uji_id": "nx-test-0026", "hipotesis": "Sabananyo kami taruih mancari masakan nan lain daripado nan lain, jadi kami sampai di restoran Padma Hotel. Kami mamintak menu nan ado. Ada dari Indonesia, Eropa, jo Cina."}
+{"uji_id": "nx-test-0260", "hipotesis": "capek antri, capek cari tempat duduk, capek duduk. buat yang ga punya waktu lama dan lapar, dingin ga kesini. aku kesini pas libur lebaran. makanan di warung-warung di sekitar sini juga agak mahal dan rasanya standar."}
+{"uji_id": "nx-test-0271", "hipotesis": "pertama kali mencoba tapi dihidangkan dengan kelalaian pelayan yg membuat kita menunggu lama 4 lagu marcell lalu lama2 ga jadi order. ga peduli enaknya apapun jika pelayanannya jelek apapun namanya rasanya."}
+{"uji_id": "nx-test-0322", "hipotesis": "Jangankan urang-urang tu mamburuak-buruakkan arato nan kareh, mamburuak-buruakkan kareh, mamburuakkan palayan, mamburuakkan palayan nan bajina, mamburuakkan palayan nan bajina, mamburuakkan palayan nan bajina, mamburuakkan palayan nan bajina, sarato mamburuakkan palayan nan bajina."}
+{"uji_id": "nx-test-0371", "hipotesis": "Walaupun harga sudah naik banar, tapi percayalah kalau nasi padang di bungkus di pinggir angin ribut ini masih jadi salah satu tempat favoritku gasan menikmati masakan padang."}
+{"uji_id": "nx-test-0021", "hipotesis": "makanannya oke sama kaya xo suki lainnya. tapi walaupun hari libur besar seperti lebaran ini bukan berarti senyum libur dan order minuman, dll harus order berkali-kali. tolong jaga kepuasan pelanggan. makasih."}
+{"uji_id": "nx-test-0080", "hipotesis": "ulun datang ke restoran ini gasan makan malam lawan kawan ulun. ulun memesan steak ayam nang sebenarnya ulun kada ingat namanya. rasanya biasa haja, pahit. ayamnya tebal dan rasanya keras dan kering banar. kadada apa-apa nang istimewa."}
+{"uji_id": "nx-test-0224", "hipotesis": "kalo ke sini aku selalu pesan sambal soba. sambal soba digoreng sama sambal soba, enak banget. makanan lainnya juga enak tapi buat aku dan keluarga yang paling enak di sini makan sambal soba sambil minum kopi."}
+{"uji_id": "nx-test-0383", "hipotesis": "nasi uduk ini ada di jalan rajiman dan buka dari sore sampai malam. menu nya cukup sederhana, hanya nasi uduk dan macam-macam tambahannya. biasanya aku makan nasi uduk sama ayam goreng dan sambal, sambalnya tidak terlalu pedas."}
+{"uji_id": "nx-test-0392", "hipotesis": "Bubur ayam nang lumayan disaranakan di sakitar bandung, wadahnya strategis mudah dicari, harganya kada murah kantong, wadahnya selalu ramai dikunjungi setiap hari kerja maupun akhir pekan karena rasanya enak."}
+{"uji_id": "nx-test-0145", "hipotesis": "Kfc palembang square sering jadi penyelamat dalam waktu lapar pas aku nginep di sekitar hotel di lokasi itu. semua orang suka kfc. jadi kfc di lokasi ini mempercepat anda untuk memesan ketika anda lapar di dalam hotel."}
+{"uji_id": "nx-test-0033", "hipotesis": "cukup mudah mencari lokasi ini, tinggal ikuti arah ke pusat kota. di sebelah kiri jalan akan terlihat banyaknya tempat parkir mobil, itulah tempat kafe ini. rasanya cafe ini jarang sepi, banyak pengunjung."}
+{"uji_id": "nx-test-0120", "hipotesis": "makan malam bersama keluarga di hari ulang tahun suami jadi sangat mengesankan dengan suasana yang menawan di hotel. layanan yang sangat ramah dari mas tian. tidak perlu menunggu lama, makanan dan minuman sudah dipesan."}
+{"uji_id": "nx-test-0147", "hipotesis": "Kemarin, tanggal 10 Maret 2015, ulun ajak anak ulun makan siang di sini. ulun minta udang krim wan sayur asam. enak banar. wan nang istimewa di sini adalah sambalnya, pedas tapi masih handak ditambahi. jus blackberry jua enak banar."}
+{"uji_id": "nx-test-0008", "hipotesis": "akhirnya ke hanamasa harganya 120 ribu/orang. tapi puasnya lebih dari itu. bisa makan sepuasnya, tapi rasanya tidak mengecewakan, kita pintar-pintar aja bikin sendiri. kalo penggemar daging sapi pasti suka ke sini"}
+{"uji_id": "nx-test-0321", "hipotesis": "kalo ga punya duit buat beli komik tapi mau nongkrong kesini aja. koleksi komiknya lengkap. makanannya minumannya cuma fasilitas tambahan, tapi lumayan. harganya juga murah khas mahasiswa."}
+{"uji_id": "nx-test-0061", "hipotesis": "makan kaki kambing yang lembut dan lezat ukuran sedang, pas untuk satu orang, makan tanpa nasi, dengan es teh lemon. kekurangannya cuma ada asapnya, wajar aja namanya kambing bakar hehehe"}
+{"uji_id": "nx-test-0376", "hipotesis": "Lokasinya lumayan nyaman, ada di jalan sudirman, dekat dengan pilihan tempat belanja, restoran juga cukup dekat dengan tempat itu. makanannya enak, pilihannya banyak jadi tidak terlalu membosankan. tempatnya juga nyaman."}
+{"uji_id": "nx-test-0027", "hipotesis": "iya itu yg membuatku marah. ini bukan kesalahan pemohon tapi jelas 100% kesalahan pihak di atas yang entah bagaimana mereka berkoordinasi."}
+{"uji_id": "nx-test-0373", "hipotesis": "di pusat perbelanjaan festival city link, restoran ini menyajikan makanan cina makanan a la carte dan dimsum. rasanya cukup enak, ruangannya cukup luas juga, dan banyak keluarga makan di sini. favorit kami udang mayonnaise."}
+{"uji_id": "nx-test-0017", "hipotesis": "gak paham kenapa restoran ini masuk urutan ke 12 dari 1800 restoran di jakarta. harga mahal! lokasi tersembunyi, dan rasa makanan biasa-biasa saja. jangan terlalu percaya sama ulasan yang menyesatkan."}
+{"uji_id": "nx-test-0381", "hipotesis": "Tempat parkirnya kurang luas, dan sangat menyedihkan kalo pas kita makan disuruh pindah mobil karena ada orang lain yang sudah makan dan akan keluar dari mobilnya."}
+{"uji_id": "nx-test-0179", "hipotesis": "Salah satu menu favoritku adalah mcflurry bermacam-macam rasa selain menu paket dua ayam. menurutku, ayam mcd memiliki rasa tersendiri di bagian dadanya juga memiliki tekstur lembut dan rasanya gurih."}
+{"uji_id": "nx-test-0100", "hipotesis": "Kami datang ke kafe ini gasan makan serabi. Serabi itu terlalu tebal gasan kami di tangahnya. Banyak pilihan toping serabi sampai bingung memilihnya. Ternyata harganya lebih mahal daripada warung setiabudi. Kecewa."}
+{"uji_id": "nx-test-0258", "hipotesis": "restoran ini selalu top. suasananya nyaman banget buat ngobrol sama teman, keluarga atau pasangan. makanannya juga enak. walaupun aku biasanya ga terlalu banyak makan. tapi aku paling suka kesini sore-sore sebelum malam."}
+{"uji_id": "nx-test-0176", "hipotesis": "wow kaget banget sama layanan unit keamanan mereka. kasian bromo. bener2 diskriminatif. kalo kita cuma mau informasi tentang produk mereka. kita diremehkan. cenderung diusir. mengecewakan."}
+{"uji_id": "nx-test-0273", "hipotesis": "order soto sama batang panggang, ditambah suasana dingin. rasanya enak dan dilayani dengan ramah sama mbak diah, tisna, echa. sudah dua kali ke sini dan selalu puas dengan kualitas makanan dan pelayanan:"}
+{"uji_id": "nx-test-0087", "hipotesis": "Terakhir kali ulun makan melalui pesanan pengiriman, anak ulun katuju banar makan daging panggangnya. Restoran lawas nang terkenal banar. Harganya lumayan murah gasan kantong dan rasanya masakannya lumayan enak."}
+{"uji_id": "nx-test-0357", "hipotesis": "Kami sama-sama mencoba makan di warung makan nang kaya sarang nang isinya kaca-kaca nang ditutupi ranting-rantingnya nang eksotis, unik, keren, dan enak."}
+{"uji_id": "nx-test-0204", "hipotesis": "pelayanan sangat baik, sangat memuaskan dari segi tempat, indahnya pemandangan kota di malam hari dari segi makanan, terbaik!"}
+{"uji_id": "nx-test-0327", "hipotesis": "Saya mengikuti lomba blog cinta rupiah bank indonesia - net media dan sudah mengirimkan artikel pada 22 Desember 2017 lalu, tapi sampai saat ini status artikel saya masih belum dipublikasikan. Mohon penjelasannya."}
+{"uji_id": "nx-test-0101", "hipotesis": "Steak murah, cocok gasan nang anggarannya halus tapi handak makanan murah wan kenyang, salain steak jua makanan lainnya nang enak wan murah. Suasana cukup ramai, biasanya banyak keluarga atawa kakanakan sakulah."}
+{"uji_id": "nx-test-0230", "hipotesis": "Harganya mahal banget, padahal makanan yang dijual makanan indonesia umumnya. padahal untuk menikmati makanan serupa di tempat lain jauh lebih murah. nasi goreng aja di sini mahal banget! kesal."}
+{"uji_id": "nx-test-0377", "hipotesis": "Restoran ngini baisi menu nang bamacam-macam tapi kebanyakan menu Cina wan halal. Mi ayam jamur wan nasi harumnya enak wan disaranakan. Bebeknya jua enak. Restoran ini wayahini baisi cabang di Istana Plaza."}
+{"uji_id": "nx-test-0113", "hipotesis": "Untuak mandapek pandangan nan rancak jo cahayo lampu-lampu nan barwarna-warni, labiah elok manamui di malam ari. karano mampunyoi latar belakang pandangan jambatan Pasupati nan marupoan lambang kota."}
+{"uji_id": "nx-test-0198", "hipotesis": "yg melarang GBK jadi tempat konser di lagu-lagu yg sangat keras. rumput di lapangan siapa yg mau menjaga jika tidak ada uang konser. belum lagi kursi yg suka dirusak oleh suporter bola. aduh."}
+{"uji_id": "nx-test-0029", "hipotesis": "makanan di sini enak, beraneka ragam, semuanya enak, pemandangan indah, pelayanan maksimal dari mbak diah dan gina dari awal sampai akhir, dilayani dengan sangat baik."}
+{"uji_id": "nx-test-0244", "hipotesis": "Kafe ini, baisi beberapa camilan nang paling top, tahu di Lombok sama kaya Vulcano risols ngarannya, sensasi unik matan tampilan nang sama, rasanya handak lagi, gasan nang penasaran bisa maulah."}
+{"uji_id": "nx-test-0161", "hipotesis": "Tempat ini kada cocok gasan kaluarga nang bawaakan kakanakan halus, jalannya bujur-bujur curam, jadi gasan foto di luar hanya kawa diisi maksimal 10 urang tapi masih banyak nang mapaksa naik gasan foto."}
+{"uji_id": "nx-test-0094", "hipotesis": "Saya dan rekan kerja saya sengaja mencoba makan siang di sini, karena tempatnya cukup nyaman kalo di lantai atas. Rasa ayam panggang di sini saya sangat merekomendasikan dengan sambal mangga."}
+{"uji_id": "nx-test-0107", "hipotesis": "makan bersama keluarga akan lebih menyenangkan dengan semua fasilitasnya. lokasi yang bagus, makanan yang cukup lezat dengan berbagai pilihan. dan pemandangan dan suasana jadi andalan."}
+{"uji_id": "nx-test-0166", "hipotesis": "salah satu nama batagor yg terkenal di bandung. rasanya enak, harga buahnya 10 ribu rupiah. order 3 buah buat saya cukup memuaskan karena ukuran buahnya cukup besar."}
+{"uji_id": "nx-test-0042", "hipotesis": "Aku bingung jua, pendukung tokoh itu hampir seberataan jenisnya hanya bisa makian, fitnah, kata-kata kasar, menyebarkan isu palsu, memprioritaskan emosi, akal sehat tak pernah dipakai."}
+{"uji_id": "nx-test-0188", "hipotesis": "Sate kambing H. Ihsan ini cukup terkenal di tegal. kalo gak bisa kunjungi lokasi di pusatnya. anda juga bisa menemukan sate kambing H. Ihsan di beberapa tempat makan di kota tegal."}
+{"uji_id": "nx-test-0223", "hipotesis": "tempatnya unik. pas makan juga dimanjakan dengan tempatnya yang unik. banyak kayu dan galeri. buat anak-anak juga jangan khawatir. ada mainan anak-anaknya. jadi makan jadi lebih santai."}
+{"uji_id": "nx-test-0111", "hipotesis": "Pemandangan utama di sky lounge grandia ini memang bisa menghilangkan kelelahan. bahkan mungkin, wisatawan mencari area ini lebih dulu, daripada beristirahat di kamar."}
+{"uji_id": "nx-test-0139", "hipotesis": "salah satu restoran seafood terbaik di kota ini. sebaiknya datang di hari libur sabtu, kepitingnya masih enak baru datang. harga kompetitif, tidak murah memang tapi tidak jelek."}
+{"uji_id": "nx-test-0209", "hipotesis": "jalan ke tempat ini macet banget dan jauh dari pusat kota, tapi begitu sampai di sana, ga ada yg spesial yg membuat perjalanan jauh berbayar. menu itu biasa saja."}
+{"uji_id": "nx-test-0259", "hipotesis": "menu yg kami pesan udang, sapi, sabun semuanya enak, dimasak sempurna, rasanya pas, kualitasnya tinggi. tempatnya luas, pelayanannya bagus. semuanya ramah dan ramah anak-anak."}
+{"uji_id": "nx-test-0104", "hipotesis": "hotel mau check-in ga usah ribet. nungguin karena kamarnya udah lama di bersihkan, udah kecewa. ini pertama kalinya aku ke sana. terus langsung jatuh cinta dengan kesan pertama yang ga bagus."}
+{"uji_id": "nx-test-0118", "hipotesis": "Restoran sidin baisi pemandangan air terjun, wadah makan nang kaya saung. Saungnya banyak banar matan bawah ka atas, makin tinggi makin kelihatan pemandangan air terjun."}
+{"uji_id": "nx-test-0254", "hipotesis": "mencoba memesan shabu-shabu, menu baru di restoran gading. kualitas rasanya cukup enak, harga terjangkau. dianjurkan bila membawa tamu atau hanya makan malam bersama keluarga."}
+{"uji_id": "nx-test-0399", "hipotesis": "Menunggu makanannya lawas banar, pelayannya marah, pas makanannya wayah itu aku minta pizza datang eh bakar sampai kasirnya pas aku mambayari kada tatawa, pelayanannya payah."}
+{"uji_id": "nx-test-0103", "hipotesis": "Tempat ini sangat menarik, pemandangan indah, ada taman bermain luar gasan keluarga. dianjurkan banar gasan keluarga nang baisi anak halus. makanan halal wan menu bamacam-macam."}
+{"uji_id": "nx-test-0028", "hipotesis": "Layanan ini agak lama, tapi suasananya keren dan unik, jadi sambil menunggu makan, kamu bisa menikmati suasana di restoran ini, menu yang disajikan beragam dan lezat,"}
+{"uji_id": "nx-test-0285", "hipotesis": "Saya suka makan di sini karena menu ayamnya enak dan lembut, sambalnya pas di lidah dan suasana restorannya nyaman. Selain itu pelayanan juga bagus dengan harga terjangkau."}
+{"uji_id": "nx-test-0350", "hipotesis": "Bakso lawan ceker atawa kaki ayam adalah sensasi nang luar biasa. Enak banar. Salain bakso ada banyak menu lainnya."}
+{"uji_id": "nx-test-0052", "hipotesis": "bagi banyak-banyak. biar orang ini diproses. kangen liat video minta maaf sambil nangis-nangis lalu ngeluh ke mama dan bilang kalo perlakuan itu tidak disengaja."}
+{"uji_id": "nx-test-0316", "hipotesis": "Maaf, lain aku haja nang kaya itu, aku sudah batakun lawan siapa haja nang mamakai di daerah itu, ujar nang sama, tapi masih kada mau mengakui amun sinyalnya buruk."}
+{"uji_id": "nx-test-0367", "hipotesis": "Bubur Ahong ini enak dimakan pas makan malam. Banyak menu lain nang kawa dinikmati selain bubur. Restoran ini ramai dikunjungi wan cukup luas. Buburnya jua enak."}
+{"uji_id": "nx-test-0005", "hipotesis": "Ini salah satu contoh dari generasi yang tidak berguna. bukan malah bermanfaat bagi bangsa tapi malah jadi sesuatu yang berbahaya bagi bangsa!"}
+{"uji_id": "nx-test-0267", "hipotesis": "Ada di lantai 1 hotel nang paling tinggi, mambari pandangan nang luar biasa ke arah bukit nang ditumbuhi pohon-pohon. segar, bersih, nyaman, luar biasa!"}
+{"uji_id": "nx-test-0362", "hipotesis": "Di sini ikam kawa maambil stroberi sorang-sorang wan langsung dibayar amun ganal-ganalnya buahnya ganal-ganalnya jua manis-manis stroberiannya jua ada kuliner jua kawa makan nang lain di sini"}
+{"uji_id": "nx-test-0299", "hipotesis": "Aku manukar macam-macam roti. Banyak pilihan tapi rasanya biasa-biasa haja. Rotinya garing kaya sudah babarapa hari. Kada segar. Palayanannya lawas jua. Kada nyaman."}
+{"uji_id": "nx-test-0235", "hipotesis": "di mana lama banget konfirmasi? ini sudah dibayar, sudah kirim bukti transfer, tapi e-ticketnya masih belum keluar? aku kecewa, gak mau digantung kayak gini."}
+{"uji_id": "nx-test-0345", "hipotesis": "dari semalam ga bisa dipakai, layanan indosat kayak gini. daftar tambahan 2 gb 10 ribu ga bisa, sia-sia pulsa gw malah habis ga dipake apa-apa."}
+{"uji_id": "nx-test-0032", "hipotesis": "Busnya ga nyaman, mbak, ga sesuai dengan apa yg dikatakan atasanmu, belum lagi makanannya kurang enak, lalu tujuan wisata yang mengecewakan:"}
+{"uji_id": "nx-test-0157", "hipotesis": "Gasan pamariksaan layanan mandiri verified by visa vbv kada kawa malalui layanan mandiri call 14000, tapi hanya kawa malalui email wan kantor cabang bank mandiri."}
+{"uji_id": "nx-test-0311", "hipotesis": "Aku sudah malakukan lima transaksi pada tanggal 22 Juni, sabarataan diturunakan langsung dari hampir tujuh juta rekening, dari lima transaksi hanyar, tiga transaksi nang dikembalikan."}
+{"uji_id": "nx-test-0394", "hipotesis": "Lalu aku sia-sia aja memperbarui nomor handphone terbarunya ke layanan pelanggan taksi bni kalo data di bni masih nomor handphone lama, gimana sih layanannya!"}
+{"uji_id": "nx-test-0286", "hipotesis": "Aku sudah bosan marah-marah, jadi biarlah aku yang ambil lagi paketnya, lalu aku kirim melalui ekspedisi lain."}
+{"uji_id": "nx-test-0279", "hipotesis": "Makanannya enak banar, wan pandangannya luar biasa, tapi kada banyak nang datang ka lawangnya jadi kada satiap urang tahu ada lawangnya kecuali urang nang lewat."}
+{"uji_id": "nx-test-0287", "hipotesis": "Reunion house ini sangat direkomendasikan buat makan siang di bandung. nyaman, menyenangkan buat santai ngobrol sama siapa aja. menu juga oke banget."}
+{"uji_id": "nx-test-0102", "hipotesis": "Pertemuan antara pihak bank bri, bpbat sungai gelam - jambi, dan pokdakan nang ada di desa pudak."}
+{"uji_id": "nx-test-0106", "hipotesis": "secara keseluruhan bagus, stafnya ramah, dan pemandangan bagus, tapi makanannya terlalu mahal, bahkan terlalu mahal, dompetnya harus tebal."}
+{"uji_id": "nx-test-0193", "hipotesis": "layanan batik air kelas bisnis di kabut mengecewakan, gelas kotor / bau, tv tidak ada alasan pesawat baru, pengambilan dari turun pesawat dihilangkan"}
+{"uji_id": "nx-test-0055", "hipotesis": "restoran makanan laut. menu spesialnya adalah kepiting dimakan dengan kulitnya. rasanya kurang enak. kulitnya masih agak keras. pelayanannya biasa-biasa saja."}
+{"uji_id": "nx-test-0221", "hipotesis": "Di indonesia banyak sekali pilihan merek handphone. kalo kalian ga suka cara xiaomi menjalankan bisnis kalian bisa pilih merek lain. bawa santai aja."}
+{"uji_id": "nx-test-0195", "hipotesis": "Makanannya sederhana banar, tapi rasanya juara, komposisi bumbu kacangnya pas wan porsi kada terlalu ganal."}
+{"uji_id": "nx-test-0236", "hipotesis": "nonton film indonesia di tv ini, kadang2 bikin galau. karena seolah2 indonesia ga ada masalah, karena semuanya lagi jalan2 di luar negeri."}
+{"uji_id": "nx-test-0304", "hipotesis": "Restorannya bagus wan ganal. wayah makan siang wan hari minggu banyak tamu. makanan enak banar, gurame goreng wan sambalnya mantap."}
+{"uji_id": "nx-test-0323", "hipotesis": "Rekomendasi banget, cappuccino addictive, harga miring, dan valet parkirnya murah hati, datang pas maghrib pasti lebih seru."}
+{"uji_id": "nx-test-0190", "hipotesis": "hotel ini sudah berdiri sejak 30 tahun lalu, sebelum aku lahir. penginapan pertama di kota ini. sekarang sudah banyak hotel berdiri di sini."}
+{"uji_id": "nx-test-0148", "hipotesis": "punya restoran harus mewah rapi musim ini lumut jamur pelayan kurang memuaskan masa aku tumpah air mana minum ada madu aku alergi madu"}
+{"uji_id": "nx-test-0268", "hipotesis": "Sabalum aku wan kakawanan bulik ka Jakarta, aku singgah di restoran ini. Pandangannya keren wan makanannya murah banar."}
+{"uji_id": "nx-test-0039", "hipotesis": "Buffet makan malam paling top. harga pas. rasanya enak pilihannya banyak. harga kadang diskon kalo ada rombongan. sukses selalu ya."}
+{"uji_id": "nx-test-0137", "hipotesis": "Istri ulun, nang kada katuju banar lawan ramen, ujar wayah ini enak wan gurih, jadi inya mamesan lagi gasan dirinya imbah maulah sambalnya."}
+{"uji_id": "nx-test-0382", "hipotesis": "Nah, buhan mahasiswa wayahini kurang sadar akan tanggung jawab. Kabanyakan kada bertanggung jawab lawan apa nang sudah digawi buhannya."}
+{"uji_id": "nx-test-0251", "hipotesis": "Bener tuh ayam goreng yg lezat dan bikin aku ketagihan, sambal pedas bikin rasa makan jadi lebih mantap dengan nasi hangat dan es teh manis"}
+{"uji_id": "nx-test-0059", "hipotesis": "warung kopi nang nyaman, enak, murah dengan desain warung nang unik dan nyaman, makanan nang enak, kopi nang enak, wifi nang cepat dan TV kabel."}
+{"uji_id": "nx-test-0164", "hipotesis": "Ada banyak makanan wan minuman nang kawa dipilih, wan wadahnya ganal, dibagi jadi beberapa bagian wan konsep."}
+{"uji_id": "nx-test-0133", "hipotesis": "Makanannya baik-baik haja, tapi gasan susunan kursi kurang, kelihatan terlalu ramai jadi kada nyaman, harga lumayan dengan kualitas rendah."}
+{"uji_id": "nx-test-0375", "hipotesis": "kalo ke sini harus beli terong gorengnya, tempatnya juga enak, ada yang lesehan, hindari jam makan siang kalo mau ke sini karena penuh banget"}
+{"uji_id": "nx-test-0045", "hipotesis": "101 dalmatians: the series adalah sabuah serial animasi televisi nang diulah ulih disney television animation, basamaan lawan jumbo pictures."}
+{"uji_id": "nx-test-0083", "hipotesis": "Richeese Factory adalah restoran waralaba nang manyervisakan ayam nang bawarna-warni. Cocok banar gasan buhan pian nang bawarna-warni."}
+{"uji_id": "nx-test-0119", "hipotesis": "pelayanannya ramah, membuatku ingin kembali, dan kebetulan aku sering nginep di sini, hotelnya bersih, dan pemandangan dari kamarnya bagus."}
+{"uji_id": "nx-test-0002", "hipotesis": "Buburnya lumayan tapi kepiting sosisnya mengecewakan kami sayang kepiting nang paling akhir kami kada makan terus dikembalikan."}
+{"uji_id": "nx-test-0134", "hipotesis": "Ulun katuju banar tinggal di sini, karna cuaca bagus, cahaya bagus, ada pilihan jadi di luar ruangan atawa di dalam ruangan."}
+{"uji_id": "nx-test-0181", "hipotesis": "Sabuknya ganal banar. Bumbunya dipisah-pisah. Sabuknya diiris bawang putih wan cabe rawit nang dipanasakan. Sabuknya diisi nasi nang sama jua. Aku katuju jua."}
+{"uji_id": "nx-test-0325", "hipotesis": "Tempat makan nang ada suasana alam ini paling pas gasan acara pasangan atawa keluarga."}
+{"uji_id": "nx-test-0095", "hipotesis": "aku kecewa dengan pelayanannya. aku barusan pesan makanan grab orderan gak dikirim tapi sudah selesai. silakan pilih-pilih pekerja."}
+{"uji_id": "nx-test-0338", "hipotesis": "Rasa nasi gorengnya kada kaya bahari lagi, talihat samar wan labih asin."}
+{"uji_id": "nx-test-0196", "hipotesis": "Lokasinya dan arsitekturnya bagus, cuma makanan dan minuman di sini ga terlalu spesial."}
+{"uji_id": "nx-test-0378", "hipotesis": "mampir ke bandung. cari ramen. katanya lagi kekinian. harganya sesuai dengan rasanya. kalo ke bandung lagi pasti mampir lagi."}
+{"uji_id": "nx-test-0370", "hipotesis": "rasa sudah berubah bukan seperti dulu. tampak samar. harus ditingkatkan rasa. untuk menu minuman sangat minim hanya ada minuman ringan"}
+{"uji_id": "nx-test-0277", "hipotesis": "tolong cari alamat orang ini. dia sudah menghina ibuku yang paling aku sayangi dan hormati."}
+{"uji_id": "nx-test-0030", "hipotesis": "Dalam acara piala dunia 2018 nanti, telkomsel ambil bagian sebagai pendukung penyiaran resmi dalam upacara sepak bola dunia tersebut."}
+{"uji_id": "nx-test-0175", "hipotesis": "Urang-urang tu bisa mangarati sasuatu jo caro nan babeda-beda. Sabagian dari urang-urang tu bisa mangarati sasuatu, jikok hanyo sakali mambaco, sadangkan sabagian lai bisa mangarati sasuatu, jikok hanyo sakali mambaco."}
+{"uji_id": "nx-test-0256", "hipotesis": "Kerusuhan nang terjadi di akhir debat kedua pilgub jabar pada 14 Mei 2018 lalu, memicu perselisihan pendapat dari para kontestan debat."}
+{"uji_id": "nx-test-0379", "hipotesis": "kalo ada yg salah dengan tingkah laku aku boleh bicara langsung ke aku, jangan bicara di belakangku."}
+{"uji_id": "nx-test-0064", "hipotesis": "Ga bosen sama film indonesia yg dia mainin terus, bukan bilang dia ga bagus, tapi kalo pelaku itu udah jenuh liatnya juga."}
+{"uji_id": "nx-test-0222", "hipotesis": "sudah pernah makan di poolside hotel hilton? sangat tidak disarankan untuk rasa dan harga. makanan kurang enak, aku bawa 20 orang, semuanya kecewa."}
+{"uji_id": "nx-test-0278", "hipotesis": "warung kopi dekat kampus UI, kopi vietnamenya enak, harganya lumayan murah, cocok buat bermeditasi sambil ngerjain tesis"}
+{"uji_id": "nx-test-0385", "hipotesis": "minimal kartu internet ulun kada kawa dipakai padahal kuota lokal masih, ulun ada di lokasi aktivasi dan kartu sudah terdaftar jua"}
+{"uji_id": "nx-test-0000", "hipotesis": "Dekat hotel aku, jaraknya hanya beberapa kaki, banyak pilihan makanan, luas, dan menyenangkan."}
+{"uji_id": "nx-test-0213", "hipotesis": "Yogyakarta ini di setiap sudut ada banyak hotel. tapi sayangnya. untuk kelas 3 bintang aja harganya lebih mahal dengan layanan yang tidak setara."}
+{"uji_id": "nx-test-0276", "hipotesis": "Makanannya lumayan enak di udara dingin wan banyak variasi mulai dari restoran buangan, saung purbasari wan area foodcourtnya."}
+{"uji_id": "nx-test-0390", "hipotesis": "Kami sangat kecewa lawan layanan karyawan singa di gerbang a6 bandara cengkareng. ulun ditipu, barang rusak wan kotor sampai tujuan."}
+{"uji_id": "nx-test-0183", "hipotesis": "selamat pagi. wah kecewa banget waktu indihome internetnya ga beres lagi. saya bayar mahal. jangan mengecewakan kami sebagai pelanggan."}
+{"uji_id": "nx-test-0117", "hipotesis": "Sup gurunya enak, pelayanannya cepat, ramah. Restoran bersih. Karena porsi nasi sangat sedikit, bagi yang makan, pasti akan menambah."}
+{"uji_id": "nx-test-0159", "hipotesis": "salah satu mall dengan konsep yang unik. banyak pilihan restoran jadi cocok untuk menghabiskan waktu bersama teman-teman."}
+{"uji_id": "nx-test-0040", "hipotesis": "tempat yg bagus untuk dinikmati di malam hari. nyaman. harga yg cukup terjangkau. favoritku adalah steak tenderloins. lumayan enak."}
+{"uji_id": "nx-test-0089", "hipotesis": "penasaran sama telkomsel, kuotanya banyak tapi cepat habis, padahal ga banyak buka aplikasi berat. mencurigakan"}
+{"uji_id": "nx-test-0294", "hipotesis": "di sini ada acara kantor, ada musik live, menu beragam, cocok buat jalan-jalan tapi selera berbeda. rasanya enak."}
+{"uji_id": "nx-test-0328", "hipotesis": "Kafe ngini manyadiaakan makanan tradisional gaya kafé kakanakan. Salain nyaman, haraganya murah wan pas."}
+{"uji_id": "nx-test-0014", "hipotesis": "makin apatis laporan soal hal kayak gini karena sampai minggu lalu masih belum dilakukan. hanya janji-janji terus."}
+{"uji_id": "nx-test-0015", "hipotesis": "harga diatas langit porsi seiprit tidak menjanjikan lagi aku datang ke sini untuk kedua kalinya. masakan tidak jauh berbeda dengan ibuku dong!"}
+{"uji_id": "nx-test-0043", "hipotesis": "restoran nusa indah sekarang mengecewakan ah. kotor, orang diam-diam merokok di ruang ber-AC, makanan lama datang."}
+{"uji_id": "nx-test-0240", "hipotesis": "penting dan menyebarkan negara saya yg sudah sakit, ketika oknum aparat jadi bajingan, yg benar disalahkan dan yg salah dibenarkan"}
+{"uji_id": "nx-test-0348", "hipotesis": "Saya marah sejak Februari dihubungi setiap hari di telepon dari mnc tv. Saya kada pernah langganan, saya lusinan kali klarifikasi."}
+{"uji_id": "nx-test-0393", "hipotesis": "Kunjungi tempat ini gasan istirahat setelah cape macet di perjalanan, makanan baik, tapi kuenya mantap, jadi bayar."}
+{"uji_id": "nx-test-0169", "hipotesis": "Mohon informasi rincian kronologi, pulsa awal dan akhir dengan sebutan tim ya kak, tim akan memeriksa transaksi penggunaan pulsa"}
+{"uji_id": "nx-test-0351", "hipotesis": "Xiaomi, samsung, tergantung model apa yg kalian mau dan harga apa yg kalian punya, tanyakan aja ke penjual handphone"}
+{"uji_id": "nx-test-0366", "hipotesis": "rasa enaknya ditambah sambelnya, dagingnya lembut, harganya sesuai dengan apa yang disajikan, lokasinya mudah dicari."}
+{"uji_id": "nx-test-0036", "hipotesis": "pas dia datang, acara jadi lebih buruk. aku benci dia, asli! maaf ya aku tidak begitu menyukainya"}
+{"uji_id": "nx-test-0096", "hipotesis": "Sudah hilang handphone xiaomi redmi note 5 warna gold 64/4 di daerah duri selatan, jembatan lima, tambora, jakarta barat."}
+{"uji_id": "nx-test-0184", "hipotesis": "Supir kada datang ka tujuan, tapi di aplikasi sudah diaktifkan, dan gopay sudah terputus, sampai aku pakai gojek"}
+{"uji_id": "nx-test-0185", "hipotesis": "makanan di sini kayaknya kurang enak ya, karena aku orang minang, aku kurang suka makanan jawa manis hehe"}
+{"uji_id": "nx-test-0038", "hipotesis": "tempatnya mudah dicari, bersih dan higienis, pelayanannya bagus, kita bisa diskusi tentang masakan yang tersedia."}
+{"uji_id": "nx-test-0056", "hipotesis": "Indah banar, tapi mahal karna porsi halus. Ada pilihan infused water kangen nang cukup gasan ampat urang."}
+{"uji_id": "nx-test-0124", "hipotesis": "Sejak mambuka bistro, ulun sudah mencoba makanan, gasan ulun kurang cocok, makanan biasa-biasa haja kada ada nang istimewa."}
+{"uji_id": "nx-test-0337", "hipotesis": "Aku menyesal memilih jurusan film, tapi aku ragu-ragu soal bakatnya."}
+{"uji_id": "nx-test-0138", "hipotesis": "tempatnya nyaman, rasanya enak, harganya pas, kambingnya ga ada bau, recomended buat para pecinta kuliner kambing."}
+{"uji_id": "nx-test-0346", "hipotesis": "tempatnya lumayan bagus, parkirnya rapi, campuran aneh tapi enak, steak ditambah mie gak super pedas."}
+{"uji_id": "nx-test-0088", "hipotesis": "Parkirnya ngalih sampai tiga kali putaran. saran: parkir di parak hotel lalu jalan kaki. restoran di kawasan perumahan."}
+{"uji_id": "nx-test-0214", "hipotesis": "bakminya enak, ditambah dagingnya yg super enak, rasanya pedas tapi enak. makan satu rasanya kurang."}
+{"uji_id": "nx-test-0247", "hipotesis": "Untuk layanan bank di akhir pekan nang terletak di bekasi, bapak bisa datang ke kantor taksi bank mandiri bekasi juanda."}
+{"uji_id": "nx-test-0283", "hipotesis": "Kada salah lagi kafe modern ini salah satu favorit warga depok gasan makan, berkumpul serangkaian tempat nyaman karena."}
+{"uji_id": "nx-test-0339", "hipotesis": "Nang kaya nang disaranakan, ulun mencoba mie goreng spesial, nang rasanya kada biasa wan kada nyaman di lidah."}
+{"uji_id": "nx-test-0391", "hipotesis": "Yang paling mengecewakan adalah bila pemimpin tidak bisa membedakan mana negarawan dan mana politikus kotor."}
+{"uji_id": "nx-test-0105", "hipotesis": "Karena kartu oktrip wayahini matan BNI, maka pengisi ulang kawa diulah di mitra-mitra nang bagawi lawan BNI."}
+{"uji_id": "nx-test-0199", "hipotesis": "gila ya. pesen mix platter aja udah lebih dari 30 menit. nanya ke servernya malah kabur. ga responsif. lama."}
+{"uji_id": "nx-test-0329", "hipotesis": "Stasiun televisi nang buruk, kada konsisten, mengecewakan pendukung konservatif, kada manusiawi!"}
+{"uji_id": "nx-test-0141", "hipotesis": "rasanya biasa aja, ga ada yg spesial, harus nunggu lama makanan datang, pelayan kurang ramah."}
+{"uji_id": "nx-test-0210", "hipotesis": "rasa roti tu sedap, macam-macam roti dan makanan ringan yg dijual banyak, harga standard, paling suka sama roti segarnya. suka."}
+{"uji_id": "nx-test-0243", "hipotesis": "Tapi, urang nan lai batahan sampai ka akienyo, inyo lah musti ka disalamaikkan."}
+{"uji_id": "nx-test-0307", "hipotesis": "Kang, jalan di muara bulan hanyar, hanyar sabulan dihalalkan, sudah rusak lagi. nang bagawi kaya kada serius"}
+{"uji_id": "nx-test-0092", "hipotesis": "Telekomunikasi kada hanya gasan kota ganal, tapi jua sampai ka daerah pinggiran wan parbatasan nagara cc: Telkomsel"}
+{"uji_id": "nx-test-0170", "hipotesis": "area makan di luar tuh bagus. enak, rasanya enak. jus jeruk plus stroberi tuh enak. harganya oke."}
+{"uji_id": "nx-test-0246", "hipotesis": "Hanya penerbangan di Indonesia nang kada pernah menghargai waktu. sudah bayar mahal tetap layanan mengecewakan"}
+{"uji_id": "nx-test-0386", "hipotesis": "Hypermart mambari diskon 20% gasan produk hanyar setiap Senin sampai Kamis lawan kartu mandiri hypermart"}
+{"uji_id": "nx-test-0208", "hipotesis": "rasanya biasa, harganya mahal, lokasinya biasa, dan lokasinya terlalu jauh dari pusat kota."}
+{"uji_id": "nx-test-0075", "hipotesis": "di mana taringnya? kasus cek puluhan juta kalian tangkap sampai lubang semut! apakah kalian waras?"}
+{"uji_id": "nx-test-0207", "hipotesis": "mambari bantuan gasan korban musibah gasan gambar gratis apalagi gasan publikasi. maaf banar. ulun muak."}
+{"uji_id": "nx-test-0330", "hipotesis": "Tempatnya nyaman wan nyaman, satenya jua enak, wan ada menu lain di tempat ini, lain satenya haja"}
+{"uji_id": "nx-test-0302", "hipotesis": "Naik grab, kakaknya bilang kemarin kena batu di jalan. Juanda pas lebaran ternyata anak temannya"}
+{"uji_id": "nx-test-0034", "hipotesis": "Saya kecewa dengan penyedia ini, sampai marah, marah, emosi, saya keluar, gara-gara, sinyalnya salah."}
+{"uji_id": "nx-test-0331", "hipotesis": "pemandangan bagus buat foto, udara dingin, makanannya enak, harganya terjangkau, mantap."}
+{"uji_id": "nx-test-0343", "hipotesis": "waduh parah banget! telponku ga dibales, tritku ga dibales, emailku ga dibales, smsku ga dibales!"}
+{"uji_id": "nx-test-0272", "hipotesis": "nasi rawonnya enak banget, harga murah. dekat universitas parahyangan. tempatnya unik dengan pohon-pohonnya."}
+{"uji_id": "nx-test-0317", "hipotesis": "Silakan panjangakan jangkauan siaran, karena banyak daerah nang balum kawa manarima siaran net."}
+{"uji_id": "nx-test-0380", "hipotesis": "Mohon konfirmasi pengiriman ke alamat penerima akan dilakukan hari ini atau besok"}
+{"uji_id": "nx-test-0389", "hipotesis": "Di mana laporanku kada diproses, kada yakin duitku akan dikembalikan, padahal pulsa wan kuota ku hilang."}
+{"uji_id": "nx-test-0048", "hipotesis": "Membeli kaos, topi atau jam tangan di lapak monoton roomstore bisa digoda khusus pakai aplikasi di hape boskuh."}
+{"uji_id": "nx-test-0071", "hipotesis": "Aku kada katuju malihat kakanakan sakulah wayah ini, mamakai jilbab rambutnya di luar, apa artinya?"}
+{"uji_id": "nx-test-0123", "hipotesis": "Bca lagi maulah acara ulang tahun wan maundang sabarataan karyawannya gasan ikut acara itu."}
+{"uji_id": "nx-test-0125", "hipotesis": "Biaya transaksi minimum bulan 11 nang seharusnya dikembalikan bulan Desember lalu kada masuk ke rekeningku."}
+{"uji_id": "nx-test-0163", "hipotesis": "kecewa dengan proses pembatalan tiket, sudah 43 hari tapi belum ada transfer."}
+{"uji_id": "nx-test-0334", "hipotesis": "minimal internetku putus tiba-tiba, satu rumah pakai simpati semua begitu jua tidak bisa terhubung internet"}
+{"uji_id": "nx-test-0340", "hipotesis": "Baksonya enak buat dimakan, tempatnya bersih melayani makanan baksonya yang menurutku berbeda."}
+{"uji_id": "nx-test-0116", "hipotesis": "Sate kambing wan gula kambingnya bagus banar, makanan dihidangkan jua lakas banar."}
+{"uji_id": "nx-test-0288", "hipotesis": "Gasan malihat promo-promo nang lagi tarjadi di tokopedia Pian kawa malihat tungkaran di bawah ini."}
+{"uji_id": "nx-test-0353", "hipotesis": "Karena taman skate ini dikelilingi oleh tempat pertemuan nang nyaman, ulun marasa kada akan pernah bosan."}
+{"uji_id": "nx-test-0060", "hipotesis": "Sudah sabulan kada makan indomie, sakali makan langsung maulah dua porsi indomie goreng jumbo."}
+{"uji_id": "nx-test-0320", "hipotesis": "iphone ini. kamera gelapnya jelek banget. ga bisa diandalkan kalo ga bawa kamera."}
+{"uji_id": "nx-test-0079", "hipotesis": "rasa sotonya rasanya pedas tapi gurih. minum sirup passionsa segar sama kaya es lilin enaknya."}
+{"uji_id": "nx-test-0347", "hipotesis": "kayaknya pagi ini macet banget yah, udah naik bus lebih dari sejam, tapi ga nyampe juga."}
+{"uji_id": "nx-test-0352", "hipotesis": "Parkirnya terlalu sempit, sampai mobil harus ditarik ke tempat parkir nang ada di seberang hotel."}
+{"uji_id": "nx-test-0047", "hipotesis": "bagikan berkah bersama sinde! 50 bungkus umroh setiap pembelian minimal rp 15.000 di alfamart."}
+{"uji_id": "nx-test-0356", "hipotesis": "Asli sudah indihome parah banar nah, apa gunanya bayar mahal mahal gila emosi ini bujur-bujur"}
+{"uji_id": "nx-test-0226", "hipotesis": "Tidur nang cukup sahari-hari kawa maulah awak kada lapar wan segar bila bangun di pagi hari."}
+{"uji_id": "nx-test-0172", "hipotesis": "rasanya hampir sama kayak resto seafood lainnya. aman bersih dan pelayanan cepat."}
+{"uji_id": "nx-test-0242", "hipotesis": "Tinggalkan kalo kau sudah bosan dengan pacarmu dan pacaran itu tidak ada gunanya bagimu."}
+{"uji_id": "nx-test-0275", "hipotesis": "Hujan pagi-pagi ini sangat menjengkelkan, macet dan harga ojol jadi super tak terkendali bikin bete"}
+{"uji_id": "nx-test-0150", "hipotesis": "Menjauhi narkoba adalah salah satu cara nang kawa dipakai gasan maningkatakan kualitas anak bangsa."}
+{"uji_id": "nx-test-0192", "hipotesis": "kenapa ga marah coba, kena php indosat terus. pulsa selalu terputus ludes ga ada sisa."}
+{"uji_id": "nx-test-0318", "hipotesis": "Kok bisa bangunan ditinggalakan di atas sungai, di jalan matan rumah sakit ka pasar Ciroyom, aneh."}
+{"uji_id": "nx-test-0127", "hipotesis": "Kabar-kabarnya kadada kualitasnya, kadada pandidikannya."}
+{"uji_id": "nx-test-0186", "hipotesis": "pajak, kakak, mau minta nomor efin, sebelumnya sudah diaktifkan, tapi lupa password akun djponline,"}
+{"uji_id": "nx-test-0216", "hipotesis": "powerbank anti pakai sejak handphone samsungku bocor baterai setelah dipakai."}
+{"uji_id": "nx-test-0035", "hipotesis": "Sarung bantal, selimut dan selimutnya sudah tak putih lagi... jadi dindingnya sudah banyak lumut."}
+{"uji_id": "nx-test-0067", "hipotesis": "Dapat bonus tunai 12.500 tapi kada kawa dipakai gasan manukar pulsa seharga 10.000 h aneh"}
+{"uji_id": "nx-test-0231", "hipotesis": "Di akun MyCare nang diblokir tadi ulun sudah manambahakan nomor im3 hanyar ulun"}
+{"uji_id": "nx-test-0232", "hipotesis": "120 peserta nang lulus ini dibagi jadi 4 kelas nang masing-masing baisi 30 siswa."}
+{"uji_id": "nx-test-0006", "hipotesis": "Siang, kawan-kawan, wayahini di bawah pangopènan sahingga aplikasi kada kawa diakses."}
+{"uji_id": "nx-test-0154", "hipotesis": "Hai kawan, gasan mangaluarakan tiket parubahan jadwal diparluakan pambayaran sabalumnya ya."}
+{"uji_id": "nx-test-0263", "hipotesis": "Tagihan naik dua kali lipat gara-gara promo habis tanpa pemberitahuan, ini kada bujur."}
+{"uji_id": "nx-test-0016", "hipotesis": "Baru dan tersedia, 5 partisi kotak makan siang kotak makan yooyee kotak pasokan anti bocor 590"}
+{"uji_id": "nx-test-0197", "hipotesis": "Rasa makanan biasa-biasa haja wan suasana kada istimewa jadi sakali datang sudah cukup."}
+{"uji_id": "nx-test-0359", "hipotesis": "Harganya kada larang banar, rasanya jua enak, banyak pilihan makanan khas Banjar lainnya."}
+{"uji_id": "nx-test-0135", "hipotesis": "Semua yg mr. rocky sampaikan itu tak berdasar. heran dia bisa jadi profesor."}
+{"uji_id": "nx-test-0349", "hipotesis": "kau tahu, lu mat. jangan sok-sokan. bicarakan semuanya. bicaramu sesat."}
+{"uji_id": "nx-test-0128", "hipotesis": "Penjual lambat merespons, masalah lawas sudah diatasi."}
+{"uji_id": "nx-test-0220", "hipotesis": "Ngurus gaji karyawan sendiri aja gak enak kalo mau ngurus bumn. Pikir pake otak."}
+{"uji_id": "nx-test-0361", "hipotesis": "Supir gocar datang matan luar kota ka Jakarta gasan mancari panumpang gasan mandapat poin."}
+{"uji_id": "nx-test-0152", "hipotesis": "Pakai kunci duplikat, bank bri di pusat kota dirampok, duit Rp 1 miliar hilang."}
+{"uji_id": "nx-test-0228", "hipotesis": "selamat sore bu, soal produk perbankan mandiri apa yg bisa kami bantu?"}
+{"uji_id": "nx-test-0248", "hipotesis": "Sedih banar malihat lautan nang wahini kotor jadi tempat sampah nang kada tapakai"}
+{"uji_id": "nx-test-0072", "hipotesis": "Calon pamimpin nagara ini cukup kuat gasan mempersiapkan strategi gasan kamenangannya."}
+{"uji_id": "nx-test-0121", "hipotesis": "bakar terus pak, hancurkan persatuan dan persatuan indonesia dengan retorika anda."}
+{"uji_id": "nx-test-0274", "hipotesis": "Youtube banyak manfaatnya. kawa malihat pilem, mandangar lagu, kadang gasan balajar."}
+{"uji_id": "nx-test-0303", "hipotesis": "sekelompok mahasiswa bodoh. untung aku bukan mahasiswa daerah itu. malu woy."}
+{"uji_id": "nx-test-0308", "hipotesis": "Biarpun kada baik kena macet, tapi lebih buruk lagi kena macet di masa lalu."}
+{"uji_id": "nx-test-0173", "hipotesis": "Hasil penghitungan cepat berbeda dengan hasil survei, jadi aku jadi penasaran."}
+{"uji_id": "nx-test-0269", "hipotesis": "rasa kenyang sama macam semuanya. bosan dengan rutinitas macam tu."}
+{"uji_id": "nx-test-0057", "hipotesis": "Ke daerah banda aceh dan sekitarnya masih lancar, tidak ada gangguan sama sekali."}
+{"uji_id": "nx-test-0202", "hipotesis": "Selamat siang, biaya administrasi rek simpedes Rp 5.500,-/bulan. tarima kasih era"}
+{"uji_id": "nx-test-0257", "hipotesis": "Pagi-pagi ini lupa buka helm, kakak goyang-goyang setelah turun dari motor karena mengejar bus."}
+{"uji_id": "nx-test-0296", "hipotesis": "Paket sudah diterima. agak kecewa karena pesanan warna hitam dikirim warna kuning."}
+{"uji_id": "nx-test-0215", "hipotesis": "aplikasi mobile banking bni tolong di perbaiki karna handak mengaktifkan akun kada kawa."}
+{"uji_id": "nx-test-0227", "hipotesis": "Restoran ini sangat romantis dengan pemandangan nang indah di malam hari"}
+{"uji_id": "nx-test-0301", "hipotesis": "Tempatnya nang indah di puncak bukit, kawa malihat kota dari atas."}
+{"uji_id": "nx-test-0099", "hipotesis": "Itu indomie sama mangkuknya sudah berkeliaran, terpisah lagi isi mangkuknya sama."}
+{"uji_id": "nx-test-0191", "hipotesis": "makanan di sini sama kayak di kfc lainnya. ayam gorengnya renyah, gurih dan enak"}
+{"uji_id": "nx-test-0201", "hipotesis": "Makan malam lawan kaluarga, larang banar lawan rasa biasa haja."}
+{"uji_id": "nx-test-0211", "hipotesis": "siapa dia? kenapa dia jadi berita, bukan mantan narapidana itu?"}
+{"uji_id": "nx-test-0051", "hipotesis": "Menu makanannya cukup bamacam-macam wan handak manukar sabarataan. Murah kah? Pasti!"}
+{"uji_id": "nx-test-0086", "hipotesis": "Cemburu lihat doi becanda sama cewek, tapi kita bukan siapa-siapa"}
+{"uji_id": "nx-test-0336", "hipotesis": "Aku paling kada katuju, bila parak pemilu, suasana selalu panas."}
+{"uji_id": "nx-test-0023", "hipotesis": "Kembali mengaktifkan paket data indosat karena dapat akses youtube nang tak terbatas."}
+{"uji_id": "nx-test-0298", "hipotesis": "nonton sinetron aja udah mulai bosan apalagi nonton isu bohong yang diprediksi."}
+{"uji_id": "nx-test-0292", "hipotesis": "gambar yg sama tu bukan adik bang doni."}
+{"uji_id": "nx-test-0312", "hipotesis": "Mayoritas pamakai hak pilih dalam pamilihan gubernur sudah manantuakan pilihan."}
+{"uji_id": "nx-test-0146", "hipotesis": "Berbagai macam minuman segar tersedia mulai dari jus buah sampai macam-macam teh."}
+{"uji_id": "nx-test-0234", "hipotesis": "Ulun tatamu sidin di asrama nang kita tinggal pas masih mahasiswa."}
+{"uji_id": "nx-test-0063", "hipotesis": "Dalam pilkada 2018, polisi diminta maningkatakan kaamanan di sakitar tps."}
+{"uji_id": "nx-test-0315", "hipotesis": "Mau makan oreo jangan susah-susah, harus diputar-dijilat-dicelupkan"}
+{"uji_id": "nx-test-0054", "hipotesis": "Olahraga di malam hari bisa jadi pilihan gasan maisi waktu luang."}
+{"uji_id": "nx-test-0180", "hipotesis": "Ulun marasa takajut malihat urang-urang baparkir mobil di jalan umum."}
+{"uji_id": "nx-test-0142", "hipotesis": "Kue ulang tahun spesial dengan telor piring plus mozzarella gasan ikam"}
+{"uji_id": "nx-test-0372", "hipotesis": "Bebeknya enak, lembut, sambalnya enak, tempatnya bersih dan lumayan."}
+{"uji_id": "nx-test-0187", "hipotesis": "Musim hujan kayak gini, setiap hujan pasti ga tenang karena takut banjir."}
+{"uji_id": "nx-test-0289", "hipotesis": "katanya jam ini tahan air, tapi dipakai berenang doang udah mati"}
+{"uji_id": "nx-test-0341", "hipotesis": "Urang nang malakukan itu jangan disarahakan ka polisi, kuburan hidup-hidup haja."}
+{"uji_id": "nx-test-0365", "hipotesis": "lokasi restoran di kemang. mahal dan ga enak. jangan ke sana."}
+{"uji_id": "nx-test-0149", "hipotesis": "Aku hanyar mengganti kartu nang rusak, tapi masih kadada sinyal."}
+{"uji_id": "nx-test-0194", "hipotesis": "Pakai laurier double pas mau tidur pas menstruasi biar ga bocor"}
+{"uji_id": "nx-test-0010", "hipotesis": "Kebun raya bogor kawa dijadikan salah satu tujuan tujuan wisata"}
+{"uji_id": "nx-test-0335", "hipotesis": "Kaskus rancak mambariakan informasi nang menarik wan hanyar"}
+{"uji_id": "nx-test-0049", "hipotesis": "aplikasi google maps sangat berguna, saya puas pakai aplikasi ini!"}
+{"uji_id": "nx-test-0130", "hipotesis": "Pt kami lawan 12 bank sudah menandatangani pembiayaan lrt jabodebek"}
+{"uji_id": "nx-test-0081", "hipotesis": "Kita sudah saling membenci selama 4 tahun belakangan ini."}
+{"uji_id": "nx-test-0203", "hipotesis": "Tempat nang nyaman wan nyaman, kadang-kadang dipakai gasan foto pre-wedding"}
+{"uji_id": "nx-test-0219", "hipotesis": "Ketua DPR apresiasi pilkada serentak nang berlangsung damai."}
+{"uji_id": "nx-test-0239", "hipotesis": "Atlet muda tanah air umpat serpong run 2018 gasan ajang uji coba"}
+{"uji_id": "nx-test-0313", "hipotesis": "Udah nungguin jd ternyata dia dateng besok. mau aku marah tuh"}
+{"uji_id": "nx-test-0324", "hipotesis": "Oke bos, walaupun handphone tiba-tiba berbunyi sorang-sorang selama sehari"}
+{"uji_id": "nx-test-0167", "hipotesis": "Pernah percaya kalo body lotion bikin rambut jadi lebih banyak?"}
+{"uji_id": "nx-test-0326", "hipotesis": "kau yakin itu tulus? tulus? bukankah itu hanya gambaran, ya?"}
+{"uji_id": "nx-test-0058", "hipotesis": "Emosi lawan gojek nang selalu menyesatkan bila datang ke rumahku."}
+{"uji_id": "nx-test-0069", "hipotesis": "Minuman apa aja sih? Cara minumnya aneh, rasanya aneh juga."}
+{"uji_id": "nx-test-0182", "hipotesis": "kalo dipikir-pikir, sandiaga uno sama nadiem makarim mirip ya"}
+{"uji_id": "nx-test-0013", "hipotesis": "Ada banyak hal nang kawa kita gawi gasan maisi waktu luang."}
+{"uji_id": "nx-test-0132", "hipotesis": "Aku handak manukar 20 tiket gasan pamainan tim lawan arema besok."}
+{"uji_id": "nx-test-0110", "hipotesis": "gasan kakak admin tolong doooooonk balas pesan langsung ulun"}
+{"uji_id": "nx-test-0241", "hipotesis": "Bus harapan jaya jauh lebih nyaman daripada nang lain"}
+{"uji_id": "nx-test-0264", "hipotesis": "Minta informasi tentang daftar harga baju nang dijual"}
+{"uji_id": "nx-test-0217", "hipotesis": "Botol uc1000 tuh susah banget dibuka, bikin tangan sakit."}
+{"uji_id": "nx-test-0265", "hipotesis": "Ulun makin benci lawan JD karna pangiriman selalu lambat."}
+{"uji_id": "nx-test-0364", "hipotesis": "Ulun bosan banar malihat sampah di jalanan di pinggiran kota."}
+{"uji_id": "nx-test-0004", "hipotesis": "Gianyar manarima bantuan sosial 2018 sajumlah rp 44, 9 miliar"}
+{"uji_id": "nx-test-0018", "hipotesis": "Ledakan dalam demonstrasi di Afghanistan menewaskan 68 urang"}
+{"uji_id": "nx-test-0024", "hipotesis": "Aku hanyar tatamu kawanku nang bagawi di trans tv"}
+{"uji_id": "nx-test-0098", "hipotesis": "Youtube makin hari makin banyak iklannya, payah!"}
+{"uji_id": "nx-test-0129", "hipotesis": "Jangan lewatkan diskon langsung sampai Rp 10 juta di sini!"}
+{"uji_id": "nx-test-0284", "hipotesis": "Hanya marah dengan perilaku kasar terus kelompok sebelah."}
+{"uji_id": "nx-test-0300", "hipotesis": "Jangan kada ingat minum banyu mineral 8 sampai 10 gelas sahari."}
+{"uji_id": "nx-test-0369", "hipotesis": "Milih gubernur atawa kada adalah pilihan masing-masing urang."}
+{"uji_id": "nx-test-0310", "hipotesis": "Sudah ulun kirim pesan langsung, silakan dicek langsung"}
+{"uji_id": "nx-test-0065", "hipotesis": "Semalam Dian manukar celana hanyar lewat aplikasi Lazada"}
+{"uji_id": "nx-test-0384", "hipotesis": "Anw indomie pertama di tahun 2018 malam tadi jadi nikmat"}
+{"uji_id": "nx-test-0252", "hipotesis": "Aku sudah daftar tapi kada kawa SMS dari 5111."}
+{"uji_id": "nx-test-0143", "hipotesis": "mau marah sama indosat! kenapa sinyalnya hilang begitu saja?"}
+{"uji_id": "nx-test-0155", "hipotesis": "Adikku manjual iPhone 8 gasan manukar PS5."}
+{"uji_id": "nx-test-0306", "hipotesis": "Belanja di Giant diskon 20% lawan kartu kredit bca."}
+{"uji_id": "nx-test-0314", "hipotesis": "Spotify ribet, pakai ada administrasi bulanan semuanya"}
+{"uji_id": "nx-test-0245", "hipotesis": "2018 kpk bertekad menyelesaikan kasus e-ktp lawan BBI."}
+{"uji_id": "nx-test-0073", "hipotesis": "Adikku lagi manonton Harry Potter di trans tv"}
+{"uji_id": "nx-test-0333", "hipotesis": "Banyak baju wan celana dijual di mal matahari"}
+{"uji_id": "nx-test-0007", "hipotesis": "Memang kita ini lemah. Aku jua pengecut sebenarnya."}
+{"uji_id": "nx-test-0046", "hipotesis": "Kantor penghubung Korsel-Korean dibuka minggu ini"}
+{"uji_id": "nx-test-0109", "hipotesis": "Ini adalah sop batang nang paling enak di Aceh."}
+{"uji_id": "nx-test-0178", "hipotesis": "Silakan kirim pulang tagihanku bulan lalu"}
+{"uji_id": "nx-test-0280", "hipotesis": "Ulun mulai bisnis wan kada takutan gagal."}
+{"uji_id": "nx-test-0291", "hipotesis": "Pikiran sempit tapi sok benar sangat mengganggu aku"}
+{"uji_id": "nx-test-0398", "hipotesis": "Karena apapun tes cpnsnya jadi macet, sialan."}
+{"uji_id": "nx-test-0225", "hipotesis": "Ponselnya gagal pas pertama kali dihidupkan."}
+{"uji_id": "nx-test-0044", "hipotesis": "Nadia mancari baju gasan adingnya di uniqlo"}
+{"uji_id": "nx-test-0090", "hipotesis": "Anak-anak wahini sudah ganal sudah wani mancuri"}
+{"uji_id": "nx-test-0354", "hipotesis": "ulun sudah melaporakan ke email mandiricare.co.id"}
+{"uji_id": "nx-test-0363", "hipotesis": "Barangnya hanyar sampai, bagus banar"}
+{"uji_id": "nx-test-0205", "hipotesis": "Arif manukar jaket billabong nang paling hanyar"}
+{"uji_id": "nx-test-0255", "hipotesis": "Oke. ulun sudah mengirimkannya lewat pesan langsung"}
+{"uji_id": "nx-test-0374", "hipotesis": "Makanan di rumah sakit rancak kada bagus"}
+{"uji_id": "nx-test-0082", "hipotesis": "Ayah rancak mamakai sapatu kiwi."}
+{"uji_id": "nx-test-0270", "hipotesis": "Sayang kotaknya jadi agak menyengat"}
+{"uji_id": "nx-test-0233", "hipotesis": "Apa ini, harga mahal, layanan minus!"}
+{"uji_id": "nx-test-0093", "hipotesis": "Harusnya tidur paling kada lima jam."}
+{"uji_id": "nx-test-0097", "hipotesis": "ulun kada kecewa lawan produk apple"}
+{"uji_id": "nx-test-0168", "hipotesis": "Pas liburan pasti macet di mana-mana."}
+{"uji_id": "nx-test-0360", "hipotesis": "Segelnya rapi walaupun kotaknya agak menyengat"}
+{"uji_id": "nx-test-0012", "hipotesis": "Aku sembuh pakai jasa Lion Water"}
+{"uji_id": "nx-test-0332", "hipotesis": "Adikku tuh suka brownis prima."}
+{"uji_id": "nx-test-0355", "hipotesis": "Aku sudah baisi kode akses wan pin."}
+{"uji_id": "nx-test-0358", "hipotesis": "Aku cemburu tapi kada kawa apa-apa"}
+{"uji_id": "nx-test-0250", "hipotesis": "On the spot tayang di trans7"}
+{"uji_id": "nx-test-0001", "hipotesis": "Iya tuh, dia jaga warung."}
+{"uji_id": "nx-test-0115", "hipotesis": "Karena lapar, aku minta indomie."}
+{"uji_id": "nx-test-0031", "hipotesis": "Sidin biasanya manukar tisu paseo"}
+{"uji_id": "nx-test-0387", "hipotesis": "Mau marah-marah aja aku sama-sama kurang ajar"}

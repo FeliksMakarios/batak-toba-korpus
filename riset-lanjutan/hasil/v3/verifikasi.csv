@@ -1,0 +1,27 @@
+pemeriksaan,kolom,baris_dicocokkan,baris_rilis,selisih_maks,lolos
+s10_skor,chrf,612,612,0.005,True
+s10_skor,bleu,612,612,0.005,True
+s10_skor,chrf_ik_bawah,612,612,0.005,True
+s10_skor,chrf_ik_atas,612,612,0.0049,True
+holm_lama,selisih_chrf,88,88,0.005,True
+holm_lama,ik_bawah,88,88,0.005,True
+holm_lama,ik_atas,88,88,0.005,True
+holm_lama,p_holm,88,88,0.0,True
+holm_terkoreksi,selisih_chrf,88,88,0.005,True
+holm_terkoreksi,p_holm,88,88,0.0,True
+tabel3_lama,asli_indonesia,12,12,0.0045,True
+tabel3_lama,asli_toba,12,12,0.0045,True
+tabel3_lama,selisih_toba_minus_indonesia,12,12,0.0043,True
+varietas_keluaran,persen_AM,86,86,0.0048,True
+audit_korpus_kami,persen_AM,1,1,0.0006,True
+audit_korpus_kami,persen_Toba_saja,1,1,0.0014,True
+esa_kesepakatan,nilai,9,9,0.0,True
+esa_kendall_lama,kendall_tau_b,8,8,0.0004,True
+esa_kendall_lama,ik_bawah,8,8,0.0005,True
+esa_kendall_lama,ik_atas,8,8,0.0006,True
+esa_skor_manusia,skor_rata,8,8,0.0,True
+esa_persen_mayor (rilis dibulatkan 1 desimal),persen_mayor,8,8,0.03,True
+esa_skor_manusia_ik (informatif),ik_bawah,8,8,0.58,True
+esa_skor_manusia_ik (informatif),ik_atas,8,8,1.28,True
+c6_skor,chrf_lama,132,132,0.0049,True
+c6_skor,chrf_baru,132,132,0.005,True

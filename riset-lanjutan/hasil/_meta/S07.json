@@ -1,0 +1,39 @@
+{
+  "kode": "S07",
+  "nama": "MADLAD-400 zero-shot",
+  "sidik": "2a6ede1d0a9c1e5eab1558728a291e61a3f99acb3bff803b0b8c13b7e04da4aa",
+  "waktu": "2026-11-16T09:12:54+00:00",
+  "parameter": {
+    "model": [
+      "google/madlad400-3b-mt"
+    ],
+    "set_uji": [
+      "kami",
+      "nusax",
+      "nusatranslation"
+    ],
+    "dekode": {
+      "beam": 5,
+      "ukuran_batch": 32,
+      "panjang_maks_sumber": 128,
+      "faktor_panjang_keluaran": 1.5,
+      "tambahan_panjang": 10,
+      "panjang_maks_keluaran": 256
+    },
+    "kode": [
+      "<2id>",
+      "<2bbc>"
+    ]
+  },
+  "masukan": {
+    "s05_uji.csv": "27d05122b2e2bcc6c01d76f24e873b7b38c872463d84ba758ff13dbacaa99939"
+  },
+  "keluaran": {
+    "s07_ringkasan.json": "21ad6681aa82eaf9055f752a5ead12a6443a35cab36df4c930ec6e8f4d872d07"
+  },
+  "ringkasan": {
+    "catatan": {
+      "madlad3b_zeroshot": "lengkap"
+    }
+  }
+}

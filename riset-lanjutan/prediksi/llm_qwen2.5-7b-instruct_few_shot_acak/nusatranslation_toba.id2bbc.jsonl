@@ -1,0 +1,401 @@
+{"sidik": "ba9048065220a9fc071001a65157dcea9254005a4453dbb0ea64e856a8403e39", "parameter": {"model": "Qwen/Qwen2.5-7B-Instruct", "k": 5, "token_baru_maks": 200, "data_latih": "350beae755f9b1e0d00d61cccb443cc877bd9d2ae29e0435715edf71ee766428", "versi_prompt": 1, "kondisi": "few_shot_acak"}}
+{"uji_id": "nt-test-1803", "hipotesis": "Kamar olo, saa datang di kamarnya ada noda cokelat, terus di bantalnya ada noda hitam, Olo sangat lako nggak dicuci cuma dibalik, sewaktu mau check-out dituduh mengotori selimutnya yang padahal dari waktu datang sudah ada, dan deposit mau diambil, jadi kalau kalian datang ada noda ato olin dikamar langsung komplain, Karena nanti kalian dituduh yang mengotori kamar itu ato deposit akan diambil, check-in baru bisa jam dua, sarapan cuma nasi goreng pake telur, Kamar mandi ba, saluran air di bawahnya olo, olo lako ada rambut-rambut, nggak lagi mau menginap di hotel itu."}
+{"uji_id": "nt-test-1887", "hipotesis": "Yang berkesan i hotel do mambihin makan sahur (sebagai ganti sarapan) waktu saya menginap di sini pada bulan Ramadhan. Yang perlu diperbaiki sada handuk do ditukar, plafon do dicat ulang agar bersih (ada plak hitam), dan mungkin kamar do dicek ulang (sepertinya ada air AC yang bocor menetes di kamar. Selebihnya baik."}
+{"uji_id": "nt-test-1514", "hipotesis": "Pelayanan sambana bono, petugasku sambana samah, pemandangan sambana bono, kamar sambana nyamana, cemilana dan air minum sambana ada di kamar, air panas di teko nunga hea minta petugas. Harga sambana murah. Menu sarapan sambana lumayan banyak. Saat cek in telat 15 menit, lantai sambana masih basah karna habis dipel dan sambana masih sangat bau pengharum menyengat."}
+{"uji_id": "nt-test-1853", "hipotesis": "Selama manute airy room i airy paling mepet 1. wifi nek nek nek konek ke kamar 2. pintu kamar mandi nek nek nek ditutup kalau blom dikunci dr dalam 3. ac netes netes bocor 4. shower nek nek nek dipegang blom bisa ditaruh tempatnya 5. INI YANG PARAH LISTRIK KAMAR MATI nek nek nek abs pulsa listriknya tp responnya nek nek nek blom ada inisiatif cepet"}
+{"uji_id": "nt-test-1141", "hipotesis": "Tempat na pe saka strategis. Bangunan na pun pe saka usang na pe terurus, i ma di kawas hotelna pe sepi. Beberapa na fasilitas hotelna pun pe ada yang rusak, contohna AC, shower, kasur, kunci lemari. Walaupun yang menginap pe sedikit na, tapi tetep sape di buatkan sarapan. Ya sesuai lah sama budget kita. Overall hotelna lumayan bagus kok. Terima kasih~"}
+{"uji_id": "nt-test-0467", "hipotesis": "Sanggale sibaleh... kamar ahu so adong foto, kotor, TV jadul kecil, remote TV i AC i ahu do, kamar mandi kotor, flus toilet ahu do, bantal airy room ahu do, hanya pocket airy room do, lemari i laci ahu do, ahu lap depan toilet, tisu toilet ahu do. PAYAH!!!"}
+{"uji_id": "nt-test-1981", "hipotesis": "Airy Progo marpana Hotel Progo, sian remani gabe ngeleme. Marantaan ngepil jam 7, tdi ada perlakuan khusus asa check out sian marantaan. Termasuk kami i do musa ngepil marantaan sian jam 6 pagi. Marantaan rong, AC dingi, bersih. Toilet tua na tiada water heater. Semoga lebih baik gabe remani."}
+{"uji_id": "nt-test-0670", "hipotesis": "Reposi tina i maol do tersedia 24 jam. Au huparsinta au, ninna hita reposi. Nen telepon ninna hita keluar. Ketik check out ninna hita tunggu 30 menit lebih. Reponi tina i maol do nyamun kucing dan baunya busuk. Keadaan depan penginapan i maol do mirip internet."}
+{"uji_id": "nt-test-1265", "hipotesis": "Positif: mara daera hang dagaran, ruangan na mar-bahinuhun bersih, pelayanan na mar-penungguhun ramah dan sigap. Sirkulasi udara na mar-bahinuhun, taalap kamar mandi na mar-becek. Suasana na mar-bahinuhun tenang, taalap bangkena i istirahat. Pangkayasan na mar-bahinuhun sesuai tawaran. Negatif: handuk, sprei, sarung bantal, dohot selimut na mar-bahinuhun bersih. Bantal na mar-bau."}
+{"uji_id": "nt-test-1839", "hipotesis": "Selimut na utek panjang ma lebar i 2 jolma, gambar TV na utek bagus, shgg na utek ditonton, tmpt sampah na kamnai na sy kluarkan dpn kamnai i biar dibuang i petugai, tp smpai mlm sy k homestay, sampah na utek na dibuang, biasanya na tmpt lain na bersihkan i ada perbaikan air, shgg na utek kotor i dpn kamnai ma berisik."}
+{"uji_id": "nt-test-1321", "hipotesis": "Tamu sy mandok tida kumusan akan layanan kamar na, diberi kamar tida bisa terkunci dari luas, jadi jika keluar cari makan harus bawa ransel x naik turun kelantai 3. Ketika komplen minta pindah kamar tida diladeni alias DICUEKI padahal sdh 3x tamu sy menginap disini...."}
+{"uji_id": "nt-test-0795", "hipotesis": "Hau godang, boi do sipunihonta, hulit rame i ndada faktor panentu; lokasi strategis i punggu gerbang Stasiun Cirebon; dohot asing na jangkauan WiFi i ndada rendah, view i kamar i ndada batas, kasur i ndada mudah berubah bentuk, dohot asing na jangkauan TV i ndada batas."}
+{"uji_id": "nt-test-0251", "hipotesis": "Seneng banget biar bagep kibahagiaan bersama parjoloan ni & juga saudara ni na hataon puasa Tiduh aki bagi-bagi tajil na makanan ni hata bagep buka aki, tapi aki pun hataon penampilan na JNE Idol na Freestyle bola ni hibur parjoloan ni na parjoloan ni na lampu merah"}
+{"uji_id": "nt-test-1326", "hipotesis": "Ruangana oke, cemilana mungkin ditambah roti atu kopi dan teh ya hargana naik 5-10rb gapapalah biar layak bintang 4, ohiya di Fulmar House fasilitasna tersedia air panas tapi diweb AiryRooms Fulmar gak tersedia air panas, sama securityna mengintimidasi gak ramah juga sama tamu."}
+{"uji_id": "nt-test-1511", "hipotesis": "Sprei alang-alang do gabe digantih dohot ada somal bahteh penghuni sebelumna, WC mampet do sumbat tissue, Pengelola do gabe welcome dohot seakan sinis dohot kami booking via online dohot bersifat ketus, Niat mau long stay do ahu do gabe batal dohot pengelola do gabe sinis dohot tidak sopan."}
+{"uji_id": "nt-test-0470", "hipotesis": "Barusan w mau ke kamar mandi trs sampingnya kan kamar si mbah kan trs dia lagi nyanyi (nadanya doang gapake lirik) lagu Jawa dong trs w tanya kan mbah knp belom tidur trs dia ngomong \"ora usah ndok ora usah ndok\" berkali kali sambil kek ngusir gitu w takut dong sampe gajadi pipis"}
+{"uji_id": "nt-test-1067", "hipotesis": "Seru bgt jadi huma, bnyk hubungan sm huma-huma, seru sih seruu, tapi kadang2 ngebingungin jg, ora gaenak, ora malah, ora ora, ya tapi mo gimana, kelebihan ngontrol ora baik, lepas tangan ora bener, sembunyi apalagi, yaudah dijalanin one step at a time aja."}
+{"uji_id": "nt-test-1275", "hipotesis": "Mau seberapa hebat akses komunikasi berbasis internet, pemberitahuan bentuk cetak, di konsumsi umum jadi lebih di butuhkan, tanpa peduli kuota. Tinggal tempel, apa susahnya? Tolong jangan dipersulit urusan mudah itu..."}
+{"uji_id": "nt-test-1365", "hipotesis": "Gatau anjyr muak gue belajar bisin internasional, pemasaran internasional, perekonomian internasional. Dear bapa dosen, kmrn bapa bilang mau bahas pariwisata di ekopembangunan biar santai. Sampai uas bapa nggak bahas, enek gue denger pdb, gini ratio, dan kawan-kawannya"}
+{"uji_id": "nt-test-0333", "hipotesis": "Dan yang terjadi ana seseuna membalas wa status ku begini \"bang, kenapa diklaim sampe kekgitu, kan cuma foto\" Cuma foto dek? balasku begitu! Walaupun cuma \"foto\" itu juga hakcipta ana kembali bertanya seandainya karyamu digunakan orang lain tanpa izin perasaanmu bagaimana?"}
+{"uji_id": "nt-test-1194", "hipotesis": "Untungna ada dua ibu bapa na orang di disekitar yang sayang, mepetaruhon ahu sian parhati tak boleh mepatahkanmu na menyelesaikan skripsi. Hidup muse terus melanjuton. Jangan terlalu berharap denggan genggaman satu orang, sedang ahu sebenarnya sudah mendapatkan banyak pelukan."}
+{"uji_id": "nt-test-0737", "hipotesis": "Sesama cewek, ya inu anggep cewek lain na speak up against any sexual harassment ni sgn kelakuan norak, sgt dipertanyakan dimana sisterhoodnya. Klau anda sering dilecehkan na menerima ni sgn biasa aja, ya itu kan anda ni ga pny harga diri, blm tentu cewek lain berpikiran kyk anda ni kan"}
+{"uji_id": "nt-test-0976", "hipotesis": "Jamo dulu dipanggil nama sama cewek nyampe sukana aja udh gemetaran ngalahin tes pantokhir akmil, lah skrng kalo ga pap tt katanya ga sayang, sadar woyy dia itu cewek nyampe berusaha mati matian di bahagiain ayahnya, jangan lo rusak gtu aja buat nurutin nafsu lo #OldMoneyGakNgerasain"}
+{"uji_id": "nt-test-1407", "hipotesis": "Nah mako ni gawe ngaluhun verbal kayak awak dan mbak Via Vallen aja boleh ngora-nora dan nolot otu, apalagi gawe ngaluhun diperkosa? Ya makanya biar ga sampe otu ni siapapun emg hrs berani speak up mau sekecil otu tindak ngaluhunnya. Biar pelaku pd mulai mikir."}
+{"uji_id": "nt-test-1600", "hipotesis": "Ada aje ya Yutuber, kesannya mar-mentaunin barang, tp kl dia ndak suka sama barang itu ya jadinya mar-jelekin wkwk Tp selalu bilang \"muse mar-jelekin, pendapat pribadi aja\" Sambil terus mar-manta \"silahkan kalo mau beli, saya sih enggak, mending dibelikan (apalah yang kesannya lbh berfaedah)"}
+{"uji_id": "nt-test-1404", "hipotesis": "Emang bener kata Fromm, cinta sempurana itu musti didasi (wetan, amargi, amargi, amargi) disini gue bisa liat keluarga belo (ncip, sekala, dido) itu utuh banget, merekapun punya mental sehat luar biasa satu sama lain yang efeknya ke pintar dan aktifnya si sekala"}
+{"uji_id": "nt-test-1270", "hipotesis": "Bukan tipe hata dohot ni ahu dikepala langsung dikeluarin nd koar-koar di social media nd bukan juga tere Liye ato pun Mario Teguh yang bisa mengeluarkan kata-kata bijak nd menginspirasi ketika terpuruk ato pun bahagia. Tapi actually hata koar-koar jg sih"}
+{"uji_id": "nt-test-1032", "hipotesis": "Kurangin sampah plastik baikna jangan jadi alasan utk gedein bujet kampanye dene seremoni. Konkrit aya, larang penggunaan kantong plastik di minimarket dene pasar. Terkaing-kaing ya biarin. Kecuali kalau ada yang berat mikirin produsen plastik yang potensial jadi 'donor' politik."}
+{"uji_id": "nt-test-1654", "hipotesis": "Ngaonani ana ayo kana sampe 12windu laru na ora laro, di chat ga balas, di telpon ga jawab, di ajak ketemu bilang sibuk, ana jutaan alason kerbaushit na, kalo mau ngindarin bilang aja, gausah gitu, classic bgt anjir"}
+{"uji_id": "nt-test-1353", "hipotesis": "Bindu: Rimangima songon dia metmet ni hita di tano na so hatudosan on, gabe rimangima songon dia metmet ni hita di tano na so hatudosan on. Rim ni galeh, galeh! Rimangima songon dia metmet ni hita di tano na so hatudosan on, wong disentil dikit sama Tuhan aja ngambeknya bisa berbulan2 ndak mau berdoa (ini serius) gape rimangima songon dia metmet ni hita di tano na so hatudosan on, rim ni galeh ndak mau tinggal diam kl liat ada orang ni metmet ni hita di tano na so hatudosan on."}
+{"uji_id": "nt-test-1570", "hipotesis": "Lanjut...@bankmandiri naipun sapaipun kantua cabang Sabang naipun mubegi solusi..ini naipun 05 Juni 2018..tolonglah sapaipun nasabah dipangke solusi sapaipun nari, jangan kalau ditelp lempar sana lempar sini loh ya..tetapi naipun solusi"}
+{"uji_id": "nt-test-1988", "hipotesis": "Sebe cewek gw salut banget sama via vallen ini. Buat kita para cewek, tindak pelecehan ini semacam aib yg gak pengen orang tau. Tapi dia berani! Thats why gw sangat emosi baca komen yg menghujat dia. Sesama cewek bukannya saling menguatkan malah menjatuhkan. So sad!"}
+{"uji_id": "nt-test-0567", "hipotesis": "Pulang kerja jalan ke GI makan jalan ngobrol ketawa tawa pulang malem, tapi milih buat nongkrong lagi di parkiran pom bensin samping Sency lanjut ngobrol ketawa tawa, staring at each other lalu dicium kening lalu pamit pulang. Sungguh kebahagiaan itu sangat sederhana."}
+{"uji_id": "nt-test-0161", "hipotesis": "Aki inggih kana pantas na rante ana, kana nggak tau, kana ciamik perjuangan kana tanpa ciamik perjuangan ana yang nggak terlihat kana. Simpelnyo, setiapna udah diberi tempat na Tuhan na nggak bakal bertukar."}
+{"uji_id": "nt-test-1571", "hipotesis": "Inti iki thread na sebenerna mo ucap selamat tareng 25 na ke 7 buat ana ana mo baga ras sayang dohot sapa sapa dohot sabar ngadepi ana, ana do nyadar mo ana ana termasuk kado Natal doho minta ho Tuhan na. [USERNAME] [URL]"}
+{"uji_id": "nt-test-0811", "hipotesis": "Betul na, haru kenaik tarif dasar listrik, tarif tol, kenaik harga bbm di tingki hene minyak dunia turun, kenapa impor garam na beras di tingki petani na sedang panen, itu semua haru di jelasin ya mak [USERNAME]?? Memang gila regeem na mbk [URL]"}
+{"uji_id": "nt-test-1216", "hipotesis": "Ya gini. Dialek jalan aja gatau kenapa suka ada rasa takut. Seringna nolak. Mungkin iti yang makeku ga pernah bertahan lama hubungnani :/ ga pernah nyampe sebulan. Eee e e kalo di imvu sih paling lama berapa yak. Ya sama agun itu 3 bulan sama 2 bulan. Hmmm."}
+{"uji_id": "nt-test-1899", "hipotesis": "Hantuwele, amanta ni uga ngena maraton drakor, jalo \"about time\" on patuduhon parange laho ngena parbinotoan sesekele parnenelewek ni rantelewek ni amanta ona ngena parsoalan sesekele ona ngena napelewek ni amanta ona ngena amanta napelewek."}
+{"uji_id": "nt-test-0953", "hipotesis": "Ada pernah ngalengkeng Tinder, jadi ga paham, krn penasaran unduh lah. Eh pas udah unduh dalem hati bilang aplikasi apa ane? Nyesel langsung unduh tanpa baca deskripsi :') Mungkin itu asik buat sebagian orang lain, alai buat ane."}
+{"uji_id": "nt-test-1768", "hipotesis": "Ga also dong mestinya bijak ka pehe marga hebat, asa tokoh na gabe haholonganna urusan kebutuhan ekonomi, namun sayangna pehentu aminna dohentu dohentu dohonton ni marga besar sekelas Gusdur sahat Bung Karno, pehe marga aminna sedeng uji ka pehe sejarah mencatatna [URL]"}
+{"uji_id": "nt-test-1774", "hipotesis": "Wanita on makhluk na lebuh lempung, olo ninna marpanaen sesebuta tu lempung, jadi marpanaen na lempung pula. Di ari tidur, sambil memeluk on, jadi marpanaen sesebuta tu. Ninna marpanaen na tutur na bagus, na marpanaen na belait na cinta."}
+{"uji_id": "nt-test-1329", "hipotesis": "Ada aje yang nyinyir tina hijrah \"Kamu hijrah cuma pengen mndapatkan yang baik. Dengan modal dalil yang baik akan di satukan dengan yang baik\" Hmmm bingung deh sama orang yang sepertinya gk happy melihat orang lain merubah dirinya untuk mnjadi lebih baik"}
+{"uji_id": "nt-test-0287", "hipotesis": "Chekin chekout sian na robu, air panas laho meski ndang solhot laho, dispenser na mar-ragam lantai, parkir laho, kamar ndang sian na robu sebegitu laho, laho meja, ndang lemari, saluran TV ndang solhot laho, lift na mar-ragam perbaikan, kamar mandi laho ditingkaton kebersihanon."}
+{"uji_id": "nt-test-1588", "hipotesis": "Dipatupa i, dos 1: Fir, latar belakang mu do hupatamba kuat~_~ Dos 2: Menurut saya, latar belakang do kualapa, do hupatamba kuat di 'Tujuan penulisan' Saya: Baik sensei mu revisi *habis itu revisi bab 1"}
+{"uji_id": "nt-test-1604", "hipotesis": "Kantua ni gini, pake mendata medsos kantor vertikal di bawahna dan nyuruh follow akun medsos kanpus. Padahal di jam kerja aja kami gak bisa akses medsos via jaringan kantor. Disuruhnya buat akun medsos (fb, ig, yutub, twitter) kantor kalo blm ada."}
+{"uji_id": "nt-test-1142", "hipotesis": "[USERNAME] [USERNAME] ni mambangun jaringan 4G na lema, ya tolong di marbaga i, jangan sampe hargu kuota 12 Giga, di Rp. 95.000,- na ndi ingkang marbaga i kualiti sinal na, marbaga di daerah Sariwates, Kiaracondong, Kota Bandung cc: [USERNAME] [URL]"}
+{"uji_id": "nt-test-1222", "hipotesis": "[USERNAME] HYUNMIN DOONG!! Naro mihitupi, naro mihitupi! Kapal na amar paling tulus, kapal na amar paling romantisi asa gue, moment na kecil mihitupi naro ude malum bodo amat disindir sindir kapal na lain wqwqwq~ Gue sayang kapal ini"}
+{"uji_id": "nt-test-0825", "hipotesis": "[USERNAME] Euyi nyagupi ngepan sapa, ditekuk dua bulan nek nekotot, gara-gara dihentikeu semuanya. Soal penjualan bermasalah pihak Bukalapak jawabna sada, bukti-bukti sada dikirim. Tetapi sampe sekarang euyi nyagupi ngepan sapa."}
+{"uji_id": "nt-test-0153", "hipotesis": "Hapi manaasive Daddy wah udah 1 bulan aja. Aku bantong banget dapetin daddy jala makasi atas selama 1 bulan yang udah kita jalani daddy udah buat aku selalu senyum. Aku sayaaangg banget sama daddy ga ngerti lagi sayang nya gimana.. Intinya I LOVE YOU!"}
+{"uji_id": "nt-test-1006", "hipotesis": "[NUSERNAME] [NUSERNAME] [NUSERNAME] [NUSERNAME] Ku ditenggelam malam menghampiri sendiri ku dalam menanti segara oh angin sampaikan rinduku terlupakah kau pada janjimu ketika bersama rindu bergelora perpisahan menikam jiwa kau pandai mengusik kau pan"}
+{"uji_id": "nt-test-0460", "hipotesis": "[USERNAME] [USERNAME] Dari klarifikasi Ustadz Zulkifli M. Ali mmg hadits2 ttg hari akhir kebanyakan dhaif terutama yg ttg umur Umat Islam. Tp jng dianggap remeh. Kl sy lbh baik kita bersiap dr skrg. Perbanyak amal sholeh. Smkn ke dpn smkn sulit berda: Hadits2 ttg hari akhir kebanyakan dhaif, terutama ttg umur Umat Islam. Tp jng dianggap remeh. Kl sy lbh baik kita bersiap dr skrg. Perbanyak amal sholeh. Smkn ke dpn smkn sulit berda."}
+{"uji_id": "nt-test-1340", "hipotesis": "Kamarni rapit & lumayan bersih. Yang paling memuaskan pelayanan ramah. Handuk bersih & wangi. Dengan catatan beberapa bantal sudah terlihat agak kotor & ada yang agak bau. Sisinya sangat murah & terjangkau. Sangat recomended baga org yang budgetnya terbatas."}
+{"uji_id": "nt-test-1497", "hipotesis": "Kadang rensi klo ditungka bakal slalu ada aje yang kurang.. apalagi klo mau invesasi sosial.. pasti pjg daftar pertimbangan 'rasional'nya.. Tp kembali lagi, selo berawal dari niat.. lagipula mberi sesuatu kpd sesama jg dianjurkan sm Rasulullah.."}
+{"uji_id": "nt-test-1371", "hipotesis": "Mandiri na hinsuna i na karo, lai lai mung disanggara nape sosana na lobi i na makan na beli pulsa handphone mung minta adun, nae nae penepeha pekerjaan na hinsuna i na korhontua diri."}
+{"uji_id": "nt-test-0166", "hipotesis": "[USERNAME] Wkwkwk laah aku nga masi nentat hati na dohot diri stlh jomblos, alai ndaun nyaman jomblos, malah dikenalin ama masnya, ku merasa blm pantos na dohot takut pelarian lg, entah pelarianku nga masi blm moveon dari mantan (cowo idamanku) na dohot pelarian."}
+{"uji_id": "nt-test-1244", "hipotesis": "[USERNAME] [USERNAME] [USERNAME] Dan lehno speak up dikatain lebay, cari sensasi na. Mere ga mikir, mau speak up butuh keberanian, sebenarnya pelecehan aib, ga speak up orang jg ga bakal jera, ga ngerasa malam."}
+{"uji_id": "nt-test-1629", "hipotesis": "Hari i jadwal ni proker di LPPM karna ada praktikum jadinya pak ketua di temani sekretaris 1. Tapi asa penanggung jawab i sekretaris 2 jadi deg deg an i. Bismillah pak ketua (Btw pen upload foto pak ketua tapi jangan dulu i)."}
+{"uji_id": "nt-test-0733", "hipotesis": "Hive like hame. Punya ruang tente buat jamu teman or sekedar santai keluarga.. sayang di dene kamar di dpn tempat tidur tina tiada tv.. jadi mau sambil tiduran tina tiada, sementara sofa ruang tente hanyi cukup dua orang duduk tpi g bs tiduran.."}
+{"uji_id": "nt-test-1793", "hipotesis": "[EUSERNAME] [EUSERNAME] [EUSERNAME] [EUSERNAME] Ekmu dah bener? Ekamun pintar? Ekamun pendidikan S3 dr Amrik duit ok? Ekamun ornah jadi rektor OT? Ekamun kontribusi terhadap negara banyak? Dan kalau semua jawbnya TIDAK!"}
+{"uji_id": "nt-test-0747", "hipotesis": "[USERNAME] kamprettt slai otak kriting otak jungkir balik yu sll koar2 tk konsisten dng perjuangan dr thn 2015 capres n cawapresny prabocor gatot n prabocor tgb skrg mn nol bsr 2018 koar2 lg ganti plesinden hedeh kamplettt begok napsu aj lo"}
+{"uji_id": "nt-test-0629", "hipotesis": "Kurinti intensitas bokar, jadi tak bokar tiap haro, yakali tiap haro banget begadang cuman buat face time dan telponan, dikantor tidur. Namanae juga perjuangan det ya engga gitu juga sih, bejuang ga sekonyol itu juga. Ada saatna la~"}
+{"uji_id": "nt-test-1640", "hipotesis": "Kamar bau, shower na dohag. Alun alun sada kamar na. Tapi na kedua kalu kamar na na dohag. Mabe maha saka potongan diskon na sada kamar na na dohag."}
+{"uji_id": "nt-test-0718", "hipotesis": "[USERNAME] Helloowww pak [USERNAME] Asian Games tinggal hitungan minggu na Jakarta pe blm kelar berbenah, apakah ana ma-areuh? Palembang 95% pengerjaan hampir kelar. Na ana pak Anies urusin trotoar pun blm selesai2. Ana itu Gubernur"}
+{"uji_id": "nt-test-1001", "hipotesis": "Duh jadikna cerita kmana2.. Intinya yaa, klo kita slalu bersyukur, slalu mrasa cukup, pasrah tp ikhtiar kenceng, slalu adaaa aja hal nga bkin kita merasa beruntung di tengah2 tantangan hidup nga semakin tinggi.. dan doa ortu adaa ya paling utama.."}
+{"uji_id": "nt-test-1876", "hipotesis": "Minggu, 8 Jul 2018 \"Anak Gunung Krakatau\" . Dihalaha sejauh mungkin, dilahela secepat mungkin, dan dipingkonlah setinggi-tingginya. Karena hidup mara perjalanan, jadilah perjalanan maranetik mungkin biar cerita na masa tua."}
+{"uji_id": "nt-test-1804", "hipotesis": "Kecewa karna pelayanan nya buruk, muli dari security, staff hotel dan receptionistna ga ada yang ramah sama sekali, pesan makananna juga lama banget, mesti di telpon dulu beberapa kali.. Mohon sekali di tingkatkan lagi dalam bidang pelayanannya,"}
+{"uji_id": "nt-test-1879", "hipotesis": "Waktu on ngerasa ni dunia do hot, ujungna gabe jauh dr Allah. Allah kasih ujian dohot on ingat Allah, pengen dekeeeet lagi. FIX keliatan Allah sayang kamu, dia tegur saat hambaNYA jauh, walau tau dosa hambaNYA penuh."}
+{"uji_id": "nt-test-0702", "hipotesis": "[USERNAME] [USERNAME] [USERNAME] Ie ne baheu. Ti nekamun tempat ne baheu ngeulat, salah sianya di bangunan na didirikon ike kafir (salah sianya gereja). Aku berlindung kon ALLAAH SWT. ne godaan setan na tekumu."}
+{"uji_id": "nt-test-1178", "hipotesis": "Biyar do ai ho inggep kua dohik, ai ho inggep kua dohik pas inggep ulewekar uga. Di tingki urip ulewekar biyar dohik aga-aga, ai ho bilang 3 holi deadline, doa inggep inggep cepat manggalehik jadwal. Biara holi holi holi, beliau telepon ai ho kalo duitna udah dikirim."}
+{"uji_id": "nt-test-1064", "hipotesis": "Sian i, ala ngalabang sian ingi cerdas na, walaupun ingi percaya sian apapun, ingi noloh sian ingi masuk akal i."}
+{"uji_id": "nt-test-0135", "hipotesis": "Dari mulai disurut, dibentak, dimarah-marah. Untungnya ga ada kekerasan fisik ya, tapi dari segi mental itu yang jadi kita takul/ga nyaman buat pergi ke sekolah kita sendiri. Walaupun katanya cuma akting, tapi tetep ajalah ngebekas."}
+{"uji_id": "nt-test-1893", "hipotesis": "[USERNAME] Bukaaan, tapi aku punya kayak semacam trust issue gitu.. takut diomongin sama temen deket, takut kalo ngomong A nanti malah salah, dan aku bukan tipe orang gampang ceritain semua masalahku ke orang lain alias susah terbuka"}
+{"uji_id": "nt-test-1272", "hipotesis": "Sapek fokus sapo dia bina, dopi kehidupan sapek ari. Inaendu dia mao kasek sining, apek ahu jote di titik bawah na ari. Terus buka cewek, never ever say apa ake mao? Apek ake."}
+{"uji_id": "nt-test-0453", "hipotesis": "Tolik, da ahu pe monek, jala [USERNAME] na monek oramai. Memang dilarang sholat di banguna yang didirkihi biye kekafiran (sian huria HKBP). Makanya jangan kebanyakan nonton mak lampir. Aku berlindung biye ALLAAH"}
+{"uji_id": "nt-test-0812", "hipotesis": "Pertama kali liat siih penampakan di tempat i, gak akan pernah lupa seumur hidup! Ternyata.. sejarahnya memang mengerikan. Gak heran orang i gak pernah lihat sebelumnya kaya akupun bisa liat. Cobain deh kesana gih.."}
+{"uji_id": "nt-test-0019", "hipotesis": "Sebucin itukah aku? Ita karo aku tulus sayang sm kamu, maaf ini emg fakeworld, tp soal perasaan it's a real. Sayang ya sayang, seneng ya seneng, sedih ya sedih. Coba gimana caranya main di fakeworld ini, tanpa pake perasaan yg real"}
+{"uji_id": "nt-test-0144", "hipotesis": "Ga adi manene pit kontra anu wena ulo, tontuna tu na dapa perlakuan tida manggabihun, alai so marparbue ana hati e empati anu wena ulo na ngaloson, alun alun ana wena ulo na manggabihun, shame on them!"}
+{"uji_id": "nt-test-0226", "hipotesis": "Pesan 2 kamar, tunggal kamar nggalema sesuai ma pesanan, seharusnya ada AC tapi nggak ada, cuma di kasih kasur, nggak standar airyroom. Kamar mandi bau, toilet bocor. Seprai kurang bersih. Lokasi bagus, nggak jauh dari pusat kota."}
+{"uji_id": "nt-test-1947", "hipotesis": "Stafna neka tanggapan neka cepat, rasa makanan neka lumayan, lokasi deka dekate mega mall, desain hotel neka antik, songon neka sayang lantai kamar mandi neka kurang didesain neka bagus, kalau mandi air neka tidak bisa mengalir ke pembuangan, air mandi neka kurang panas."}
+{"uji_id": "nt-test-1970", "hipotesis": "[USERNAME] ... Itu bukan beda [USERNAME] ... Tapi karna si [USERNAME] itu orang gila..... Semu tuh twitt yang mangarimpun ahu marah dan emosi.... Dibahen oleh orang tdk waras jadi bukan ente beda tapi tdk waras."}
+{"uji_id": "nt-test-1517", "hipotesis": "Di kamar nda siap keset na tempat sampah, handuk nda diganti, kamar ngelam na kurang bersih (lantai na sprei), kamar mandi airnya ngemban lama, kaitan shower rusak na nduwe handap tangan. Lokasi neko CGV."}
+{"uji_id": "nt-test-0015", "hipotesis": "Selama mreka di dlem kmr ak suruh pacarku bwa tmennya nyi ngaturi hal ghaib jg tuh. Selama di dlem kamar, yg ak dgr itu cinta nyi teriak2, nyi ketawa2 kunti, dan nyi mengerang keras. Itu nyi berlangsung hampir sejaman."}
+{"uji_id": "nt-test-1454", "hipotesis": "1. Lampo karo terlau redup"}
+{"uji_id": "nt-test-0160", "hipotesis": "Sampi i gue jadi head na dept sampe jadi GM hotel, gue paling benci and langsung kepala gue bertanduk kl anak buah gue ditanya jawabnya ga tau, sekali gue maafin, kedua kali ketiga dst masih jawab GA TAU? plakk %#\\?+=*%"}
+{"uji_id": "nt-test-0731", "hipotesis": "Aju hidi, kau tu i hua di hujat, fitnah, adu domba... dihunak ringan di hidi hitung. Krn hukuma di terimah di parsiajaran doho ni hua terimah kejahatan tu padamuhu. Dan urus tu, biar Allah i tangani saja."}
+{"uji_id": "nt-test-1320", "hipotesis": "Pimbi midik RT jadi tukang mintax alias ngemis ya pak.. Kalu mintax ke warganya sendirix nggak apa-apa x krn wargax memang punyax tukang sampah gitu lho pa KEWAJIBAN, uang dikumpulkan wargax utk bayar THR petugas keamanan"}
+{"uji_id": "nt-test-0575", "hipotesis": "Anteng main, baya ni tadi videocall pengen dibeliin pesawat robot. Setelah edisi mobil robot, dia ketagihan. Carinya kapaaan.. ala ala rapat sampi Rabu, Jumat udah pulang. Mana keukeuh pengen Neng yang beliin."}
+{"uji_id": "nt-test-0399", "hipotesis": "Aku adong bili dung mili ikhlas dung marpeun pele kapele wek wekung adong musta iki yang tuhi hita. Wek wekung adong bili upo marbisa jalo wek wekung adong musta iki yang tuhi hita."}
+{"uji_id": "nt-test-1000", "hipotesis": "Makareng sapa sampaio ngepamana [USERNAME] boi ma banyak baca novel, nonton film na lampir, pahami saja KESELURUHAN isi Al-Qur'an. Akhirna sapa nyasar kan? ......... I T U. [URL]"}
+{"uji_id": "nt-test-0176", "hipotesis": "Dulu liat trailernya gw kagum. ide memadukan film laga nusantara jala tampilan wild west nunga terlihat menjanjikan. gawe pernah gw tau sahat tu. kreatif. makanya gw semacam berharap mendapatkan sajian yang istimewa."}
+{"uji_id": "nt-test-0253", "hipotesis": "Sade na mihindu sida, paham sida sisi luhur i na kasar, brengsek, na lea do lea lea, saka manfaat sida, egois, joke-ing, mesum, na sida sisi buruk sida, ya.. sada phsyco na tikeutna i na tereka."}
+{"uji_id": "nt-test-0237", "hipotesis": "Bolai nang kula nihun, bolai nang kula sapa, bolai nang kula makan. Bolaino \"kak ayok makan\" na ho do kula rindu nyalon, nang kula wajen waktu liburan na dohop kula numpahen rindu #HonorIndonesia"}
+{"uji_id": "nt-test-0736", "hipotesis": "Chekin na mambolna mudah na cepat na tapi pertama dapat kamar AC-nya sama sekali na dingin na tapi begitu komplain langsung dipindahin, pelayanan staff na mambolna ramah na tapi ruangan na agak sedikit kotor (meja lantai berdebu)."}
+{"uji_id": "nt-test-0417", "hipotesis": "Parenggo jadi di parkiron, diserobot mobil na jamna parkiron penuh. Maklum lah biar kalo ada yang kosong bisa dapet duluan. Eehh pas depan pintu masuk jadi ada mobil lagi parkir mau keluar &"}
+{"uji_id": "nt-test-0800", "hipotesis": "Di Instagram hits, hype parah, terkece lah, followers manyak cakep-cakep, bikin story rajin. tapi giliran stok foto dia abis larinya ke gue, ngajak hunting sana sini kan anying ya lu pikir gengsi dibawa mati"}
+{"uji_id": "nt-test-0195", "hipotesis": "Sami di spam nihh sama Indosat [USERNAME], padahal ku sadi lopu nasehat na mimin2 yang membalas twit sambatku ini. Terhitung sadi 20 sms sejak jam 11 tadi. Pacarku aja ga posesif gini lhoo"}
+{"uji_id": "nt-test-0595", "hipotesis": "Omelette Mie tar-pas bante, teksturan tar-pas, gak ancur, masi renah digit, tapi lebat pas kunyah, rasanya tar-pas, gak greasi, matengnya tar-pas. Tapi biasane yang tar-pas ketemune diwaktu gak tar-pas sih :')"}
+{"uji_id": "nt-test-1867", "hipotesis": "Mboya mulut ni jangan ketinggalan buat belajar. Sekiranya itu ga perlu diungkapkan, nambah dosa + nyakitin hati orangnya mending diem2 bae lah. Kasian anda nya ni julidin sm orang."}
+{"uji_id": "nt-test-0392", "hipotesis": "Pantun sian, amonghu dikasih kamar na buat berdua padahal amonghu memesan kamar na buat berempat jala amonghu tida ngelih desain airyroom na kamar jala amonghu tida ngelih snack jala amonghu komplain pokoknya kecewa diinap disini"}
+{"uji_id": "nt-test-0367", "hipotesis": "Pintu gerbang on dikuncion sehingga kalau mau keluaron masukon sedikit susahon padahal i, bukan kos2an on mesti ditungguin 24jamon dan petugason menjaga rumahonon pe ramahon manang pelayananon pe bagusan."}
+{"uji_id": "nt-test-1279", "hipotesis": "[USERNAME] Kartosoewiryo i masiulahon na maha agama jala dang maha bunuh Soekarno. Yang bunuh Sayyidina Ali i solat subuh i masiulahon na hafidz Qur'an jala dang ahli fiqih, Ibnu Muljam. Dantu disihi i maha jolma, bro?"}
+{"uji_id": "nt-test-1284", "hipotesis": "I feel you [USERNAME]. Seringna nda krn ga kepake, tapi nda krn ga sesuai gitu. Bisa mencak2 sehari aki, ana muli masingkirkina......soalna kalo masi keliatan, ky aki pgni marah sendiri. Sakit"}
+{"uji_id": "nt-test-0693", "hipotesis": "Sianka, kami genap pegawai di lingkungan Kementerian Perhubungan loba ngeba, alai musibah na nipulut ni rumah kami, proses padam api na marih dilaku, alai tike rekan kami ngekor."}
+{"uji_id": "nt-test-0628", "hipotesis": "Namun kuakui i tebakon Pak Seno dohot Ibu Tuti na parjolo taringot tu i ma badih marhite niadopanna ahu. Ahu on badih marhite niadopanna. \"Coba kalian pikirkan, apa ni pangalaho dohot parrohaon kalian na on badih marhite niadopanna ahu?\" Ahu on am."}
+{"uji_id": "nt-test-1094", "hipotesis": "Ac ne lumayan dingin jalo, air acne bocor jadi basah lantaine, wifi ne ga ada alasane ne dalam perbaikan. Menu makane ne dari sekalian banyake cuma 2 aja ne tersedia, untuk kamar bagus ne luas. Terimakasih."}
+{"uji_id": "nt-test-0755", "hipotesis": "Sama kayapun bahagi. Mau gimana pun persepso ina bahagi, kalau bahagi ina tu memang beda dari persepso ina, itu tetap bahagi ina tu. Ina gak nerases, tapi ina nerases tigapa bahagi ina."}
+{"uji_id": "nt-test-1268", "hipotesis": "Na karo sianinai ina sibaruh, mapi ahu masi betah mepatok di bagasan i? Coba kata, baga mana carai agar terbebas di bagasan sibaruh i, mepatok dan terus melaju di setiap degub jantung i."}
+{"uji_id": "nt-test-1683", "hipotesis": "1. Kamar 209, apek bau apek na lembab di toilet plafonna jamur na lubang. 2. Gelas buat minum lantai 1 kotot na tukup. 3. Cukup sekali nginap disana. Apa gunanya airy tukup na bate standard."}
+{"uji_id": "nt-test-0505", "hipotesis": "Ada tike kamosi ana kamosi aneulamun amun amun amun, alai ana tike kamosi aneulamun amun amun amun. Dan.. (?) Hawa-hawanya sian na asing, freet-freet-kamfreett, nada pesan aneulamun, ana sms aneulamun."}
+{"uji_id": "nt-test-1277", "hipotesis": "Aki mabi gawe naung mabi dianggap adi, ma rasa i mabi invisible, tapi merasalah intangible. Seenggakki adi tetep maharuh, ma mabi berwujud. #skripsibaper #kapanmarineeeeeeeeyaAllah"}
+{"uji_id": "nt-test-1786", "hipotesis": "[USERNAME] tolong ma petugas [USERNAME] na polisi di jalan Tol Cipularang km 101 arah Jakarta, malam ina ada ya melampari kendaraan pake batu beser. saya salah sone korbanan. mohon diamankan!!"}
+{"uji_id": "nt-test-0898", "hipotesis": "Astaghfirullah, masihi jalan Manggarai-Jatinegara ma sian petjun2 jalo di bulan Ramadhan. Aku aja setop dulu cape di gembyor trs huft"}
+{"uji_id": "nt-test-1380", "hipotesis": "[USERNAME] Gabe dongan di mappi gubernur na mampi mateng2 cipta pekaro, kembangan tong sampah buatan Indonesia anti bocor dohot asin2, na boi mani di beli kebutuhan dalem negeri baka di beli impor tong sampah."}
+{"uji_id": "nt-test-1117", "hipotesis": "Bung [USERNAME] na aku i jago parsantian dan analisis bal-balan, na paron na paronon terbaikna di sini. Tapi nalaron dan logikonna soal harrasment ke Via Vallen dangkalon, picikon, dan memalukan betul."}
+{"uji_id": "nt-test-1589", "hipotesis": "Piseuton pampiri idel an Islam i pampiri na boi numpiri, la sekaru nuhun numpiri hidung bineka an ndaftar calon. Ape udun wong gemblung arane"}
+{"uji_id": "nt-test-1109", "hipotesis": "[USERNAME] Mambilin doi matematik i, fisik i, mara mabunin doi ketika uh, mara bai kahitna balek pacar rl i, mambetuin doi yang cuman setengah jam. HMMMMMMM. Masa lalu."}
+{"uji_id": "nt-test-0190", "hipotesis": "Rencana gak pulang mau garap project, tonton gih gih gih... Taup gini mah, pulang weh dr minggu kemaren.. Hm, hikmah Ramadhan: mungkin emang perlu melewati ini, yah buat belajar aja"}
+{"uji_id": "nt-test-0868", "hipotesis": "Me lagi naik motot dijalam. Bocah: bang, standar me: langsung liat bawah. Bocah: bukan standar ya gitu. Tapi mukalo ya standar. Trus meketawa dan cabut. Me: ye anak setan. #OldMoneyGakNgerasain"}
+{"uji_id": "nt-test-0991", "hipotesis": "Dulu ahu begitu mambayun mu na nadina di punggung tangan ahu, wati amba na, amba na sili sili gumele na, nuna kau lobi jantung, yang bahani deggupen na lobi ahu mambayun dengar."}
+{"uji_id": "nt-test-1375", "hipotesis": "Saya di perpus UIN, nanggat. Dongi! Mung ada yang mau jadi tim sorak-sorak ato mau ngajarin bikin kerangka teori yang sejauh ni ditinggalin. Hehe"}
+{"uji_id": "nt-test-0059", "hipotesis": "#OldMoneyGakNgerasain panikna i benda on dibagihon guru pas dikelas. Rela gak kekantin ma ke wc demi jaga benda on, bukan karna malu nilainon, tapi karna takut ketahuan nama orang tua."}
+{"uji_id": "nt-test-1975", "hipotesis": "Lom lg negara ga transparan soal informasi. Jadi bikin njlimet ae hidup orang2 misqin macam aku nih kan. Mau jurnal berbayar pun harus dihack dulu jurnalnya. Kan jadi berbuat jahat adek, bang!"}
+{"uji_id": "nt-test-0306", "hipotesis": "Kalian na ura-ura alai bijakna. Jangan ura-ura sana-sini cari fitnah. Thanks na kalian i na ura-ura jadi ngerti i nda ura-ura nggak jelas."}
+{"uji_id": "nt-test-1431", "hipotesis": "Gue ga ikhlas kalao lo masuk dan muncul ulang di kahidupan gue. Jadi jangan muncul ulang, karo gue sakit hati berasa lagi setiap muncul lo. Apapun alasannya. Jangan ganggu kita ulang."}
+{"uji_id": "nt-test-0401", "hipotesis": "Sipit na mihitupi ngori, na mihitupi biara dun seme na hitupi biara mihitupi biara mihitupi biara biwale sikepik, pikepik, na kipik kipik ngori, Iboho ngori. (Anonim)"}
+{"uji_id": "nt-test-1451", "hipotesis": "Nikahon parjolo i mangantun bikin marketing plan jalo nihun mangantun bikin co-branding sama bank biru. Ngahep nihun manaha strateginya. Jalo nihun nahep, gue udah kepalang manggali resign di nikahon parjolo."}
+{"uji_id": "nt-test-0551", "hipotesis": "Tineke nebeulai do kasiwetan do kasebuhin pelecehan do wana diweneh do alasan ni sapa do kasebut do kasebuhin, do kasebut do kahit na do kasebut do kasebutin. KHANMAEN.. [URL]"}
+{"uji_id": "nt-test-0127", "hipotesis": "Boasama songon i bulan puasa sama parkiran kosong? Marenmaren aja w dibikin emoshi tyap hari gegara sulit banget dapet parkir.. Giliran ga bawa mobil, kosyoong melomponggggg #LYFE"}
+{"uji_id": "nt-test-0862", "hipotesis": "Nasa 200 mubalig versi Menag, sdh ditatar. Bahan ceramah hrs sesuai dgn Menag. Lucu juga. Ceramah terkendali. Jika para mubalig menolak Menag mundur, iya dong, kalo [USERNAME] punya harga diri. [URL]"}
+{"uji_id": "nt-test-1891", "hipotesis": "Food test Rendang Bebek lagiii, o bapak Uyul juragan kuliner pemilik Warung Kopi [USERNAME]... Alhamdulillah lulus uji, katanya cociiiks, doh saran mainan."}
+{"uji_id": "nt-test-0038", "hipotesis": "Kebanyaken cewek kriteria nyari pacar pengen na lucu, padahal kalo menurut cewek, ganteng=na lucu. Jadi definisi na lucu disini na ganteng. Kalian na jele dan qismin tolong pahami ini..."}
+{"uji_id": "nt-test-0815", "hipotesis": "Lagi puasa tp dri pagi udah kesana kemari mmbawa alamat,, eh ayuting2 kalee.. engk ding. Ini knpa siang2 tetangga sbelah goreng telur yah, kan baunya smpe idung gw hikss piye sih mbak?"}
+{"uji_id": "nt-test-1878", "hipotesis": "[USERNAME] Au gak usah dijelasin bang. Biarin aje dia yang cari berita sendiri. Padahal udah dijelasin gimane kronologis nyase sama orang Bantul nyase sendiri. Emang aje otak nyase yang pade lola"}
+{"uji_id": "nt-test-0012", "hipotesis": "Baru persiapan doang udah gosong gimana waktu gw ospek nanti, 6 hari dilatih militer coy. Naik outbound aja gw nangis anjir gegara takut sama ketinggian. Gimana pas diksarlin nanti omg, na gosi anjir."}
+{"uji_id": "nt-test-1762", "hipotesis": "Kamang mara numpang na amunin na mara numpang. Cuman sayang apit anu panas mati, na mohon petunjuk arah kiblat na marsudin mudahna Muslim na jalani sholat. Selebihna goos service... thanks airy"}
+{"uji_id": "nt-test-0400", "hipotesis": "Ada kawan mokot disuruh lanjut S2 sama bapa, biaya udah disiap, tapi dia nggak mau. Kutanya: bapa mu nggak mau ngangkat anak lagi untuk di-S2-kan? Si kawan tadi cuma nyengir."}
+{"uji_id": "nt-test-0647", "hipotesis": "Kamar mandi na bau, na ulo anu mampat na sian rambut sampun ingkon ingkang mambol na ingkang qewa. Kurang meja na sian tempat tidur. Kamar na aga kecil, na ingkon ingkang qewa nyaman."}
+{"uji_id": "nt-test-1253", "hipotesis": "Bong...luh bai maha niasa nihut niasa jala sai naeng lobi. Krn ana udh jalanin sebagian ide na program Ahok. Jgn malah dibully. Gw curiga jgn2 luh org emang cuma bisanya ngebully doang."}
+{"uji_id": "nt-test-1824", "hipotesis": "Kamane na i na piasa, i na piasa na bale na na kumbele na, jala na na bale na bale na na kumbele na na kumbele na na kumbele na, na ac na i na piasa, i na piasa na ac na."}
+{"uji_id": "nt-test-1259", "hipotesis": "Kok banyak ya di kabupaten w anak muda nyamarta caleg apa ana bisa mewakili asporasi rakyat padahal tempat nonkronya di cafe/restoran mewah bukan warung di tengah kampung"}
+{"uji_id": "nt-test-1608", "hipotesis": "Di malam ni, sae lai terpojokkan memilih jalan. Dapet DM begini: kalo udah ada niat segera d laksanakan... soale ntr d tunda sama dengan ga jdi wkwk biasane wkwk Lalu kutersedaq"}
+{"uji_id": "nt-test-1034", "hipotesis": "20180710 #3 09.06 WIB Sipulung geng sosialita kumpuulllll Breakfast syantiek dari TBS i Kelapa Gading #Holiday #Breakfast #Syantik #PizzaHut #Juanda #Jakarta #Indonesia #Tuesday"}
+{"uji_id": "nt-test-0174", "hipotesis": "Katanye sebalek 6 blen bise perpanjeun sim dimana aji, sy ke mobil sim ga bise. Mana harush keluar kota lene. Kemaren sebelum lebaran selalu ga kebagian kuota . ????? [USERNAME]"}
+{"uji_id": "nt-test-0449", "hipotesis": "Sangat nampol!!! Kamar fulu nyamuk, minta obat nyamuk semprot fulu ndi. Dinding fulu nyamuk mati, dalam semalam buh 20 nyamuk. Kamar mandi juga kotor."}
+{"uji_id": "nt-test-0301", "hipotesis": "Na kahitam, na kahitam, na kahitam, na kahitam, na kahitam, na kahitam, na kahitam, na kahitam, na kahitam, na kahitam, na kahitam, na kahitam, na kahitam, na kahitam, na kahitam, na kahitam, na kahitam, na kahitam, na kahitam, na kahitam, na kahitam, na kahitam, na kahitam, na kahitam, na kahitam, na kahitam, na kahitam, na kahitam, na kahitam, na kahitam, na kahitam, na kahitam, na kahitam, na k"}
+{"uji_id": "nt-test-1042", "hipotesis": "Hakante sapa ngeunaan kalo cuman di medsos. Masalahna, di dunia nyata ndak ada yang peduli, ndak ada yang bertindak larangna. Yang berwenang ndak tau di mana..."}
+{"uji_id": "nt-test-1201", "hipotesis": "[NUSERNAME] [USERNAME] [USERNAME] [USERNAME] bale kalo misalna gaga di tinggi badan tetep bisa dialihke prodi lain? mohon penjelasan soalnya degdegan dari kemaren haha"}
+{"uji_id": "nt-test-1735", "hipotesis": "Keinget dulu smnggu sblum kompre tiap malam nangis trus seminggu sblum ukmmpd nangis cemas takut, gak tau apa2, minder sama kawan2, skrng doa sudah terjawab, terimakasih Yesusku"}
+{"uji_id": "nt-test-1993", "hipotesis": "Salah sana padhilah sholat duha, bise marhite rumele rumele rizki. Molo ndi ngapa, lako!!! Molo ndi ngapa, lan lako!!! Sampi ahu ngapa beno beno ngapa..."}
+{"uji_id": "nt-test-0789", "hipotesis": "Tima kasih na datang do i sparing football hari i. #unitedindonesia #unitedtogether #uici #unitedindramayu #unitedindonesiachapterindramayu @ Indramayu Regency [URL]"}
+{"uji_id": "nt-test-1260", "hipotesis": "Lokasi jadi, tp fasilitas kurang ac nggih dingin dan bocor, air panas nggih fungsi, dan selama 3 hari menginap kamar nggih dibersihkan. Agak mengecewakan."}
+{"uji_id": "nt-test-0664", "hipotesis": "Guya sopo kalo jorok/nae cewe prn ga kalo haid tuh ada lend*r ni nae darah nae gumpal ni? Itu knp y? Aku tiap haid tuh masa trs biar ga gt gimana, takut serius"}
+{"uji_id": "nt-test-0561", "hipotesis": "Disayang na molo huma i sayang ni gumeunah, tapi dihormet na molo huma i sayang ni gumeunah, nanggat na guna kalau sayang na tiada hormet ni."}
+{"uji_id": "nt-test-0621", "hipotesis": "Dungu [USERNAME] buyback Indosat kilep dalam ajang debat ngep spontani, dalam sesi debat Anis sering tuduh kubu Prabowo didukung para mafia apa elu mau bantah [URL]"}
+{"uji_id": "nt-test-1668", "hipotesis": "[USERNAME] Gw berasa 5, 2 udah nikah dan keluar. Brasa sepi padahal mambunut 3 anu d rumah. Cucu anu jadi peramai d rumah. Makanya mak gw demen banget klo cucu datang."}
+{"uji_id": "nt-test-0934", "hipotesis": "Wah iya bgt ini mas, sapu di tempat kerja sering dapa hal ga ngenakin, ana (tua2) nganggepna becandaa, ana cewek2 nganggepna sapu yang salah knp begini knp begitu"}
+{"uji_id": "nt-test-0496", "hipotesis": "Kasih sayang i anu gihug na anugrah na terbesar na hidup na matabi, kalo ho udan memilu ni orang na mau mibawa i ikhlas na tulus na diri ho."}
+{"uji_id": "nt-test-0645", "hipotesis": "Tiada henti 2ny q mualah sumpah syukur alhmdllh.... Skrg ahu bsa.... Hepeng jadi panitia kmrn alhmdllh trmkah kau bri brlmpah.... Mski tak sbrpa inysllh lma2 mmbukit amn [URL]"}
+{"uji_id": "nt-test-0094", "hipotesis": "Maysan. Ondi sah kamar mandi i na toiletni flashni rusak i na kotor, holan do ngepuna nggabung. Ada deposit 50k walau nanti dikembalikan."}
+{"uji_id": "nt-test-1361", "hipotesis": "Aliran bili ku mangganta rasa inggih di sel sel ota ku yang sai sai bisik ma ucapin, tapi ku sada laho, alai tu ma siratin i."}
+{"uji_id": "nt-test-0058", "hipotesis": "Kalo foto profil ku emang vulgar y ok gpp, tp fotoku cuman selfie, close up gitu seleher doang agak bawah dikit ngg keliatan dadanya sama sekali dan ... w pake kerudung."}
+{"uji_id": "nt-test-0564", "hipotesis": "[USERNAME] Bulshit! Mere nu sianak. #Raka ya biyani ka #Penentu . Nasib #Indonesia bukan pada para tokoh #elit maupun tokoh #Parpol tapi ada pada kekuatan Raka."}
+{"uji_id": "nt-test-0533", "hipotesis": "Dan bukan na doho koalisi tanpa syarat lalu koar2 gak akan bagi2 jatah menteri. ~ kenyataan bahani parpol2 na semula non koalisipun dibedol na dikasih jbtn menteri."}
+{"uji_id": "nt-test-0385", "hipotesis": "Niaton awa mau belanja online, tapi begi tau ekspedisio lagi overload na itung pasti bakal lan lama bgt nyampenya mending batal na tiap hari gegena nunggine paketan"}
+{"uji_id": "nt-test-0637", "hipotesis": "Wehh ga bs gtu jg dong. Kalo pergantian gtu kan emg ada transisinya. Tapasina-sina hak na ssuai jobdes. Kamu puasa2 di dzalim gtu. Pukpukk. Senior junioritas itu."}
+{"uji_id": "nt-test-0236", "hipotesis": "10 hari na sude Ramadhan, adong 1 malam na sude mulia dr 1.000 bulan, selamat datang Lailatul Qadar, kami orang na baiman na sude rindu kedatangan mu..."}
+{"uji_id": "nt-test-1801", "hipotesis": "Ati2 sis [USERNAME], leptopku aneleps upadate trs aneles restart malo jadi skrinen blak, pon pointer muter2 trs ga bisa log in. Restore aneles ga bisa krn aneles hapus."}
+{"uji_id": "nt-test-1337", "hipotesis": "Walopun kahit, tp gw tahan utk ga nyerang balik dg makian. Pantang gw ngomong frontal. Sebisa mungkin gw tahan. Dan ngeblokir adong solusi gihate tepat!"}
+{"uji_id": "nt-test-1405", "hipotesis": "Wah aku mimpi kale ya.../kedip kale karet kaget letakin lengan di meja sambil numpu dagu/sayang kok ga bilang sih kamu bisa masak? Aigoo pacar aku keren"}
+{"uji_id": "nt-test-0057", "hipotesis": "Kamar na gabe hargaa, layanan staff na so ginjang roha. Ada air panas. Tapi sepray kuning smua, handuk na coklat bau na ringgas. Tungga lift, ahu betaha na sana."}
+{"uji_id": "nt-test-1907", "hipotesis": "RI siap ninamboh hargaa bensin.Empo raka mau apaa klo hargaa naik.Mau beli sukur,tak beli ya terserah.Mau demo silahkan iki iki di ciduk.Pemrintah kok dilawan.[URL]"}
+{"uji_id": "nt-test-0102", "hipotesis": "Sementara gue begitu ketakutan buat melanjutkan hubungan gue ke arah yang lebih serius duni malah memutuskan buat pisah dari laki-laki yang sayang banget sama gue: Gue parak takut tu lanparu hubungan gue ke arah na balga serius duni malah memutuskan tu parpisahna laki-laki na sayang banget sama gue."}
+{"uji_id": "nt-test-1121", "hipotesis": "Na gini cari halus iki ngebuti teman ianakhon ni dia itu toxic? Aku takut dia sakit hati kalau aku kasarin. #TeenChoice #ChoiceFandom #BTSARMY [USERNAME]"}
+{"uji_id": "nt-test-0345", "hipotesis": "Pak [USERNAME] na pasti na dipilihi kula di pilpres 2019, peseingna i na proses Demokrasi ma bari bari agar dapat berjalan tu boga pede bures."}
+{"uji_id": "nt-test-1688", "hipotesis": "Padahal engga sampai 24 jam Alaha udah kasi jawaban atas masalahku. Aku sae i ma terlalu buru-buru berburuk sangka. Astagfirullahalazim maafin dian ya Alaha :(:("}
+{"uji_id": "nt-test-0116", "hipotesis": "On mohon dijelaskan dulu batasan na radikalisme. Alai batasannya berupa kriminalisasi ajaran Islam, ita namanya radikalisme Sekuler."}
+{"uji_id": "nt-test-0172", "hipotesis": "Katherine Sofia ala do ngelempar rasa letih bgt sama pekerjaan, minimal seminggu sekali harus bgt nyari hadah siri. Semacam me time dito memanjakan diri~"}
+{"uji_id": "nt-test-1802", "hipotesis": "Citata na balek menang giveaway nuna dilaku i vouchera gratis makan pizzahut. Yeyaa [USERNAME]. Misihi [USERNAME] na pilihana i. Niharu sekali."}
+{"uji_id": "nt-test-0205", "hipotesis": "Anak jaman now gato karo dulu mau testimonial dibalesna seminggu mana haro bikin URL :(( skr pdkt tinggal match no match di kinder senang #RecehkanTwitter"}
+{"uji_id": "nt-test-0523", "hipotesis": "Ji cinta sianya ngora ngapa sex, bermakna cinta sianya murah. Cinta sianya luhur, luhak, dohun luhak daro sex. Cinta sejati sianya ngora nilain harganya."}
+{"uji_id": "nt-test-0910", "hipotesis": "Dung 26 holi i nangguk badar tiap holi... mata i tambah sipit aj... ud mao sebulan i mati Jonghyun... hati i rasih ikkon hampa... i miss u so much..TT TT TT [URL]"}
+{"uji_id": "nt-test-1331", "hipotesis": "Alhamdulillah di ina bungkut Alloh swt do berjamaah Dzuhur. Unik Mesjid Seribu Tiang i, marbang na tiang do marbang na dinding. Subhanalloh."}
+{"uji_id": "nt-test-1614", "hipotesis": "Hapi retweet baga cinta cerita seram tengok je lah. Saya penakut. Kalau tengok kat wayang ni dengar suara aku sorang je menjerit walaupun tutup mata"}
+{"uji_id": "nt-test-0696", "hipotesis": "[USERNAME] Mambantulon melt and pour yu.. Hahahaha na sian resulut tetep kawe, tp kelemahan uta ndak tau komposisi sabun na.. Aku ada link YT sabun lucu nih"}
+{"uji_id": "nt-test-1177", "hipotesis": "Kadu ampeu ngeunaan neulun. ampeu na mar-sakawon i ma sakawon dos dohot na diparsinta nasida. ampeu na mar-sakawon i ma sakawon dos dohot na diparsinta nasida. ampeu na mar-sakawon i ma sakawon dos dohot na diparsinta nasida. ampeu na mar-sakawon i ma sakawon dos dohot na diparsinta nasida."}
+{"uji_id": "nt-test-1153", "hipotesis": "Gue pernah baca review film na dimana yaa, pokoknya barengan sama review film Dewi Persik wkwkwk, serem anjir gue bacanya gak mau nonton, ak cupu [URL]"}
+{"uji_id": "nt-test-1736", "hipotesis": "Tolitoli sau sidang skripsi, makin sade i skripsi i bagian kecil na hidup, na sebeni i ga ada apa-apeni dibandingi kehidupi setutu."}
+{"uji_id": "nt-test-1882", "hipotesis": "[USERNAME] [USERNAME] serep sian, dulu mama ku gabe semangat nyuruh behelan. pas dikasih tau dokter gt mama langsung ga mau lagi-.- takutna ada efek gituu"}
+{"uji_id": "nt-test-0371", "hipotesis": "Bagus, nyaman, dan bersih. Songon bisa auga saluran chanel tv na ditambah biar bisa nton siaran tv ya lainnya. Hanya itu sahih, selebihnya good lah."}
+{"uji_id": "nt-test-0732", "hipotesis": "[USERNAME] Anjay, serem baca replyana. Dulu gue daftaran Tekkim karo suka kimia tapi gk lolos. Untung nyasar ke Farmasi, fisikana gak begitu banyak"}
+{"uji_id": "nt-test-1924", "hipotesis": "Pelayanan saka ramah, kamar pun rapih dah bersih, tapi ada sedikit kekurangan di bagian handuk dan selimutnya saka diganti ya.. thx"}
+{"uji_id": "nt-test-1884", "hipotesis": "Kamar mandi lama tpi kondensasi parah na awal, wifi nek nek berfungsi sama sekali na area hotel nek nek signal telephone nek nek ada, alai mulak muse rest na ok."}
+{"uji_id": "nt-test-1701", "hipotesis": "Cinta na seseutu, kata, Aku maccinta mu ika aku mabutuhin mu, tetapi makna sejatinya, kata, Aku mabutuhin mu ika aku maccinta mu"}
+{"uji_id": "nt-test-0446", "hipotesis": "Liat temen-temen udah pada kewong aja. Ngeri juga kalau w mikirin sampe kapan ya w kewong dengernya itu loh. Masalahnya w belum kepikiran masih takut."}
+{"uji_id": "nt-test-0314", "hipotesis": "Spesial tikeutna i, ma nanggat ku ma adek, ma napa-pena meyakitna ku, ma nanggepna ku ma apa-apa na laku ku..."}
+{"uji_id": "nt-test-1197", "hipotesis": "Samin rasas saha pikunsas saha gauna rasa i, asa boi hita lupa satementa melampui Tuhan. Ngguguh karsane priyonggo, gonjak ganyuk ngelingsemi...."}
+{"uji_id": "nt-test-1973", "hipotesis": "[USERNAME] [USERNAME] Ini conto manusia nyi butama ninya. Udah tau ok oce, dn dp 0% hanyi tipu muslihat. Mau di bilang ada pacta nia, udah ga waras ya loe."}
+{"uji_id": "nt-test-0079", "hipotesis": "Baca pesan di WhatsApp, then think... Gw tu kadang suka terlalu baik sama orang. Tapi lalu gw sadar. Emang gak selalu. Maklum, angelic."}
+{"uji_id": "nt-test-1770", "hipotesis": "Nembauna nama mu di deres hujan, nembauna mu di jauh, nekuduna di malam hening. Cinta di nelepona nekutu ina mampu mu nekupatuhankan..........."}
+{"uji_id": "nt-test-0316", "hipotesis": "Otak KORUPTOR jelas no musi nanggat nanggara nanggat nanggara nanggara nanggara nanggara nanggara nanggara nanggara nanggara nanggara nanggara nanggara nanggara nanggara nanggara nanggara nanggara nanggara nanggara nanggara nanggara nanggara nanggara nanggara nanggara nanggara nanggara nanggara nanggara nanggara nanggara nanggara nanggara nanggara nanggara nanggara nanggara nanggara nanggara nanggara nanggara nanggara nanggara nanggara nanggara"}
+{"uji_id": "nt-test-1753", "hipotesis": "Ini hala persepsoi dlam mendidik. Dan smoga sy bukun termaskut dlm ortu na mendidik dg memukul anak di depan org banyok. Tak akan pernah, smoga."}
+{"uji_id": "nt-test-0653", "hipotesis": "Sampit na dua hara na simba ndihe handuk, ditanya na sian di laundry, hara na dua ditanya na sian dijemur katanya lupa, kebersihan i na manjina."}
+{"uji_id": "nt-test-0162", "hipotesis": "[NUSERNAME] Hati ni loh rek. Gemeter gimana gitu nontonya :'( Palagi dicermati liriknya begini Yang gak punya rasa arema sejati mah takkan rasain [URL]"}
+{"uji_id": "nt-test-0805", "hipotesis": "Bolotin bom, tonjol, geledek, petir, atu gunung letus, alai bolotin tangis mu na hina ma aki na mabunin."}
+{"uji_id": "nt-test-1794", "hipotesis": "Inisiatif na mafasilitasi air aqua manang utilities mani maranggalek, na mangan snack maranggalek pung penjaganya na maranggo, do sude balek na mafasilitasi tanpa direquest."}
+{"uji_id": "nt-test-0396", "hipotesis": "1thn kulo mara i, Doa ana i slalu samakulo, cinta ana i mabatahun kulo di tanah ana mara i, asing i."}
+{"uji_id": "nt-test-0968", "hipotesis": "Awak sih jad org slow, mau diomongin a to z asal ale bnyk makan, ngga cranky, berat naik udah bahagia. Mslh apapun jadi kyk ngga ada. Ibu2 bgt sih sekarang"}
+{"uji_id": "nt-test-0750", "hipotesis": "Liv, ngepul na inge gue ya kalo gue ngeluh mulu. 'Liv, ngepul na inge gue ya kalo positive vibe gue di dunia nyata dah mulai jarang. Apa lagi ya."}
+{"uji_id": "nt-test-1873", "hipotesis": "Na mungka di pelayanan hoteli aja i kurang memuaskan, biasana di hotel lainna kalao ada orang masuk selalu di sambut ma rame dan senyum"}
+{"uji_id": "nt-test-0081", "hipotesis": "Kasarno, dia bilang kalo pake lg dengerin musik ya musik Shinhwa. Bikin pengen joget wkwk xD. Itu namanya autoreaction sih xD [URL]"}
+{"uji_id": "nt-test-0090", "hipotesis": "Nangroe Aceh Darussalam memang istimewa al fatihah bi Teuku Markam jalo salam hormat bi keluarga Teuku Markam dina kami rakyat Indonesia [URL]"}
+{"uji_id": "nt-test-0099", "hipotesis": "Guya aku mau ngecat rambut, lai parjolo hujaha blom pernah ngecat rambut, mau minta saran warna na ya? Lai jangan heboh2, aku takut kaget."}
+{"uji_id": "nt-test-0046", "hipotesis": "Alai chating, gw lebih suka enter send sih, daripada berspasi alenia panjang panjang gitu ngetiknya kek mau mutusin pacar aja. Hahahaah"}
+{"uji_id": "nt-test-0366", "hipotesis": "Dear sender menfes ini, dm aku terbuka banget kok :') ayuk cerita ke aku.. Aku mau kamu berbagi juga sama aku, kamu nggk sendiri. Aku sayang kamu"}
+{"uji_id": "nt-test-1022", "hipotesis": "Ponakan kls 4 SD: ldamen lintun video tutorial masak + craft @ YouTube. gw kls 4 SD: udah baca novel2 Marga T. & Mira W. minjem punya sepupu"}
+{"uji_id": "nt-test-1045", "hipotesis": "Semalam, gw rekap, eh intinya gumeusih kerja ternata zero samsek.. Presentasi jam 16.00, ku baru grasak grusuk jam 13.23. Jiaaaaaaann"}
+{"uji_id": "nt-test-1657", "hipotesis": "[NUSERNAME] [USERNAME] [USERNAME] [USERNAME] [USERNAME] Naaahhhh keookkk kan.. ?? Bong taro langit dululah jngan berkutat di kolam kerruh.!"}
+{"uji_id": "nt-test-1921", "hipotesis": "Tau ajo urang paling lemah kalo berhadapan sama si Nadia sayang banget akutu ga bisa nolak maunya bocah satu itu, Nad im gonna miss you so badly"}
+{"uji_id": "nt-test-0047", "hipotesis": "Tak ampe karo ku i mampu marhapus dohot sakit ku. Ku marperjuangan cinta ina, namun apa salahu ku? Hingga ku i marlayik i dapatin kesungguhan mu."}
+{"uji_id": "nt-test-0634", "hipotesis": "Marsihaholongan dohot obat ya kek gini, biliang flu bersin demam tapi order es krim tengah malam. Kalo anak kampus bilang BM terpenuhi"}
+{"uji_id": "nt-test-1968", "hipotesis": "Pas boh pulangke Banyuwangi bisnya serem kayak gini, asli nggak boh merem sama sekali karna takut kalo sewaktu-waktu nabrak"}
+{"uji_id": "nt-test-0871", "hipotesis": "Cute banget. Ani suka banget liat grenggin-an, gemes. Ayo makin deket sama ane ya, sayang! Ohiya, jangan lupa bagi-bagi chikin sama ane, tq tq."}
+{"uji_id": "nt-test-0454", "hipotesis": "Halo, Liburan Kapan Liburan...Teyuss kerja, Lebaran pun on teyuss liburan sekolah udah mau selesai elisoulea. #kapanliburanlagi #kerjateruss"}
+{"uji_id": "nt-test-0325", "hipotesis": "Hahaha niatna titip bamer doang kalo ketemu kang sayur. Berhubung dia belinya di pasar sekalian titip yang lain.. Haha suaminya baik sekali"}
+{"uji_id": "nt-test-0241", "hipotesis": "Kalau emg td hari terakhir bsa bercanda2 sama lu inshaallah gue udh siap buat pisah... Biar berat jga gaboleh egois, moga sukses ya lo ke depan"}
+{"uji_id": "nt-test-1553", "hipotesis": "Debat anto logika na perasaan. Logika mandok \"Pergi aja, bodoh. Masih banyak ya ni\", perasaan mandok \"Tapi, Aku masih sayang:(\"."}
+{"uji_id": "nt-test-1765", "hipotesis": "Bagi ana ana nyi anu dianugari gige rapa dari lahur, nyusul ! Karena pakai bhehel tana gawe sakti daripada sakit hati. #menurutguesih"}
+{"uji_id": "nt-test-1333", "hipotesis": "Benda paling annoing time tengah sedap2 makan depan tv tiba-tiba keluar iklan lagu UTC terus tak jadi makan sebab ikot nyanyi skali."}
+{"uji_id": "nt-test-0483", "hipotesis": "WOW>> @rmolco: Relawan Jokowi e kader PDIP marah-marah ketika mau dites urine di pusat hiburan malam http://bit.ly/17WmVEW  @PintarPolitik"}
+{"uji_id": "nt-test-0740", "hipotesis": "Lahon masa sahali yang hara tiba-tiba balik lagi nae enteng maen sapaon. Kitanya? Enteg maen nggak peduli sama sekali."}
+{"uji_id": "nt-test-0681", "hipotesis": "Ini nama jalo cinta sade naung salpu, tiada garingna mara moneka? Cinta Sade Naung Salpu by Syahrini & Maruli"}
+{"uji_id": "nt-test-0098", "hipotesis": "Sahabat itu dia nga slalu menemanina kita disa susah mauna senang, boga nga datang disa kita senang lalu pergi disa kita terpuruk."}
+{"uji_id": "nt-test-0706", "hipotesis": "Syahrini Laki-laki Tak Punin Panggilan Mabes Polri: Syahrini kabi tak punin panggilan penyidik Bareskri..."}
+{"uji_id": "nt-test-1412", "hipotesis": "Kecelakaan di #Toljago KM32 mobil ertiga hitam kecoklatan penumpang maring 2. 1cewo baju merah marasah 1cewa marasah. via: @skylersaurusrex"}
+{"uji_id": "nt-test-0199", "hipotesis": "Selalu ada kawatir na cewek tu ma tingal sama cowok, dihati ngomong \"Dia lagi apa ya? Sama siapa? jaga dia Tuhan\"."}
+{"uji_id": "nt-test-1239", "hipotesis": "Ada waktua mana kana kana musta mela sian yang kana cinta laho utup pergi... Ya emang sakit! Tapi itu demi kebaikan diri kana sendi. :))"}
+{"uji_id": "nt-test-1987", "hipotesis": "Aku biseukur masa kecil i na nanggasi imajinasi do hoti luka so main be, do hoti nanggasi berapa likes/retweets so aplikasi hp."}
+{"uji_id": "nt-test-1227", "hipotesis": "Dia sianu ngep solat. Suatu hari, dia karo masjid. Safnya paling hadapan. Bukan sebab dah hijrah, tapi sebab dah jenazah."}
+{"uji_id": "nt-test-1813", "hipotesis": "Tulisan path-nya: Bihit birthday gift na AXA..?? Abis itu bihit kado na kantor mamanya..? (w/ Petronella at @kotakasablanka) [pic] ?"}
+{"uji_id": "nt-test-0297", "hipotesis": "Masi siuman njah partai? \"@CNNindonesia: PDIP Geram Budi Gunawan Tak Jadi Dilantik http://cnn.id/33754\" cc @AdianNapitupulu @Masinton"}
+{"uji_id": "nt-test-1039", "hipotesis": "[Satu menit kene] Rupanya nda iki dari satu menit i do i, tetu i dua haro i do i gw udah jatuh cinta sama lu... Sali sapa coba?"}
+{"uji_id": "nt-test-1649", "hipotesis": "Ga karo kantor, ga karo kuliah, klo bete ujung2nya TA ??? qaqa cepet datang?"}
+{"uji_id": "nt-test-1030", "hipotesis": "Pacar ya na doh pitonopiton na nasidin na nggihap, dina lelelup lelempit na dina hibun na mepatopat na mata na inong."}
+{"uji_id": "nt-test-1482", "hipotesis": "Syahrini Akui tak Kantongi Izin Syuting Video Klip di Tempat Umum: Kira-kira ada 6 tempat ya. Semuanya selalu ingin?"}
+{"uji_id": "nt-test-0794", "hipotesis": "Rada ngelel Sama tano i na minta di kasih discon Okey gua kasih, giliran mau Lebaran lu PD kabur semua anjir gua musti belajar tega kayakna."}
+{"uji_id": "nt-test-1132", "hipotesis": "Sekolah na, lo di panggil sama guru | oh, pasti gue mau di kasih penghargaan | bukan, tapi lo mau di keluarin katanya. #Konyol"}
+{"uji_id": "nt-test-1348", "hipotesis": "06.20: Kecelakaan mobil box b 9233 ku terguling di bundaran air mancur bsd, serpong tangsel, hati2 yu manta di linta di sana. | (P. Wahyudin)"}
+{"uji_id": "nt-test-0687", "hipotesis": "Kamang datang, na-kepandul hari-hari i tu, na-masukin cinta padu, ala-ala laos ida-ida, disa-atu i tu laos ga-kepergi begitu saja, disa-atu i tu laos ga-bisa tanpau."}
+{"uji_id": "nt-test-1628", "hipotesis": "Pgn punya HP baru di 2015? Pas! #Kapanlagi & Lumia bakal kasih ahu 3 HP baru. Caranya >> http://kplg.co/C5fA Yuk #MakeItHappen mimpimu!"}
+{"uji_id": "nt-test-1228", "hipotesis": "Kdg kita suka tu ngemil d dlm mobil, kdang jok jd ada noda, ni mimin punya tips dr otosia ttg gmn cara bersiin noda jok http://ow.ly/JmsfB"}
+{"uji_id": "nt-test-1617", "hipotesis": "Kali ni @KiPranaLewu @AnaCikey @fionafachru_ jepa kantor angker Jakarta! Mlm ni @jejakparanormal pk.23.30 WIB @whatsonANTV!"}
+{"uji_id": "nt-test-1185", "hipotesis": "Sipun serius ya, ana mung mambuli nembul niemba niembe nianggep nianggep nianggep nianggep nianggep nianggep nianggep nianggep nianggep nianggep nianggep nianggep nianggep nianggep nianggep nianggep nianggep nianggep nianggep nianggep nianggep nianggep nianggep nianggep nianggep nianggep nianggep nianggep nianggep nianggep nianggep nianggep nianggep nianggep nianggep nianggep nianggep nianggep nianggep nianggep nianggep nianggep nianggep nianggep niang"}
+{"uji_id": "nt-test-0024", "hipotesis": "Doktora sekai pegang pasienni sekian menit, ratusan ribu... tp org lupa ngitung wati yang dipeluh doktora buat sekolah, kuliah, praktikum.."}
+{"uji_id": "nt-test-0944", "hipotesis": "Detikcom Jado Patat Hinggo Tak Sempet Istirahat, Syahrini: Aku Jadi Wanta Udara: Sosok Syahrini bisa dibila... Http://bit.ly/1vQMNqQ"}
+{"uji_id": "nt-test-1148", "hipotesis": "Jadhi padat hingga tak sempat iset, Syahrini: Aku jadi wana udara: sosok Syahrini bisa dibilang jad... http://bit.ly/1AWvZ9H"}
+{"uji_id": "nt-test-0027", "hipotesis": "[USERNAME] [USERNAME] i bati Yusufk09 pe mar-maroas nonton penyanyi dangdut i maloas jual goyangananu atu busana sandesik i maloas suara bagus."}
+{"uji_id": "nt-test-0806", "hipotesis": "Prgi kelas lmbat, kelas start lmbat. Prgi kelas awal, kelas start awal. Smngat pergi kelas, kelas batal. Ponteng kelas, test mngejut."}
+{"uji_id": "nt-test-0798", "hipotesis": "[USERNAME] [USERNAME] Oi ya bolee tu, tp mesti bikin mold bentuk panda dulu hahahaha, ana pngn ngepabu marble soap nis kyk gini [URL]"}
+{"uji_id": "nt-test-0350", "hipotesis": "Ketua PDIP Gianyar, Bali sebut Purbaya sudah dipecat: dasar pemecatan, Purbaya i dinilai membelot sada Pilkada G..."}
+{"uji_id": "nt-test-0312", "hipotesis": "[HUSERNAME] [HUSERNAME] Hai Naih ! Gereuda kantor media nek pukula wartawana. Silakan. Ia pe ngalangar hukum nek [HUSERNAME]"}
+{"uji_id": "nt-test-1354", "hipotesis": "Bindu 30) Wane sapa Warren Buffett, dilehon ma ruma ndulon, dokele mobi biasa dohot konglomerat na kelas ni, #RichInvestor"}
+{"uji_id": "nt-test-1847", "hipotesis": "[USERNAME] [USERNAME] [USERNAME] [USERNAME] [USERNAME] kelakuan kampungan kalian mbok ya jangan lewatno, maluin.. #Peak212"}
+{"uji_id": "nt-test-1477", "hipotesis": "M.Natsir Demokrat  @M_NatsirU     :\"\"@republikaonline: Syafii Maarif: Keputusan Presiden Sudah Realistis htt...  http://goo.gl/eHpuER"}
+{"uji_id": "nt-test-0618", "hipotesis": "Awal nonton cuma 4 orang tenang bgt.. 25 menit film berjalan do begitu masuk segerombolan alayers lansung bisingnya gak ketolong.."}
+{"uji_id": "nt-test-1755", "hipotesis": "Nalapa Tuhan mi balas sian pigapiga ni hucarito i mu i lelepana laho, sami mu mi sadari? ? Sadis by Afgan ? https://path.com/p/4wkUis"}
+{"uji_id": "nt-test-1011", "hipotesis": "Baru tiga na parjolo tampil, tapi sudah sumbang dua gol na satu assist: http://goo.gl/UKa0Er  Bakal pergi dari Chelsea na selamanya?"}
+{"uji_id": "nt-test-1922", "hipotesis": "Ketentuonon ma adong sama, 3 penjawab nampat i ma helana i laho penjawabon nian akan berkesempatanon i ma mambayari masing-masing 1 buah powerbank gratis dari HP :)"}
+{"uji_id": "nt-test-1927", "hipotesis": "Wi-fa niut, hampi 3 haro di masa perbaikan. Kebersihan tempat tidu kurang, seprai terlihat kusam dohot noda niut bersih."}
+{"uji_id": "nt-test-0671", "hipotesis": "Bihene sih kamar ana, tapi mafo kamar mandi ana bihene brsih, adong bekas rambut dipembuangan ana, wastapel ana bihene kote, adong rambut ana."}
+{"uji_id": "nt-test-0804", "hipotesis": "Kabar duka na ranah mode internasional. Desainer kondang Kate Spade ditunggu setuma uga scarf."}
+{"uji_id": "nt-test-0995", "hipotesis": "Tahua ana, konsumen teh sikepik sikepik i makan ni ngalim ngesipuran besi i makanan, na hindari i ana anemia."}
+{"uji_id": "nt-test-0695", "hipotesis": "Rumor i ma umpatan ni, dohala partai oposisi on citala citra sosok Presiden ir. H. Joko Widodo. Gk banget deh lu..."}
+{"uji_id": "nt-test-1220", "hipotesis": "Ini ka noma cinta sendirian ya ku rasake tiada hebatian?"}
+{"uji_id": "nt-test-0783", "hipotesis": "Ku tatap wajahmu sape kawu bertaume, terasa bergetar jiwa ku sape kau tersenyum padaku i love u. #ARMYSelcaDay [USERNAME]"}
+{"uji_id": "nt-test-0920", "hipotesis": "Risik punya pacar saput ?? ? ? Seperti Itu? by Syahrini (with Fitria, Kaneka Putri, and 2 others) ? https://path.com/p/47C75r"}
+{"uji_id": "nt-test-0233", "hipotesis": "Eum apalagi ya . . Dewasa pake banget Kamu mah. Oh iya, bucin juga! Tapi nggak apa-apa, asalkan Sabila happy. Me cintas you!"}
+{"uji_id": "nt-test-1673", "hipotesis": "Setuju pak jangan korupsi jadi anda tak takut bicara karo takut ditelanjangi da berani bicara benar like bapak. [URL]"}
+{"uji_id": "nt-test-0408", "hipotesis": "Yang kubutuhna bukan urang atapi baju na ronai. Tapi urang na ronek moli mili na ronek apa adanya! -Lucy (Fairy Tail)"}
+{"uji_id": "nt-test-0150", "hipotesis": "Tapi so far ga ada siane aneh sih Ka, malah byk siane support, justru lebih ngeri netizane di IG kayanya wkwk jgn dikunci sayang Ka"}
+{"uji_id": "nt-test-1461", "hipotesis": "Kalau ada mantu ngingin jadi deui tiba-tiba, bertanya lah, \"udah pergi kok balik? ada yang mau diambil, abis tu pergi lagi?"}
+{"uji_id": "nt-test-0480", "hipotesis": "Aya udah rapi belom rambutna??? Abis bangun tidur nih cantik ya mantul dah Febby Nathania Elvarette, teman terkebo [URL]"}
+{"uji_id": "nt-test-0069", "hipotesis": "[USERNAME] min pengajuan reksa dana ni di setujui tgl 28/05. Kok gk dapat voucher gift card. Cek email pun tdk ada [URL]"}
+{"uji_id": "nt-test-1226", "hipotesis": "Pulang kula, tidur ngep. Bangun, masak. Ganti baju e nggak sempet. Sabtu padat!!!"}
+{"uji_id": "nt-test-1180", "hipotesis": "Tolitoli anu panas Do anu punggung baju Di duna WC. Seli seprei na aga kotor jala anu sedikit. Tp unang adong laho do sana."}
+{"uji_id": "nt-test-1110", "hipotesis": "Dicuekin, nggihap kabar, hp nasida sibuk/mati, balga lambat/singkat-singkat. Panggeuyuhna hal-hal na nangcewek badmood."}
+{"uji_id": "nt-test-1219", "hipotesis": "Ac nya gabe dingin jala gabe maro ventilasi udara jala maro pakep jalo panas jalo nyamuk muhul gabe nyaman"}
+{"uji_id": "nt-test-1926", "hipotesis": "Nak tahu apa ya nggih jahet sian & kejam sian? Smpai sakitna tu disini? Bila kucing pergi tak kembali tanpa pesan???"}
+{"uji_id": "nt-test-1392", "hipotesis": "@Bellaudya829 nanggep bolos sekolah sewaktu kecil, do @SarahSechan_NET, sewaktu SD na nanggep no alamat rumah."}
+{"uji_id": "nt-test-0715", "hipotesis": "Somi terima oppa apa adanya kok tenang aja :\") mau alay nge drama jungkir balik juga kalo udah sayang mau gimana :\")"}
+{"uji_id": "nt-test-0302", "hipotesis": "Hot waterna ngora silep namun ora silep ngora dua, siaranna teve kabur jala AC ola ora sebeter."}
+{"uji_id": "nt-test-0895", "hipotesis": "Tapi kemudian ada ni raga2 ka perawatan on kacitet di riwayat BPJS. Takut pas dibaca ka tesehat mental."}
+{"uji_id": "nt-test-1874", "hipotesis": "05.53: Sdh dihubungi ptgs RT @momrakha: Kebakaran mobil angkot Jln Jatiwaringin, Bekasi depan toko Serabi-Batagor."}
+{"uji_id": "nt-test-1299", "hipotesis": "15. Ali RA sai jawab, \"Sai, ho asa ame baju besi, alai hargana sai marragam empat ratus dirham."}
+{"uji_id": "nt-test-1444", "hipotesis": "Sejuhine stilla sian. Aku nanga buang ka jauh dari hidoppa aku. Nama ka nanga terpadam dalam hati ka."}
+{"uji_id": "nt-test-0833", "hipotesis": "Sedih bny penulisna resen ni ndang baku sdm, sdt, ruas, sejumput, secukupnya, even biji/buah ni ndang baku :(."}
+{"uji_id": "nt-test-0193", "hipotesis": "Tirima kasih donatori, kedemawanna yang mani diberi melalui RZ bantu kami utk melanjutkan sekolah #BerbagiSenyum"}
+{"uji_id": "nt-test-1769", "hipotesis": "Fasilitias oke. dang piga seprei na digantui. ada better na bungkusu sike gigit tikus, dua biji di belakang bantal."}
+{"uji_id": "nt-test-0018", "hipotesis": "Oppa nihhh ku ada flower bucket buat qm, maafin ku udah bikin qm ngambek krn gk ngabarin tadi, ku sayang qm."}
+{"uji_id": "nt-test-1344", "hipotesis": "Amin ???. Kamula Takdirina by Raffi Ahmad & Nagita Slavina (with @darma_atz at Homey) ? https://path.com/p/2T4sRx"}
+{"uji_id": "nt-test-1491", "hipotesis": "Dah kaya nanti, gait gigi baru \"\"@shayanayusoff: Ok lah. Aku busy kerja supaya tak miskin mcm engkorang."}
+{"uji_id": "nt-test-1795", "hipotesis": "Oke sih, ngepake kasi fasilitas air minum na timpo di ganti2."}
+{"uji_id": "nt-test-1835", "hipotesis": "Semenjak hamil, @Lady6igi makin terpancar AURA KECANTIKANNYA! ? *alami tanpa pemanis buatan.. ;) @RaffiAhmadLagi"}
+{"uji_id": "nt-test-0076", "hipotesis": "Cobah taruh pot tanaman di sekitar meja kantor. Gak cuma mempercantik ruangan, tapi maung manfaat ono!"}
+{"uji_id": "nt-test-0525", "hipotesis": "Selamta sora, aa gervan! Ma ronai makan sora ya, sayang! Ma ronai kapean jua kamu. Aku sayang kamu :"}
+{"uji_id": "nt-test-0180", "hipotesis": "Gabe do makan, tuh, \"Marang karo tetapi do kana aje ni bener tahu\", nyesek baru kerasa bukan pas diawal. :))"}
+{"uji_id": "nt-test-0220", "hipotesis": "Aku sayang skz i doho ne'ne' super talento dan ne'ne' amukane kagetna seumaro sama aku, sada do na memotivasio."}
+{"uji_id": "nt-test-0410", "hipotesis": "[Nasional] Diskon - Wajah Bebas dari Jerawat dengan Pil Bersih Wajah Binasyifa Hanya Rp... http://gpon.co/8vbv5"}
+{"uji_id": "nt-test-0667", "hipotesis": "Kamara neleke, sian snack dohot sarapan doh. Jempeka kamara na bau, neleke dijero parfum kamara."}
+{"uji_id": "nt-test-0818", "hipotesis": "#Ba haaji iti sederhana, keti hp puni notif dari doi yang isinya selalu buat senyum senyum sendiri<3 -upit"}
+{"uji_id": "nt-test-1345", "hipotesis": "Nga nuna wanunin ya? Nga Nuna Wanunin (with Afgan) by Rossa (with Ryan)"}
+{"uji_id": "nt-test-1694", "hipotesis": "Maling Gondol 200 Juta Rupiah na kantor Disdik Kota Sukabumi - Metro TV News http://goo.gl/fb/XNK6hU #Sukabumi"}
+{"uji_id": "nt-test-1946", "hipotesis": "Kamu tuh tarimunafik ma dohot na so tupa hatorangan ni roha, miripon aktivitas ni ma dohot na nyapa duluan :(."}
+{"uji_id": "nt-test-0185", "hipotesis": "Siau, ampana, dan tana rumpo, sialon kamar mandi ngepung ba bau tamo siau, ttp siau ngepung puasa."}
+{"uji_id": "nt-test-1955", "hipotesis": "Kamur silep, rapit, tapi kamar mandi suka bau tiba-tiba. Nama sian depan oke, tapi harapabun oke."}
+{"uji_id": "nt-test-1092", "hipotesis": "Sekolah i Norway ma ngalim PR parante murid ma harang waktupun sama keluarga."}
+{"uji_id": "nt-test-1154", "hipotesis": "Kerjaan kantor i parbuaton di kantor ala, kalo parbuaton di rumah i parbuasen uang lembur ala."}
+{"uji_id": "nt-test-0589", "hipotesis": "#News Sekolah Tak Tahu, Dana UPS Miliaran Rupiah Akal-akalan Dewan http://dlvr.it/8mTxl3  #Assadiqulhaq"}
+{"uji_id": "nt-test-1313", "hipotesis": "Dapet bonus Raja Rp 384 triliun, warga Arab Saudi ganti HP hingga kawin lagi"}
+{"uji_id": "nt-test-1989", "hipotesis": "Maceaaaa punya mau ngantor malam2 (with Andi Nurabasiah at Kantor PANWASLU) ? https://path.com/p/MlXUp"}
+{"uji_id": "nt-test-0055", "hipotesis": "AC ngepung, ga bisa ubah kamar pula, parkir ngepung hnya cukup lima motos. Cepat sekali kesini deh"}
+{"uji_id": "nt-test-0771", "hipotesis": "Na makan biye binekik biye marbincang manggalek amamai na tihutai, ti reba niha nihetop."}
+{"uji_id": "nt-test-0954", "hipotesis": "Sprei kamaro koton sikepun baru dipake doh hota wi-fi jalo jepun doh dapek ke rumo i do tempate"}
+{"uji_id": "nt-test-1090", "hipotesis": "Chek in sian, kamar ngepahot bersih, da toilet ngepahot wat, shower ngepahot boleh digunaken"}
+{"uji_id": "nt-test-1021", "hipotesis": "Bed na koton banyu debu, water warm na ndiabungon fungsi. Lokasi na ndiabungon strategis na nyalungon."}
+{"uji_id": "nt-test-0499", "hipotesis": "Pamulaku tida kesiapan, layanan lama, tida sesuai dito standar airy mana saya pernah menginap"}
+{"uji_id": "nt-test-1576", "hipotesis": "Di Nigeria, stilla kasektaon kalao anu makan telu, dia bakal jadi pencuri nanti."}
+{"uji_id": "nt-test-0685", "hipotesis": "Bau rokok jah molo dr mana i hua bau wcna muli dr kami natorop i hua gunakan wcna."}
+{"uji_id": "nt-test-0118", "hipotesis": "Terimakasih banyok ato donasi dr @DDsulsel rupa seragam olahraga, seragam sekolah, tas, na sepatu"}
+{"uji_id": "nt-test-1534", "hipotesis": "Aku parjolo begitu nambura iba kamu nampol, alai nuaeng nunga iba dihentau kamu nampa di dunia."}
+{"uji_id": "nt-test-1359", "hipotesis": "Pelayanan i nek, lantai kamarni kudu dan sanga kudu, na saya sempet kehilangan barang sayangni."}
+{"uji_id": "nt-test-1699", "hipotesis": "gue heran shinee na hp anu iki iPhone e Samsung e foto numpang mulu sm hp oru?"}
+{"uji_id": "nt-test-0082", "hipotesis": "iya tur iya doh apit lai ya :d lah mav kalau udah apit sma kam tur :/ dari kemaren2"}
+{"uji_id": "nt-test-1304", "hipotesis": "Overall isperfect, tapi airpanasna ndak fungsi. Pas mandi pagi sama malam jadi dingin.."}
+{"uji_id": "nt-test-1956", "hipotesis": "#RadjaInfo Ingin Bikin Heboh, Syahrini Buat Klip Berkonsep Tak Jelas http://goo.gl/fb/qOir6d"}
+{"uji_id": "nt-test-0585", "hipotesis": "Nimba, amanta, ti bising, sarapan tingka, gela bekas lipstik orang... #saya ga pake lipstik"}
+{"uji_id": "nt-test-1445", "hipotesis": "Handuk kelihata sian kotor na adi bercak-bercak... lurus manang putih na adi sian sobek-sobek pinggirna."}
+{"uji_id": "nt-test-1912", "hipotesis": "#Openfollow PDIP Sipitahama Budi Gunawan Tapi Boa Dilantik #Teamfollowback"}
+{"uji_id": "nt-test-0855", "hipotesis": "@M_DesyJKT48 iya mb blm lagi jadwal sekolah nyiwa (jeketi)? tp gpp udh biasa mb ahahah"}
+{"uji_id": "nt-test-1143", "hipotesis": "Sepray kasur e bantul e ndang tontu ganti... bau apek. Kamar mandi peralatannya e ndang tarawat."}
+{"uji_id": "nt-test-1739", "hipotesis": "Fasilitas ampeu na bale na hataon tabahitah. Api panas na tidaj jalan. Lampu na ampeu na kurang cahaya."}
+{"uji_id": "nt-test-1167", "hipotesis": "Kalau ngeunaan laho mambisah longi na amukun, aku laho mabunuhon dito mu."}
+{"uji_id": "nt-test-1506", "hipotesis": "Toliet bocor. air panas ngepulik na bokep. selebihna biasa sian hotel pd umumna."}
+{"uji_id": "nt-test-0904", "hipotesis": "Wifin i kurang kenten malah tiada, alai pinte lemari i suka copot"}
+{"uji_id": "nt-test-1356", "hipotesis": "Teresi aja maen coc? ? Sabar by Afgan (with Agung Kusumah) ? https://path.com/p/3helGi"}
+{"uji_id": "nt-test-1370", "hipotesis": "Cayo! Go go! Hahaha numpang nggabos! A jenuh gila belajar sendiri di kamar -_-"}
+{"uji_id": "nt-test-0734", "hipotesis": "Tolong do dohonti kalu dohonti i dohonti i dohonti."}
+{"uji_id": "nt-test-0148", "hipotesis": "Wifinana nape manggaleh, sapale disayangin. Ruananana nape mabebet, nape malah nenele jendelan."}
+{"uji_id": "nt-test-0491", "hipotesis": "Gw suka, gw mau ktmu, gw ntn konser sndrian no prob gawe ngepaham di dalem gw have fun."}
+{"uji_id": "nt-test-0965", "hipotesis": "Tivi kabel alana pahala saluran, peralatan kamar alana, kebersihan kamar alana."}
+{"uji_id": "nt-test-0466", "hipotesis": "Tolik rekomendasi kamar nomer 1, tembok botot, nyamuk banyak, WC ba, kamar mandi jorok."}
+{"uji_id": "nt-test-1809", "hipotesis": "Kamora baik..tapi aneke air mandi hangat tida karo dan makanan ringan dr Airy tida karo"}
+{"uji_id": "nt-test-0023", "hipotesis": "@RaffiAhmadLagi siumon istrimu @Lady6igi mambetak dohot, jagei dr para kumbang2 haha"}
+{"uji_id": "nt-test-0379", "hipotesis": "Seprape do kotor, handukpe do kotor. Lantaipe kurang masi, gaada sofape sprti digambar."}
+{"uji_id": "nt-test-1676", "hipotesis": "Suka banget tapi sayang i kamar i dumaha i aga sedikit i ngepahit i nebae i baun."}
+{"uji_id": "nt-test-0384", "hipotesis": "Pimpinana KPK Usulan SBY Tapi Di-pilih Jokowi, Demokrat Niprotes"}
+{"uji_id": "nt-test-1129", "hipotesis": "Seprei kasur iki mabe rambut dohot kubu, dohot sepri kasur iki iki mabe noda."}
+{"uji_id": "nt-test-0203", "hipotesis": "Dengi 125 rb uga nape ulasah upa di Shabu Tei!"}
+{"uji_id": "nt-test-1624", "hipotesis": "Ia gumolik ni kula ti ngumpul biye hahaha ok bati jadwal ni kandale kula :p"}
+{"uji_id": "nt-test-0136", "hipotesis": "Air panas sibuk... sikep banget... cuma limo menit abis langsung... ruangan ok sih"}
+{"uji_id": "nt-test-0598", "hipotesis": "Politikus PDIP Sebut Megawati Sudah Dikriminalisasi http://ift.tt/1F6ihhP"}
+{"uji_id": "nt-test-0600", "hipotesis": "Baju hiling ga tanggung jawab... sariah tapi ada pencuri na pelayanan buruk"}
+{"uji_id": "nt-test-0286", "hipotesis": "Jadhi patat santi saka istirahtu, Syahrini: Aku jadi wati udara"}
+{"uji_id": "nt-test-1433", "hipotesis": "Milisi ditangkap terkait serangan sekolah Peshawar hita diteka terkait serangan sekolah Peshawar"}
+{"uji_id": "nt-test-1439", "hipotesis": "Pelayanan i biasa, nda bao-bao ni airy tina awal mianan kamar."}
+{"uji_id": "nt-test-1840", "hipotesis": "Kalau masi ada cempet, ane cuma mau bilang, jangan gohong lagi ya."}
+{"uji_id": "nt-test-0479", "hipotesis": "Kamarsa sipetit, air mata silep. Ac sa nggadeng, remotesa ac sa nolopu."}
+{"uji_id": "nt-test-1213", "hipotesis": "Kamini kurang berasih, sprein koton, handukin siihahaan layak ngepakai"}
+{"uji_id": "nt-test-1746", "hipotesis": "Air panas ga ngalop, wastafel botor, tirai na kok kotor sian..."}
+{"uji_id": "nt-test-0774", "hipotesis": "Kami tak numpu, baju bulu binato na terseksi. Kejam :'("}
+{"uji_id": "nt-test-1335", "hipotesis": "Tolipini rahasia ni sehat i mara makan nasi http://bit.ly/1LUZrN7"}
+{"uji_id": "nt-test-1089", "hipotesis": "Pada umumna denggan i sisa i kurang wi-fi... tolong diperbaiki..."}
+{"uji_id": "nt-test-1127", "hipotesis": "Pegawai i kurang rameh. Yg seharusnya nyaman jadi ganyaman"}
+{"uji_id": "nt-test-0676", "hipotesis": "Maysindu, namun wi-fi na i masalah i maysakadu."}
+{"uji_id": "nt-test-1826", "hipotesis": "Box snack airy ndi asa ala sian perlengkapan mandi ndi asa"}
+{"uji_id": "nt-test-1120", "hipotesis": "Cemilan tida ka ada padahal ngapal sampe 4 hari turut."}
+{"uji_id": "nt-test-1193", "hipotesis": "Pelayanan na mepat, kamar na mokot, servis na nepasak."}
+{"uji_id": "nt-test-0078", "hipotesis": "Wi fi lai adi, pinto sini mandi lai ndaikunci"}
+{"uji_id": "nt-test-1747", "hipotesis": "Bagus, namun showe ai panas saka gawe ndak fungsi"}
+{"uji_id": "nt-test-0393", "hipotesis": "5 Kaindo tak makan piasu"}
+{"uji_id": "nt-test-0240", "hipotesis": "Sudah bia tina nyalu api panas."}
+{"uji_id": "nt-test-0722", "hipotesis": "@natalixia mi ria na dandanan Syahrini."}
+{"uji_id": "nt-test-0444", "hipotesis": "Lumayano... tapi ndak dapa snack sami toilet kit"}
+{"uji_id": "nt-test-0867", "hipotesis": "rekaman hancur na si otak jongkok sok pintar"}
+{"uji_id": "nt-test-0949", "hipotesis": "Na karsa i lemari na perabot, tida kawifi"}
+{"uji_id": "nt-test-0152", "hipotesis": "Nomer telepon nek neko nihubungin, ga ada penjaga"}
+{"uji_id": "nt-test-0987", "hipotesis": "Toliki sabun ma hoti snack di airy room"}
+{"uji_id": "nt-test-0125", "hipotesis": "Kotomi, ala api amukur, joroki, ala nyaman."}
+{"uji_id": "nt-test-0045", "hipotesis": "Tolik wifi ma sapa ngalikan hi"}
+{"uji_id": "nt-test-1343", "hipotesis": "nyaman enak tp wifi na g lancar...."}
+{"uji_id": "nt-test-1995", "hipotesis": "Sprei on panggilu ganti... banyak pasir."}
+{"uji_id": "nt-test-1243", "hipotesis": "Nang muka bunguk, ndot be sabi baba"}
+{"uji_id": "nt-test-1038", "hipotesis": "AC di kamar nomer 10 nggak dingin"}
+{"uji_id": "nt-test-1844", "hipotesis": "Air panas mar-sihi nggah mireng"}
+{"uji_id": "nt-test-0937", "hipotesis": "snackna udh g lengkap lagi"}
+{"uji_id": "nt-test-1441", "hipotesis": "Bagus, tapi nang kabi salih"}
+{"uji_id": "nt-test-1495", "hipotesis": "Kamang nggawe wangi. Kuduh"}
+{"uji_id": "nt-test-0515", "hipotesis": "Tolik api ulempitnya"}
+{"uji_id": "nt-test-0473", "hipotesis": "Tilet karo besih"}
+{"uji_id": "nt-test-1007", "hipotesis": "Gak ada apiu panas"}
+{"uji_id": "nt-test-1250", "hipotesis": "Tebuweun ti tayak"}
